@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-07-23T21:20:02+00:00",
-  "total": 532,
+  "generated_at": "2026-07-23T21:35:18+00:00",
+  "total": 533,
   "jobs": [
+    {
+      "source": "torre",
+      "source_label": "Torre",
+      "title": "Camarero de Sala",
+      "company": "JAConsultor de Hostelería",
+      "location": "Rodellar, España",
+      "url": "https://torre.co/jobs/lr4obb7d",
+      "description": "Contribuirás a una restauración sostenible e inclusiva, optimizando la experiencia del cliente con productos de proximidad. Skills: Camarería, Servicio al cliente, Servicio de barra, Venta de productos gastronómicos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2026-01-22T07:13:06.000Z",
+      "notified": false,
+      "first_seen": "2026-07-23 21:35:18"
+    },
     {
       "source": "weworkremotely",
       "source_label": "We Work Remotely",
