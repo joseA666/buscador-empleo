@@ -71,13 +71,14 @@ python3 main.py --loop
 
 ## Producción gratis: GitHub Actions + GitHub Pages
 
-El repo incluye `.github/workflows/buscar.yml`: corre `main.py` cada 15 minutos en la nube (gratis
-e ilimitado porque el repo es público), commitea `vacantes_vistas.db` y `docs/jobs.json` de vuelta,
-y GitHub Pages sirve `docs/` como sitio estático. Configuración necesaria una sola vez:
+Ya desplegado en https://github.com/joseA666/buscador-empleo (repo público, para tener minutos de
+Actions ilimitados sin pagar). `.github/workflows/buscar.yml` corre `main.py` cada 15 minutos en la
+nube, commitea `vacantes_vistas.db` y `docs/jobs.json` de vuelta, y GitHub Pages sirve `docs/` como
+sitio estático en **https://josea666.github.io/buscador-empleo/**.
 
-1. Settings → Secrets and variables → Actions: `GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD`, `GMAIL_TO`,
-   `GROQ_TOKEN`.
-2. Settings → Pages: source = rama `main`, carpeta `/docs`.
+Los secrets (`GMAIL_ADDRESS`, `GMAIL_APP_PASSWORD`, `GMAIL_TO`, `GROQ_TOKEN`) ya están cargados en
+Settings → Secrets and variables → Actions. Para rotarlos: `gh secret set NOMBRE -R
+joseA666/buscador-empleo`.
 
 ## Cómo decide qué te notifica
 
