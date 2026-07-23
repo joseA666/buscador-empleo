@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Buscador de Empleo</title>
+<style>
+  :root {
+    --bg: #0b0d12; --panel: #12151c; --border: #232733; --text: #e8eaef; --muted: #9aa2b1;
+    --accent: #4f8cff; --es: #22c55e; --en: #eab308; --other: #6b7280;
+  }
+  @media (prefers-color-scheme: light) {
+    :root { --bg: #f5f6f8; --panel: #ffffff; --border: #e2e4ea; --text: #14161c; --muted: #5b6270; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--text); font-family: -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+  header { padding: 20px 20px 12px; max-width: 1100px; margin: 0 auto; }
+  h1 { font-size: 20px; margin: 0 0 4px; }
+  #meta { color: var(--muted); font-size: 13px; }
+  .controls { display: flex; flex-wrap: wrap; gap: 10px; padding: 12px 20px; max-width: 1100px; margin: 0 auto; }
+  .controls input[type="search"] { flex: 1 1 220px; padding: 9px 12px; border-radius: 8px; border: 1px solid var(--border); background: var(--panel); color: var(--text); font-size: 14px; }
+  .controls select { padding: 9px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--panel); color: var(--text); font-size: 14px; }
+  .controls label { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+  main { max-width: 1100px; margin: 0 auto; padding: 4px 20px 40px; }
+  .job { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 16px 18px; margin-bottom: 12px; }
+  .job h2 { font-size: 16px; margin: 0 0 4px; }
+  .job h2 a { color: var(--text); text-decoration: none; }
+  .job h2 a:hover { color: var(--accent); }
+  .job .sub { color: var(--muted); font-size: 13px; margin-bottom: 8px; }
+  .job .desc { font-size: 13px; color: var(--muted); margin-bottom: 10px; }
+  .badges { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 8px; }
+  .badge { font-size: 11px; padding: 3px 8px; border-radius: 999px; border: 1px solid var(--border); color: var(--muted); }
+  .badge.lang-es { color: var(--es); border-color: var(--es); }
+  .badge.lang-en { color: var(--en); border-color: var(--en); }
+  .badge.notified { color: var(--accent); border-color: var(--accent); }
+  .reason { font-size: 12.5px; background: rgba(127,127,127,0.1); padding: 8px 10px; border-radius: 6px; margin-bottom: 8px; }
+  #empty { color: var(--muted); text-align: center; padding: 40px 0; }
+  #count { color: var(--muted); font-size: 13px; margin: 0 0 10px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Buscador de Empleo</h1>
+  <div id="meta">Cargando...</div>
+</header>
+<div class="controls">
+  <input type="search" id="q" placeholder="Buscar por titulo, empresa, palabra clave...">
+  <select id="source"><option value="">Todas las fuentes</option></select>
+  <select id="language">
+    <option value="">Todos los idiomas</option>
+    <option value="es">Espanol</option>
+    <option value="en">Ingles</option>
+    <option value="other">Otro</option>
+  </select>
+  <label><input type="checkbox" id="onlyNotified"> Solo notificadas</label>
+</div>
+<main>
+  <p id="count"></p>
+  <div id="list"></div>
+  <p id="empty" style="display:none;">No hay vacantes que coincidan con el filtro.</p>
+</main>
+
+<script>
+let allJobs = [];
+
+async function load() {
+  const res = await fetch('jobs.json?_=' + Date.now());
+  const data = await res.json();
+  allJobs = data.jobs || [];
+  document.getElementById('meta').textContent =
+    `${data.total} vacantes en la base · actualizado ${new Date(data.generated_at).toLocaleString('es-HN')}`;
+
+  const sourceSel = document.getElementById('source');
+  const sources = [...new Set(allJobs.map(j => j.source_label))].sort();
+  for (const s of sources) {
+    const opt = document.createElement('option');
+    opt.value = s; opt.textContent = s;
+    sourceSel.appendChild(opt);
+  }
+  render();
+}
+
+function langBadge(lang) {
+  const labels = { es: 'Espanol', en: 'Ingles', other: 'Otro' };
+  return `<span class="badge lang-${lang}">${labels[lang] || 'Otro'}</span>`;
+}
+
+function render() {
+  const q = document.getElementById('q').value.trim().toLowerCase();
+  const source = document.getElementById('source').value;
+  const language = document.getElementById('language').value;
+  const onlyNotified = document.getElementById('onlyNotified').checked;
+
+  let jobs = allJobs.filter(j => {
+    if (source && j.source_label !== source) return false;
+    if (language && j.language !== language) return false;
+    if (onlyNotified && !j.notified) return false;
+    if (q) {
+      const hay = `${j.title} ${j.company} ${j.description}`.toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  // Prioriza espanol, luego notificadas, luego mas recientes.
+  const langRank = { es: 0, en: 1, other: 2 };
+  jobs.sort((a, b) => {
+    if (langRank[a.language] !== langRank[b.language]) return langRank[a.language] - langRank[b.language];
+    if (a.notified !== b.notified) return b.notified - a.notified;
+    return (b.first_seen || '').localeCompare(a.first_seen || '');
+  });
+
+  document.getElementById('count').textContent = `${jobs.length} vacante(s)`;
+  const list = document.getElementById('list');
+  document.getElementById('empty').style.display = jobs.length ? 'none' : 'block';
+
+  list.innerHTML = jobs.map(j => `
+    <div class="job">
+      <h2><a href="${j.url}" target="_blank" rel="noopener">${escapeHtml(j.title)}</a></h2>
+      <div class="sub">${escapeHtml(j.company)} &middot; ${escapeHtml(j.location || '')} &middot; ${escapeHtml(j.source_label)}${j.posted_at ? ' &middot; ' + escapeHtml(j.posted_at) : ''}</div>
+      <div class="badges">
+        ${langBadge(j.language)}
+        ${j.notified ? '<span class="badge notified">Notificada</span>' : ''}
+      </div>
+      ${j.reason ? `<div class="reason">${escapeHtml(j.reason)}</div>` : ''}
+      ${j.description ? `<div class="desc">${escapeHtml(j.description)}</div>` : ''}
+    </div>
+  `).join('');
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str ?? '';
+  return div.innerHTML;
+}
+
+document.getElementById('q').addEventListener('input', render);
+document.getElementById('source').addEventListener('change', render);
+document.getElementById('language').addEventListener('change', render);
+document.getElementById('onlyNotified').addEventListener('change', render);
+
+load();
+</script>
+</body>
+</html>

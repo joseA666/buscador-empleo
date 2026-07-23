@@ -1,0 +1,43 @@
+name: Buscar vacantes
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+concurrency:
+  group: buscar-vacantes
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  buscar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Buscar vacantes y notificar
+        env:
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          GMAIL_TO: ${{ secrets.GMAIL_TO }}
+          GROQ_TOKEN: ${{ secrets.GROQ_TOKEN }}
+        run: python3 main.py
+
+      - name: Guardar estado y publicar frontend
+        run: |
+          git config user.name "buscador-empleo-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add vacantes_vistas.db docs/jobs.json
+          git diff --cached --quiet || git commit -m "Actualiza vacantes"
+          git push
