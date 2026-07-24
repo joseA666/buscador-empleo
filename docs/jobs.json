@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-23T23:38:44+00:00",
-  "total": 572,
+  "generated_at": "2026-07-24T01:07:59+00:00",
+  "total": 574,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Human Resources Business Partner",
+      "company": "Cardiovascular Associates of America - CVAUSA",
+      "location": "Orlando, Orlando, Florida, United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-human-resources-business-partner-cardiovascular-associates-of-america-cvausa-1135300",
+      "description": "Human Business Partner â Remote Reports To: Senior Director of Human Resources Cardiovascular Services of America (CVAUSA) is the largest private and independent cardiology network in the United States. Our inclusive and diverse network brings together top cardiovascular specia",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-23T00:00:00+00:00",
+      "notified": false,
+      "first_seen": "2026-07-24 01:07:59"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Sr. Software Engineer II - Catalog",
+      "company": "iHerb",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147333-sr-software-engineer-ii-catalog",
+      "description": "Job Summary: The Sr. Software Engineer II - Catalog will build and modernize iHerb's product catalog, one of the most business-critical platforms in the company. You will work across the full stack: backend services, React frontend, and relational data layers. Our current backend",
+      "reason": "La ubicación no es razonable, se encuentra en USA y no se menciona la modalidad remota",
+      "language": "en",
+      "posted_at": "2026-07-23T20:20:07+00:00",
+      "notified": false,
+      "first_seen": "2026-07-24 01:07:59"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
