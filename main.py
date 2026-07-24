@@ -27,6 +27,13 @@ def run_once(dry_run: bool = False):
             continue
         candidates.append(job)
 
+    # Tope de candidatos juzgados por Groq en una sola corrida: evita que un
+    # backlog grande (ej. primera vez que corre una fuente nueva) haga que la
+    # corrida exceda el timeout del workflow de GitHub Actions. Lo que sobra
+    # no se marca como visto, asi que se retoma solo en la proxima corrida.
+    postergados = max(0, len(candidates) - config.MAX_CANDIDATES_PER_RUN)
+    candidates = candidates[:config.MAX_CANDIDATES_PER_RUN]
+
     matches = []
     for i in range(0, len(candidates), config.GROQ_BATCH_SIZE):
         batch = candidates[i:i + config.GROQ_BATCH_SIZE]
@@ -44,7 +51,10 @@ def run_once(dry_run: bool = False):
 
     export.write_frontend_data()
 
-    print(f"  {nuevas} vacantes nuevas revisadas, {len(matches)} notificadas en 1 correo" if matches else f"  {nuevas} vacantes nuevas revisadas, 0 notificadas")
+    resumen = f"  {nuevas} vacantes nuevas revisadas, {len(matches)} notificadas en 1 correo" if matches else f"  {nuevas} vacantes nuevas revisadas, 0 notificadas"
+    if postergados:
+        resumen += f" ({postergados} postergadas para la proxima corrida por el tope de {config.MAX_CANDIDATES_PER_RUN})"
+    print(resumen)
 
 
 def main():

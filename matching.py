@@ -56,6 +56,13 @@ def _call_groq(payload: dict) -> dict:
             )
             if resp.status_code == 429:
                 retry_after = float(resp.headers.get("Retry-After", 2 ** attempt * 3))
+                if retry_after > config.GROQ_MAX_RETRY_AFTER_SECONDS:
+                    # Retry-After gigante = cuota larga (hora/dia) agotada, no
+                    # transitorio. Reintentar no sirve de nada dentro de esta
+                    # corrida: se cae al fallback por palabra clave ya mismo
+                    # en vez de dormir minutos u horas.
+                    print(f"[aviso] Groq 429 con Retry-After de {retry_after:.0f}s (cuota agotada), uso fallback sin esperar")
+                    raise RuntimeError(f"Groq rate limit prolongado (Retry-After {retry_after:.0f}s)")
                 print(f"[aviso] Groq 429 (rate limit), esperando {retry_after:.0f}s (intento {attempt + 1}/{config.GROQ_MAX_RETRIES})")
                 time.sleep(retry_after)
                 continue

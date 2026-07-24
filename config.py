@@ -15,6 +15,15 @@ GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "8"))
 # Segundos minimos entre llamadas a Groq (throttle preventivo, no solo reactivo al 429).
 GROQ_MIN_INTERVAL_SECONDS = float(os.getenv("GROQ_MIN_INTERVAL_SECONDS", "2.5"))
 GROQ_MAX_RETRIES = int(os.getenv("GROQ_MAX_RETRIES", "4"))
+# Si Groq devuelve un Retry-After mayor a esto (cuota horaria/diaria agotada,
+# no rate limit transitorio), no tiene sentido dormir esa espera dentro de
+# una corrida: se cae al fallback por palabra clave de inmediato.
+GROQ_MAX_RETRY_AFTER_SECONDS = float(os.getenv("GROQ_MAX_RETRY_AFTER_SECONDS", "20"))
+# Tope de candidatos juzgados por Groq en una sola corrida (ver main.py). Con
+# GROQ_BATCH_SIZE=8 y GROQ_MIN_INTERVAL_SECONDS=2.5, 60 candidatos caben
+# comodos dentro del timeout de 12 min del workflow de GitHub Actions incluso
+# si varios lotes pegan en rate limit y hacen backoff completo.
+MAX_CANDIDATES_PER_RUN = int(os.getenv("MAX_CANDIDATES_PER_RUN", "60"))
 
 POLL_INTERVAL_MINUTES = int(os.getenv("POLL_INTERVAL_MINUTES", "15"))
 
