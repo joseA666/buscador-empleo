@@ -1,26 +1,33 @@
 # Buscador de Empleo
 
-Revisa **9 fuentes** de empleo en busca de vacantes que encajen con tu perfil (backend, Laravel,
+Revisa **13 fuentes** de empleo en busca de vacantes que encajen con tu perfil (backend, Laravel,
 Python/FastAPI, Go, IA/LLMs), remoto o en Tegucigalpa / Francisco Morazán, y te avisa por Gmail
 con un **correo digest único** por corrida (no uno por vacante).
 
 ## Fuentes
 
-| Fuente | Cobertura |
-|---|---|
-| Computrabajo Honduras | Honduras |
-| Tecoloco Honduras | Honduras |
-| RemoteOK | Remoto, global |
-| Jobicy | Remoto, global |
-| Remotive | Remoto, global (se consulta max. cada 6h, piden no abusar de su API) |
-| Arbeitnow | Remoto/presencial, mayormente Europa |
-| We Work Remotely | Remoto, global |
-| Himalayas | Remoto, global |
-| Torre | LatAm y remoto, buena cobertura en español |
+| Fuente | Cobertura | Requiere API key |
+|---|---|---|
+| Computrabajo Honduras | Honduras | No |
+| Tecoloco Honduras | Honduras | No |
+| RemoteOK | Remoto, global | No |
+| Jobicy | Remoto, global | No |
+| Remotive | Remoto, global (se consulta max. cada 6h, piden no abusar de su API) | No |
+| Arbeitnow | Remoto/presencial, mayormente Europa | No |
+| Himalayas | Remoto, global | No |
+| Torre | LatAm y remoto, buena cobertura en español | No |
+| RemoteJobs.org | Remoto, global | No |
+| HN Who's Hiring | Remoto/global, tech (thread mensual de Hacker News vía API de Algolia; se consulta max. cada 6h) | No |
+| Adzuna | México y EE.UU. (se consulta max. cada 8h para no gastar la cuota gratis) | Sí (gratis, `ADZUNA_APP_ID`/`ADZUNA_APP_KEY`) |
+| Jooble | Remoto y Honduras (se consulta max. cada 6h) | Sí (gratis, `JOOBLE_API_KEY`) |
+| The Muse | Remoto, global | Opcional (`THEMUSE_API_KEY`, sube el límite de requests) |
 
 LinkedIn queda excluido a propósito (scrapearlo viola sus Términos de Servicio y puede banear la
 cuenta/IP). Indeed y GetOnBoard tampoco se incluyeron: no tienen una API pública sin registro que
-respete sus términos de uso para este caso de uso.
+respete sus términos de uso para este caso de uso. We Work Remotely se quitó porque las vacantes
+piden suscripción paga al postular. Wellfound/AngelList y los portales latinoamericanos tipo
+OCC Mundial, Bumeran o elempleo tampoco se incluyeron: no exponen una API pública oficial, solo
+scrapers de terceros que evaden sus protecciones anti-bot.
 
 Un modelo de Groq revisa cada tanda de vacantes (en lotes, no una por una) antes de notificarte,
 para descartar falsos positivos del tipo "Desarrollador de Negocios" (que no es un puesto técnico),
@@ -50,6 +57,12 @@ Edita `.env`:
    contraseña normal de Gmail NO funciona para esto, Google la rechaza).
 2. **GROQ_TOKEN**: gratis en https://console.groq.com/keys. Sin esto el programa sigue funcionando
    pero solo filtra por palabra clave, con bastantes más falsos positivos.
+3. **ADZUNA_APP_ID / ADZUNA_APP_KEY** (opcional): registro gratis en
+   https://developer.adzuna.com/. Sin esto, esa fuente se salta sola.
+4. **JOOBLE_API_KEY** (opcional): key gratis inmediata en https://jooble.org/api/about. Sin esto,
+   esa fuente se salta sola.
+5. **THEMUSE_API_KEY** (opcional): registro gratis en https://www.themuse.com/developers/api/v2.
+   Sin esto, The Muse igual funciona pero con un límite de requests más bajo.
 
 ## Probar que el correo funciona
 

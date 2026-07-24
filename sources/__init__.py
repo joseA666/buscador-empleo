@@ -1,6 +1,12 @@
-from . import computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, weworkremotely, himalayas, torre
+from . import (
+    computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, himalayas, torre,
+    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse,
+)
 
-ALL_SOURCES = [computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, weworkremotely, himalayas, torre]
+ALL_SOURCES = [
+    computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, himalayas, torre,
+    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse,
+]
 
 
 def fetch_all():

@@ -25,6 +25,25 @@ LANGUAGE_PRIORITY = ["es", "en"]
 # Remotive pide explicitamente no llamar su API mas de ~4 veces al dia.
 REMOTIVE_MIN_HOURS_BETWEEN_FETCH = 6
 
+# HN "Who is hiring" trae un arbol de cientos de comentarios: se throttlea
+# para no re-descargarlo entero en cada corrida de 15 min.
+HN_WHOISHIRING_MIN_HOURS_BETWEEN_FETCH = float(os.getenv("HN_WHOISHIRING_MIN_HOURS_BETWEEN_FETCH", "6"))
+
+# Adzuna: registro gratis en https://developer.adzuna.com/ (1000 llamadas/mes).
+# Sin credenciales, la fuente se salta sola.
+ADZUNA_APP_ID = os.getenv("ADZUNA_APP_ID", "")
+ADZUNA_APP_KEY = os.getenv("ADZUNA_APP_KEY", "")
+ADZUNA_MIN_HOURS_BETWEEN_FETCH = float(os.getenv("ADZUNA_MIN_HOURS_BETWEEN_FETCH", "8"))
+
+# Jooble: key gratis inmediata en https://jooble.org/api/about.
+# Sin credencial, la fuente se salta sola.
+JOOBLE_API_KEY = os.getenv("JOOBLE_API_KEY", "")
+JOOBLE_MIN_HOURS_BETWEEN_FETCH = float(os.getenv("JOOBLE_MIN_HOURS_BETWEEN_FETCH", "6"))
+
+# The Muse: funciona sin key (limite bajo); con key gratis de
+# https://www.themuse.com/developers/api/v2 sube el limite a 3600 req/hora.
+THEMUSE_API_KEY = os.getenv("THEMUSE_API_KEY", "")
+
 DB_PATH = os.getenv("DB_PATH", os.path.join(os.path.dirname(__file__), "vacantes_vistas.db"))
 
 # Perfil usado por el LLM para juzgar si una vacante encaja de verdad,

@@ -14,9 +14,13 @@ SOURCE_LABELS = {
     "jobicy": "Jobicy",
     "remotive": "Remotive",
     "arbeitnow": "Arbeitnow",
-    "weworkremotely": "We Work Remotely",
     "himalayas": "Himalayas",
     "torre": "Torre",
+    "remotejobsorg": "RemoteJobs.org",
+    "hn_whoishiring": "HN Who's Hiring",
+    "adzuna": "Adzuna",
+    "jooble": "Jooble",
+    "themuse": "The Muse",
 }
 
 
