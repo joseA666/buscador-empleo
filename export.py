@@ -9,6 +9,11 @@ DOCS_DIR = os.path.join(os.path.dirname(__file__), "docs")
 
 SOURCE_LABELS = {
     "computrabajo": "Computrabajo Honduras",
+    "computrabajo_mx": "Computrabajo México",
+    "computrabajo_co": "Computrabajo Colombia",
+    "computrabajo_pe": "Computrabajo Perú",
+    "computrabajo_pa": "Computrabajo Panamá",
+    "elempleo": "elempleo.com",
     "tecoloco": "Tecoloco Honduras",
     "remoteok": "RemoteOK",
     "jobicy": "Jobicy",

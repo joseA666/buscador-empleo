@@ -1,11 +1,11 @@
 from . import (
     computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, himalayas, torre,
-    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse,
+    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse, elempleo,
 )
 
 ALL_SOURCES = [
     computrabajo, tecoloco, remoteok, jobicy, remotive, arbeitnow, himalayas, torre,
-    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse,
+    remotejobsorg, hn_whoishiring, adzuna, jooble, themuse, elempleo,
 ]
 
 
