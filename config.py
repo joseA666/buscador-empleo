@@ -10,8 +10,9 @@ GMAIL_TO = os.getenv("GMAIL_TO", GMAIL_ADDRESS)
 GROQ_TOKEN = os.getenv("GROQ_TOKEN", "")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
 # Cuantas vacantes se mandan juntas en un solo prompt a Groq (baja mucho la cantidad
-# de requests y evita el 429 de rate limit del tier gratis).
-GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "8"))
+# de requests y evita el 429 de rate limit del tier gratis; tambien diluye el costo fijo
+# de las instrucciones del prompt entre mas vacantes, bajando tokens por vacante).
+GROQ_BATCH_SIZE = int(os.getenv("GROQ_BATCH_SIZE", "12"))
 # Segundos minimos entre llamadas a Groq (throttle preventivo, no solo reactivo al 429).
 GROQ_MIN_INTERVAL_SECONDS = float(os.getenv("GROQ_MIN_INTERVAL_SECONDS", "2.5"))
 GROQ_MAX_RETRIES = int(os.getenv("GROQ_MAX_RETRIES", "4"))

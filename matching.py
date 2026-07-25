@@ -108,7 +108,7 @@ def llm_judge_batch(jobs: list[dict]) -> list[dict]:
         f"[{i}] Titulo: {job.get('title')}\n"
         f"Empresa: {job.get('company')}\n"
         f"Ubicacion: {job.get('location')}\n"
-        f"Descripcion: {(job.get('description') or '')[:1000]}"
+        f"Descripcion: {(job.get('description') or '')[:600]}"
         for i, job in enumerate(jobs)
     )
 
