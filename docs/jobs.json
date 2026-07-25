@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-25T11:42:23+00:00",
+  "generated_at": "2026-07-25T12:45:26+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "We don't currently have any open roles",
+      "company": "Vet Vision AI",
+      "location": "Open Hall, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-we-dont-currently-have-any-open-roles-vet-vision-ai-1135370",
+      "description": "Open roles Ready to write your chapter? We don't currently have any open roles. Register your interest Please mention the word **ELOQUENTLY** and tag RNDAuNzUuMTMxLjIx when applying to show you read the job post completely (#RNDAuNzUuMTMxLjIx). This is a beta feature to avoid spa",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-24T12:10:30+00:00",
+      "notified": false,
+      "first_seen": "2026-07-25 12:45:25"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Praktikant Marketing Automation mit KI (m/w/d) in remote / Homeoffice",
+      "company": "Mindskills",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/mindskills/praktikant-marketing-automation-mit-ki-in-remote-homeoffice-cologne-445496",
+      "description": "Unsere Mission ist es Menschen zu helfen negative Gewohnheiten aufzuhören und durch positive neue Gewohnheiten zu ersetzen. Dabei kommen innovative und neu entwickelte Methoden aus der Psychologie zum Einsatz, die in ersten Studien bereits erforscht wurden. Nun wird ein digitales",
+      "reason": "La vacante es de marketing automation con KI, no coincide con el perfil de desarrollo de software/IA",
+      "language": "other",
+      "posted_at": "1784979027",
+      "notified": false,
+      "first_seen": "2026-07-25 12:45:25"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1784831342",
-      "notified": false,
-      "first_seen": "2026-07-23 21:16:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Finance Operations Manager (m/w/d)",
-      "company": "Start To Finish Consulting GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/start-to-finish-consulting-gmbh/finance-operations-manager-hamburg-43888",
-      "description": "Wir sind Start to Finish. Kein Startup kann wachsen ohne das richtige Team. Aus diesem Grund unterstützen wir aufstrebende Startups und Growth Companies wie Snocks, SellerX, Formary, Schema M und viele weitere dabei, ihre Schlüsselpositionen mit den richtigen Talenten zu besetzen",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1784815232",
-      "notified": false,
-      "first_seen": "2026-07-23 21:16:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Projektplaner/Terminplaner (m/w/d) - Infrastrukturausbau und Trassenbau",
-      "company": "Deutscher Bauservice GmbH",
-      "location": "Molbergen",
-      "url": "https://www.arbeitnow.com/jobs/companies/deutscher-bauservice-gmbh/projektplaner-terminplaner-infrastrukturausbau-und-trassenbau-molbergen-39912",
-      "description": "Die Energiewende ist eines der größten Infrastrukturprojekte unserer Zeit. Damit der Strom fließen kann, brauchen wir Menschen, die den Überblick behalten, wenn es komplex wird. Wir suchen einen versierten Terminplaner (m/w/d) , der unsere Wind-Stromtrassen-Projekte mit Oracle Pr",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1784815231",
       "notified": false,
       "first_seen": "2026-07-23 21:16:21"
     }
