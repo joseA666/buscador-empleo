@@ -14,6 +14,13 @@ except ImportError:
 _last_call_at = 0.0
 
 
+class GroqQuotaExhausted(Exception):
+    """Cuota horaria/diaria de Groq agotada: no tiene sentido usar el filtro por
+    palabra clave como veredicto final (es demasiado permisivo, deja pasar
+    comentarios y perfiles que no son vacantes reales). El candidato se
+    posterga para la proxima corrida en vez de notificarse por error."""
+
+
 def keyword_prefilter(job: dict) -> bool:
     text = f"{job.get('title', '')} {job.get('description', '')}".lower()
     return any(kw in text for kw in config.KEYWORD_PREFILTER)
@@ -61,8 +68,8 @@ def _call_groq(payload: dict) -> dict:
                     # transitorio. Reintentar no sirve de nada dentro de esta
                     # corrida: se cae al fallback por palabra clave ya mismo
                     # en vez de dormir minutos u horas.
-                    print(f"[aviso] Groq 429 con Retry-After de {retry_after:.0f}s (cuota agotada), uso fallback sin esperar")
-                    raise RuntimeError(f"Groq rate limit prolongado (Retry-After {retry_after:.0f}s)")
+                    print(f"[aviso] Groq 429 con Retry-After de {retry_after:.0f}s (cuota agotada), postergando este lote")
+                    raise GroqQuotaExhausted(f"Groq rate limit prolongado (Retry-After {retry_after:.0f}s)")
                 print(f"[aviso] Groq 429 (rate limit), esperando {retry_after:.0f}s (intento {attempt + 1}/{config.GROQ_MAX_RETRIES})")
                 time.sleep(retry_after)
                 continue
@@ -87,8 +94,11 @@ def _fallback_batch(jobs: list[dict]) -> list[dict]:
 
 def llm_judge_batch(jobs: list[dict]) -> list[dict]:
     """Juzga un lote de vacantes en una sola llamada a Groq. Devuelve una lista alineada
-    por indice con {match, reason, language}. Si Groq falla, cae a prefiltro + deteccion
-    de idioma local (nunca deja de devolver un resultado por cada job de entrada)."""
+    por indice con {match, reason, language} o None (candidato postergado porque la
+    cuota de Groq esta agotada: no se decide con el filtro por palabra clave para no
+    notificar falsos positivos, se reintenta en una corrida futura). Si Groq falla por
+    otro motivo (error transitorio, respuesta invalida), cae a prefiltro + deteccion de
+    idioma local."""
     if not jobs:
         return []
     if not config.GROQ_TOKEN:
@@ -142,6 +152,9 @@ Morazan, Honduras)."""
                 lang = r.get("language") if r.get("language") in ("es", "en") else detect_language(job)
                 out.append({"match": bool(r.get("match")), "reason": r.get("reason", ""), "language": lang})
         return out
+    except GroqQuotaExhausted as exc:
+        print(f"[aviso] {exc}, este lote se reintenta en una proxima corrida")
+        return [None] * len(jobs)
     except Exception as exc:
         print(f"[aviso] Groq fallo ({exc}), usando prefiltro por palabra clave para este lote")
         return _fallback_batch(jobs)

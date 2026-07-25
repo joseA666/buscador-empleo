@@ -35,10 +35,17 @@ def run_once(dry_run: bool = False):
     candidates = candidates[:config.MAX_CANDIDATES_PER_RUN]
 
     matches = []
+    pospuestos_cuota = 0
     for i in range(0, len(candidates), config.GROQ_BATCH_SIZE):
         batch = candidates[i:i + config.GROQ_BATCH_SIZE]
         results = matching.llm_judge_batch(batch)
         for job, result in zip(batch, results):
+            if result is None:
+                # Cuota de Groq agotada: no se marca como visto, se reintenta
+                # en una proxima corrida en vez de arriesgar un falso positivo
+                # con el filtro por palabra clave.
+                pospuestos_cuota += 1
+                continue
             if result["match"]:
                 print(f"  [MATCH] {job['title']} - {job['company']} ({job['source']})")
                 matches.append({"job": job, "reason": result["reason"], "language": result["language"]})
@@ -54,6 +61,8 @@ def run_once(dry_run: bool = False):
     resumen = f"  {nuevas} vacantes nuevas revisadas, {len(matches)} notificadas en 1 correo" if matches else f"  {nuevas} vacantes nuevas revisadas, 0 notificadas"
     if postergados:
         resumen += f" ({postergados} postergadas para la proxima corrida por el tope de {config.MAX_CANDIDATES_PER_RUN})"
+    if pospuestos_cuota:
+        resumen += f" ({pospuestos_cuota} postergadas para la proxima corrida por cuota de Groq agotada)"
     print(resumen)
 
 
