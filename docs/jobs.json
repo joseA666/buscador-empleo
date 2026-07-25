@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-07-25T17:41:26+00:00",
+  "generated_at": "2026-07-25T18:39:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Marketing Designer",
+      "company": "albo",
+      "location": "Ciudad Valles, Ciudad Valles, San Luis PotosÃ­, MÃ©xico",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-designer-albo-1135376",
+      "description": "Acerca del rol Como Marketing Designer serÃ¡s responsable de ejecutar las necesidades visuales del equipo de Marketing, asegurando calidad, consistencia de marca y criterio creativo en cada pieza. Este puesto es la referencia de diseÃ±o dentro del equipo Marcomms para los canales",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2026-07-24T18:21:44+00:00",
+      "notified": false,
+      "first_seen": "2026-07-25 18:39:52"
+    },
     {
       "source": "hn_whoishiring",
       "source_label": "HN Who's Hiring",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-06-29T22:03:43.000Z",
       "notified": false,
       "first_seen": "2026-07-23 21:16:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sales Development Representative (m/w/d)",
-      "company": "syte GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/sales-development-representative-berlin-437489",
-      "description": "Deine Mission syte macht Immobilienentscheidungen smarter. Unsere KI analysiert Bebauungspotenziale, Sanierungsbedarfe und Wirtschaftlichkeit in Echtzeit und gibt über 200 Projektentwickler*innen, Makler*innen und Banken die Grundlage für bessere Entscheidungen. Um syte in noch m",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1784813459",
-      "notified": false,
-      "first_seen": "2026-07-23 21:16:22"
     }
   ]
 }
