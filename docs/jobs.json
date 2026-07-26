@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-07-25T23:56:33+00:00",
+  "generated_at": "2026-07-26T02:41:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Enterprise Account Executive",
+      "company": "career",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-enterprise-account-executive-career-1135389",
+      "description": "About Haven Safety: Haven is transforming how organizations learn from workplace incidents. Built in partnership with The AES Corporation and backed by AI Fund, Haven applies purpose-built AI to incident investigations, root cause analysis, corrective actions, and organizational ",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-07-25T00:00:12+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 02:41:24"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "IT Support Analyst",
+      "company": "Work Force Nexus",
+      "location": "Australia, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-it-support-analyst-work-force-nexus-1135393",
+      "description": "Posted 10:43:29 AM. IT Support Analyst â AustraliaLocation: Australia (Remote)Employment Type: Full-TimeExperience: 0â2â¦See this and similar jobs on LinkedIn. Please mention the word **POETIC** and tag RNTIuMTU5LjI0Ni41 when applying to show you read the job post completely",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-25T02:04:59+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 02:41:23"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Hand Assembly",
+      "company": "Lsn",
+      "location": "Cookeville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-hand-assembly-lsn-1135407",
+      "description": "Hiring now: experienced tool &amp; die makerclick on ad to open for full details.call number and ask for jason. Please mention the word **NICE** and tag RNTIuMTU5LjI0Ni41 when applying to show you read the job post completely (#RNTIuMTU5LjI0Ni41). This is a beta feature to avoid ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-25T01:30:17+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 02:41:23"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Trabaja TODO Remoto Asesor de AtenciÃ³n al cliente y crosseling",
+      "company": "EntelConnect",
+      "location": "Lima, Lima, PerÃº",
+      "url": "https://remoteOK.com/remote-jobs/remote-trabaja-todo-remoto-asesor-de-atencion-al-cliente-y-crosseling-entelconnect-1135399",
+      "description": "ð Ãnete a Entel Connect y haz la diferencia ð En Entel Connect Estamos Buscando Personas Proactivas, Con Actitud Positiva y OrientaciÃ³n a Resultados Para Unirse a Nuestro Equipo Como Asesor de AtenciÃ³n al cliente y crosseling- Entel PerÃº Experiencia en Call Center. Moda",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2026-07-25T01:08:02+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 02:41:23"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13945,62 +14001,6 @@
       "posted_at": "1784812814",
       "notified": false,
       "first_seen": "2026-07-23 21:17:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Working Student SEO Data Analyst​ (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/working-student-seo-data-analyst-mwd-berlin-39329",
-      "description": "Every search result starts with the right foundation. If you enjoy working with data, spotting patterns, and turning insights into action, you'll help improve how millions of users discover idealo across Europe. As a Working Student SEO Analyst, you'll become a fully integrated m",
-      "reason": "Puesto de análisis de datos que implica desarrollo de habilidades técnicas",
-      "language": "en",
-      "posted_at": "1784812814",
-      "notified": true,
-      "first_seen": "2026-07-23 21:17:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Learning Expert (f/m/d) - full time",
-      "company": "achso HR",
-      "location": "Nordhausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/achso-hr/ai-learning-expert-full-time-nordhausen-369043",
-      "description": "Who we are We're a fast-growing tech company helping businesses make smarter decisions through data. Our team of 80 is spread across Europe, and we're serious about building a learning culture that keeps pace with how fast AI is changing everything. Tasks What you'll do Design an",
-      "reason": "Puesto de experto en aprendizaje de IA que implica desarrollo de programas de aprendizaje",
-      "language": "en",
-      "posted_at": "1784825942",
-      "notified": true,
-      "first_seen": "2026-07-23 21:17:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI & Data Engineer (m/w/d)",
-      "company": "PeakSoft GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/peaksoft-gmbh/ai-data-engineer-wuppertal-419595",
-      "description": "PeakSoft GmbH entwickelt innovative Softwarelösungen in den Bereichen Künstliche Intelligenz, Data Engineering und Cloud-Technologien. Für den Ausbau unseres AI-Teams suchen wir einen motivierten AI &#x26; Data Engineer, der moderne Datenplattformen mit Machine Learning und Large",
-      "reason": "La vacante requiere habilidades de AI y Data Engineering",
-      "language": "other",
-      "posted_at": "1784820628",
-      "notified": true,
-      "first_seen": "2026-07-23 21:17:02"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior DevOps/ Cloud Engineer (f/m/d)",
-      "company": "Accurids GmbH",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/accurids-gmbh/senior-devops-cloud-engineer-koln-60653",
-      "description": "Become a Part of ACCURIDS Join us and help shape the future of pharmaceutical data! At ACCURIDS, we’re building the data backbone behind life-science innovation — a system that identifies, links, and standardizes critical enterprise data in compliance with global standards such a",
-      "reason": "La ubicación no es remoto amigable con Latinoamérica ni Tegucigalpa/Francisco Morazán, Honduras",
-      "language": "en",
-      "posted_at": "1784817035",
-      "notified": false,
-      "first_seen": "2026-07-23 21:17:02"
     }
   ]
 }
