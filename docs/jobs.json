@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-26T10:18:02+00:00",
+  "generated_at": "2026-07-26T11:44:01+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Head of People & Culture / HR (m/w/d)",
+      "company": "InkuPlay UG (haftungsbeschränkt)",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/head-of-people-culture-hr-biesenthal-163623",
+      "description": "InkuPlay ist ein wachsendes Unternehmen aus den Bereichen Gaming, Esports, digitale Plattformen, Content, Community und Partnerschaften. Wir befinden uns in einer Phase des strukturellen Aufbaus und der Professionalisierung. Dafür suchen wir eine erfahrene Persönlichkeit, die uns",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1785061827",
+      "notified": false,
+      "first_seen": "2026-07-26 11:44:01"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Chief Marketing Officer (m/w/d)",
+      "company": "InkuPlay UG (haftungsbeschränkt)",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/inkuplay-ug-haftungsbeschrankt/chief-marketing-officer-biesenthal-255944",
+      "description": "InkuPlay ist ein wachstumsorientiertes Unternehmen aus dem Gaming- und E-Sports-Umfeld. Wir entwickeln Marken, Communities, digitale Formate und Partnerschaften an der Schnittstelle von Gaming, Entertainment, Content, Creator Economy und E-Sports. Unser Ziel ist es, InkuPlay als ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1785061826",
+      "notified": false,
+      "first_seen": "2026-07-26 11:44:01"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "other",
       "posted_at": "1784728832",
-      "notified": false,
-      "first_seen": "2026-07-23 21:19:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Copywriter Direct Response (m/w/d), Vollzeit, 100% Remote",
-      "company": "Sivara GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/sivara-gmbh/copywriter-direct-response-vollzeit-100-remote-kevelaer-267159",
-      "description": "Du liest eine Landingpage und siehst sofort, an welcher Stelle der Lead abspringt? Du weißt, warum ein Hook zieht oder nicht, denkst in Awareness Stages und hast schon Advertorials geschrieben, die wirklich verkauft haben? Schon mal ein gutes Zeichen. Aber damit wir uns nicht mis",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "other",
-      "posted_at": "1784728832",
-      "notified": false,
-      "first_seen": "2026-07-23 21:19:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Ingenieur (gn) für Robotik und Automatisierungstechnik",
-      "company": "3D.aero GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/3daero-gmbh/ingenieur-gn-fur-robotik-und-automatisierungstechnik-hamburg-312710",
-      "description": "Die 3D-aero GmbH ist ein Tech-Unternehmen aus Hamburg mit etwa 70 Mitarbeitenden und ist seit Dezember 2024 ein stolzer Teil der MTU Aero Engines AG – einem der weltweit führenden Unternehmen der Luftfahrtindustrie. Wir entwickeln kundenspezifische Automatisierungslösungen für di",
-      "reason": "No es un puesto de desarrollo de software de acuerdo al perfil",
-      "language": "other",
-      "posted_at": "1784727095",
       "notified": false,
       "first_seen": "2026-07-23 21:19:12"
     }
