@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-07-26T02:41:24+00:00",
+  "generated_at": "2026-07-26T05:47:29+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Operations Specialist",
+      "company": "Sezzle",
+      "location": "Latin America, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-specialist-sezzle-1135398",
+      "description": "Posted 2:47:28 AM. The salary range for this role is $1.800 - $2.700 per month (Gross in USD)About Sezzle:With aâ¦See this and similar jobs on LinkedIn. Please mention the word **ENJOYS** and tag RMTMyLjE5Ni44MC4xMzM= when applying to show you read the job post completely (#RMTM",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-25T05:10:06+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 05:47:28"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "NegÃ³cios Analista de SoluÃ§Ãµes de NegÃ³cios JÃºnior",
+      "company": "TOTVS",
+      "location": "Brasil, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-negocios-analista-de-solucoes-de-negocios-junior-totvs-1135397",
+      "description": "Garantir a governanÃ§a e a integridade sistÃªmica do portfÃ³lio de ofertas dosâ¦ Please mention the word **ADVENTURESOME** and tag RMTMyLjE5Ni44MC4xMzM= when applying to show you read the job post completely (#RMTMyLjE5Ni44MC4xMzM=). This is a beta feature to avoid spam applican",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-07-25T05:03:57+00:00",
+      "notified": false,
+      "first_seen": "2026-07-26 05:47:28"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software, es de ventas",
       "language": "other",
       "posted_at": "1784813459",
-      "notified": false,
-      "first_seen": "2026-07-23 21:17:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "CRM Manager (all genders)",
-      "company": "mammaly",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/mammaly/crm-manager-all-genders-berlin-433089",
-      "description": "Deine Aufgaben Wir suchen eine:n hands-on CRM-Manager mit starkem Gespür für Copywriting und grundlegenden Designkenntnissen. Du wirst unsere E-Mail- und Automationskampagnen gestalten, die Conversion optimieren und kreative Ideen in unseren CRM-Kanälen umsetzen. Verwaltung und U",
-      "reason": "No es un puesto de desarrollo de software, es de marketing",
-      "language": "other",
-      "posted_at": "1784813458",
-      "notified": false,
-      "first_seen": "2026-07-23 21:17:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Working Student - Procurement (f/m/d)",
-      "company": "Instagrid",
-      "location": "Ludwigsburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/instagrid/working-student-procurement-ludwigsburg-209283",
-      "description": "At Instagrid, you are part of the clean-tech revolution by bringing pure energy into your region, helping professional workers transitioning away from combustion generators and making it possible for them to experience a safe, efficient, clean and silent energy solution. Your Mis",
-      "reason": "No es un puesto de desarrollo de software, es de compras",
-      "language": "en",
-      "posted_at": "1784812814",
       "notified": false,
       "first_seen": "2026-07-23 21:17:19"
     }
