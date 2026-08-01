@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-01T22:38:01+00:00",
+  "generated_at": "2026-08-01T23:41:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Platform Engineering Manager",
+      "company": "prolific",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/prolific/remote-platform-engineering-manager-48498",
+      "description": "&lt;h2 style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: #7e8c8d;&quot;&gt;Platform Engineering Manager&lt;/span&gt;&lt;/h2&gt; &lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;color: rgb(126, 140, 141);&quot;&gt;Engineering&lt;/span&gt;&lt;/",
+      "reason": "No coincide con el perfil de desarrollo de software/IA descrito",
+      "language": "en",
+      "posted_at": "1785621351",
+      "notified": false,
+      "first_seen": "2026-08-01 23:41:56"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Expira en: 13/09/2026",
-      "notified": false,
-      "first_seen": "2026-07-30 19:53:10"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Copy Editor",
-      "company": "MissionStaff",
-      "location": "Pennsylvania, Pennsylvania, United States",
-      "url": "https://remoteOK.com/remote-jobs/remote-copy-editor-missionstaff-1135668",
-      "description": "We connect top talent in Business Services, Tech, Marketing &amp; Creative with companies of all sizesâoffering flexible, high-touch staffing solutions. We are currently filling the following contract job for our client. Job Title : Copy Editor *30 hours/week *6 month contract ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-07-29T19:07:02+00:00",
       "notified": false,
       "first_seen": "2026-07-30 19:53:10"
     }
