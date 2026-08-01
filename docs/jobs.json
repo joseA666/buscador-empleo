@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-01T10:56:22+00:00",
+  "generated_at": "2026-08-01T12:00:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Strategic Account Executive, SaaS Sales (Remote - US)",
+      "company": "Yelp, Inc",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147464-strategic-account-executive-saas-sales-remote-us",
+      "description": "Summary*Please note that while this role will operate remotely, it is required that the candidate resides in the United States (EXCLUDING THE BAY AREA).*Do you love to dine out? Are you passionate about helping restaurant owners succeed? Our mission at Yelp is to connect people w",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-01T08:30:06+00:00",
+      "notified": false,
+      "first_seen": "2026-08-01 12:00:51"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Customer Account Administrator",
+      "company": "RTX",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/147623-customer-account-administrator",
+      "description": "Date Posted:2026-06-23 Country:United States of America Location:US-WI-REMOTE Position Role Type:Remote U.S. Citizen, U.S. Person, or Immigration Status Requirements: U.S. citizenship is required, as only U.S. citizens are authorized to access information under this program/contr",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-01T08:00:07+00:00",
+      "notified": false,
+      "first_seen": "2026-08-01 12:00:51"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "Puesto de desarrollo de software con enfoque en Synthetic Monitoring",
       "language": "en",
       "posted_at": "2026-07-30T14:39:37+00:00",
-      "notified": true,
-      "first_seen": "2026-07-30 15:07:41"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Software Engineer - Synthetic Monitoring | Ireland | Remote",
-      "company": "Grafana Labs",
-      "location": "Republic of Ireland (Remote)",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-synthetic-monitoring-ireland-remote-grafana-labs",
-      "description": "Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud's actually u",
-      "reason": "Puesto de desarrollo de software con enfoque en Synthetic Monitoring",
-      "language": "en",
-      "posted_at": "2026-07-30T14:38:13+00:00",
-      "notified": true,
-      "first_seen": "2026-07-30 15:07:41"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Software Engineer - Synthetic Monitoring | Sweden | Remote",
-      "company": "Grafana Labs",
-      "location": "Sweden (Remote)",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-synthetic-monitoring-sweden-remote-grafana-labs",
-      "description": "Grafana Labs, the company behind the open observability cloud, is founded on the principles of open source, open standards, open ecosystems, and open culture. Grafana Cloud, our fully managed observability platform, is flexible and built for scale. With Grafana Cloud's actually u",
-      "reason": "Puesto de desarrollo de software con enfoque en Synthetic Monitoring",
-      "language": "en",
-      "posted_at": "2026-07-30T14:30:03+00:00",
       "notified": true,
       "first_seen": "2026-07-30 15:07:41"
     }
