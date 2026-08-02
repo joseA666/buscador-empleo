@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-02T11:07:03+00:00",
+  "generated_at": "2026-08-02T12:20:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Projektassistenz für Softwareprojekte (m/w/d) | Berlin-Mitte | Teilzeit/Vollzeit",
+      "company": "TenMedia GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/tenmedia-gmbh/projektassistenz-fur-softwareprojekte-berlin-mitte-teilzeit-vollzeit-128148",
+      "description": "Seit über 14 Jahren entwickeln wir bei TenMedia Individualsoftware für Mittelstand, öffentliche Hand und KRITIS-Betreiber. Unsere Software läuft dort, wo Ausfälle keine Option sind: in Behörden, bei kritischen Infrastrukturen und im Mittelstand. Wir suchen dich für die Unterstütz",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1785668435",
+      "notified": false,
+      "first_seen": "2026-08-02 12:20:56"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Housekeeper",
+      "company": "Phoenix Senior Living",
+      "location": "Retreat, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-housekeeper-phoenix-senior-living-1135787",
+      "description": "Apply Description The Retreat at Canton is seeking a FT Housekeeper to join their team! Shift Details Housekeeper Tuesday-Saturday The Housekeeper is responsible for performing all housekeeping activities such as, but not limited to, dusting, vacuuming, sweeping, mopping, laundry",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-01T11:56:27+00:00",
+      "notified": false,
+      "first_seen": "2026-08-02 12:20:56"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Spontaneous Application",
+      "company": "Staffbase",
+      "location": "New York, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-spontaneous-application-staffbase-1135907",
+      "description": "About Staffbase We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first AI-native Employee Experience Platform . Our industry-leading and award-winning agentic AI communications channe",
+      "reason": "No especifica un puesto de desarrollo de software claro y la ubicación no es razonable",
+      "language": "en",
+      "posted_at": "2026-07-30T15:34:09+00:00",
+      "notified": false,
+      "first_seen": "2026-08-02 12:20:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13958,48 +14000,6 @@
       "language": "other",
       "posted_at": "1785442159",
       "notified": false,
-      "first_seen": "2026-07-30 22:18:48"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Principal Software Engineer - 11498",
-      "company": "Coupa",
-      "location": "Flexible / Remote",
-      "url": "https://remotejobs.org/remote-jobs/principal-software-engineer-11498-coupa",
-      "description": "Coupa makes margins multiply through its community-generated AI and industry-leading total spend management platform for businesses large and small. Coupa AI is informed by trillions of dollars of direct and indirect spend data across a global network of 10M+ buyers and suppliers",
-      "reason": "Puesto de desarrollo de software con tecnologías relevantes",
-      "language": "en",
-      "posted_at": "2026-07-30T18:30:11+00:00",
-      "notified": true,
-      "first_seen": "2026-07-30 22:18:48"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Field Service Engineer II- South Ft Laurderdale/Miami area",
-      "company": "Abbott",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/field-service-engineer-ii-south-ft-laurderdalemiami-area-abbott",
-      "description": "Abbott is a global healthcare leader that helps people live more fully at all stages of life. Our portfolio of life-changing technologies spans the spectrum of healthcare, with leading businesses and products in diagnostics, medical devices, nutritionals and branded generic medic",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-07-30T18:10:14+00:00",
-      "notified": false,
-      "first_seen": "2026-07-30 22:18:48"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Director of Software Engineering",
-      "company": "SupplyHouse.com",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/director-of-software-engineering-supplyhousecom",
-      "description": "Real people. Real service. At SupplyHouse.com, we value every individual team member and cultivate a community where people come first. Led by our core values of Generosity, Respect, Innovation, Teamwork, and GRIT, we’re dedicated to maintaining a supportive work environment that",
-      "reason": "Puesto de director de ingeniería de software",
-      "language": "en",
-      "posted_at": "2026-07-30T17:49:51+00:00",
-      "notified": true,
       "first_seen": "2026-07-30 22:18:48"
     }
   ]
