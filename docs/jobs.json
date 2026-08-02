@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-01T23:41:57+00:00",
+  "generated_at": "2026-08-02T01:17:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Chief UX Designer (m/w/d) | HR SaaS | Full remote DE",
+      "company": "Kooku",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/kooku/chief-ux-designer-hr-saas-full-remote-de-germany-301488",
+      "description": "Die Gesellschaft für innovative Personalwirtschaftssysteme mbH ist ein führender Softwarehersteller für staatliche, öffentliche und soziale Arbeitgeber in Deutschland. Unser Produkt KIDICAP® ist seit 40 Jahren auf dem Markt und wird heute von rund 25.000 Organisationen als Cloud ",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "other",
+      "posted_at": "1785626410",
+      "notified": false,
+      "first_seen": "2026-08-02 01:17:14"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Executive DACH (m/f/d)",
+      "company": "360Learning",
+      "location": "Berlin, Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-account-executive-dach-495490",
+      "description": "We are looking for an Account Executive who is curious, passionate, who thrives in an international team and is willing to roll-up their sleeves to get things done. &nbsp; As an Account Executive, you will be responsible for driving revenue on German speaking markets, with a focu",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "1785625500",
+      "notified": false,
+      "first_seen": "2026-08-02 01:17:14"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "(Senior) IT Consultant (all genders) - Active Directory, PKI & Security",
+      "company": "teccle group GmbH",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/teccle-group-gmbh/remote-senior-it-consultant-all-genders-active-directory-pki-security-nabburg-8058",
+      "description": "Mit über 650 Kolleg:innen an 19 Standorten in ganz Deutschland gestalten wir bei teccle die Zukunft der IT. Seit 2020 bringen wir starke IT-Unternehmen mit unterschiedlichsten Schwerpunkten unter einem Dach zusammen - und entwickeln uns so zu einem der führenden IT-Dienstleister ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1785627015",
+      "notified": false,
+      "first_seen": "2026-08-02 01:17:13"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Chief of Staff",
+      "company": "Cambrium",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/cambrium/chief-of-staff-berlin-office-322211",
+      "description": "Find Jobs in Germany on Arbeitnow",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1785625753",
+      "notified": false,
+      "first_seen": "2026-08-02 01:17:13"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "1785432302",
       "notified": false,
       "first_seen": "2026-07-30 19:53:11"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Tele marketing",
-      "company": "FABRICA ESPECIAS DON JULIO S. DE R.L.",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1097673/programador.aspx",
-      "description": "Tele marketing - FABRICA ESPECIAS DON JULIO S. DE R.L. - Cortés,Honduras - Expira en: 03/09/2026",
-      "reason": "",
-      "language": "en",
-      "posted_at": "Expira en: 03/09/2026",
-      "notified": false,
-      "first_seen": "2026-07-30 19:53:10"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Analista senior fico",
-      "company": "Banco Atlantida S.A",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1097677/analista-en-desarrollo-e-innovacion.aspx",
-      "description": "Analista senior fico - Banco Atlantida S.A - Francisco Morazán,Honduras - Expira en: 13/09/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 13/09/2026",
-      "notified": false,
-      "first_seen": "2026-07-30 19:53:10"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Diseñador grafico",
-      "company": "FABRICA ESPECIAS DON JULIO S. DE R.L.",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1097675/disenador-grafico.aspx",
-      "description": "Diseñador grafico - FABRICA ESPECIAS DON JULIO S. DE R.L. - Cortés,Honduras - Expira en: 03/09/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 03/09/2026",
-      "notified": false,
-      "first_seen": "2026-07-30 19:53:10"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Analista senior salesforce",
-      "company": "Banco Atlantida S.A",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1097671/analista-en-desarrollo-e-innovacion.aspx",
-      "description": "Analista senior salesforce - Banco Atlantida S.A - Francisco Morazán,Honduras - Expira en: 13/09/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 13/09/2026",
-      "notified": false,
-      "first_seen": "2026-07-30 19:53:10"
     }
   ]
 }
