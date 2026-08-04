@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-04T23:07:54+00:00",
+  "generated_at": "2026-08-04T23:36:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de inventarios",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1098779/jefe-de-inventario.aspx",
+      "description": "Jefe de inventarios - Confidencial - Cortés,Honduras - Expira en: 18/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-04 23:36:10"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asesor de ventas de tienda (san pedro sula)",
+      "company": "GRUPO GANALA HOLDINGS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1098777/ejecutivo-de-ventas.aspx",
+      "description": "Asesor de ventas de tienda (san pedro sula) - GRUPO GANALA HOLDINGS - Cortés,Honduras - Expira en: 18/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-04 23:36:10"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "es",
       "posted_at": "1785780054",
-      "notified": false,
-      "first_seen": "2026-08-03 19:07:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Engineering Tech Lead",
-      "company": "Deepsetai",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/deepsetai/product-engineering-tech-lead-berlin-107654",
-      "description": "TL;DR We are hiring a Product Engineering Tech Lead to own the layer that runs our customers' AI applications: serverless, durable, streaming execution, and the observability that proves it works. You sit where backend engineering, platform operations, and product meet. You scale",
-      "reason": "Puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1785780038",
-      "notified": true,
-      "first_seen": "2026-08-03 19:07:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Growth Marketing Lead",
-      "company": "Deepsetai",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/deepsetai/growth-marketing-lead-berlin-109318",
-      "description": "TL;DR We're rethinking demand generation as a self-learning system, not just a set of campaigns. This hybrid role sits at the intersection of growth marketing and GTM engineering. You'll own the full enterprise pipeline funnel, building the data and AI-powered demand engine that ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1785780038",
       "notified": false,
       "first_seen": "2026-08-03 19:07:14"
     }
