@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-07T23:25:42+00:00",
+  "generated_at": "2026-08-07T23:43:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "A glimpse of the pool",
+      "company": "SEO",
+      "location": "Leeds, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-a-glimpse-of-the-pool-seo-1136292",
+      "description": "The first cohort is being vetted now. Request the seat below and we will notify you the moment the pool opens. Please mention the word **LEADS** and tag RMTcyLjE4My45MS40NA== when applying to show you read the job post completely (#RMTcyLjE4My45MS40NA==). This is a beta feature t",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-06T23:26:20+00:00",
+      "notified": false,
+      "first_seen": "2026-08-07 23:43:03"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13986,20 +14000,6 @@
       "language": "en",
       "posted_at": "1786016411",
       "notified": true,
-      "first_seen": "2026-08-06 14:16:08"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Teamleitung Empfang und Praxisorganisation (m/w/d)",
-      "company": "MVZ VIAVIE Psychotherapie GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/mvz-viavie-psychotherapie-gmbh/teamleitung-empfang-und-praxisorganisation-berlin-429072",
-      "description": "Für unser psychotherapeutisches MVZ suchen wir Dich, als erfahrene MFA oder vergleichbar qualifizierte Fachkraft, die den Empfang und die Praxisorganisation verlässlich mitgestalten möchte und Spaß an der Koordination, Abrechnungsvorbereitung und dem Qualitätsmanagement hat. Dein",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "other",
-      "posted_at": "1786015842",
-      "notified": false,
       "first_seen": "2026-08-06 14:16:08"
     }
   ]
