@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-07T19:21:45+00:00",
+  "generated_at": "2026-08-07T19:47:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Product Marketing Lead, Core Banking",
+      "company": "Monzo",
+      "location": "UK",
+      "url": "https://jobicy.com/jobs/145123-product-marketing-lead-core-banking",
+      "description": "We’re on a mission to make money work for everyone. We’re waving goodbye to the complicated and confusing ways of traditional banking. After starting as a prepaid card, our product offering has grown a lot in the last 10 years in the UK. As well as personal and business bank acco",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-07T16:20:08+00:00",
+      "notified": false,
+      "first_seen": "2026-08-07 19:47:46"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786010169",
       "notified": false,
       "first_seen": "2026-08-06 11:06:12"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Slingshot",
-      "company": "Skinventory",
-      "location": "Loch Sport, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-slingshot-skinventory-1136258",
-      "description": "Exterior: Field-Tested Synthetic fabrics make these athletic gloves durable and eye-catching. Please mention the word **GEEKY** and tag RMTcyLjIwOC4xMjYuOTc= when applying to show you read the job post completely (#RMTcyLjIwOC4xMjYuOTc=). This is a beta feature to avoid spam appl",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-05T11:05:23+00:00",
-      "notified": false,
-      "first_seen": "2026-08-06 11:06:10"
     }
   ]
 }
