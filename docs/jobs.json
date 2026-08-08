@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T12:08:57+00:00",
+  "generated_at": "2026-08-08T12:25:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Oops something happened",
+      "company": "Haus.com",
+      "location": "Back, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-oops-something-happened-haus-com-1136301",
+      "description": "Your home is one large asset The most common way to buy a home is to borrow a lot of money with a mortgage. The interest is how a lender makes money on your loan. Please mention the word **INEXPENSIVE** and tag RNjQuMjM2LjE0MC4xNjc= when applying to show you read the job post com",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-07T12:25:20+00:00",
+      "notified": false,
+      "first_seen": "2026-08-08 12:25:39"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786042503",
       "notified": false,
       "first_seen": "2026-08-07 00:16:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer (AI Governance)",
-      "company": "Coder",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/coder/software-engineer-ai-governance-united-kingdom-490614",
-      "description": "We’re looking for a Software Engineer to help shape AI governance for developer tooling at Coder. This role sits on our AI Governance team, which builds and maintains two enterprise-grade components of Coder's AI governance stack. AI Gateway is a centralized LLM gateway that sits",
-      "reason": "Rol técnico de desarrollo de software con AI",
-      "language": "en",
-      "posted_at": "1786052413",
-      "notified": true,
-      "first_seen": "2026-08-07 00:16:16"
     }
   ]
 }
