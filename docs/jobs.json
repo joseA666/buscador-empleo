@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T22:57:22+00:00",
+  "generated_at": "2026-08-08T23:10:29+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Product Engineer (Growth)",
+      "company": "Clera",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/clera/product-engineer-growth-berlin-188171",
+      "description": "About the Role Join a small, engineering-heavy team building the leading open-source LLM engineering platform — think \"Datadog for AI applications.\" The platform helps teams trace, evaluate, and manage prompts across the full LLM development lifecycle, and is trusted by a large a",
+      "reason": "La ubicación no es razonable, se encuentra en Berlín y no se menciona la modalidad remota amigable con Latinoamérica",
+      "language": "en",
+      "posted_at": "1786200022",
+      "notified": false,
+      "first_seen": "2026-08-08 23:10:29"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Waymo",
       "location": "London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-london-282186",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The Wor",
-      "reason": "No se menciona tecnologías específicas del perfil",
-      "language": "en",
-      "posted_at": "1786085706",
-      "notified": false,
-      "first_seen": "2026-08-07 07:09:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Staff Machine Learning Engineer",
-      "company": "Waymo",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/waymo/staff-machine-learning-engineer-london-65974",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Waymo is an autonomous driving technology company with the mission to be the world&#39;s most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The Wor",
       "reason": "No se menciona tecnologías específicas del perfil",
       "language": "en",
