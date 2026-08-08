@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-08T11:08:52+00:00",
+  "generated_at": "2026-08-08T11:24:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Head of Digital",
+      "company": "1St%20Formations",
+      "location": "Covent Garden - Hybrid",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/1st20formations/head-of-digital-london-195688",
+      "description": "About 1st Formations At 1st Formations, we empower entrepreneurs to start, run, and grow their businesses with confidence. Running a business shouldn’t be slowed down by company formation, statutory compliance, accounting, or payroll. From day one, these essentials should be seam",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "1786182020",
+      "notified": false,
+      "first_seen": "2026-08-08 11:24:15"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Marketing Manager, Europe",
+      "company": "Andela",
+      "location": "United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/andela/marketing-manager-europe-london-201869",
+      "description": "About Andela: At Andela, we know brilliance is evenly distributed around the world, but opportunity is not. For over 12 years, Andela has connected its customers with top global, remote technical talent from over 135 countries with the majority residing in emerging markets like A",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "1786182012",
+      "notified": false,
+      "first_seen": "2026-08-08 11:24:15"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13972,34 +14000,6 @@
       "language": "en",
       "posted_at": "1786052723",
       "notified": false,
-      "first_seen": "2026-08-07 00:16:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Staff Engineer",
-      "company": "Wolt - English",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/staff-engineer-london-414876",
-      "description": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries a",
-      "reason": "Ubicación no razonable",
-      "language": "en",
-      "posted_at": "1786052723",
-      "notified": false,
-      "first_seen": "2026-08-07 00:16:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Fullstack Engineer- AI Platform",
-      "company": "SoSafe",
-      "location": "United Kingdom Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sosafe/remote-senior-fullstack-engineer-ai-platform-146875",
-      "description": "SoSafe has the ambition to become the leading human risk management provider in Europe. Our award-winning awareness platform triggers behavioural change by providing effective and engaging training and simulations on cybersecurity and data protection. Cybercrime is costing the wo",
-      "reason": "Rol técnico de desarrollo de software con AI",
-      "language": "en",
-      "posted_at": "1786052422",
-      "notified": true,
       "first_seen": "2026-08-07 00:16:13"
     }
   ]
