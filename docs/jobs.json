@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T17:24:52+00:00",
+  "generated_at": "2026-08-08T17:42:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "LABOURER",
+      "company": "BRIMBLE",
+      "location": "Greater Newcastle Area, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-labourer-brimble-1136313",
+      "description": "Brimble is a rail maintenance contractor making Australian railways safer, smarter and more efficient for all. Our commitment to safety. CONTACT USEXPLORE Please mention the word **THRIFT** and tag RNC4yNDYuNjIuMjI1 when applying to show you read the job post completely (#RNC4yND",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-07T17:31:28+00:00",
+      "notified": false,
+      "first_seen": "2026-08-08 17:42:02"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-05T13:24:47+00:00",
       "notified": false,
       "first_seen": "2026-08-07 02:38:53"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Software Engineer",
-      "company": "Portless",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-portless",
-      "description": "Portless is changing the face of global e-commerce. By decoupling brands from traditional, expensive domestic warehousing, we allow e-commerce companies to ship directly from manufacturing hubs to global consumers in as little as 3-5 days. We are growing fast, and we are looking ",
-      "reason": "Puesto de Senior Software Engineer que implica desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-08-06T13:22:25+00:00",
-      "notified": true,
-      "first_seen": "2026-08-07 01:35:19"
     }
   ]
 }
