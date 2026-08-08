@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T15:24:32+00:00",
+  "generated_at": "2026-08-08T15:41:55+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Oficial de inventario san pedro sula",
+      "company": "DYCOMER",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099477/auxiliar-de-bodega.aspx",
+      "description": "Oficial de inventario san pedro sula - DYCOMER - Cortés,Honduras - Expira en: 22/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-08 15:41:44"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13981,20 +13995,6 @@
       "company": "Setsales",
       "location": "London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/management-graduate-program-intake-french-speaker-setsales-london-51594",
-      "description": "&lt;p&gt;Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786064109",
-      "notified": false,
-      "first_seen": "2026-08-07 01:35:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Management Graduate Program Intake (Danish speaker) SetSales",
-      "company": "Setsales",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/management-graduate-program-intake-danish-speaker-setsales-london-216722",
       "description": "&lt;p&gt;Are you looking for challenges within an exceptional entrepreneurial team with young, motivated and extremely driven people? If so, now is the time to apply for our 4 months paid Internship Program in London.&lt;/p&gt; &lt;h3&gt;&lt;strong&gt;About us&lt;/strong&gt;&lt;/",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
