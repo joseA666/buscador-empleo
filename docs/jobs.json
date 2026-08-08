@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-08T15:56:00+00:00",
+  "generated_at": "2026-08-08T16:08:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Director (Scientific Visualisation & Experiential)",
+      "company": "Realchemistry",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/realchemistry/account-director-scientific-visualisation-experiential-74301",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;At Real Chemistry, making the world a healthier place isn’t just an aspiration—it’s our everyday reality. Our drive to transform healthcare is informed by our blend of deep scientific expertise, human-centred creativity, and AI-",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786204515",
+      "notified": false,
+      "first_seen": "2026-08-08 16:08:39"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Sales Talent Pool",
+      "company": "Checkatrade",
+      "location": "Moorgate London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/checkatrade/sales-talent-pool-moorgate-198732",
+      "description": "As part of our Sales Talent Pool, you'll be first in line for a range of roles across our sales team. We're always on the lookout for great salespeople, so rather than post one role at a time and hope the right person spots it, we're building a community of people we want to talk",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786203628",
+      "notified": false,
+      "first_seen": "2026-08-08 16:08:39"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "No es un rol técnico de desarrollo de software y ubicación no es razonable",
       "language": "en",
       "posted_at": "1786064103",
-      "notified": false,
-      "first_seen": "2026-08-07 01:35:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Scientist (Electromagnetic Environment)",
-      "company": "84674Th44Metrea9999",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/84674th44metrea9999/data-scientist-electromagnetic-environment-london-244034",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3 id=&quot;isPasted&quot;&gt;&lt;strong&gt;Company Overview&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Metrea delivers effects-as-a-service to national security partners across five domains and more than a dozen mission areas. These include",
-      "reason": "No menciona tecnologías específicas del perfil y ubicación no es razonable",
-      "language": "en",
-      "posted_at": "1786064103",
-      "notified": false,
-      "first_seen": "2026-08-07 01:35:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Account Executive - UK",
-      "company": "Clockwork.io",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clockworkio/senior-account-executive-uk-london-223786",
-      "description": "About Clockwork Systems Clockwork.io – Software Driven Fabrics to increase GPU cluster utilization Clockwork Systems was founded by Stanford researchers and veteran systems engineers who share a vision for redefining the foundations of distributed computing. As AI workloads grow ",
-      "reason": "No es un rol técnico de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786063528",
       "notified": false,
       "first_seen": "2026-08-07 01:35:12"
     }
