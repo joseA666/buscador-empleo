@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T04:14:23+00:00",
+  "generated_at": "2026-08-08T04:38:43+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Desenvolvimento Java AWS Sênior | Remoto - 135150 (Alphaville - Barueri, BR, 06.",
+      "company": "gft",
+      "location": "Remote",
+      "url": "https://remotejobs.org/remote-jobs/desenvolvimento-java-aws-snior-remoto-135150-alphaville-barueri-br-06-gft",
+      "description": "O que buscamos: Profissional de nível Sênior que atue com (Java/AWS). Responsabilidades: - Desenvolver, manter e testar APIs e microsserviços utilizando Java com Spring Boot e arquitetura cloud AWS. - Atuar na construção de soluções escaláveis, resilientes e de alta disponibilida",
+      "reason": "La vacante busca un profesional con experiencia en Java y AWS, lo que coincide con el perfil del candidato",
+      "language": "other",
+      "posted_at": "2026-08-06T13:34:14+00:00",
+      "notified": true,
+      "first_seen": "2026-08-08 04:38:42"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786044629",
-      "notified": false,
-      "first_seen": "2026-08-06 22:18:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in als Founder's Associate (m/w/d)",
-      "company": "The Gentlemen's Company Germany GmbH",
-      "location": "Heidelberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-gentlemens-company-germany-gmbh/werkstudentin-als-founders-associate-heidelberg-393068",
-      "description": "Du willst hautnah miterleben, wie ein Startup international wächst? Du denkst strukturiert, packst aber genauso gerne selbst mit an? Dich reizt es, heute eine Marktanalyse zu bauen und morgen ein Partner-Onboarding zu koordinieren? It's a match! 🚀 Wir suchen Dich als Founder's As",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786041035",
       "notified": false,
       "first_seen": "2026-08-06 22:18:56"
     }
