@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T15:07:59+00:00",
+  "generated_at": "2026-08-08T15:24:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "How Apply",
+      "company": "The Philadelphia School",
+      "location": "Jabalpur, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-how-apply-the-philadelphia-school-1136304",
+      "description": "Medical, dental, vision insurance Retirement plan with employer match Paid vacation, school holidays, personal days Family, medical, parental leave Professional development opportunities Tuition remission for faculty/staff, discount on summer programs and after school clubs Exten",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-07T15:12:19+00:00",
+      "notified": false,
+      "first_seen": "2026-08-08 15:24:21"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786064109",
       "notified": false,
       "first_seen": "2026-08-07 01:35:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director of Talent Acquisition at SetSales",
-      "company": "Setsales",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/director-of-talent-acquisition-at-setsales-london-193749",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with motivated and extremely driven people? And are you curious ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786064108",
-      "notified": false,
-      "first_seen": "2026-08-07 01:35:08"
     }
   ]
 }
