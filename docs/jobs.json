@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-08T18:10:38+00:00",
+  "generated_at": "2026-08-08T18:25:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Sub contador",
+      "company": "Laboratorios Finlay",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099517/contador-general.aspx",
+      "description": "Sub contador - Laboratorios Finlay - Cortés,Honduras - Expira en: 22/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-08 18:25:19"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13986,20 +14000,6 @@
       "language": "en",
       "posted_at": "1786070422",
       "notified": true,
-      "first_seen": "2026-08-07 03:41:33"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Marketing",
-      "company": "Clera",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/head-of-marketing-berlin-226210",
-      "description": "About the Role A fast-growing, Y Combinator–backed conversational AI startup is hiring a Head of Marketing to own and scale its entire marketing engine — from strategy and budget to hands-on execution. The company builds an AI voice platform that automates customer call operation",
-      "reason": "No es un rol de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786070422",
-      "notified": false,
       "first_seen": "2026-08-07 03:41:33"
     }
   ]
