@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-08T05:06:33+00:00",
+  "generated_at": "2026-08-08T05:29:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "CANDIDATURE SPONTANÃE",
+      "company": "ALSEI",
+      "location": "The Pas, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-candidature-spontanee-alsei-1136286",
+      "description": "Candidature spontanÃ©e Nom * PrÃ©nom * E-mail * TÃ©lÃ©phone CV * Modal title Parcourir... image nomFileFull nomFileFull : messError Extensions autorisÃ©es : pdf, doc, docx Lettre de motivation Modal title Parcourir... image nomFileFull nomFileFull : messError Extensions autorisÃ©",
+      "reason": "",
+      "language": "other",
+      "posted_at": "2026-08-07T05:28:22+00:00",
+      "notified": false,
+      "first_seen": "2026-08-08 05:29:29"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "CHECK BACK SOON",
+      "company": "Yacht Club Games",
+      "location": "More, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-check-back-soon-yacht-club-games-1136293",
+      "description": "Yacht Club Games is looking to lovingly maintain and update our debut title, Shovel Knight, as well as prepare for all new games in the future! Weâre a small team but maybe you can become the newest member of the Y.C. crew! If you would like to still give it a shot, feel like y",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-07T05:06:37+00:00",
+      "notified": false,
+      "first_seen": "2026-08-08 05:29:29"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1786049752",
-      "notified": false,
-      "first_seen": "2026-08-06 22:18:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive - Frankfurt (m/w/d)",
-      "company": "Ideals",
-      "location": "Frankfurt, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/ideals/enterprise-account-executive-frankfurt-frankfurt-germany-478026",
-      "description": "Get to know us Ideals is a global B2B SaaS product company recognized as the most highly rated and customer-centric brand in the secure business collaboration market. Trusted by over 2,000,000 users from 300,000 companies globally, we help people run high-stakes processes and mak",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786048825",
-      "notified": false,
-      "first_seen": "2026-08-06 22:18:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Lagermitarbeiter/ Warehouseworker (m/w/d)",
-      "company": "Rohlik",
-      "location": "Schönefeld bei Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/rohlik/lagermitarbeiter-warehouseworker-schonefeld-142238",
-      "description": "Wir suchen Verstärkung für unser Lagerhaus! Die Stelle befindet sich in Schönefeld bei Berlin. Was wir dir bieten: Monatliches Fixgehalt von 2409,29 € brutto Zusätzlich pro Arbeitstag 9,- Essenszulagen Zusätzlich pro Arbeitstag 5,- Fahrtkostenzuschlag Bezahlte Überstunden 2x jähr",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786048821",
       "notified": false,
       "first_seen": "2026-08-06 22:18:56"
     }
