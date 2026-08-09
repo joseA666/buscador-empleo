@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-09T13:21:30+00:00",
+  "generated_at": "2026-08-09T13:46:53+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "YOUR JOB DESCRIPTION HERE",
+      "company": "Compucorp Inc",
+      "location": "Kharagpur-I, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-your-job-description-here-compucorp-inc-1136336",
+      "description": "OUR JOB LISTINGS Compucorp is always looking for talented employees to add to our team. Take a look at our current open positions. Keep checking back new posts are added frequently. YOUR JOB DESCRIPTION HERE I am text block. Click edit button to change this text. Lorem ipsum dolo",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-08T13:23:12+00:00",
+      "notified": false,
+      "first_seen": "2026-08-09 13:46:52"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786122033",
-      "notified": false,
-      "first_seen": "2026-08-07 18:17:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Accounting & Controlling (m/w/d)",
-      "company": "Novatera GmbH",
-      "location": "Ulm",
-      "url": "https://www.arbeitnow.com/jobs/companies/novatera-gmbh/head-of-accounting-controlling-ulm-69235",
-      "description": "Großraum Aalen | Vollzeit | Führungsverantwortung für vier Mitarbeitende Zahlen sind für Sie kein Rückspiegel, sondern ein Navigationssystem? Für ein international tätiges Unternehmen mit rund 150 Mitarbeitenden im Großraum Aalen suchen wir eine erfahrene Führungspersönlichkeit a",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786122032",
       "notified": false,
       "first_seen": "2026-08-07 18:17:04"
     }
