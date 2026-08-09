@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-09T06:23:04+00:00",
+  "generated_at": "2026-08-09T06:47:08+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Sales Leader (Enterprise) | Germany",
+      "company": "Deepl",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/deepl/sales-leader-enterprise-germany-munich-25060",
+      "description": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-li",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "1786254019",
+      "notified": false,
+      "first_seen": "2026-08-09 06:47:08"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Product Designer at AIOS Medical — Remote, $90k-$150k/yr inc equity",
+      "company": "Aios",
+      "location": "Remote (EU)",
+      "url": "https://www.arbeitnow.com/jobs/companies/aios/product-designer-at-aios-medical-remote-90k-150k-yr-inc-equity-berlin-32045",
+      "description": "Product Designer at Aios Medical — Remote, $90k-$150k/yr inc equity About AIOS AIOS is building the world’s first full-stack AI doctor. We’re at $350M ARR, growing from $10M/yr 12 months ago. We’re the world’s fastest growing AI doctor. We’re faithfully serving &gt;150k/mo patien",
+      "reason": "No es un puesto de desarrollo de software, es de diseño de producto",
+      "language": "en",
+      "posted_at": "1786254017",
+      "notified": false,
+      "first_seen": "2026-08-09 06:47:08"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786101888",
-      "notified": false,
-      "first_seen": "2026-08-07 12:24:05"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Service Manager (w/m/d)",
-      "company": "Timetoact Group",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/timetoact-group/senior-service-manager-koln-46165",
-      "description": "Wofür wir dich suchen Als Senior Service Manager (w/m/d) übernimmst du die Verantwortung für die reibungslose Umsetzung unserer Managed Services für Identity &amp; Access Management (IAM)-Lösungen und bist zentrale Ansprechperson für unsere Kunden. Neben der Planung, Steuerung un",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786100983",
-      "notified": false,
-      "first_seen": "2026-08-07 12:24:05"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) IT Program Manager (m/f/x)",
-      "company": "Allane SE",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/allane-se/senior-it-program-manager-munchen-393021",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786100945",
       "notified": false,
       "first_seen": "2026-08-07 12:24:05"
     }
