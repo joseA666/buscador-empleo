@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-09T15:08:53+00:00",
+  "generated_at": "2026-08-09T15:24:38+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "St Georgeâs Cares",
+      "company": "Quintessence Films Limited",
+      "location": "St. George's, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-st-georges-cares-quintessence-films-limited-1136334",
+      "description": "Quintessence Films has helped many public and private sector organisations recruit and induct staff. From cabin crew to the Royal Marines, attracting the best talent is a challenge, and a well-crafted, engaging film can provide a valuable insight for prospective employees. Please",
+      "reason": "No es un puesto de desarrollo de software / IA",
+      "language": "en",
+      "posted_at": "2026-08-08T15:19:50+00:00",
+      "notified": false,
+      "first_seen": "2026-08-09 15:24:37"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786122040",
-      "notified": false,
-      "first_seen": "2026-08-07 18:17:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Auftragskoordinator Produktionsplanung (m/w/d)",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/auftragskoordinator-produktionsplanung-munich-9717",
-      "description": "Auftragskoordinator Produktionsplanung (m/w/d) - Vollzeit | München Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „Auftragskoordinator Produktionsplanung (m/w/d)“ . Aufgaben Als Produktionsplaner (m/w/d) erstellen und steuern S",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786122039",
       "notified": false,
       "first_seen": "2026-08-07 18:17:04"
     }
