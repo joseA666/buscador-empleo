@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-09T05:08:25+00:00",
+  "generated_at": "2026-08-09T05:32:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "'This Time Feels Different",
+      "company": "CHINADebate",
+      "location": "Anupgarh, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-this-time-feels-different-chinadebate-1136327",
+      "description": "All our careful analyses of PLA capabilities, the parsing of Mr. Xiâs and Mr. Bidenâs statements, the predictions as to the year of the invasion, everything â all out the window. This is one you wonât see coming â but one you have to have prepared for. Please mention th",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-08T05:28:17+00:00",
+      "notified": false,
+      "first_seen": "2026-08-09 05:32:37"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Faint Cracks",
+      "company": "CHINADebate",
+      "location": "March, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-faint-cracks-chinadebate-1136323",
+      "description": "All our careful analyses of PLA capabilities, the parsing of Mr. Xiâs and Mr. Bidenâs statements, the predictions as to the year of the invasion, everything â all out the window. This is one you wonât see coming â but one you have to have prepared for. Please mention th",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-08T05:25:08+00:00",
+      "notified": false,
+      "first_seen": "2026-08-09 05:32:37"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-05T10:54:57+00:00",
-      "notified": false,
-      "first_seen": "2026-08-07 11:04:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Development & Project Manager - Circular Economy Solutions",
-      "company": "easy recycle GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/easy-recycle-gmbh/business-development-project-manager-circular-economy-solutions-hamburg-205443",
-      "description": "Du willst nicht nur Konzepte entwickeln, sondern neue Hersteller-Rücknahmesysteme von Grund auf aufbauen und erfolgreich in den Markt bringen? Im Umfeld von easy recycle suchen wir eine unternehmerisch denkende Persönlichkeit, die gemeinsam mit Herstellern und Umsetzungspartnern ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786098638",
-      "notified": false,
-      "first_seen": "2026-08-07 11:04:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director Asset Delivery (m/w/d)",
-      "company": "encosa energy GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/encosa-energy-gmbh/director-asset-delivery-munich-386760",
-      "description": "🚀 Du sorgst dafür, dass aus ready-to-built BESS-Projekten gebaute, abgenommene Anlagen werden – termin-, kosten- und qualitätsgerecht. encosa steht für „energy cost savings\". Das ist unsere Mission. Wir helfen Unternehmen mit Batteriespeichern und intelligenter Software, ihre Str",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786098637",
       "notified": false,
       "first_seen": "2026-08-07 11:04:29"
     }
