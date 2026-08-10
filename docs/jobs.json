@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-10T21:16:22+00:00",
+  "generated_at": "2026-08-10T21:45:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Cajero liquidadorjuticalpa",
+      "company": "Grupo Almo",
+      "location": "Olancho,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099772/cajero.aspx",
+      "description": "Cajero liquidadorjuticalpa - Grupo Almo - Olancho,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 21:45:30"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Analista de inventario",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099765/auditor-interno.aspx",
+      "description": "Analista de inventario - GRUPO ELCATEX - Cortés,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 21:45:30"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de tecnología (it manager)",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099755/jefe-de-informatica-sistemas.aspx",
+      "description": "Jefe de tecnología (it manager) - Confidencial - Cortés,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 21:45:30"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13959,48 +14001,6 @@
       "posted_at": "1786243209",
       "notified": false,
       "first_seen": "2026-08-09 03:19:49"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "ICT Outsourcing Manager",
-      "company": "Lemon Markets",
-      "location": "Germany  (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/ict-outsourcing-manager-berlin-192667",
-      "description": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses. By empowering FinTechs, banks, and wealth managers to offer investment products, we help create financial well-being for their custo",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786243225",
-      "notified": false,
-      "first_seen": "2026-08-09 03:19:48"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Veck IO",
-      "company": "ProductionBeast",
-      "location": "Greater Anchorage Area, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-veck-io-productionbeast-1136320",
-      "description": "The third strength is the user interface. The search bar allows instant access to specific Car games, which saves valuable time. The Popular Games section offers social proof by showing trending titles, while the regularly râ¦ Learn more Â» Please mention the word **ENLIGHTENMEN",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-08T03:04:36+00:00",
-      "notified": false,
-      "first_seen": "2026-08-09 03:19:47"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Driving Directions",
-      "company": "ProductionBeast",
-      "location": "Lincoln, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-driving-directions-productionbeast-1136319",
-      "description": "Crossy Road doesn't have any complicated mechanics â you just hop, and that's it. https://crossyroad2.io Please mention the word **EXCELLENCY** and tag RMTMuODkuMTI0LjE5 when applying to show you read the job post completely (#RMTMuODkuMTI0LjE5). This is a beta feature to avoid",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-08T02:59:31+00:00",
-      "notified": false,
-      "first_seen": "2026-08-09 03:19:47"
     }
   ]
 }
