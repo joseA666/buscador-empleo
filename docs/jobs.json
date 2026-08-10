@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-10T19:36:14+00:00",
+  "generated_at": "2026-08-10T20:01:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asistente de facturación operativa sps",
+      "company": "RANSA HONDURAS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099708/facturador.aspx",
+      "description": "Asistente de facturación operativa sps - RANSA HONDURAS - Cortés,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 20:01:42"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13983,20 +13997,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/clera/founding-product-engineer-munich-106644",
       "description": "About the Role A fast-growing, Y Combinator–backed startup in the AI marketing space is hiring their first engineer in Munich. This is a true founding-scope role: you will own full product features end to end, working side by side with the founders and directly with customers. Th",
       "reason": "No menciona tecnologías específicas del perfil y la ubicación es Munich",
-      "language": "en",
-      "posted_at": "1786200022",
-      "notified": false,
-      "first_seen": "2026-08-08 22:42:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Brand Marketing Manager",
-      "company": "Clera",
-      "location": "remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/clera/remote-brand-marketing-manager-224387",
-      "description": "About the Role A fast-growing, AI-powered Gen Z talent and gig marketplace is looking for a Brand Marketing Manager to own brand voice, content strategy, and creator programs across both student-facing and B2B partner channels. You'll be the connective tissue between a digitally ",
-      "reason": "No es un rol técnico de desarrollo de software",
       "language": "en",
       "posted_at": "1786200022",
       "notified": false,
