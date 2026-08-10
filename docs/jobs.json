@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-10T04:17:29+00:00",
+  "generated_at": "2026-08-10T05:02:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asesor de servicio en taller automotriz",
+      "company": "CONTINENTAL MOTORES",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099558/ejecutivo-de-servicio-al-cliente.aspx",
+      "description": "Asesor de servicio en taller automotriz - CONTINENTAL MOTORES - Francisco Morazán,Honduras - Expira en: 23/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 05:02:58"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "AI-Native Software Entwickler (m/w/d)",
+      "company": "JUNE GmbH",
+      "location": "München + Remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/june-gmbh/remote-ai-native-software-entwickler-394488",
+      "description": "HERAUSFORDERUNG UND PERSPEKTIVE Bei uns lernst du Agentic Coding dort, wo es bereits täglich eingesetzt wird! Du hast die ersten eigenen Projekte gebaut. Nicht perfekt, aber echt. Du hast mit Claude Code, Codex oder anderen AI-Tools experimentiert und gemerkt: So wird Softwareent",
+      "reason": "La vacante no está escrita en español y la ubicación no es razonable",
+      "language": "other",
+      "posted_at": "1786230575",
+      "notified": false,
+      "first_seen": "2026-08-10 05:02:58"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786165781",
       "notified": false,
       "first_seen": "2026-08-08 06:15:42"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Financial Analyst",
-      "company": "Quantum",
-      "location": "London (hybrid)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/financial-analyst-london-141308",
-      "description": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering valu",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786160424",
-      "notified": false,
-      "first_seen": "2026-08-08 05:50:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Management Accountant",
-      "company": "Quantum",
-      "location": "London (hybrid)",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/quantum/management-accountant-london-362838",
-      "description": "Our Company At Quantum, we connect global brands with high-intent consumers. We turn intent into action and complexity into clarity. Our Mission is clear, to help smarter, faster buying decisions. Our vision, to be the world’s most used digital comparison service, delivering valu",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786160424",
-      "notified": false,
-      "first_seen": "2026-08-08 05:50:12"
     }
   ]
 }
