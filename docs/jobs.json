@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-10T17:33:32+00:00",
+  "generated_at": "2026-08-10T18:02:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Técnico electricista",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099670/electricista.aspx",
+      "description": "Técnico electricista - Confidencial - Cortés,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 18:02:09"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Sub gerente de tienda sps",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099669/sub-gerente-de-tienda-sucursal.aspx",
+      "description": "Sub gerente de tienda sps - Confidencial - Cortés,Honduras - Expira en: 24/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-10 18:02:09"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786221623",
-      "notified": false,
-      "first_seen": "2026-08-08 21:11:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AIT Thermal & Qualification Intern",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/ait-thermal-qualification-intern-munich-498772",
-      "description": "Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit and that can carry cargo - and potentially humans in the longer run. Your mission: Here at the The Exploration ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786221623",
-      "notified": false,
-      "first_seen": "2026-08-08 21:11:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Softwareentwickler Automatisierungstechnik / SPS-Programmierer (m/w/d)",
-      "company": "CERTUSS GmbH",
-      "location": "Krefeld, Nordrhein-Westfalen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/certuss-gmbh/softwareentwickler-automatisierungstechnik-sps-programmierer-krefeld-479744",
-      "description": "Softwareentwickler Automatisierungstechnik / SPS-Programmierer (m/w/d) Standort: Krefeld | Vollzeit (40 h Woche) | unbefristet SPS-Programmierung | Automatisierungstechnik | Visualisierung | Steuerungstechnik CERTUSS ist Teil des japanischen Miura-Konzerns und bewahrt dabei bewus",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786221006",
       "notified": false,
       "first_seen": "2026-08-08 21:11:58"
     }
