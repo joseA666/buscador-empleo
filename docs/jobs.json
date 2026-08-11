@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-11T21:17:45+00:00",
+  "generated_at": "2026-08-11T21:46:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asistente de sistemas",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1100155/asistente-de-sistemas.aspx",
+      "description": "Asistente de sistemas - Confidencial - Cortés,Honduras - Expira en: 25/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 25/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-11 21:46:27"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13983,20 +13997,6 @@
       "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-engineering-lead-payments-15821",
       "description": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford U",
       "reason": "Puesto de liderazgo en ingeniería de pagos",
-      "language": "en",
-      "posted_at": "1786339451",
-      "notified": true,
-      "first_seen": "2026-08-10 06:15:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Engineering Lead, Agentic Infrastructure",
-      "company": "Vivenu",
-      "location": "Remote Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/vivenu/remote-data-engineering-lead-agentic-infrastructure-320633",
-      "description": "Redefine the future of live entertainment tech Welcome to vivenu, the global leader in event ticketing tech and one of the world’s fastest-growing live entertainment tech firms. We are transforming event ticketing for global leaders like the Grammys, the Golden Globes, Stanford U",
-      "reason": "Puesto de liderazgo en ingeniería de datos",
       "language": "en",
       "posted_at": "1786339451",
       "notified": true,
