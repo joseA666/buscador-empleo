@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-11T15:07:21+00:00",
+  "generated_at": "2026-08-11T15:34:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Director, Software Engineering",
+      "company": "PointClickCare",
+      "location": "Remote or Mississauga",
+      "url": "https://remotejobs.org/remote-jobs/director-software-engineering-pointclickcare",
+      "description": "Job Title: Director, Software Engineering Location: Remote – Canada or Hybrid – Mississauga, ON **Travel to Office expectations** For Remote Roles: If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City of",
+      "reason": "No coincide con el perfil de desarrollo de software/IA y la ubicación no es razonable",
+      "language": "en",
+      "posted_at": "2026-08-10T20:54:28.088+00:00",
+      "notified": false,
+      "first_seen": "2026-08-11 15:34:04"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Director, Software Engineering",
+      "company": "PointClickCare",
+      "location": "Remote, USA",
+      "url": "https://remotejobs.org/remote-jobs/director-software-engineering-pointclickcare-lever_",
+      "description": "Job Title: Director, Software Engineering Location: Remote – US **Travel to Office expectations** For Remote Roles: If this role is remote, there will be in-office events that will require travel to and from the Mississauga and/or Salt Lake City office. These will include, but no",
+      "reason": "No coincide con el perfil de desarrollo de software/IA y la ubicación no es razonable",
+      "language": "en",
+      "posted_at": "2026-08-10T20:52:56.067+00:00",
+      "notified": false,
+      "first_seen": "2026-08-11 15:34:04"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Coordinador de seguridad  colon",
+      "company": "Dinant",
+      "location": "Colón,Honduras",
+      "url": "https://www.tecoloco.com.hn/1099933/oficial-de-seguridad.aspx",
+      "description": "Coordinador de seguridad colon - Dinant - Colón,Honduras - Expira en: 25/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 25/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-11 15:34:03"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13958,48 +14000,6 @@
       "language": "en",
       "posted_at": "1786319732",
       "notified": true,
-      "first_seen": "2026-08-10 00:32:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Full-Stack Developer",
-      "company": "Nebius",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/nebius/ai-full-stack-developer-236134",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Nebius:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises",
-      "reason": "Puesto de desarrollador full-stack de IA",
-      "language": "en",
-      "posted_at": "1786319732",
-      "notified": true,
-      "first_seen": "2026-08-10 00:32:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Solutions Engineer, Germany",
-      "company": "Cribl",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/cribl/senior-solutions-engineer-germany-279967",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Join the company that’s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world’s biggest enterprises, including half of the Fortune 100, to bridge the gap betwe",
-      "reason": "No se menciona la ubicación o es incompatible con el perfil",
-      "language": "en",
-      "posted_at": "1786319728",
-      "notified": false,
-      "first_seen": "2026-08-10 00:32:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Security Consultant",
-      "company": "Tenableinc",
-      "location": "Netherlands - Remote, Italy - Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/tenableinc/remote-senior-security-consultant-328302",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Who is Tenable?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees su",
-      "reason": "Puesto de consultor de seguridad, no es desarrollo de software",
-      "language": "en",
-      "posted_at": "1786319725",
-      "notified": false,
       "first_seen": "2026-08-10 00:32:23"
     }
   ]
