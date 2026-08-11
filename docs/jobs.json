@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-11T07:08:38+00:00",
+  "generated_at": "2026-08-11T07:42:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Principal, Marketing Analytics",
+      "company": "Remote",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/145648-principal-marketing-analytics",
+      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work cult",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-11T04:10:04+00:00",
+      "notified": false,
+      "first_seen": "2026-08-11 07:42:31"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13984,20 +13998,6 @@
       "description": "Ihre Aufgaben Um unser Business weiter auszubauen, suchen wir engagierte neue Kolleg*innen, die uns auf unserer Digital-Marketing-Mission begleiten - und das im Creative-Bereich! Du denkst Kampagnen vom Insight bis zum Creative, verbindest Strategie mit Kreation und entwickelst A",
       "reason": "",
       "language": "other",
-      "posted_at": "1786262976",
-      "notified": false,
-      "first_seen": "2026-08-09 09:25:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Unternehmensstrategie & Geschäftsführung (m/w/d)",
-      "company": "Deutsche GigaNetz GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/deutsche-giganetz-gmbh/werkstudent-unternehmensstrategie-geschaftsfuhrung-hamburg-22263",
-      "description": "Unser Angebot Deine Gesundheit liegt uns am Herzen: Mit dem Wellpass kannst du deutschlandweit günstig in Fitnessstudios trainieren oder auf unseren beiden Booten auf der Alster segeln. Für deine tägliche Portion Vitamine ist gesorgt: In unseren Büros findest du kostenfreie Obstk",
-      "reason": "",
-      "language": "en",
       "posted_at": "1786262976",
       "notified": false,
       "first_seen": "2026-08-09 09:25:58"
