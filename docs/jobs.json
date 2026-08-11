@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-11T20:03:40+00:00",
+  "generated_at": "2026-08-11T20:28:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asistente soporte técnico it",
+      "company": "ARS HONDURAS",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1100116/soporte-tecnico.aspx",
+      "description": "Asistente soporte técnico it - ARS HONDURAS - Francisco Morazán,Honduras - Expira en: 25/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 25/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-11 20:28:14"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "service professionals",
+      "company": "Homelyo",
+      "location": "Jamshedpur, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-service-professionals-homelyo-1136366",
+      "description": "Company Description Homelyo is a smart home-services platform designed for Tier 2 and Tier 3 cities, making everyday household needs simple, fast, and reliable. The platform connects users with trusted local professionals for essential services through an easy-to-use app. With on",
+      "reason": "No se menciona desarrollo de software o IA en la descripción",
+      "language": "en",
+      "posted_at": "2026-08-10T20:15:16+00:00",
+      "notified": false,
+      "first_seen": "2026-08-11 20:28:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "1786334136",
-      "notified": false,
-      "first_seen": "2026-08-10 04:17:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Integration and Test Engineer (Software)",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-integration-and-test-engineer-software-sydney-australia-32413",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most ",
-      "reason": "Puesto de ingeniería de software",
-      "language": "en",
-      "posted_at": "1786334136",
-      "notified": true,
-      "first_seen": "2026-08-10 04:17:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Electrical Engineer",
-      "company": "Andurilindustries",
-      "location": "Sydney, Australia",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/andurilindustries/senior-electrical-engineer-sydney-australia-312249",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Anduril Industries is a defense technology company with a mission to transform U.S. and allied military capabilities with advanced technology. By bringing the expertise, technology, and business model of the 21st century’s most ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786334135",
       "notified": false,
       "first_seen": "2026-08-10 04:17:26"
     }
