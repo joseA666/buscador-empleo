@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-12T12:24:39+00:00",
+  "generated_at": "2026-08-12T12:48:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Junior Crypto Trader",
+      "company": "ATOM Partners",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-junior-crypto-trader-atom-partners-1136383",
+      "description": "ATOM Partners is an international company focused on digital asset markets, trading technologies, and data-driven market research. We work with modern analytical tools and help aspiring professionals build practical knowledge of cryptocurrency trading in a structured environment.",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-11T12:28:07+00:00",
+      "notified": false,
+      "first_seen": "2026-08-12 12:48:01"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13986,20 +14000,6 @@
       "language": "other",
       "posted_at": "1786370968",
       "notified": true,
-      "first_seen": "2026-08-10 19:36:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive (m/f/d)",
-      "company": "360Learning",
-      "location": "Berlin, Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/360learning/remote-enterprise-account-executive-401432",
-      "description": "As the first Enterprise Account Executive for DACH, you will lead 360Learning’s expansion into one of Europe’s most strategic markets. Joining a team of 9 Enterprise AEs across France and the UK, you will bring our proven enterprise sales motion to DACH and build the foundations ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786370658",
-      "notified": false,
       "first_seen": "2026-08-10 19:36:04"
     }
   ]
