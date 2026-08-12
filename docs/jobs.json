@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-12T20:04:02+00:00",
+  "generated_at": "2026-08-12T20:27:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Manager Operational Excellence & Prozessoptimierung (m/w/d) | Raum: Ostschweiz",
+      "company": "CONCAPE",
+      "location": "Friedrichshafen",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/manager-operational-excellence-prozessoptimierung-raum-ostschweiz-friedrichshafen-42873",
+      "description": "Ein produzierendes Unternehmen in der Ostschweiz stellt seine operative Leistungsfähigkeit auf ein neues Fundament – und sucht dafür die erste Person, die OPEX im Werk auf- und ausbaut. Die Rolle ist neu geschaffen, berichtet direkt an das C-Level. Aufgaben Worum es geht Sie vers",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786564827",
+      "notified": false,
+      "first_seen": "2026-08-12 20:26:55"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Manager Operational Excellence & Prozessoptimierung (m/w/d) | Raum: Ostschweiz",
+      "company": "CONCAPE",
+      "location": "Kempten",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/manager-operational-excellence-prozessoptimierung-raum-ostschweiz-kempten-33663",
+      "description": "Ein produzierendes Unternehmen in der Ostschweiz stellt seine operative Leistungsfähigkeit auf ein neues Fundament – und sucht dafür die erste Person, die OPEX im Werk auf- und ausbaut. Die Rolle ist neu geschaffen, berichtet direkt an das C-Level. Aufgaben Worum es geht Sie vers",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786564827",
+      "notified": false,
+      "first_seen": "2026-08-12 20:26:55"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Quality Assurance Specialist",
+      "company": "Irca Group",
+      "location": "Hochheim am Main, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/irca-group/quality-assurance-specialist-hochheim-am-main-germany-354555",
+      "description": "Who we are: IRCA Group, an Advent portfolio company, was founded in Italy in 1919, and it is a leading international B2B provider of high-quality semi-finished ingredients such as chocolate, decorations, creams, inclusions, nuts and pistachios, pastry mixes, gelato ingredients, a",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786565077",
+      "notified": false,
+      "first_seen": "2026-08-12 20:26:54"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Manager Operational Excellence & Prozessoptimierung (Food) - (m/w/d) | Raum: Ostschweiz",
+      "company": "CONCAPE",
+      "location": "Lindau",
+      "url": "https://www.arbeitnow.com/jobs/companies/concape/manager-operational-excellence-prozessoptimierung-food-raum-ostschweiz-lindau-350903",
+      "description": "Ein produzierendes Unternehmen in der Ostschweiz stellt seine operative Leistungsfähigkeit auf ein neues Fundament – und sucht dafür die erste Person, die OPEX im Werk auf- und ausbaut. Die Rolle ist neu geschaffen, berichtet direkt an das C-Level. Aufgaben Worum es geht Sie vers",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786564829",
+      "notified": false,
+      "first_seen": "2026-08-12 20:26:54"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-06T15:56:05.000Z",
       "notified": true,
       "first_seen": "2026-08-11 08:35:11"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "DoubleVerify (DV Scibids)",
-      "company": "Ver descripcion",
-      "location": "Ver descripcion",
-      "url": "https://news.ycombinator.com/item?id=49199157",
-      "description": "DoubleVerify (DV Scibids) | Sr. Data Engineer I | ONSITE&#x2F;HYBRID - New York, NY (3x&#x2F;week) | Full-time | $89K–$178K DV Scibids is the AI-powered digital campaign activation arm of DoubleVerify — the market standard for digital media measurement trusted by hundreds of Fort",
-      "reason": "Ubicación no razonable",
-      "language": "en",
-      "posted_at": "2026-08-06T16:47:25.000Z",
-      "notified": false,
-      "first_seen": "2026-08-11 08:35:11"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior DevOps Engineer",
-      "company": "Zartis",
-      "location": "European Union",
-      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-zartis-lever_437928",
-      "description": "The company and our mission: Zartis is a global AI transformation and technology consulting partner where talented engineers and technologists work on cutting edge innovation. We partner with ambitious organizations to design, build, and scale technology solutions that deliver re",
-      "reason": "La ubicación no es razonable",
-      "language": "en",
-      "posted_at": "2026-08-11T07:36:39.343+00:00",
-      "notified": false,
-      "first_seen": "2026-08-11 08:35:09"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Langfuse (now part of ClickHouse)",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49180088",
-      "description": "Langfuse (now part of ClickHouse) | Product Engineers &amp; Backend Engineers | Berlin &#x2F; EU-remote, ~1 week onsite every 2 months (travel covered) | Full-time | €70–130k + ClickHouse equity Hi, I&#x27;m Max, CTO and co-founder. Langfuse is the open-source LLM engineering pla",
-      "reason": "Puesto de ingeniero de backend con tecnologías relevantes",
-      "language": "en",
-      "posted_at": "2026-08-05T08:31:58.000Z",
-      "notified": true,
-      "first_seen": "2026-08-11 08:35:09"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Location: Blacksburg, Virginia, USA Remote: Yes (open to remote, hybrid, or on-site) Willing to relocate: Yes (Anywhere",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49180607",
-      "description": "Location: Blacksburg, Virginia, USA Remote: Yes (open to remote, hybrid, or on-site) Willing to relocate: Yes (Anywhere in the US) Technologies: Java, Spring Boot, Python, FastAPI, JavaScript&#x2F;TypeScript, React, Next.js, Node.js, PostgreSQL, MongoDB, GraphQL, Kafka, Docker, K",
-      "reason": "Puesto de ingeniero de software con tecnologías relevantes",
-      "language": "en",
-      "posted_at": "2026-08-05T09:50:02.000Z",
-      "notified": true,
-      "first_seen": "2026-08-11 08:35:09"
     }
   ]
 }
