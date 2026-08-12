@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-12T22:15:33+00:00",
+  "generated_at": "2026-08-12T22:45:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de calidad",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1100588/jefe-de-control-de-calidad.aspx",
+      "description": "Jefe de calidad - Confidencial - Cortés,Honduras - Expira en: 26/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 26/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-12 22:45:42"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de despacho santa rosa de copan",
+      "company": "Confidencial",
+      "location": "Copán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1100540/jefe-o-encargado-de-despacho-y-o-recepcion.aspx",
+      "description": "Supervisor de despacho santa rosa de copan - Confidencial - Copán,Honduras - Expira en: 26/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 26/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-12 22:45:42"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786440630",
-      "notified": false,
-      "first_seen": "2026-08-11 10:06:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
-      "company": "Kohnle & Partner",
-      "location": "Offenburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-offenburg-123781",
-      "description": "Kohnle &#x26; Partner, die etwas andere Steuerkanzlei. Modernste Technik, digitale Prozesse, dynamisches Wachstum, führende Experten, hochwertige Büros, überdurchschnittliche Bezahlung, ein hoch motiviertes Team und vieles mehr – wir reden nicht nur von Top-Arbeitsbedingungen, wi",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786440628",
-      "notified": false,
-      "first_seen": "2026-08-11 10:06:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Inhouse It Consultant / Systeminformatiker (m/w/d) - Am Standort Weingarten",
-      "company": "Kohnle & Partner",
-      "location": "Weingarten",
-      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/inhouse-it-consultant-systeminformatiker-am-standort-weingarten-207224",
-      "description": "Alles, außer gewöhnlich. Wir stellen uns vor. eit über 50 Jahren betreut Kohnle &#x26; Partner anspruchsvolle Mandate in allen wirtschaftlichen und steuerlichen Fragen. Mit inzwischen knapp 100 Mitarbeitenden an vier Standorten gehören wir zu den führenden Kanzleien in der Region",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786440628",
       "notified": false,
       "first_seen": "2026-08-11 10:06:53"
     }
