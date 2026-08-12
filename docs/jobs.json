@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-12T00:21:22+00:00",
+  "generated_at": "2026-08-12T00:48:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Expression of Interest",
+      "company": "Immutable",
+      "location": "Sydney, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-immutable-1136369",
+      "description": "About Us ð Immutable is the worldâs fastest-growing game platform, built to power the next generation of games. We aim to drive the next evolution of gaming, combining performance, digital ownership and cutting-edge technology to help games grow and succeed. At the intersect",
+      "reason": "La ubicación no es razonable y no se menciona el perfil técnico",
+      "language": "en",
+      "posted_at": "2026-08-11T00:41:10+00:00",
+      "notified": false,
+      "first_seen": "2026-08-12 00:48:52"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-10T04:15:05+00:00",
-      "notified": false,
-      "first_seen": "2026-08-10 07:32:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Development: Event & Outreach Werkstudent:in in Lübeck oder Leipzig",
-      "company": "singularIT GmbH",
-      "location": "Lübeck",
-      "url": "https://www.arbeitnow.com/jobs/companies/singularit-gmbh/business-development-event-outreach-werkstudentin-in-lubeck-oder-leipzig-180112",
-      "description": "Wir sind ein junges Unternehmen im Bereich Software-Entwicklung/IT-Beratung mit Sitz in Leipzig und Lübeck. Unser Ziel ist es, wirtschaftliche Problemstellungen durch innovative Technologien und Herangehensweisen zusammen im Team zu lösen. Begleite uns dabei und arbeite in entspa",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786345244",
       "notified": false,
       "first_seen": "2026-08-10 07:32:41"
     }
