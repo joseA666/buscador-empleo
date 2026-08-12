@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-12T23:15:32+00:00",
+  "generated_at": "2026-08-12T23:33:01+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Coordinador de tesorería (san pedro sula)",
+      "company": "AJE GROUP",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1100633/tesorero.aspx",
+      "description": "Coordinador de tesorería (san pedro sula) - AJE GROUP - Honduras - Expira en: 26/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 26/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-12 23:32:51"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13986,20 +14000,6 @@
       "language": "en",
       "posted_at": "1786442118",
       "notified": true,
-      "first_seen": "2026-08-11 10:06:55"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Group Design Director (FTC)",
-      "company": "Akqa",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/akqa/group-design-director-ftc-london-416695",
-      "description": "&lt;p class=&quot;p1&quot;&gt;&lt;span class=&quot;s1&quot;&gt;At AKQA (part of WPP), we believe in the imaginative application of art and science to create ideas, products, and services that move the world forward. We exist at the intersection of design, technology, and culture ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786442118",
-      "notified": false,
       "first_seen": "2026-08-11 10:06:55"
     }
   ]
