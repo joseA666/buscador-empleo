@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-12T08:10:23+00:00",
+  "generated_at": "2026-08-12T08:43:03+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Account Executive (London, Hybrid)",
+      "company": "Dualentry",
+      "location": "London, UK (Hybrid)",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/dualentry/senior-account-executive-london-hybrid-186128",
+      "description": "About DualEntry DualEntry is building the OS for finance. Every business needs a financial system of record, yet the world's largest fintech market ($220B+) still runs on software from the 1990s, with no new entrants in 30 years. DualEntry's AI-native ERP automates accounting fro",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "1786516814",
+      "notified": false,
+      "first_seen": "2026-08-12 08:43:02"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Non Teaching Staff",
+      "company": "University of Patanjali",
+      "location": "Tikamgarh, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-non-teaching-staff-university-of-patanjali-1136385",
+      "description": "Instructions (à¤¶à¤¿à¤à¥à¤·à¤£ à¤ªà¤¦) Download Form-01 , Fill out the form thoroughly and submit it via email. provc@uop.edu.in à¤«à¥à¤°à¥à¤®-01 à¤¡à¤¾à¤à¤¨à¤²à¥à¤¡ à¤à¤° à¤ªà¥à¤°à¥à¤£ à¤°à¥à¤ª à¤¸à¥ à¤­à¤°à¤à¤° à¤¸à¤®à¥à¤¬à¤¨à¥à¤§à¤¿à¤¤ à¤à¤®à¥à¤² à¤ªà¤° à¤ªà¥à",
+      "reason": "",
+      "language": "other",
+      "posted_at": "2026-08-11T08:38:36+00:00",
+      "notified": false,
+      "first_seen": "2026-08-12 08:42:59"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-10T10:25:03+00:00",
       "notified": false,
       "first_seen": "2026-08-10 14:38:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "SAP Basis (Senior) Consultant (m/w/d)",
-      "company": "Windhoff Group",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/windhoff-group/sap-basis-senior-consultant-gescher-378711",
-      "description": "Seit über 25 Jahren verwandeln wir bei der Windhoff Group Daten in echte Geschäftschancen – von klassischer Business Intelligence bis zur KI-getriebenen Automatisierung. Dabei denken wir ganzheitlich: Wir begleiten unsere Kunden End-to-End, von der Strategie über die technische U",
-      "reason": "No se ajusta al perfil de desarrollo de software/IA",
-      "language": "other",
-      "posted_at": "1786366886",
-      "notified": false,
-      "first_seen": "2026-08-10 14:11:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikant:in (m/w/d) Finance & Controlling im Kölner Startup",
-      "company": "Greenpocket",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/greenpocket/praktikantin-finance-controlling-im-kolner-startup-cologne-187747",
-      "description": "Du brennst für Zahlen? Controlling und Finanzen sind für Dich mehr als bloße Begriffe – sie sind Deine Leidenschaft? Du suchst eine herausfordernde Position, bei der Du Dein finanztechnisches Geschick unter Beweis stellen und kontinuierlich weiterentwickeln kannst? Dann bist Du b",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "other",
-      "posted_at": "1786370432",
-      "notified": false,
-      "first_seen": "2026-08-10 14:11:11"
     }
   ]
 }
