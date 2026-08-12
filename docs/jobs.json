@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-12T11:06:46+00:00",
+  "generated_at": "2026-08-12T11:31:02+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Talk us here if you canât find the job that youâre looking for",
+      "company": "Universal Wolf",
+      "location": "Blyth, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-talk-us-here-if-you-cant-find-the-job-that-youre-looking-for-universal-wolf-1136450",
+      "description": "Picture the scene; youâve found us and we share your brand values, you'd love to work here and we are in an ideal location for you, thereâs just one catchâ¦ we are not actually advertising any jobs which are relevant to you at the moment. So what do you do? You have only rea",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-11T11:20:43+00:00",
+      "notified": false,
+      "first_seen": "2026-08-12 11:30:59"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-security-senior-consultant-munchen-332201",
       "description": "DEINE AUFGABEN Du analysierst Geschäftsprozesse, Organisationsstrukturen oder technische Systeme und identifizierst Optimierungspotenziale durch den Einsatz von KI. Zusätzlich im Senior Level: Du berätst Kunden bei der sicheren Einführung und Nutzung von KI-Lösungen und unterstüt",
-      "reason": "Ubicación no es remoto amigable con Latinoamérica",
-      "language": "en",
-      "posted_at": "1786370995",
-      "notified": false,
-      "first_seen": "2026-08-10 17:33:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Governance (Senior) Consultant (m/w/d)",
-      "company": "Trusteq Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/ai-governance-senior-consultant-munchen-404845",
-      "description": "DEINE AUFGABEN Du analysierst bestehende Governance-Modelle und identifizierst Optimierungspotenziale im Kontext von AI Zusätzlich im Senior Level: Du übernimmst die Leitung komplexer Governance-Projekte, trägst die strategische Verantwortung für die Implementierung moderner AI-G",
       "reason": "Ubicación no es remoto amigable con Latinoamérica",
       "language": "en",
       "posted_at": "1786370995",
