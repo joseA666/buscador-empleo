@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-13T09:09:40+00:00",
+  "generated_at": "2026-08-13T09:39:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior DevOps Engineer (m/w/d)",
+      "company": "Collaboration Betters The World GmbH",
+      "location": "Munich",
+      "url": "https://www.arbeitnow.com/jobs/companies/collaboration-betters-the-world-gmbh/senior-devops-engineer-munich-448930",
+      "description": "Willkommen bei CBTW! Wir sind ein innovatives Team mit über 3.000 Mitarbeitern in 21 Ländern und führend in den Bereichen Strategie &#x26; Governance, Software-Engineering, Datenanalyse &#x26; KI und mehr. Als Mitglied unseres Teams bei CBTW arbeitest Du in einem inspirierenden U",
+      "reason": "No coincide con el perfil de desarrollo de software y la ubicación no es razonable",
+      "language": "other",
+      "posted_at": "1786608025",
+      "notified": false,
+      "first_seen": "2026-08-13 09:39:44"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13986,20 +14000,6 @@
       "language": "en",
       "posted_at": "1786473616",
       "notified": false,
-      "first_seen": "2026-08-11 19:08:47"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineering Lead",
-      "company": "Elliptic",
-      "location": "London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elliptic/software-engineering-lead-london-united-kingdom-338856",
-      "description": "Do you enjoy building scalable products that empower compliance teams to track fund flows and uncover deeper insights in financial data? Are you excited to solve complex engineering challenges that improve speed, precision, and usability across investigative workflows? Elliptic i",
-      "reason": "Puesto de Lider de Ingenieria de Software",
-      "language": "en",
-      "posted_at": "1786473616",
-      "notified": true,
       "first_seen": "2026-08-11 19:08:47"
     }
   ]
