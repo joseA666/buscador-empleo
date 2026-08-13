@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-13T10:09:04+00:00",
+  "generated_at": "2026-08-13T10:38:01+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Location: Charleston SC Remote: Yes Willing to relocate: No Technologies: PowerShell, Windows Server, Azure, AWS, Linux,",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49282255",
+      "description": "Location: Charleston SC Remote: Yes Willing to relocate: No Technologies: PowerShell, Windows Server, Azure, AWS, Linux, Active Directory, SCCM, VMware Hyper V, Dell PowerEdge iDRAC, SIEM and log analysis, incident response, patch management, R, Commvault, DNS and WiFi troublesho",
+      "reason": "No coincide con el perfil de desarrollo de software/IA",
+      "language": "en",
+      "posted_at": "2026-08-13T06:03:35.000Z",
+      "notified": false,
+      "first_seen": "2026-08-13 10:38:00"
+    },
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "SpendAi — I ship procurement-grade agents. ReWoo (paying UK client), QuantScope (35+ exchanges, 6-provider LLM fallback,",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49283824",
+      "description": "SpendAi — I ship procurement-grade agents. ReWoo (paying UK client), QuantScope (35+ exchanges, 6-provider LLM fallback, 33 unit tests). 1st-author Bengali speech AI paper. Kaggle Master Top 1%. Remote from Bangladesh (UTC+6). Available for paid trial this week. adilshamim.me · a",
+      "reason": "Coincide con el perfil de desarrollo de IA/LLM",
+      "language": "en",
+      "posted_at": "2026-08-13T10:16:18.000Z",
+      "notified": true,
+      "first_seen": "2026-08-13 10:38:00"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786482272",
       "notified": false,
       "first_seen": "2026-08-11 21:17:43"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "SpendAi",
-      "company": "Ver descripcion",
-      "location": "Ver descripcion",
-      "url": "https://news.ycombinator.com/item?id=49262437",
-      "description": "SpendAi | Seattle, WA | ONSITE | Senior Software Engineer | Engineer #4 SpendAi is a procurement intelligence startup which uses AI to organize procurement data for downstream consumption of AI agents. Our product turns fragmented procurement data into trusted procurement intelli",
-      "reason": "La ubicación es en Seattle, WA y requiere presencialidad",
-      "language": "en",
-      "posted_at": "2026-08-11T18:25:15.000Z",
-      "notified": false,
-      "first_seen": "2026-08-11 20:50:09"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Dave Evans",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49227265",
-      "description": "Dave Evans | Founding Engineer | Remote | Full-time | $170k-$210k + meaningful equity I’m hiring the first senior engineering hire for an early-stage multi-agent product. This is for a senior backend&#x2F;platform builder who still likes shipping product, not just designing syste",
-      "reason": "Requiere 6+ años de experiencia y no se ajusta al perfil",
-      "language": "en",
-      "posted_at": "2026-08-09T00:42:06.000Z",
-      "notified": false,
-      "first_seen": "2026-08-11 20:50:07"
     }
   ]
 }
