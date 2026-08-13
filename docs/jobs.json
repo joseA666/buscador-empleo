@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-13T17:35:31+00:00",
+  "generated_at": "2026-08-13T18:04:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Planificador de inventarios sps",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1100514/jefe-de-inventario.aspx",
+      "description": "Planificador de inventarios sps - Confidencial - Cortés,Honduras - Expira en: 26/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 26/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-13 18:04:29"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786516228",
-      "notified": false,
-      "first_seen": "2026-08-12 07:36:43"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikum Marketing & Content Creation| Vollzeit | 6 Monate",
-      "company": "No Bad Days Club (NBDC)",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/no-bad-days-club-nbdc/praktikum-marketing-content-creation-vollzeit-6-monate-berlin-404936",
-      "description": "Bei NBDC suchen wir eine:n Praktikant:in im Bereich Marketing &#x26; Content Creation für sechs Monate, der/die Lust hat, Marketing nicht nur kennenzulernen, sondern aktiv mitzugestalten. Du arbeitest eng mit den Gründern in einem kleinen Team zusammen und bist von Anfang an in u",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786514431",
       "notified": false,
       "first_seen": "2026-08-12 07:36:43"
     }
