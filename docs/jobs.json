@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-13T21:17:16+00:00",
+  "generated_at": "2026-08-13T21:46:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Technician",
+      "company": "The Security Centre Limited.",
+      "location": "George Town, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-technician-the-security-centre-limited-1136590",
+      "description": "Technician The Security Centre Limited is seeking a technically capable and customer-focused Technician to join our Systems Department. The successful candidate will be responsible for supporting the installation, commissioning, maintenance, servicing, and troubleshooting of elec",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-12T21:35:51+00:00",
+      "notified": false,
+      "first_seen": "2026-08-13 21:46:06"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "All Other Future Considerations",
+      "company": "WB Melback Corporation",
+      "location": "Haileybury, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-all-other-future-considerations-wb-melback-corporation-1136583",
+      "description": "Are you seeking to be submit your resume for future opportunities not currently posted? Please submit your resume here and we will consider you for future opportunities. Please mention the word **CIVILITY** and tag RMjAuMTIwLjg0Ljg0 when applying to show you read the job post com",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-12T21:26:49+00:00",
+      "notified": false,
+      "first_seen": "2026-08-13 21:46:06"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786527036",
       "notified": false,
       "first_seen": "2026-08-12 10:10:10"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Finance Manager (m/w/d) - Befristet auf 1 Jahr (Option auf Übernahme)",
-      "company": "edubily GmbH",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/edubily-gmbh/remote-senior-finance-manager-befristet-auf-1-jahr-option-auf-ubernahme-244037",
-      "description": "Wir sind edubily – eine D2C-Health-Brand mit klarer Mission. Seit über 11 Jahren entwickeln und verkaufen wir hochwertige Nahrungsergänzungsmittel über unseren eigenen Online-Shop und Amazon. Was uns besonders macht: Wir verkaufen nicht einfach Produkte, sondern vermitteln fundie",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786526413",
-      "notified": false,
-      "first_seen": "2026-08-12 10:10:10"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Recruiter (Research)",
-      "company": "Whitecircle",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/whitecircle/remote-recruiter-research-184816",
-      "description": "TL;DR: We’re looking for an AI Research Recruiter who knows where exceptional AI Researchers and engineers can be found. You’ll own full-cycle hiring across research, machine learning, data, evaluations, and ML infrastructure, helping us build one of the strongest teams in AI saf",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786516816",
-      "notified": false,
-      "first_seen": "2026-08-12 09:41:54"
     }
   ]
 }
