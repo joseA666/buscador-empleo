@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-14T21:24:06+00:00",
+  "generated_at": "2026-08-14T21:39:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Ingeniero hvac",
+      "company": "ICCE",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1101207/ingeniero-mecanico.aspx",
+      "description": "Ingeniero hvac - ICCE - Honduras - Expira en: 14/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 14/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-14 21:39:32"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1786611640",
-      "notified": false,
-      "first_seen": "2026-08-13 09:09:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Social Consultant",
-      "company": "wongdoody",
-      "location": "Berlin, DE",
-      "url": "https://www.arbeitnow.com/jobs/companies/wongdoody/senior-social-consultant-berlin-de-119558",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Wir sind mehr als 2.000 Kolleg:innen in 24 Designstudios auf vier Kontinenten – ein hochgradig kollaboratives Team aus Expert:innen für Produkterlebnisse, digitales Marketing und immersive Technologien. Unsere Lösungen entst",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786611320",
       "notified": false,
       "first_seen": "2026-08-13 09:09:31"
     }
