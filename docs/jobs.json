@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-14T13:29:07+00:00",
+  "generated_at": "2026-08-14T14:01:22+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior DevOps Engineer (Azure)",
+      "company": "Proxify AB",
+      "location": "Anywhere in the World",
+      "url": "https://remotejobs.org/remote-jobs/senior-devops-engineer-azure-proxify-ab-proxif",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Azure DevOps Engineer for one of our clients who would be responsible for ensuring the reliability, security, and scalability of Azure-based systems. You are a perfect candidate if you are gr",
+      "reason": "No coincide con el perfil de desarrollo de software/IA y requiere experiencia en Azure",
+      "language": "en",
+      "posted_at": "2026-08-14T09:58:29+00:00",
+      "notified": false,
+      "first_seen": "2026-08-14 14:01:22"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Expira en: 23/09/2026",
-      "notified": false,
-      "first_seen": "2026-08-12 23:15:22"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Coordinador de bodega sps",
-      "company": "GRUPO ALIMENTICIO S.A DE C.V.",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1099936/jefe-de-bodega.aspx",
-      "description": "Coordinador de bodega sps - GRUPO ALIMENTICIO S.A DE C.V. - Cortés,Honduras - Expira en: 25/09/2026",
-      "reason": "",
-      "language": "other",
-      "posted_at": "Expira en: 25/09/2026",
       "notified": false,
       "first_seen": "2026-08-12 23:15:22"
     }
