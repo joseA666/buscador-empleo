@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-14T23:38:26+00:00",
+  "generated_at": "2026-08-14T23:51:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Starlink Growth Lead, US South",
+      "company": "SpaceX",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-south-a4dc0d",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on ",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-14T23:46:23Z",
+      "notified": false,
+      "first_seen": "2026-08-14 23:51:57"
+    },
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Starlink Growth Lead, US Northeast",
+      "company": "SpaceX",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-northeast-7cb97f",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on ",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-14T23:46:22Z",
+      "notified": false,
+      "first_seen": "2026-08-14 23:51:57"
+    },
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Starlink Growth Lead, US South",
+      "company": "SpaceX",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-south",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on ",
+      "reason": "No es un rol de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-14T23:46:23Z",
+      "notified": false,
+      "first_seen": "2026-08-14 23:51:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13959,48 +14001,6 @@
       "posted_at": "1786611320",
       "notified": false,
       "first_seen": "2026-08-13 10:08:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive - Dach",
-      "company": "Monday.com",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/mondaycom/enterprise-account-executive-dach-munich-269410",
-      "description": "Shape the Future of Enterprise Success in the DACH Region with monday.com Ready to make your mark in an extraordinary company? Help us shape the region from our fast-growing Munich office, backed by a NASDAQ-listed company with $1B+ ARR. As part of one of the fastest-growing soft",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786610423",
-      "notified": false,
-      "first_seen": "2026-08-13 10:08:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Management Accountant",
-      "company": "Black Forest Labs",
-      "location": "Freiburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-forest-labs/management-accountant-freiburg-758",
-      "description": "About Black Forest Labs We're the team behind Latent Diffusion, Stable Diffusion, and FLUX—foundational technologies that changed how the world creates images and video. We’re creating the generative models that power how people make images and video—tools used by millions of cre",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786610422",
-      "notified": false,
-      "first_seen": "2026-08-13 10:08:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Growth Marketing Manager (m/w/d) in Vollzeit",
-      "company": "marswalk media GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/marswalk-media-gmbh/growth-marketing-manager-in-vollzeit-berlin-371277",
-      "description": "marswalk macht Unternehmen Zukunftssicher - indem wir sie für zukünftige Generationen relevant machen. Wir sind halb Agentur, halb Start-up. Gestartet als TikTok Agentur unterstützen wir heute Unternehmen vollumfänglich dabei Relevanz in jungen Zielgruppen zu gewinnen: mit Social",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786615242",
-      "notified": false,
-      "first_seen": "2026-08-13 10:08:52"
     }
   ]
 }
