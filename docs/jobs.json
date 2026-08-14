@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-14T19:58:39+00:00",
+  "generated_at": "2026-08-14T20:14:38+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Global Programme Director",
+      "company": "OLIVER Agency",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/oliver-agency/global-programme-director-london-77367",
+      "description": "Established in 2004, OLIVER is the world's first and only specialist in designing, building, and running bespoke in-house agencies and marketing ecosystems for brands. We partner with over 300 clients in 40+ countries and counting. Our unique model drives creativity and efficienc",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "1786718721",
+      "notified": false,
+      "first_seen": "2026-08-14 20:14:37"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Software Engineer (BE/Fullstack)",
+      "company": "TeamSnap",
+      "location": "Remote",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-befullstack-teamsnap",
+      "description": "🌎 About Us At TeamSnap, we believe when the world connects through sports; the world becomes better. TeamSnap is a sports and communication platform dedicated to taking the work out of play in youth sports. We also believe our jobs should excite us, our teammates should support u",
+      "reason": "Puesto de Senior Software Engineer (BE/Fullstack) remoto",
+      "language": "en",
+      "posted_at": "2026-08-14T19:39:34.703+00:00",
+      "notified": true,
+      "first_seen": "2026-08-14 20:14:37"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "1786604119",
-      "notified": false,
-      "first_seen": "2026-08-13 08:31:40"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Development Representative",
-      "company": "Ben",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/ben/business-development-representative-london-90827",
-      "description": "Our Mission We’re not your average benefits platform – we’re the driving force that uplifts people’s lives. Our technology connects the entire benefits ecosystem, creating better outcomes for employers, employees, brokers, and providers. Our mission is clear: to build a world whe",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786603220",
-      "notified": false,
-      "first_seen": "2026-08-13 08:31:40"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "EMEA Channel Marketing Manager",
-      "company": "NETGEAR",
-      "location": "Berkshire, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/netgear/emea-channel-marketing-manager-bracknell-333844",
-      "description": "Role Overview The EMEA Channel Marketing Manager is responsible for driving partner-led demand and pipeline growth across the region by deeply understanding the local channel ecosystem and activating the right partners through targeted programmes, communications, content, and eve",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786603219",
       "notified": false,
       "first_seen": "2026-08-13 08:31:40"
     }
