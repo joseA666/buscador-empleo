@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-14T21:52:03+00:00",
+  "generated_at": "2026-08-14T22:05:06+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Técnico de mantenimiento industrial",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101229/mecanico.aspx",
+      "description": "Técnico de mantenimiento industrial - Confidencial - Cortés,Honduras - Expira en: 27/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 27/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-14 22:05:06"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786611642",
-      "notified": false,
-      "first_seen": "2026-08-13 09:09:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Financial Accountant / Finance Coordinator (m/w/d)",
-      "company": "Tiens",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/tiens/financial-accountant-finance-coordinator-berlin-270656",
-      "description": "The TIENS Group Co., Ltd. is a multinational conglomerate, integrating industrial capital, business capital and financial capital with its scope of business covering biotechnology, health management, hotel and tourism industry, education &#x26; training, e-commerce and finance in",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786611640",
       "notified": false,
       "first_seen": "2026-08-13 09:09:31"
     }
