@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T10:38:41+00:00",
+  "generated_at": "2026-08-15T10:51:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Engineer Officer",
+      "company": "Canadian Armed Forces | Forces armÃ©es canadiennes",
+      "location": "Moncton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
+      "description": "Overview As a member of the military, Engineer Officers help the army live, move and fight. They are members of the Corps of Royal Canadian Engineers. Together with the Armour, Infantry and Artillery, Engineer Officers are an integral part of the Combat Arms. The primary responsi",
+      "reason": "No es un puesto de desarrollo de software / IA",
+      "language": "en",
+      "posted_at": "2026-08-14T10:44:01+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 10:51:15"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Saltz",
       "location": "Dusseldorf",
       "url": "https://www.arbeitnow.com/jobs/companies/saltz/field-sales-executive-dusseldorf-dusseldorf-266092",
-      "description": "About us: Saltz is an online food marketplace serving restaurants across multiple European markets. We help chefs and restaurants discover and source products from trusted local and international suppliers. At Saltz, we believe the best ingredients should be accessible through on",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786642804",
-      "notified": false,
-      "first_seen": "2026-08-13 19:07:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Field Sales Executive (m/f/d) - Berlin",
-      "company": "Saltz",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/saltz/junior-field-sales-executive-berlin-151320",
       "description": "About us: Saltz is an online food marketplace serving restaurants across multiple European markets. We help chefs and restaurants discover and source products from trusted local and international suppliers. At Saltz, we believe the best ingredients should be accessible through on",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
