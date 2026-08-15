@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-15T09:24:00+00:00",
+  "generated_at": "2026-08-15T09:39:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Mid Market Account Executive - EMEA (French Speaking)",
+      "company": "Ashby",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150688-mid-market-account-executive-emea-french-speaking",
+      "description": "About AshbyWe’re building the next generation of enterprise software, starting with products that help talent leaders, recruiters, and managers unlock hiring excellenceSeries D raised in 2025, and growing ARR &gt;100% YoYHave thousands of amazing customers including OpenAI, Deliv",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-15T05:54:28+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 09:39:24"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Senior Product Designer",
+      "company": "Ashby",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150689-senior-product-designer",
+      "description": "Hi! I'm Chris, head of Product Design at Ashby.We're looking for a versatile, intrinsically motivated designer who is excited to contribute to rethinking how modern software is designed. At Ashby, you'll be part designer, part product manager, part consultant, and part design sys",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-15T05:53:56+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 09:39:24"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Engineering Manager - EU",
+      "company": "Ashby",
+      "location": "Europe",
+      "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
+      "description": "Hi I’m Colin, Director of Engineering, Europe. How do you feel about software engineers writing product specs, making product decisions, and not breaking down projects into individual tickets? If that sounds exciting (even if a bit scary), read on because I’m looking for an engin",
+      "reason": "No coincide con el perfil de desarrollo de software y la ubicación no es razonable",
+      "language": "en",
+      "posted_at": "2026-08-15T05:54:40+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 09:39:24"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13958,48 +14000,6 @@
       "language": "other",
       "posted_at": "1786620641",
       "notified": true,
-      "first_seen": "2026-08-13 17:35:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Mechanical Engineer Interceptor C‑UAS (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-mechanical-engineer-interceptor-cuas-gilching-164411",
-      "description": "About the Role Build the world’s most advanced interceptor drones &nbsp; We are redefining aerial defense. Our Counter‑UAS interceptor is a rocket‑boosted, all‑electric drone capable of 400 km/h, delivering 10 kW peak power through an in‑house developed powertrain. Designed from ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786620615",
-      "notified": false,
-      "first_seen": "2026-08-13 17:35:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Platform Engineer – Cloud & ML Platform (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/senior-platform-engineer-cloud-ml-platform-gilching-451674",
-      "description": "As a Platform Engineer – Cloud &amp; ML Platform (m/f/d), you will be a key contributor to the cloud-native infrastructure that powers our AI and autonomy development at global scale. You will design, deploy, operate, and continuously improve Kubernetes-based platforms that enabl",
-      "reason": "Puesto de Senior Platform Engineer – Cloud & ML Platform",
-      "language": "en",
-      "posted_at": "1786620615",
-      "notified": true,
-      "first_seen": "2026-08-13 17:35:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Program Manager",
-      "company": "CesiumAstro",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/senior-program-manager-munich-germany-173227",
-      "description": "At&nbsp; CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786620329",
-      "notified": false,
       "first_seen": "2026-08-13 17:35:24"
     }
   ]
