@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T20:23:11+00:00",
+  "generated_at": "2026-08-15T20:38:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Subgerente de tienda san pedro sula",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101353/administrador.aspx",
+      "description": "Subgerente de tienda san pedro sula - Confidencial - Cortés,Honduras - Expira en: 29/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 29/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-15 20:38:37"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Newcastle Upon Tyne, UK",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/display-and-programmatic-manager-newcastle-upon-tyne-20818",
       "description": "ABOUT THE ROLE: We are seeking an experienced Programmatic Manager to join our UK&amp;I Media team. In this role, you will be responsible for planning and managing Programmatic &amp; Display marketing strategies across multiple brands. You will play an instrumental role in drivin",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786678810",
-      "notified": false,
-      "first_seen": "2026-08-14 05:07:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Commercial Performance Senior Manager",
-      "company": "Leovegasgroup",
-      "location": "Newcastle Upon Tyne, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/commercial-performance-senior-manager-newcastle-upon-tyne-432878",
-      "description": "ABOUT THE ROLE BetMGM is one of the fastest-growing brands in the global sports betting and iGaming industry. Backed by the strength of MGM Resorts International and LeoVegas Group, we're bringing the gold standard of entertainment to disrupt the sector. As we scale rapidly, we a",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "1786678810",
