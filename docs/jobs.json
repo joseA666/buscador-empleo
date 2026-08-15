@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T15:51:00+00:00",
+  "generated_at": "2026-08-15T16:05:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Brand Protection & Marketplace Compliance Analyst",
+      "company": "MultiplyMii",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+      "description": "Position Type : Full-time Location: Philippines (Remote) Schedule: Mon-Fri, EST About the Company Our client is a global leader in swimming pool technology, specializing in robotic pool cleaners, pool safety products, water treatment solutions, and related pool equipment for resi",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T16:00:49+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 16:05:05"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786665320",
-      "notified": false,
-      "first_seen": "2026-08-14 00:22:43"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "RFP Manager (f/d/m)",
-      "company": "Ceezer",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/ceezer/rfp-manager-germany-367279",
-      "description": "A definitive shift is currently happening. Corporates across the globe are no longer just reporting on sustainability; they are actively investing in it as a core financial and strategic asset. At CEEZER, we are architecting the infrastructure for enterprise-grade Climate Perform",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786664419",
       "notified": false,
       "first_seen": "2026-08-14 00:22:43"
     }
