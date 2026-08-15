@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T20:38:37+00:00",
+  "generated_at": "2026-08-15T20:51:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Consultant Microsoft Dynamics 365 (gn)",
+      "company": "Ifblueprint",
+      "location": "München oder deutschlandweit remote",
+      "url": "https://www.arbeitnow.com/jobs/companies/ifblueprint/remote-senior-consultant-microsoft-dynamics-365-gn-492438",
+      "description": "Überblick Du möchtest moderne CRM- und Vertriebsprozesse nicht nur beraten, sondern aktiv gestalten? Du willst Unternehmen dabei unterstützen, Microsoft Dynamics 365, Power Platform und AI/Copilot sinnvoll einzusetzen, um Kundenbeziehungen, Vertrieb und Prozesse smarter zu machen",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786770577",
+      "notified": false,
+      "first_seen": "2026-08-15 20:51:28"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13982,20 +13996,6 @@
       "location": "Leeds, UK",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-hr-project-manager-leeds-132439",
       "description": "ABOUT THE ROLE We are looking for a Senior HR Project Manager to join our HR Transformation team, based in our Leeds office. In this brand-new role, you will play a critical part in helping us mature our people function and drive key strategic initiatives across LeoVegas Group. R",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786678810",
-      "notified": false,
-      "first_seen": "2026-08-14 05:07:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Display and Programmatic Manager",
-      "company": "Leovegasgroup",
-      "location": "Newcastle Upon Tyne, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/display-and-programmatic-manager-newcastle-upon-tyne-20818",
-      "description": "ABOUT THE ROLE: We are seeking an experienced Programmatic Manager to join our UK&amp;I Media team. In this role, you will be responsible for planning and managing Programmatic &amp; Display marketing strategies across multiple brands. You will play an instrumental role in drivin",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "1786678810",
