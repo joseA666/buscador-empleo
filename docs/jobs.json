@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T15:37:12+00:00",
+  "generated_at": "2026-08-15T15:51:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Store Manager",
+      "company": "Wolt",
+      "location": "Marsa, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-wolt-1136747",
+      "description": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now weâre building the delivery of (almost) everything and youâll find us in over 500 cities in 30 countri",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-14T15:44:08+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 15:51:00"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1786664419",
-      "notified": false,
-      "first_seen": "2026-08-14 00:22:43"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "GNC Software Intern",
-      "company": "The Exploration Company",
-      "location": "Munich, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/the-exploration-company/gnc-software-intern-munich-49769",
-      "description": "Here at The Exploration Company, we are developing, producing, and operating Nyx, a modular and reusable space orbital vehicle that can eventually be refuelled in orbit and that can carry cargo - and potentially humans in the longer run. We want you as a talented GNC Software Int",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786664411",
       "notified": false,
       "first_seen": "2026-08-14 00:22:43"
     }
