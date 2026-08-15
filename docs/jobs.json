@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T17:23:05+00:00",
+  "generated_at": "2026-08-15T17:37:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Shop Assistant Cammeray",
+      "company": "Harris Farm Markets",
+      "location": "Cammeray, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
+      "description": "About Us Join a growing fresh food retail business known for delivering quality, value and an exceptional customer experience. At Harris Farm Markets, everything we do is driven by our purpose for the Greater Goodness, for our customers, our community, our planet, and each other.",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T17:36:11+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 17:37:24"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13981,20 +13995,6 @@
       "company": "Zilch",
       "location": "Zilch UK",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/fpa-manager-london-433382",
-      "description": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customer",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786668019",
-      "notified": false,
-      "first_seen": "2026-08-14 01:33:28"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Engineering Manager II",
-      "company": "Zilch",
-      "location": "Zilch UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zilch/engineering-manager-ii-london-57649",
       "description": "Who we are: We're one of Europe's fastest-growing fintech companies – on a mission to create the world's most empowering way to pay. We launched the product in 2020 and achieved double unicorn status, valued at $2 billion, and since then have taken on more than 6 million customer",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
