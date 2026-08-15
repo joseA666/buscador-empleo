@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T00:11:31+00:00",
+  "generated_at": "2026-08-15T00:27:54+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Starlink Growth Lead, US South",
+      "company": "SpaceX",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/spacex/starlink-growth-lead-us-south-28eeea",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on ",
+      "reason": "No es un rol de desarrollo de software / IA",
+      "language": "en",
+      "posted_at": "2026-08-14T23:46:24Z",
+      "notified": false,
+      "first_seen": "2026-08-15 00:27:53"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Puesto de arquitecto de software para autos",
       "language": "en",
       "posted_at": "1786609528",
-      "notified": true,
-      "first_seen": "2026-08-13 11:06:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Rendering Programmer (Remote/Onsite)",
-      "company": "Beamng",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/beamng/senior-rendering-programmer-remote-onsite-germany-310115",
-      "description": "Role description BeamNG is an independent game &amp; software development studio, established in 2013 in Bremen, Germany. We are an international, remote-first team of almost 90 people. Our development focuses on state-of-the-art soft-body physics vehicle simulation, currently av",
-      "reason": "Puesto de programador de renderizado remoto",
-      "language": "en",
-      "posted_at": "1786609215",
       "notified": true,
       "first_seen": "2026-08-13 11:06:48"
     }
