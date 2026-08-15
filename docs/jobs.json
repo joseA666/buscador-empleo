@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T05:24:06+00:00",
+  "generated_at": "2026-08-15T05:39:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Current Openings",
+      "company": "Black Talon Security",
+      "location": "Swift Current, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-black-talon-security-1136664",
+      "description": "Thank you for your interest in joining our team. At present, we do not have any open positions at Black Talon. However, as we continue to grow and evolve in our mission to protect companies of all sizes from cyberthreats, new opportunities are continually in the works. We are alw",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T05:27:50+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 05:39:48"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-13T08:55:03+00:00",
-      "notified": false,
-      "first_seen": "2026-08-13 12:48:12"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Manager, Customer Support - APAC",
-      "company": "Cloudbeds",
-      "location": "Australia,  New Zealand",
-      "url": "https://jobicy.com/jobs/149210-manager-customer-support-apac",
-      "description": "What Makes Us Unique At Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help hotelier",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-13T08:50:03+00:00",
       "notified": false,
       "first_seen": "2026-08-13 12:48:12"
     }
