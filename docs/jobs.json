@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T20:04:40+00:00",
+  "generated_at": "2026-08-15T20:23:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Office Coordinator (Working Student)",
+      "company": "PPRO",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/ppro/office-coordinator-working-student-berlin-403431",
+      "description": "At PPRO, we simplify access to local payments - providing a local payments platform that empowers giants like PayPal, Stripe, and Microsoft to connect with billions of consumers worldwide. We are on an ambitious, fast-paced mission to 3x our growth by 2028 - and we’re just gettin",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786824324",
+      "notified": false,
+      "first_seen": "2026-08-15 20:23:11"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13981,20 +13995,6 @@
       "company": "Leovegasgroup",
       "location": "Newcastle Upon Tyne, UK",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/commercial-performance-senior-manager-newcastle-upon-tyne-432878",
-      "description": "ABOUT THE ROLE BetMGM is one of the fastest-growing brands in the global sports betting and iGaming industry. Backed by the strength of MGM Resorts International and LeoVegas Group, we're bringing the gold standard of entertainment to disrupt the sector. As we scale rapidly, we a",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786678810",
-      "notified": false,
-      "first_seen": "2026-08-14 05:07:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Manager - Portfolio Analytics",
-      "company": "Leovegasgroup",
-      "location": "Newcastle Upon Tyne, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/leovegasgroup/senior-manager-portfolio-analytics-newcastle-upon-tyne-444727",
       "description": "ABOUT THE ROLE BetMGM is one of the fastest-growing brands in the global sports betting and iGaming industry. Backed by the strength of MGM Resorts International and LeoVegas Group, we're bringing the gold standard of entertainment to disrupt the sector. As we scale rapidly, we a",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
