@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T23:04:51+00:00",
+  "generated_at": "2026-08-15T23:22:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Why Your First Weeks a New Role Shape Everything That Follows",
+      "company": "Decode-X",
+      "location": "Evansville, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+      "description": "The UAEâs rail expansion covers active construction, passenger and freight operations, and major projects that are still moving through procurement. For jobseekers, the useful lesson is not simply that large projects can create employment. It is that different stages of a rail ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T23:12:43+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 23:22:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1786689618",
-      "notified": false,
-      "first_seen": "2026-08-14 07:37:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Manager, Growth UK&I",
-      "company": "Vanta",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vanta/account-manager-growth-uki-london-378062",
-      "description": "At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior sec",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786689612",
       "notified": false,
       "first_seen": "2026-08-14 07:37:03"
     }
