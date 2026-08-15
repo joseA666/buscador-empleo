@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T13:54:33+00:00",
+  "generated_at": "2026-08-15T14:05:03+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Accounts Receivable & Collections Specialist",
+      "company": "AssetWatch",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/150716-accounts-receivable-collections-specialist",
+      "description": "AssetWatch serves global manufacturers by powering manufacturing uptime through the delivery of an unparalleled condition monitoring experience, with a passion to care about the assets our customers care for every day. We are a devoted and capable team that includes world-renowne",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-15T10:24:00+00:00",
+      "notified": false,
+      "first_seen": "2026-08-15 14:05:03"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-07T21:38:49+00:00",
-      "notified": false,
-      "first_seen": "2026-08-13 22:15:52"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "UX/UI Design & Funnel Management | Werkstudent*in (m/w/d)",
-      "company": "Förderinitiative Deutschland",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/forderinitiative-deutschland/ux-ui-design-funnel-management-werkstudentin-munich-43076",
-      "description": "Die Förderinitiative Deutschland ist eine spezialisierte Unternehmensberatung mit Sitz in München. Wir unterstützen innovative Unternehmen dabei, staatliche Fördermöglichkeiten – insbesondere die Forschungszulage – erfolgreich zu nutzen. Unser Anspruch ist es, einen traditionell ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786656627",
       "notified": false,
       "first_seen": "2026-08-13 22:15:52"
     }
