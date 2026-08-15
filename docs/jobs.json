@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-15T01:30:40+00:00",
+  "generated_at": "2026-08-15T02:09:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Hydrus - Session Director - German (Germany)",
+      "company": "Welo Global",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/welo-global/hydrus-session-director-german-germany-495752",
+      "description": "About the Project &nbsp; We are looking for a Session Director to support live, supervised voice recording sessions for a multilingual conversational AI project in German (Germany). In this role,&nbsp;you'll&nbsp;facilitate&nbsp;recording sessions, provide real-time participant c",
+      "reason": "No es un rol de desarrollo de software / IA y la ubicación no es razonable",
+      "language": "en",
+      "posted_at": "1786759506",
+      "notified": false,
+      "first_seen": "2026-08-15 02:09:51"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-13T08:20:02+00:00",
       "notified": true,
       "first_seen": "2026-08-13 12:00:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Entwicklungsingenieur (m/w/d) Biosensorik & Mikrosystemtechnik",
-      "company": "EXCO GmbH",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/exco-gmbh/entwicklungsingenieur-biosensorik-mikrosystemtechnik-mannheim-451887",
-      "description": "Als Entwicklungsingenieur (m/w/d) Biosensorik &#x26; Mikrosystemtechnik spielst du eine zentrale Rolle in unserem Team am Standort Mannheim . Mit deinem Fachwissen entwickelst du innovative Technologien im Bereich Biosensorik und Mikrosystemtechnik für moderne medizintechnische A",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786618831",
-      "notified": false,
-      "first_seen": "2026-08-13 11:30:47"
     }
   ]
 }
