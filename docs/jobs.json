@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-16T23:22:48+00:00",
+  "generated_at": "2026-08-16T23:36:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "(Senior) Associate Inhouse Consulting & Value Creation",
+      "company": "Arsipa GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-associate-inhouse-consulting-value-creation-berlin-429116",
+      "description": "Du möchtest Integrationen nicht nur begleiten, sondern aktiv mehrere Unternehmen gleichzeitig weiterentwickeln und operativ verbessern? Dann suchen wir genau dich, zum nächstmöglichen Zeitpunkt als: (Senior) Associate Inhouse Consulting &amp; Value Creation (w/m/d) Als (Senior) A",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786923005",
+      "notified": false,
+      "first_seen": "2026-08-16 23:36:37"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "(Senior) Associate (w/m/d) Corporate Development",
+      "company": "Arsipa GmbH",
+      "location": "Berlin, Berlin, Deutschland",
+      "url": "https://www.arbeitnow.com/jobs/companies/arsipa-gmbh/senior-associate-corporate-development-berlin-62312",
+      "description": "Du möchtest Integrationen nicht nur begleiten, sondern aktiv mehrere Unternehmen gleichzeitig weiterentwickeln und operativ verbessern? Dann suchen wir genau dich, zum nächstmöglichen Zeitpunkt als: (Senior) Associate (w/m/d) Corporate Development Als (Senior) Associate (w/m/d) C",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786923005",
+      "notified": false,
+      "first_seen": "2026-08-16 23:36:37"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Product Engineer, eComm (all gender)",
+      "company": "Distribusion Technologies",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/remote-senior-product-engineer-ecomm-all-gender-berlin-296049",
+      "description": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators i",
+      "reason": "Puesto de ingeniería de producto con tecnologías relevantes",
+      "language": "en",
+      "posted_at": "1786923013",
+      "notified": true,
+      "first_seen": "2026-08-16 23:36:37"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Fullstack Engineer (m/f/d)",
+      "company": "Verivox",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/verivox/senior-fullstack-engineer-berlin-382051",
+      "description": "Werde Teil des Verivox Teams Wir bieten dir eine Vollzeitstelle (40 Stunden/Woche) an einem unserer Standorte in Heidelberg, Berlin, Leipzig oder München . Darüber hinaus hast du die Möglichkeit, mehrere Tage pro Woche im Mobile Office zu arbeiten. Deine Mission Mit deiner Expert",
+      "reason": "Ubicación no es remoto amigable con Latinoamérica ni Tegucigalpa/Francisco Morazán, Honduras",
+      "language": "other",
+      "posted_at": "1786921774",
+      "notified": false,
+      "first_seen": "2026-08-16 23:36:37"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13945,62 +14001,6 @@
       "posted_at": "1786721075",
       "notified": false,
       "first_seen": "2026-08-14 16:31:49"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "HYGPOOLOP",
-      "company": "Hovis Ltd",
-      "location": "Belfast, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-hygpoolop-hovis-ltd-1136597",
-      "description": "Welcome to Hovis. We are the proud guardians of over 130 years of baking experience that make up our iconic and much-loved brand. We produce bread and bakery products created with Hovis goodness at the heart of each. We deliver around 1.3million loaves, every day of the week thro",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-08-13T15:34:11+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 16:03:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Product Manager",
-      "company": "Meta",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150668-product-manager-2",
-      "description": "Meta Product Managers work with cross-functional teams of engineers, designers, data scientists and researchers to build products. We are looking for Product Managers who value moving quickly.ResponsibilitiesBe responsible for leading and driving a complex product area; defining ",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-08-14T13:01:11+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 16:03:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Data Engineer, Product Analytics",
-      "company": "Meta",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150666-data-engineer-product-analytics",
-      "description": "As a Data Engineer at Meta, you will shape the future of people-facing and business-facing products we build across our entire family of applications (Facebook, Instagram, Messenger, WhatsApp, Reality Labs, Threads). Your technical skills and analytical mindset will be utilized d",
-      "reason": "Ubicación no es razonable",
-      "language": "en",
-      "posted_at": "2026-08-14T13:01:08+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 16:03:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Software Engineer (Technical Leadership)",
-      "company": "Meta",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150665-software-engineer-technical-leadership",
-      "description": "Meta is seeking a Software Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentim",
-      "reason": "Ubicación no es razonable",
-      "language": "en",
-      "posted_at": "2026-08-14T13:01:06+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 16:03:13"
     }
   ]
 }
