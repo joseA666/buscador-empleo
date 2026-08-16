@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-16T00:11:26+00:00",
+  "generated_at": "2026-08-16T00:27:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Current openings",
+      "company": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+      "location": "Wideopen, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+      "description": "403 / Security check Before you continue, please verify your request. We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue. Verification successful. Waiting for wellfound.com to respond E",
+      "reason": "No se proporciona información sobre el puesto de trabajo",
+      "language": "en",
+      "posted_at": "2026-08-15T00:12:49+00:00",
+      "notified": false,
+      "first_seen": "2026-08-16 00:27:37"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13981,20 +13995,6 @@
       "company": "Taxtalente.de",
       "location": "Felixsee",
       "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-felixsee-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-298032",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786689035",
-      "notified": false,
-      "first_seen": "2026-08-14 07:37:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Kolkwitz, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Kolkwitz",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-kolkwitz-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-194087",
       "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
       "reason": "",
       "language": "other",
