@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-16T11:05:25+00:00",
+  "generated_at": "2026-08-16T11:22:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Campaign Analyst",
+      "company": "JustWatch",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/justwatch/senior-campaign-analyst-berlin-121645",
+      "description": "Who we are JustWatch delivers data-driven digital marketing for the global entertainment business. From the biggest blockbusters to award-winning shows, major sporting events, and best-selling console games. Not only are we entertainment obsessives ourselves, but we also own the ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786878285",
+      "notified": false,
+      "first_seen": "2026-08-16 11:22:50"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "404",
+      "company": "Train Rex",
+      "location": "Call, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-404-train-rex-1136816",
+      "description": "Why us Try now Testimonial Workouts About Sign Up Ã Login for a better experience Why us Try now Workouts About Book a Call App Description Train Rex App LIVE BETTER. NOT JUST FEEL BETTER. Feeling healthy and being healthy are not the same. Being healthy takes understanding your",
+      "reason": "No se menciona desarrollo de software o IA en la descripción",
+      "language": "en",
+      "posted_at": "2026-08-13T23:28:31+00:00",
+      "notified": false,
+      "first_seen": "2026-08-16 11:22:50"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786699832",
-      "notified": false,
-      "first_seen": "2026-08-14 10:08:02"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Paid Social Manager 100% (m/w/d)",
-      "company": "SHEKO GmbH",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/sheko-gmbh/paid-social-manager-100-hamburg-216435",
-      "description": "Du öffnest morgens den Ads Manager, bevor Du den ersten Kaffee trinkst. Du siehst an der Hook Rate, ob ein Creative trägt, bevor die ersten 1.000 € ausgegeben sind. Und Du weißt: Das Limit ist nie das Budget, sondern das Creative. Bei SHEKO bekommst Du ein siebenstelliges Jahresb",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786699831",
-      "notified": false,
-      "first_seen": "2026-08-14 10:08:02"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Expert (m|w|d) People Operations & HR Digitalisierung in Augsburg",
-      "company": "Sonntag & Partner",
-      "location": "Augsburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/sonntag-partner/senior-expert-mwd-people-operations-hr-digitalisierung-in-augsburg-368959",
-      "description": "Mit über 500 Mitarbeitenden agieren wir seit 1978 bereichsübergreifend und in kleinen, agilen Teams in den Bereichen Steuerberatung, Rechtsberatung und Wirtschaftsprüfung. Unsere Expert:innen beraten unsere Mandanten dabei individuell und aus einer Hand in Augsburg, Nürnberg, Ulm",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786699831",
       "notified": false,
       "first_seen": "2026-08-14 10:08:02"
     }
