@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-16T05:56:53+00:00",
+  "generated_at": "2026-08-16T06:12:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Working Student Risk (f/m/x)",
+      "company": "Lemon Markets",
+      "location": "Berlin (Hybrid)",
+      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-risk-berlin-202118",
+      "description": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses, providing seamless access to capital markets. By empowering FinTechs, Banks and Wealth Managers to offer investment products, we hel",
+      "reason": "No se menciona desarrollo de software o IA en la descripción",
+      "language": "en",
+      "posted_at": "1786858810",
+      "notified": false,
+      "first_seen": "2026-08-16 06:12:18"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Executive , DACH market",
+      "company": "Aircall",
+      "location": "Berlin Office",
+      "url": "https://www.arbeitnow.com/jobs/companies/aircall/account-executive-dach-market-berlin-office-223043",
+      "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seam",
+      "reason": "La vacante es de ventas, no de desarrollo de software o IA",
+      "language": "en",
+      "posted_at": "1786857896",
+      "notified": false,
+      "first_seen": "2026-08-16 06:12:18"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-14T04:40:05+00:00",
       "notified": false,
       "first_seen": "2026-08-14 08:10:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Qualitätsmanager (m/w/d)",
-      "company": "COLDPLASMATECH",
-      "location": "Greifswald",
-      "url": "https://www.arbeitnow.com/jobs/companies/coldplasmatech/qualitatsmanager-greifswald-214335",
-      "description": "Unser Ziel ist es, chronische Wunden nachhaltig zu verschließen , anstatt Wunden einfach nur zu versorgen. Als mehrfach ausgezeichnetes, junges MedTech Unternehmen, haben wir es mit unserem neuartigen innovativen Behandlungsansatz geschafft, die Wundversorgung auf das nächste Lev",
-      "reason": "No se menciona experiencia en tecnologías específicas del perfil y la ubicación no es razonable",
-      "language": "other",
-      "posted_at": "1786692637",
-      "notified": false,
-      "first_seen": "2026-08-14 08:10:09"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Operations Coordinator",
-      "company": "NoGigiddy",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149244-operations-coordinator",
-      "description": "ABOUT NOGIGIDDYNoGigiddy is a digital platform built for gig workers, side hustlers, and anyone building an income outside the traditional 9-to-5. We connect our community with real earning opportunities — remote jobs, surveys, gig platforms, and financial tools — all in one plac",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-14T04:40:03+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 08:10:08"
     }
   ]
 }
