@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-16T08:56:36+00:00",
+  "generated_at": "2026-08-16T09:09:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Maintenance Planner",
+      "company": "The HEINEKEN Company",
+      "location": "Kingston, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
+      "description": "Job Purpose We are seeking a Maintenance Planner to join our Engineering Stores team. In this role, you will be responsible for effectively planning, preparing, and scheduling maintenance activities to support equipment reliability, maximize plant availability, and reduce unplann",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "en",
+      "posted_at": "2026-08-14T22:28:22+00:00",
+      "notified": false,
+      "first_seen": "2026-08-16 09:09:38"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "other",
       "posted_at": "1786696227",
-      "notified": false,
-      "first_seen": "2026-08-14 09:37:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "System Administrator (f/m/d) - Defense Products",
-      "company": "IONOS SE",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/ionos-se/system-administrator-defense-products-berlin-301392",
-      "description": "Bei IONOS arbeitest Du bei dem führenden europäischen Anbieter von Cloud-Infrastruktur, Cloud-Services und Hosting-Dienstleistungen partnerschaftlich mit unterschiedlichen Teams zusammen. Wir bieten Dir eine Perspektive in einer der zukunftssichersten Branchen. Uns zeichnen offen",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "other",
-      "posted_at": "1786696226",
       "notified": false,
       "first_seen": "2026-08-14 09:37:56"
     }
