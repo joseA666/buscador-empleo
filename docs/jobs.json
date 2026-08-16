@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-16T20:23:23+00:00",
+  "generated_at": "2026-08-16T20:38:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent (m/f/x) - IT Support",
+      "company": "ITONICS",
+      "location": "Nürnberg",
+      "url": "https://www.arbeitnow.com/jobs/companies/itonics/werkstudent-it-support-nurnberg-490063",
+      "description": "Dein Beitrag Als Werkstudent (m/f/x) hilfst du dabei, die interne IT-Landschaft von ITONICS stabil, sicher und angenehm nutzbar zu halten. Jedes Gerät, das Du aufsetzt, jede Zugriffsanfrage, die Du bearbeitest, und jeder Prozess, den Du dokumentierst, bedeutet: Eine Kollegin oder",
+      "reason": "No es un puesto de desarrollo de software",
+      "language": "other",
+      "posted_at": "1786910952",
+      "notified": false,
+      "first_seen": "2026-08-16 20:38:27"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "(Senior) Product Manager (w/m/d)",
+      "company": "Transfermarkt",
+      "location": "DE - Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/transfermarkt/senior-product-manager-de-hamburg-230364",
+      "description": "Deine Aufgaben Du übersetzt Strategie in Features: Du identifizierst Nutzerprobleme, bewertest Markt- und Wettbewerbstrends und entwickelst aus groben Zielen und Produktvisionen konkrete Features – mit einem Gespür dafür, was besonders mobile Produkte auszeichnet. Du schreibst An",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786910982",
+      "notified": false,
+      "first_seen": "2026-08-16 20:38:26"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "No menciona tecnologías específicas del perfil y la ubicación no es razonable",
       "language": "en",
       "posted_at": "1786716310",
-      "notified": false,
-      "first_seen": "2026-08-14 14:34:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "IT Security & Compliance Manager (Part-Time)",
-      "company": "VIA HealthTech",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/via-healthtech/it-security-compliance-manager-part-time-berlin-469634",
-      "description": "VIA HealthTech automates psychotherapy documentation — from session notes to psychological reports — so therapists spend less time on admin and more time with patients. We work at the intersection of mental healthcare, AI, and software. Security is central to what we build: we pr",
-      "reason": "No es un rol de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786716064",
-      "notified": false,
-      "first_seen": "2026-08-14 14:34:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Working Student Robotics Hardware & Electronics (m/f/d)",
-      "company": "Batch Robotics GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/batch-robotics-gmbh/working-student-robotics-hardware-electronics-munich-276984",
-      "description": "Batch Robotics is revolutionizing how robots operate in factories — not through rigid programming or teaching by human demonstration, but with smart perception and AI intelligence. We are a team of 4 motivated people with +25 years of experience in industry and robotics. Our miss",
-      "reason": "No es un rol de desarrollo de software y la ubicación no es razonable",
-      "language": "en",
-      "posted_at": "1786716063",
       "notified": false,
       "first_seen": "2026-08-14 14:34:39"
     }
