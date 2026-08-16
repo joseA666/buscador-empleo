@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-16T00:27:37+00:00",
+  "generated_at": "2026-08-16T00:51:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Olli Technologies",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49313253",
+      "description": "Olli Technologies | Founding Engineer &amp; Technical Lead | REMOTE (US) | Fractional &#x2F; Contract | Equity-only (2–5%) We&#x27;re building an AI-native operations platform for childcare and early education, covering enrollment&#x2F;compliance, payments, operations, and family",
+      "reason": "La ubicación es remoto pero se especifica que es para Estados Unidos y no se menciona compatibilidad con Latinoamérica o hispanohablantes",
+      "language": "en",
+      "posted_at": "2026-08-15T18:56:35.000Z",
+      "notified": false,
+      "first_seen": "2026-08-16 00:51:14"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1786690828",
-      "notified": false,
-      "first_seen": "2026-08-14 07:37:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Felixsee, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Felixsee",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-felixsee-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-298032",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786689035",
       "notified": false,
       "first_seen": "2026-08-14 07:37:03"
     }
