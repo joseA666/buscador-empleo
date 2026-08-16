@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-16T16:04:54+00:00",
+  "generated_at": "2026-08-16T16:23:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Cabin Cleaning Agent",
+      "company": "Menzies Aviation",
+      "location": "Hounslow, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+      "description": "Overview People. Passion. Pride. This is what has driven our teams since 1833. Since that time, we have developed to become a critical partner in the global aviation industry, delivering time-critical logistics services at 350 locations in more than 65 countries, across six conti",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-15T16:07:53+00:00",
+      "notified": false,
+      "first_seen": "2026-08-16 16:23:57"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "No es un rol técnico",
       "language": "other",
       "posted_at": "1786694974",
-      "notified": false,
-      "first_seen": "2026-08-14 11:30:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior PR Manager (m/w/d) – Remote oder Berlin",
-      "company": "Getpress Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/getpress-gmbh/senior-pr-manager-remote-oder-berlin-1383",
-      "description": "Overview PR steht vor einem strukturellen Bruch. Vertrauen verschiebt sich, Sichtbarkeit wird neu verteilt, KI wächst exponentiell. Wir bei getpress glauben, dass Reputation in den nächsten zehn Jahren der entscheidende Wettbewerbsvorsprung für Unternehmen wird. Und dass die Agen",
-      "reason": "No es un rol técnico",
-      "language": "other",
-      "posted_at": "1786694973",
       "notified": false,
       "first_seen": "2026-08-14 11:30:24"
     }
