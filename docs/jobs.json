@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T15:52:13+00:00",
+  "generated_at": "2026-08-17T16:06:30+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador backend (java/python)",
+      "company": "SETI S.A.",
+      "location": "Medellín",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-backend-java-python-1886753647",
+      "description": "Desarrollador backend (java/python) - SETI S.A. - Medellín - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-17 16:06:30"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786797615",
       "notified": false,
       "first_seen": "2026-08-15 13:12:47"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Test Job",
-      "company": "Link Snacks",
-      "location": "Minneapolis, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
-      "description": "Job Description Test Job Qualifications Test job Additional Information All your information will be kept confidential according to EEO guidelines. Please mention the word **HEROS** and tag RMjAuMTE4LjIzOC4yNQ== when applying to show you read the job post completely (#RMjAuMTE4Lj",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-14T12:49:18+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 13:12:45"
     }
   ]
 }
