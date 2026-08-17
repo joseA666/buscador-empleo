@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-17T22:52:44+00:00",
+  "generated_at": "2026-08-17T23:06:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador Java Quarkus",
+      "company": "IDS Comercial, S.A. de C.V.",
+      "location": "Benito Juárez, Ciudad de México DF (Remoto)",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-quarkus-en-benito-juarez-BB495E097FDB93B061373E686DCF3405",
+      "description": "Desarrollador Java Quarkus - IDS Comercial, S.A. de C.V. - Benito Juárez, Ciudad de México DF - Remoto - Publicado: Hace 12 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 12 minutos",
+      "notified": true,
+      "first_seen": "2026-08-17 23:06:42"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "English Editor",
+      "company": "MDPI",
+      "location": "Singapore, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-english-editor-mdpi-1136891",
+      "description": "Area: Editing and Academic Publishing MDPI is the largest open access publisher in the world, with over 400 journals across a wide range of disciplines. Our mission is to foster open science and scientific exchange by delivering high-quality peer-reviewed research to scholars aro",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-15T16:23:45+00:00",
+      "notified": true,
+      "first_seen": "2026-08-17 23:06:42"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Flight Attendant",
+      "company": "Hongkong Express",
+      "location": "Hong Kong, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-flight-attendant-hongkong-express-1136892",
+      "description": "HK Express is Hong Kongâs first and only low-cost carrier, always offering great value, affordable fares on one of the youngest and most modern aircraft fleets in the world. Like you, and just like many people across Asia, we love to travel and discover new places across the wo",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-14T00:00:00+00:00",
+      "notified": true,
+      "first_seen": "2026-08-17 23:06:42"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Engineer Estimator",
+      "company": "Crystalia Glass LLC",
+      "location": "Bishkek, Bishkek, Bishkek City, Kyrgyzstan",
+      "url": "https://remoteOK.com/remote-jobs/remote-engineer-estimator-crystalia-glass-llc-1136878",
+      "description": "Crystalia Glass LLC is a leading provider of premium glass products, dedicated to transforming spaces with elegance and sophistication. With a commitment to craftsmanship and innovation, we specialize in designing and manufacturing high-quality glass solutions for residential and",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-12T16:55:55+00:00",
+      "notified": true,
+      "first_seen": "2026-08-17 23:06:42"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-16T03:05:04+00:00",
       "notified": false,
       "first_seen": "2026-08-16 06:28:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Working Student Risk (f/m/x)",
-      "company": "Lemon Markets",
-      "location": "Berlin (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/lemon-markets/working-student-risk-berlin-202118",
-      "description": "About lemon.markets 🍋 We enable anyone to be an investor. Our mission is to grow investing opportunities for all European customers and businesses, providing seamless access to capital markets. By empowering FinTechs, Banks and Wealth Managers to offer investment products, we hel",
-      "reason": "No se menciona desarrollo de software o IA en la descripción",
-      "language": "en",
-      "posted_at": "1786858810",
-      "notified": false,
-      "first_seen": "2026-08-16 06:12:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive , DACH market",
-      "company": "Aircall",
-      "location": "Berlin Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/aircall/account-executive-dach-market-berlin-office-223043",
-      "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seam",
-      "reason": "La vacante es de ventas, no de desarrollo de software o IA",
-      "language": "en",
-      "posted_at": "1786857896",
-      "notified": false,
-      "first_seen": "2026-08-16 06:12:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer (Commodities Data Team)",
-      "company": "Drweng",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/drweng/software-engineer-commodities-data-team-london-233227",
-      "description": "&lt;p&gt;DRW are looking for a Software Engineer to join the Commodities trading group to build data pipelines for the ingestion and analysis of datasets. The role entails working closely with senior data engineers and key stakeholders across both green field and established proj",
-      "reason": "La ubicación no es razonable y el perfil no coincide exactamente con el solicitado",
-      "language": "en",
-      "posted_at": "1786852544",
-      "notified": false,
-      "first_seen": "2026-08-16 04:25:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Avionics Software Engineer",
-      "company": "Lodestarspace",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lodestarspace/avionics-software-engineer-london-206201",
-      "description": "&lt;h3&gt;&lt;strong&gt;About Lodestar&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Lodestar&#39;s mission is to develop the first &quot;Protect and Defend&quot; capability for high-value space assets in orbit. Our flagship product, MITHRIL, is our hardware-agnostic, AI-enabled autonomy so",
-      "reason": "El perfil no coincide con el solicitado, se busca un ingeniero de software y no de aviónica",
-      "language": "en",
-      "posted_at": "1786852513",
-      "notified": false,
-      "first_seen": "2026-08-16 04:25:30"
     }
   ]
 }
