@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-17T19:04:31+00:00",
+  "generated_at": "2026-08-17T19:25:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Desarrollador de ventas  choloma",
+      "company": "FABRICA ESPECIAS DON JULIO S. DE R.L.",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101530/administrativo-de-ventas-soporte-de-ventas.aspx",
+      "description": "Desarrollador de ventas choloma - FABRICA ESPECIAS DON JULIO S. DE R.L. - Cortés,Honduras - Expira en: 01/10/2026",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Expira en: 01/10/2026",
+      "notified": true,
+      "first_seen": "2026-08-17 19:25:00"
+    },
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Lead Deployment Engineer - Public Sector - Federal",
+      "company": "Celonis",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer-public-sector-federal",
+      "description": "Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world’s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what’s possible. We invest heavily in advanced AI capabilities—specifi",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T19:11:12Z",
+      "notified": true,
+      "first_seen": "2026-08-17 19:25:00"
+    },
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Client Value Partner - Technology Consultant",
+      "company": "Celonis",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/celonis/client-value-partner-technology-consultant",
+      "description": "Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world’s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what’s possible. We invest heavily in advanced AI capabilities—specifi",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T19:11:11Z",
+      "notified": true,
+      "first_seen": "2026-08-17 19:25:00"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13959,48 +14001,6 @@
       "posted_at": "2026-08-15T15:07:59+00:00",
       "notified": false,
       "first_seen": "2026-08-15 18:57:08"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Chief of Staff, Emergency Cash (Senior Manager)",
-      "company": "GiveDirectly",
-      "location": "UK,  USA",
-      "url": "https://jobicy.com/jobs/150791-chief-of-staff-emergency-cash-senior-manager",
-      "description": "GiveDirectly has delivered more than $1B in cash directly to 2+ million people living in poverty across 15 countries since 2011. We believe cash transfers are one of the most scalable, cost-effective, and dignified forms of aid, with the research to back it up. Our work has been ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-15T15:08:07+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 18:57:07"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Data Analyst (m/f/d)",
-      "company": "Westwing",
-      "location": "Munich Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/westwing/senior-data-analyst-munich-office-439986",
-      "description": "JOIN OUR TEAM As a Senior Data Analyst within the Marketing Analytics team, you will play a pivotal role in helping the marketing leadership team and marketing departments make better data-driven decisions. You will own several important data products (dashboards, business proces",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786813772",
-      "notified": false,
-      "first_seen": "2026-08-15 18:24:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Manager Westwing Collection (m/f/d)",
-      "company": "Westwing",
-      "location": "Munich Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/westwing/product-manager-westwing-collection-munich-office-209682",
-      "description": "JOIN OUR TEAM As a Product Manager Westwing Collection , you will shape and drive the assortment strategy for your assigned product categories, owning the end-to-end product lifecycle from strategic planning to portfolio optimisation and commercial performance. You will define an",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786813772",
-      "notified": false,
-      "first_seen": "2026-08-15 18:24:04"
     }
   ]
 }
