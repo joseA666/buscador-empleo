@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T22:40:32+00:00",
+  "generated_at": "2026-08-17T22:52:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Contador general(san pedro sula)",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101637/contador-general.aspx",
+      "description": "Contador general(san pedro sula) - Confidencial - Cortés,Honduras - Expira en: 01/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 01/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-17 22:52:44"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "El perfil no coincide con el solicitado, se busca un ingeniero de software y no de aviónica",
       "language": "en",
       "posted_at": "1786852513",
-      "notified": false,
-      "first_seen": "2026-08-16 04:25:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Product Manager",
-      "company": "Trainline",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/trainline/senior-product-manager-london-395973",
-      "description": "About us We are champions of rail, inspired to build a greener, more sustainable future of travel. Trainline enables millions of travellers to find and book the best value tickets across carriers, fares, and journey options through our highly rated mobile app, website, and B2B pa",
-      "reason": "El puesto es de Product Manager, no de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786851623",
       "notified": false,
       "first_seen": "2026-08-16 04:25:30"
     }
