@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T23:39:16+00:00",
+  "generated_at": "2026-08-17T23:52:02+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador/a de Microservicio",
+      "company": "Tecnologia en Soluciones Informaticas del Bajio S de RL de CV",
+      "location": "León, Guanajuato ($ 30,000.00 (Mensual))",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-de-microservicio-en-leon-FFBD81153E936EB961373E686DCF3405",
+      "description": "Desarrollador/a de Microservicio - Tecnologia en Soluciones Informaticas del Bajio S de RL de CV - León, Guanajuato - $ 30,000.00 (Mensual) - Publicado: Más de 30 días",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Más de 30 días",
+      "notified": true,
+      "first_seen": "2026-08-17 23:52:02"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-11T00:48:23+00:00",
-      "notified": false,
-      "first_seen": "2026-08-16 07:13:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Breitenbrunn, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Breitenbrunn",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-breitenbrunn-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-191228",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786861830",
       "notified": false,
       "first_seen": "2026-08-16 07:13:18"
     }
