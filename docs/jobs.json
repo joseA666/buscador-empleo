@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T19:40:41+00:00",
+  "generated_at": "2026-08-17T19:53:09+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de operaciones (sps)",
+      "company": "RANSA HONDURAS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101537/jefe-o-encargado-de-operaciones-y-logistica.aspx",
+      "description": "Supervisor de operaciones (sps) - RANSA HONDURAS - Cortés,Honduras - Expira en: 01/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 01/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-17 19:53:08"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Faculty",
       "location": "UK - London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-safety-london-379937",
-      "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact her",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786819220",
-      "notified": false,
-      "first_seen": "2026-08-15 19:23:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Associate (National Security)",
-      "company": "Faculty",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/faculty/associate-national-security-london-69268",
       "description": "Why Faculty? We established Faculty in 2014 because we thought that AI would be the most important technology of our time. Since then, we’ve worked with over 350 global customers to transform their performance through human-centric AI. You can read about our real-world impact her",
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
