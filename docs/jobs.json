@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-17T03:32:27+00:00",
+  "generated_at": "2026-08-17T04:01:55+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Head of Privacy",
+      "company": "Perk",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/perk/head-of-privacy-berlin-310442",
+      "description": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eli",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1786934409",
+      "notified": false,
+      "first_seen": "2026-08-17 04:01:55"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Software Development Engineer II, Routing Tiling",
+      "company": "Mapbox",
+      "location": "Mapbox Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/mapbox/software-development-engineer-ii-routing-tiling-mapbox-germany-218063",
+      "description": "Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 4 million register",
+      "reason": "La ubicación no es razonable y el perfil no coincide exactamente con el requerido",
+      "language": "en",
+      "posted_at": "1786934415",
+      "notified": false,
+      "first_seen": "2026-08-17 04:01:55"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Cloud & AI System Engineer",
+      "company": "Audif1",
+      "location": "Bicester United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/audif1/cloud-ai-system-engineer-bicester-united-kingdom-33662",
+      "description": "Join Our Team We are the Audi Revolut F1® Team. Audi Revolut F1 Team is the official factory team of Audi, as the brand enters the FIA Formula 1 World Championship for the first time in 2026. The team is based in three locations: the power unit is developed by Audi Formula Racing",
+      "reason": "La ubicación no es razonable y el perfil no coincide exactamente con el requerido",
+      "language": "en",
+      "posted_at": "1786936182",
+      "notified": false,
+      "first_seen": "2026-08-17 04:01:55"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-turno-manana-trabajo-remoto-call-center-damos-pc-internet-bono-de-luz-comisiones-ilimitadas-todos-los-beneficios-de-ley-en-lima-33FDD73CD6243FFA61373E686DCF3405",
+      "description": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 10 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 horas",
+      "notified": false,
+      "first_seen": "2026-08-17 04:01:54"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-14T21:23:33+00:00",
       "notified": true,
       "first_seen": "2026-08-14 23:05:40"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Principal Software Engineer - Backend",
-      "company": "Autodesk",
-      "location": "Flexible / Remote",
-      "url": "https://remotejobs.org/remote-jobs/principal-software-engineer-backend-autodesk",
-      "description": "Job Requisition ID # 26WD97363 Position Overview We are seeking a Principal Software Engineer - Backend to join Autodesk's Enterprise Data Management (EDM) organization within the COO-GET Engineering group. This is a senior individual contributor role operating at the Principal (",
-      "reason": "Coincide con el perfil de desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-08-14T21:23:32+00:00",
-      "notified": true,
-      "first_seen": "2026-08-14 23:05:40"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Full Stack Developer",
-      "company": "Global Linking Solutions",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/full-stack-developer-global-linking-solutions",
-      "description": "Full Stack Developer (AI-Accelerated) See attached... — Internal Tools & Network Platforms GLS | Engineering / Operations | Remote (US) | High -ownership role Role Overview GLS is hiring a Full Stack Developer to build and maintain the internal tools and operational platforms tha",
-      "reason": "La vacante busca un Full Stack Developer con experiencia en AI-Accelerated",
-      "language": "en",
-      "posted_at": "2026-08-14T20:19:11+00:00",
-      "notified": true,
-      "first_seen": "2026-08-14 22:39:14"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Software Engineer (Technical Leadership)",
-      "company": "Meta",
-      "location": "USA",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-technical-leadership-meta",
-      "description": "Meta is seeking a Software Engineer to join our engineering team. The ideal candidate will have industry experience working on a range of classification and optimization problems like payment fraud, click-through rate prediction, click-fraud detection, search ranking, text/sentim",
-      "reason": "La ubicación es en USA y no se menciona la posibilidad de trabajar de forma remota amigable con Latinoamérica",
-      "language": "en",
-      "posted_at": "2026-08-14T13:01:06+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 22:39:14"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Data Engineer",
-      "company": "Lemon.io",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/senior-data-engineer-lemonio",
-      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: - The rate depends on your",
-      "reason": "La vacante busca un Senior Data Engineer, pero no se menciona experiencia en desarrollo de software o IA",
-      "language": "en",
-      "posted_at": "2026-08-13T16:06:05+00:00",
-      "notified": false,
-      "first_seen": "2026-08-14 22:39:14"
     }
   ]
 }
