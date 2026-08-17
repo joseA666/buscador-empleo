@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T17:41:50+00:00",
+  "generated_at": "2026-08-17T17:55:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1130 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1130-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-8C33D1604D17A15C61373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1130 +Bono electricidad - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 5 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": false,
+      "first_seen": "2026-08-17 17:55:31"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "1786809319",
-      "notified": false,
-      "first_seen": "2026-08-15 16:23:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Director (New Business)",
-      "company": "Vonage",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/vonage/enterprise-account-director-new-business-london-113539",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;Join Vonage and help us innovate cloud communications for businesses worldwide!&lt;/strong&gt;&lt;/h2&gt;&lt;/div&gt;&lt;h2&gt;&lt;strong&gt;Vonage Communications APIs:&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As an eme",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786809307",
       "notified": false,
       "first_seen": "2026-08-15 16:23:48"
     }
