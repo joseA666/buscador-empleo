@@ -54,7 +54,10 @@ def run_once(dry_run: bool = False):
                 state.mark_seen(job, notified=False, reason=result["reason"], language=result["language"])
 
     if matches and not dry_run:
-        notifier.send_digest(matches)
+        if config.EMAIL_ENABLED:
+            notifier.send_digest(matches)
+        else:
+            print(f"  Correos desactivados (EMAIL_ENABLED=false), no se envio el digest de {len(matches)} vacantes")
 
     export.write_frontend_data()
 

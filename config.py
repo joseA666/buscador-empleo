@@ -6,6 +6,9 @@ load_dotenv()
 GMAIL_ADDRESS = os.getenv("GMAIL_ADDRESS", "")
 GMAIL_APP_PASSWORD = os.getenv("GMAIL_APP_PASSWORD", "")
 GMAIL_TO = os.getenv("GMAIL_TO", GMAIL_ADDRESS)
+# Interruptor para cortar el envio de correos sin tocar credenciales ni apagar
+# el resto del pipeline (busqueda y actualizacion del frontend siguen igual).
+EMAIL_ENABLED = os.getenv("EMAIL_ENABLED", "true").lower() == "true"
 
 GROQ_TOKEN = os.getenv("GROQ_TOKEN", "")
 GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
