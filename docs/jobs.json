@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T20:06:53+00:00",
+  "generated_at": "2026-08-17T20:24:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja de Casa /Ejecutivo de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-de-casa-ejecutivo-de-ventas-ya-clientes-gana-s1500a-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-C698357DE7DA5C0E61373E686DCF3405",
+      "description": "Trabaja de Casa /Ejecutivo de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 10 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 minutos",
+      "notified": false,
+      "first_seen": "2026-08-17 20:24:38"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-15T16:03:13+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 19:50:26"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Apparel - Sourcing Manager, Men's Leather Outerwear (EUR)",
-      "company": "Quince",
-      "location": "Türkiye,  UK",
-      "url": "https://jobicy.com/jobs/150808-apparel-sourcing-manager-mens-leather-outerwear-eur",
-      "description": "ABOUT QUINCE Founded in 2018, Quince was built to challenge the idea that nice things have to cost a lot. Our mission is simple: to make really high quality essentials for really low prices, produced fairly and sustainably. We believe everyone deserves exceptional craftsmanship a",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-15T16:03:10+00:00",
       "notified": false,
       "first_seen": "2026-08-15 19:50:26"
     }
