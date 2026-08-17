@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-17T05:31:40+00:00",
+  "generated_at": "2026-08-17T05:56:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Teamleiter (m/w/d) im Finanzvertrieb (German Speaking)",
+      "company": "Peter Stenmans",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/peter-stenmans/teamleiter-im-finanzvertrieb-german-speaking-berlin-344200",
+      "description": "Du bist eine Führungspersönlichkeit, die Verlässlichkeit, klare Strukturen und Teamgeist lebt? Übernimm Verantwortung, optimiere Prozesse und führe dein Team zu Höchstleistungen. Begeistere unsere Kunden mit ehrlicher Beratung und nachhaltigen Konzepten und wachse mit uns in eine",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1786944013",
+      "notified": false,
+      "first_seen": "2026-08-17 05:56:28"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent:in Digital Key technical/management/marketing (m/w/d)",
+      "company": "Technica Engineering GmbH",
+      "location": "München, Bayern, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/technica-engineering-gmbh/werkstudentin-digital-key-technical-management-marketing-munchen-358557",
+      "description": "Lust auf neueste Technologien, spannende Projekte und ein tolles Team, das dich gerne in seiner Mitte willkommen heißt? Perfekt. Dann komm zu uns! Du bewirbst dich auf eine Stelle bei der Technica Engineering GmbH am Standort München. Technica Engineering GmbH ist Teil der Techni",
+      "reason": "No es un puesto de desarrollo de software y la ubicación no es razonable",
+      "language": "other",
+      "posted_at": "1786944606",
+      "notified": false,
+      "first_seen": "2026-08-17 05:56:28"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786748963",
       "notified": false,
       "first_seen": "2026-08-15 00:11:31"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "DAT",
-      "company": "Ver descripcion",
-      "location": "Ver descripcion",
-      "url": "https://news.ycombinator.com/item?id=49302719",
-      "description": "DAT | Engineering Manager, Senior Engineering Manager | Seattle, Portland, Denver | Hybrid 2-3 days&#x2F;week | Full-time | $192k - $261k I&#x27;m hiring for both EM and Senior EM levels building the automation layer for freight pricing, matching, onboarding, and settlement. Lead",
-      "reason": "No es un puesto de desarrollo de software backend o IA en la ubicación deseada",
-      "language": "en",
-      "posted_at": "2026-08-14T18:26:23.000Z",
-      "notified": false,
-      "first_seen": "2026-08-15 00:11:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Brandschutzingenieur (m/w/d)",
-      "company": "Gropyus",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/gropyus/senior-brandschutzingenieur-berlin-berlin-381342",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About The Company&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;GROPYUS is a technology-based construction company focused on building multi-story residential buildings. Thanks to its prefabricated building system with various",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786751733",
-      "notified": false,
-      "first_seen": "2026-08-15 00:11:30"
     }
   ]
 }
