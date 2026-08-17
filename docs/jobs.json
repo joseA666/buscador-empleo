@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T21:39:58+00:00",
+  "generated_at": "2026-08-17T21:52:26+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar de finanzas",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101595/asistente-contable.aspx",
+      "description": "Auxiliar de finanzas - Confidencial - Francisco Morazán,Honduras - Expira en: 30/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 30/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-17 21:52:26"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-fullstack-international-70045",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The International Acceler",
-      "reason": "Puesto de desarrollo de software full-stack",
-      "language": "en",
-      "posted_at": "1786830925",
-      "notified": true,
-      "first_seen": "2026-08-15 22:23:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer, Fullstack (International)",
-      "company": "Affirm",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/senior-software-engineer-fullstack-international-302294",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p data-pm-slice=&quot;1 1 []&q",
       "reason": "Puesto de desarrollo de software full-stack",
       "language": "en",
       "posted_at": "1786830925",
