@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T07:47:21+00:00",
+  "generated_at": "2026-08-17T08:15:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Executive Assistant",
+      "company": "Numeris",
+      "location": "North York, Ontario",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-assistant-numeris-1136808",
+      "description": "Numeris is Canadaâs most trusted and authoritative source for broadcast measurement and consumer behaviour data. As well, the industry leading intelligence provider to broadcasters, advertisers, and agencies. We have been recognized for over 75 years as providing the gold stand",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-16T08:00:03+00:00",
+      "notified": false,
+      "first_seen": "2026-08-17 08:15:04"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software",
       "language": "en",
       "posted_at": "2026-08-12T06:37:47+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 04:10:22"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "1st Class Machinist",
-      "company": "BAE Systems Australia",
-      "location": "Edinburgh, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-1st-class-machinist-bae-systems-australia-1136723",
-      "description": "Job Location : Edinburgh Parks, South Australia Who we are: Join BAE Systems and you'll be part of something bigger. As a valued member of our global colleague network, you'll bring your unique skills and perspectives to help pioneer progress and protect what matters most. You'll",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "en",
-      "posted_at": "2026-08-11T03:53:54+00:00",
       "notified": false,
       "first_seen": "2026-08-15 04:10:22"
     }
