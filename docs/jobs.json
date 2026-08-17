@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-17T05:56:28+00:00",
+  "generated_at": "2026-08-17T06:13:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Ingeniero senior de datos y cloud (remoto)",
+      "company": "PRAXIS I.T COLOMBIA LTDA",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/ingeniero-senior-de-datos-y-cloud-remoto-1886746660",
+      "description": "Ingeniero senior de datos y cloud (remoto) - PRAXIS I.T COLOMBIA LTDA - Bogotá - Salario confidencial",
+      "reason": "",
+      "language": "es",
+      "posted_at": "",
+      "notified": false,
+      "first_seen": "2026-08-17 06:13:36"
+    },
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Ingeniero senior de datos y cloud (remoto)",
+      "company": "PRAXIS I.T COLOMBIA LTDA",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/ingeniero-senior-de-datos-y-cloud-remoto-1886746654",
+      "description": "Ingeniero senior de datos y cloud (remoto) - PRAXIS I.T COLOMBIA LTDA - Bogotá - Salario confidencial",
+      "reason": "",
+      "language": "es",
+      "posted_at": "",
+      "notified": false,
+      "first_seen": "2026-08-17 06:13:36"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "No es un puesto de desarrollo de software backend o IA",
       "language": "other",
       "posted_at": "1786749880",
-      "notified": false,
-      "first_seen": "2026-08-15 00:11:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Interim CTO (m/w/d)",
-      "company": "junglück GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/jungluck-gmbh/interim-cto-munchen-377169",
-      "description": "Deine Aufgaben Marketing-, Produkt-, Finance- und Supply-Chain-Daten leben bei uns heute in getrennten Systemen. Gleichzeitig bleiben viele unserer besten KI-Ideen Pilotprojekte und werden nicht zum gelebten Alltag. Genau hier kommst du ins Spiel: Du legst in wenigen Monaten unse",
-      "reason": "No es un puesto de desarrollo de software backend o IA a tiempo completo",
-      "language": "other",
-      "posted_at": "1786748970",
-      "notified": false,
-      "first_seen": "2026-08-15 00:11:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Frontend Developer (m/w/d)",
-      "company": "Flossbach von Storch SE",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/flossbach-von-storch-se/senior-frontend-developer-koln-70914",
-      "description": "Über uns Bei Flossbach von Storch kümmern wir uns mit 400 Mitarbeitenden um das Vermögen von etwa einer Million Menschen – unabhängig davon, wie groß es ist. Unsere Verantwortung ist stets die gleiche: ihr Vermögen zu schützen und langfristig mehr daraus machen. Damit sie ihr Leb",
-      "reason": "No es un puesto de desarrollo de software backend o IA",
-      "language": "other",
-      "posted_at": "1786748963",
       "notified": false,
       "first_seen": "2026-08-15 00:11:31"
     }
