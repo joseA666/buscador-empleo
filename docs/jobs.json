@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T11:39:53+00:00",
+  "generated_at": "2026-08-17T11:52:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Programador de software senior",
+      "company": "Empresa confidencial",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/programador-de-software-senior-1886736786",
+      "description": "Programador de software senior - Empresa confidencial - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-17 11:52:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-15T04:25:09+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 08:05:48"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Payroll Specialist - Belgium",
-      "company": "Remote",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/146231-payroll-specialist-belgium",
-      "description": "About Remote Remote is solving modern organizations’ biggest challenge – navigating global employment compliantly with ease. We make it possible for businesses of all sizes to recruit, pay, and manage international teams. With our core values at heart and future focused work cult",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-15T04:25:07+00:00",
       "notified": false,
       "first_seen": "2026-08-15 08:05:48"
     }
