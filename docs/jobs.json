@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T15:40:06+00:00",
+  "generated_at": "2026-08-17T15:52:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabajo remoto call center //Escoge tu horario//Con exp minima en ventas//Descansa fijo domingo",
+      "company": "Atento Perú",
+      "location": "Arequipa, Arequipa (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-remoto-call-center-escoge-tu-horariocon-exp-minima-en-ventasdescansa-fijo-domingo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-arequipa-C52FB9E9F5C7705461373E686DCF3405",
+      "description": "Trabajo remoto call center //Escoge tu horario//Con exp minima en ventas//Descansa fijo domingo - Atento Perú - Arequipa, Arequipa - Remoto - Publicado: Hace 12 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 12 minutos",
+      "notified": false,
+      "first_seen": "2026-08-17 15:52:13"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-14T12:49:18+00:00",
       "notified": false,
       "first_seen": "2026-08-15 13:12:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "HR Management Intern / Working Student (m/w/d)",
-      "company": "Trusteq Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/trusteq-gmbh/hr-management-intern-working-student-munchen-164793",
-      "description": "DEINE AUFGABEN Du unterstützt unser HR-Team im operativen Tagesgeschäft entlang des gesamten Mitarbeiter-Lebenszyklus - vom Onboarding über Vertragsänderungen bis hin zum Offboarding. Du arbeitest mit dem Team an der Weiterentwicklung und Digitalisierung unserer HR-Prozesse und d",
-      "reason": "No es un puesto de desarrollo de software",
-      "language": "other",
-      "posted_at": "1786792172",
-      "notified": false,
-      "first_seen": "2026-08-15 12:25:12"
     }
   ]
 }
