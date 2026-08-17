@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T21:52:26+00:00",
+  "generated_at": "2026-08-17T22:05:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Sub gerente de tienda sps",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101605/sub-gerente-de-tienda-sucursal.aspx",
+      "description": "Sub gerente de tienda sps - Confidencial - Cortés,Honduras - Expira en: 01/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 01/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-17 22:05:44"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13986,20 +14000,6 @@
       "language": "en",
       "posted_at": "1786830928",
       "notified": false,
-      "first_seen": "2026-08-15 22:23:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer II, Fullstack (International)",
-      "company": "Affirm",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/software-engineer-ii-fullstack-international-70045",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p&gt;The International Acceler",
-      "reason": "Puesto de desarrollo de software full-stack",
-      "language": "en",
-      "posted_at": "1786830925",
-      "notified": true,
       "first_seen": "2026-08-15 22:23:15"
     }
   ]
