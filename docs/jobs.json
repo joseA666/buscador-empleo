@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-17T14:00:50+00:00",
+  "generated_at": "2026-08-17T14:24:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Team Member",
+      "company": "Costa Coffee Ireland",
+      "location": "Londonderry, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-costa-coffee-ireland-1136848",
+      "description": "Join Our Team as a Barista â Brew Up a Great Career with Us! The Role: This isnât just another job â itâs your chance to kickstart a career in a brand that values growth, development, and promoting from within. As a Barista, youâll be part of a supportive team where lea",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-15T00:58:56+00:00",
+      "notified": false,
+      "first_seen": "2026-08-17 14:24:34"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "4 vacatures",
+      "company": "TwinTopics",
+      "location": "Enschede en omgeving, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-4-vacatures-twintopics-1136849",
+      "description": "- Please mention the word **SPELLBINDING** and tag RMTI4LjIwMy4xODkuMjQz when applying to show you read the job post completely (#RMTI4LjIwMy4xODkuMjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see th",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T12:54:30+00:00",
+      "notified": false,
+      "first_seen": "2026-08-17 14:24:34"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-15T05:53:56+00:00",
       "notified": false,
       "first_seen": "2026-08-15 09:39:24"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Engineering Manager - EU",
-      "company": "Ashby",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/150687-engineering-manager-eu",
-      "description": "Hi I’m Colin, Director of Engineering, Europe. How do you feel about software engineers writing product specs, making product decisions, and not breaking down projects into individual tickets? If that sounds exciting (even if a bit scary), read on because I’m looking for an engin",
-      "reason": "No coincide con el perfil de desarrollo de software y la ubicación no es razonable",
-      "language": "en",
-      "posted_at": "2026-08-15T05:54:40+00:00",
-      "notified": false,
-      "first_seen": "2026-08-15 09:39:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Technical Writer (Data Documentation)",
-      "company": "jetbrains",
-      "location": "Berlin; Munich; Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/jetbrains/remote-senior-technical-writer-data-documentation-51174",
-      "description": "&lt;p&gt;At JetBrains, many teams rely on data and shared tools in their daily work – whether they are building products, improving AI solutions, running marketing campaigns, managing finances, or tracking sales. Our goal is to make these resources easy to find, understand, and u",
-      "reason": "No es un rol de desarrollo de software",
-      "language": "en",
-      "posted_at": "1786784116",
-      "notified": false,
-      "first_seen": "2026-08-15 09:23:59"
     }
   ]
 }
