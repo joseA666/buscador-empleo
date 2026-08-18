@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T17:12:05+00:00",
+  "generated_at": "2026-08-18T17:26:30+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Fire Fighter",
+      "company": "Adani Airport Holdings Ltd",
+      "location": "Mangaluru, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-fighter-adani-airport-holdings-ltd-1136926",
+      "description": "About Business JOB DESCRIPTION Adani Group : Adani Group is a diversified organisation in India comprising 10 publicly traded companies. It has created a world class logistics and utility infrastructure portfolio that has a pan-India presence. Adani Group is headquartered in Ahme",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T17:14:35+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 17:26:30"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1786960539",
-      "notified": true,
-      "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior VFX Artist & Animation Generalist",
-      "company": "Zyngacareers",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/zyngacareers/senior-vfx-artist-animation-generalist-london-118919",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Level Up Your Career with Zynga!&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;At Zynga, we bring people together through the power of play. As a global leader in interactive entertainment ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786960524",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
     }
