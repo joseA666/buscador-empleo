@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T17:41:24+00:00",
+  "generated_at": "2026-08-18T17:55:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Backend Golang",
+      "company": "Autonomic SAS",
+      "location": "Medellín, Antioquia ($ 8.500.000,00 (Mensual))",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-golang-en-medellin-9591F1D4B4A24D7861373E686DCF3405",
+      "description": "Desarrollador Backend Golang - Autonomic SAS - Medellín, Antioquia - $ 8.500.000,00 (Mensual) - Publicado: Hace 5 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": true,
+      "first_seen": "2026-08-18 17:55:18"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1786960842",
-      "notified": true,
-      "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "EPC Manager / Owner's Engineer (m/w/d) - Utility-Scale Solar, BESS, Wind",
-      "company": "Renergo GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/renergo-gmbh/epc-manager-owners-engineer-utility-scale-solar-bess-wind-heidenheim-409686",
-      "description": "Die Renergo entwickelt bundesweit große PV-Freiflächen, Windparks und Batteriespeicher (BESS) – und geht als unabhängiger Stromerzeuger (IPP) nun den nächsten Schritt: vom reinen Projektentwickler zum Betreiber eigener Anlagen. Für den Aufbau unseres EPC-Managements suchen wir er",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1786960841",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
     }
