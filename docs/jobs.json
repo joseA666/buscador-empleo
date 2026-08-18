@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T15:42:36+00:00",
+  "generated_at": "2026-08-18T15:57:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Full-Stack Web Engineer (Remote, Full-Time) [AS312]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/full-stack-web-engineer-remote-full-time-as312-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity — it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T12:06:29.618+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 15:57:27"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-17T05:40:07+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 09:02:10"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Sales Engineer II",
-      "company": "Spectrio",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/149391-sales-engineer-ii",
-      "description": "Description As a leading provider of comprehensive digital signage solutions, Spectrio empowers clients to transform their business locations into modern, dynamic destinations for customers and employees. Headquartered in Tampa, Florida, and serving more than 150,000 global clien",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T05:35:08+00:00",
       "notified": true,
       "first_seen": "2026-08-17 09:02:10"
     }
