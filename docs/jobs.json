@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T22:41:44+00:00",
+  "generated_at": "2026-08-18T22:52:58+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Subgerente de tienda san pedro sula",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102046/administrador.aspx",
+      "description": "Subgerente de tienda san pedro sula - Confidencial - Cortés,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 22:52:58"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13981,20 +13995,6 @@
       "company": "Health Routine",
       "location": "Cologne",
       "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-cologne-143746",
-      "description": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen wollen, was „normal“ sein soll. Und unsere Marke ist dabei längs",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786980629",
-      "notified": false,
-      "first_seen": "2026-08-17 16:41:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-      "company": "Health Routine",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-berlin-18793",
       "description": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen wollen, was „normal“ sein soll. Und unsere Marke ist dabei längs",
       "reason": "",
       "language": "other",
