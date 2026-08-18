@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T17:55:18+00:00",
+  "generated_at": "2026-08-18T18:08:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Contador general",
+      "company": "Transmundo",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1101900/contador-general.aspx",
+      "description": "Contador general - Transmundo - Honduras - Expira en: 30/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 30/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 18:08:18"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13984,20 +13998,6 @@
       "description": "energized&#x26; – Dein Growth Partner aus deiner Branche. Wir sind eine tech- und datengetriebene Unternehmensberatung, die B2B-Unternehmen aus den Bereichen New Energy und E-Mobility dabei unterstützt, ihre Pipeline zu stärken, den Umsatz zu steigern und die Customer Acquisition",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
-      "posted_at": "1786960842",
-      "notified": true,
-      "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Creator Growth Manager // AI Music Video Platform",
-      "company": "neural frames",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neural-frames/creator-growth-manager-ai-music-video-platform-berlin-401176",
-      "description": "Neural Frames makes AI music videos. Musicians, producers and labels use it to turn their songs into visuals that actually move with the music, from full music videos to short-form clips. We're bootstrapped, profitable and growing fast. We got to several million in ARR with a tea",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
       "posted_at": "1786960842",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
