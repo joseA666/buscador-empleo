@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T20:24:10+00:00",
+  "generated_at": "2026-08-18T20:39:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador/a Java Jr",
+      "company": "GIITIC SAS",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-java-jr-estudiante-tecnologo-o-profesional-en-bogota-dc-AE9E70B34A966D5F61373E686DCF3405",
+      "description": "Desarrollador/a Java Jr - GIITIC SAS - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 7 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": true,
+      "first_seen": "2026-08-18 20:39:46"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar de tesorería",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101947/asistente-o-encargado-de-tesoreria.aspx",
+      "description": "Auxiliar de tesorería - GRUPO ELCATEX - Cortés,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 20:39:29"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786970439",
       "notified": true,
       "first_seen": "2026-08-17 13:44:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive",
-      "company": "Goodlord",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/goodlord/enterprise-account-executive-london-78970",
-      "description": "📍 London Office (Aldgate East, E1) | Hybrid - 3 days in the office, 2 days remote (or office if you prefer!) The opportunity Goodlord is on a mission to be the gold standard platform for renting, and we’re searching for an Enterprise Account Executive reporting directly to our He",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786970436",
-      "notified": true,
-      "first_seen": "2026-08-17 13:44:58"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-turno-am-renovacion-de-equipos-movil-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-5E456387D0D87E9A61373E686DCF3405",
-      "description": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 24 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 24 minutos",
-      "notified": false,
-      "first_seen": "2026-08-17 13:44:41"
     }
   ]
 }
