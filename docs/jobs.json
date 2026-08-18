@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T00:11:34+00:00",
+  "generated_at": "2026-08-18T00:28:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador .Net",
+      "company": "ADSA SIN",
+      "location": "Culiacán, Sinaloa ($ 30,000.00 (Mensual))",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-en-culiacan-13A9CA42124D7B1061373E686DCF3405",
+      "description": "Desarrollador .Net - ADSA SIN - Culiacán, Sinaloa - $ 30,000.00 (Mensual) - Publicado: Más de 30 días",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Más de 30 días",
+      "notified": true,
+      "first_seen": "2026-08-18 00:28:14"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13981,20 +13995,6 @@
       "company": "Pleo",
       "location": "London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-london-218725",
-      "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance t",
-      "reason": "Puesto de ingeniería de IA",
-      "language": "en",
-      "posted_at": "1786862406",
-      "notified": true,
-      "first_seen": "2026-08-16 07:13:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Applied AI Engineer",
-      "company": "Pleo",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/pleo/senior-applied-ai-engineer-united-kingdom-144957",
       "description": "About Pleo Messy spend management is tricky business. And tedious processes are a lose-lose situation for all involved, not just finance. At Pleo, we're changing that. We build spend solutions that make managing money seamless, empowering, and surprisingly effective for finance t",
       "reason": "Puesto de ingeniería de IA",
       "language": "en",
