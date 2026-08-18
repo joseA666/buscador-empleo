@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T10:42:40+00:00",
+  "generated_at": "2026-08-18T10:56:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador fullstack - manejo de java spring boot, vue.js",
+      "company": "Empresa confidencial",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-fullstack-manejo-de-java-spring-boot-vuejs-1886728880",
+      "description": "Desarrollador fullstack - manejo de java spring boot, vue.js - Empresa confidencial - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-18 10:56:35"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Billing Executive",
+      "company": "Sanya Pharma Pvt Ltd",
+      "location": "Patna, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-billing-executive-sanya-pharma-pvt-ltd-1136899",
+      "description": "Company Description Sanya Pharma Pvt Ltd is a key part of a family-owned group that began in 1960 with Medicine House, one of the first pharmaceutical wholesalers in Patna, Bihar, focused on providing life-saving medicines to the state. Over the decades, the group has evolved int",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-17T10:54:02+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 10:56:18"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13972,34 +14000,6 @@
       "language": "es",
       "posted_at": "Hace 4 días",
       "notified": false,
-      "first_seen": "2026-08-17 02:41:09"
-    },
-    {
-      "source": "computrabajo_co",
-      "source_label": "Computrabajo Colombia",
-      "title": "desarrollador/a web",
-      "company": "TECH BEAUTY S.A.S.",
-      "location": "Envigado, Antioquia (Remoto)",
-      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-web-en-envigado-8A014D506E2ADF7361373E686DCF3405",
-      "description": "desarrollador/a web - TECH BEAUTY S.A.S. - Envigado, Antioquia - Remoto - Publicado: Hace 4 días",
-      "reason": "Desarrollador web coincide con el perfil",
-      "language": "es",
-      "posted_at": "Hace 4 días",
-      "notified": true,
-      "first_seen": "2026-08-17 02:41:09"
-    },
-    {
-      "source": "computrabajo_co",
-      "source_label": "Computrabajo Colombia",
-      "title": "Fullstack Developer",
-      "company": "ZEMSANIA COLOMBIA SAS",
-      "location": "Bogotá, D.C., Bogotá, D.C. ($ 8.800.000,00 (Mensual))",
-      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-fullstack-developer-bilingue-remoto-en-bogota-dc-C2DCF29ACFB2218A61373E686DCF3405",
-      "description": "Fullstack Developer - ZEMSANIA COLOMBIA SAS - Bogotá, D.C., Bogotá, D.C. - $ 8.800.000,00 (Mensual) - Publicado: Hace 4 días",
-      "reason": "Fullstack Developer coincide con el perfil",
-      "language": "es",
-      "posted_at": "Hace 4 días",
-      "notified": true,
       "first_seen": "2026-08-17 02:41:09"
     }
   ]
