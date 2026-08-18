@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-18T15:57:27+00:00",
+  "generated_at": "2026-08-18T16:10:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador Java",
+      "company": "EON IGNITING BUSINESS",
+      "location": "Benito Juárez, Ciudad de México DF (Remoto)",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-java-weblogic-linux-en-benito-juarez-0FDBFF03C378B77D61373E686DCF3405",
+      "description": "Desarrollador Java - EON IGNITING BUSINESS - Benito Juárez, Ciudad de México DF - Remoto - Publicado: Hace 8 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": true,
+      "first_seen": "2026-08-18 16:10:21"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Principal Data Engineer",
+      "company": "Vomela",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-principal-data-engineer-vomela-1136860",
+      "description": "At Vomela our greatest asset is our people. As a full-service visual communications company, we are looking for creative and intellectual thinkers that work with our customers to create compelling brand solutions and foster meaningful connections. And while you're focused on crea",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T16:00:06+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 16:10:21"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-turno-am-renovacion-de-equipos-movil-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-8312DD44198646C961373E686DCF3405",
+      "description": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 19 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 19 minutos",
+      "notified": false,
+      "first_seen": "2026-08-18 16:10:03"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Hotline Paralegal",
+      "company": "Legal Services NYC",
+      "location": "LSNYC Central Office",
+      "url": "https://remoteOK.com/remote-jobs/remote-hotline-paralegal-legal-services-nyc-1136861",
+      "description": "Legal Services NYC (LSNYC) fights poverty and seeks racial, social and economic justice for low-income New Yorkers. For over 50 years, we have challenged systemic injustices that trap people in poverty and provided legal services that help our clients meet basic needs for housing",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-17T16:00:38+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 16:10:03"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13945,62 +14001,6 @@
       "posted_at": "1786951213",
       "notified": true,
       "first_seen": "2026-08-17 09:02:27"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Developer / 3rd-Level Support & Customer Issue Resolution Expert (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-3rd-level-support-customer-issue-resolution-expert-jena-82323",
-      "description": "Hochtechnologie und Innovation... …aktiv mitgestalten und vorantreiben – für diese Position suchen wir eine engagierte Persönlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz überzeugt. Als Beratungsunternehmen unterstützen wir unseren Ku",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1786951213",
-      "notified": true,
-      "first_seen": "2026-08-17 09:02:27"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Developer / Build & Tooling Expert (m/w/d)",
-      "company": "cigus GmbH",
-      "location": "Jena",
-      "url": "https://www.arbeitnow.com/jobs/companies/cigus-gmbh/senior-software-developer-build-tooling-expert-jena-414767",
-      "description": "Hochtechnologie und Innovation... …aktiv mitgestalten und vorantreiben – für diese Position suchen wir eine engagierte Persönlichkeit (m/w/d), die mit Ideenreichtum, Verantwortungsbewusstsein und fachlicher Kompetenz überzeugt. Als Beratungsunternehmen unterstützen wir unseren Ku",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1786951213",
-      "notified": true,
-      "first_seen": "2026-08-17 09:02:27"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Java Backend Engineer (AI/LLM Chatbot, Customer Service)",
-      "company": "Binance",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/142198-java-backend-engineer-ai-llm-chatbot-customer-service",
-      "description": "Binance is the leading global blockchain ecosystem and cryptocurrency infrastructure provider whose suite of financial products includes the world’s largest digital-asset exchange.Our mission is to accelerate cryptocurrency adoption and increase the freedom of money. If you’re lo",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T05:40:08+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 09:02:10"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Database Engineer",
-      "company": "Ruby Labs",
-      "location": "Europe,  Türkiye",
-      "url": "https://jobicy.com/jobs/146614-database-engineer",
-      "description": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we'r",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T05:40:07+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 09:02:10"
     }
   ]
 }
