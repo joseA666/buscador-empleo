@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T23:23:30+00:00",
+  "generated_at": "2026-08-18T23:38:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde CASA/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-damos-pc-internet-bono-de-luz-gana-1800-a-mas-asesor-de-ventas-en-lima-6547F4B0FD9D3A4061373E686DCF3405",
+      "description": "Trabaja desde CASA/ Damos PC+ internet +bono de luz /Gana 1800 a más - Confidencial - Lima, Lima - Remoto - Publicado: Hace 2 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 horas",
+      "notified": false,
+      "first_seen": "2026-08-18 23:38:05"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "General Merchandise Department Manager",
+      "company": "Walmart Canada",
+      "location": "Thunder Bay, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-merchandise-department-manager-walmart-canada-1136940",
+      "description": "Position Summary... The General Merchandise Department Manager at Walmart plays a key leadership role in delivering a great customer experience by keeping the sales floor stocked, organized, and ready for business. This role leads and supports associates in completing handheld ta",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-17T23:34:13+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 23:38:05"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786981204",
       "notified": true,
       "first_seen": "2026-08-17 16:42:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technischer Projektkoordinator (m/w/d) Smart Locker Systeme",
-      "company": "ANGEHEUERT GmbH Personalberatung",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/technischer-projektkoordinator-smart-locker-systeme-munich-86780",
-      "description": "🌱 Auf der Suche nach einer beruflichen Herausforderung mit Mehrwert für Gesellschaft &#x26; Klima? Du hast Erfahrung in der technischen Koordination und möchtest nicht nur vom Schreibtisch aus steuern, sondern auch draußen anpacken? Dann lies weiter! Der Arbeitgeber ist ein Smart",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786980629",
-      "notified": false,
-      "first_seen": "2026-08-17 16:41:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Direct Response Copywriter (m/w/d) - 100% remote",
-      "company": "Health Routine",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/health-routine/senior-direct-response-copywriter-100-remote-cologne-143746",
-      "description": "\"Damit Sie wieder die Dinge tun können, die Ihnen Freude bereiten.\" Unter diesem Motto entwickeln wir bei Health Routine natürliche Produkte, die wirken. Speziell für Menschen über 50, die nicht mehr alles hinnehmen wollen, was „normal“ sein soll. Und unsere Marke ist dabei längs",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786980629",
-      "notified": false,
-      "first_seen": "2026-08-17 16:41:45"
     }
   ]
 }
