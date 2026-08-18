@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T20:39:47+00:00",
+  "generated_at": "2026-08-18T20:52:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de tienda. la ceiba",
+      "company": "Confidencial",
+      "location": "Atlántida,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101953/supervisor-de-ventas.aspx",
+      "description": "Supervisor de tienda. la ceiba - Confidencial - Atlántida,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 20:52:35"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1786970479",
-      "notified": true,
-      "first_seen": "2026-08-17 13:44:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Manager, Paid Media",
-      "company": "Airwallex",
-      "location": "UK - London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/airwallex/manager-paid-media-london-118332",
-      "description": "About Airwallex Airwallex is the only unified payments and financial platform for global businesses. Powered by our unique combination of proprietary infrastructure and software, we empower over 250,000 businesses worldwide – including Brex, Navan, Qantas, SHEIN and many more – w",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786970439",
       "notified": true,
       "first_seen": "2026-08-17 13:44:58"
     }
