@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T21:39:46+00:00",
+  "generated_at": "2026-08-18T21:51:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Analista Programador/a Java",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programadora-java-en-lima-4DCCBABEB7A1B5F761373E686DCF3405",
+      "description": "Analista Programador/a Java - Confidencial - Lima, Lima - Remoto - Publicado: Hace 3 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "Hace 3 minutos",
+      "notified": true,
+      "first_seen": "2026-08-18 21:51:40"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Teampicnic",
       "location": "Berlin, Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-instandhaltungstechniker-berlin-berlin-37894",
-      "description": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786978541",
-      "notified": false,
-      "first_seen": "2026-08-17 15:39:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Instandhaltungstechniker (m/w/d)",
-      "company": "Teampicnic",
-      "location": "Falkensee, Brandenburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/senior-instandhaltungstechniker-falkensee-brandenburg-12170",
       "description": "&lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div class=&quot;entry-intro&quot;&gt; &lt;section class=&quot;section vacancy-detail-intro-section&quot;&gt; &lt;div class=&quot;section-inner&quot;&gt; &lt;div ",
       "reason": "",
       "language": "en",
