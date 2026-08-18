@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T16:43:51+00:00",
+  "generated_at": "2026-08-18T16:58:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "What should I ask them when they say 'Do you have any questions for us ",
+      "company": "Baldwin Blueprint",
+      "location": "Min Min, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-what-should-i-ask-them-when-they-say-do-you-have-any-questions-for-us-baldwin-blueprint-1136933",
+      "description": "The Hiring Field Manual Home âº Field Manual âº In the Room FIG. 01 IN THE ROOM NOTES, UPDATED JUN 11, 2026 What should I ask them when they say, 'Do you have any questions for us?' By Chris Baldwin Founder, Baldwin Blueprint Updated June 2026 Study this sheet THE FILM VERSION9",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-17T16:45:29+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 16:58:33"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Maintenance and Grounds Officer",
+      "company": "Department of Education and Training",
+      "location": "Katherine, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-and-grounds-officer-department-of-education-and-training-1136946",
+      "description": "Vacancy Number: NT260117 Agency: Department of Education and Training Number of Vacancies: 1 Work Unit: Kintore St School Location: Katherine Primary Objective: As a member of the school team and under the direction of the Principal and Business Manager, the Maintenance and Groun",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-17T16:47:27+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 16:58:32"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786960506",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerfachwirt (m/w/d)",
-      "company": "Personalberatung Susan Lange",
-      "location": "Rostock",
-      "url": "https://www.arbeitnow.com/jobs/companies/personalberatung-susan-lange/steuerfachwirt-rostock-328023",
-      "description": "Die Personalberatung Susan Lange in Rostock ist spezialisiert auf die Direktsuche und Vermittlung von Fach- und Führungskräften. Für Bewerber ist unser gesamter Service kostenfrei. Im Auftrag unseres Kunden, eine namhafte Steuerberatungskanzlei und Wirtschaftsberatung in Rostock,",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786960841",
-      "notified": false,
-      "first_seen": "2026-08-17 10:43:57"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "HR-Assistenz (w,m,d) mit Schwerpunkt Abrechnung, Buchhaltung, Back Office",
-      "company": "LAVOLÉ- deine Logopädie und Ergotherapie",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/lavole-deine-logopadie-und-ergotherapie/hr-assistenz-wmd-mit-schwerpunkt-abrechnung-buchhaltung-back-office-munich-419132",
-      "description": "UNTERNEHMENSBESCHREIBUNG Für unsere Standorte in der Maxvorstadt, dem Glockenbachviertel und in Bogenhausen suchen wir eine engagierte und zuverlässige Persönlichkeit in Teilzeit. Die Arbeitszeit beträgt 15 bis 20 Stunden pro Woche. Der Arbeitsort befindet sich am Gärtnerplatz. W",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786959026",
-      "notified": false,
-      "first_seen": "2026-08-17 10:43:57"
     }
   ]
 }
