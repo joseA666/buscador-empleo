@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-17T23:52:02+00:00",
+  "generated_at": "2026-08-18T00:11:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "BRICKLAYER",
+      "company": "EFL Ltd",
+      "location": "Cambridge, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-bricklayer-efl-ltd-1136924",
+      "description": "Please send a CV and covering letter to enquiries@eflltd.co.uk for all job applications. Please take a look through our website and see what we do for more information on job roles below. Give us a call in the office on 01362 820534 if you want to chat about any of our vacancies ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-13T15:29:38+00:00",
+      "notified": false,
+      "first_seen": "2026-08-18 00:11:34"
+    },
     {
       "source": "computrabajo_mx",
       "source_label": "Computrabajo México",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786862406",
       "notified": true,
       "first_seen": "2026-08-16 07:13:19"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Product Manager",
-      "company": "Shopper1st",
-      "location": "Nirsa, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-product-manager-shopper1st-1136807",
-      "description": "I'm a paragraph. Click here to add your own text and edit me. Itâs easy. Just click âEdit Textâ or double click me to add your own content and make changes to the font. Iâm a great place for you to tell a story and let your users know a little more about you. Please menti",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-11T00:48:23+00:00",
-      "notified": false,
-      "first_seen": "2026-08-16 07:13:18"
     }
   ]
 }
