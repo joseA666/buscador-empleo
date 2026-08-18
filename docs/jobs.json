@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T20:52:35+00:00",
+  "generated_at": "2026-08-18T21:06:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Teleoperador actualización de planes /Trabaja desde casa! turno A.M /Damos pc + bono luz + internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-teleoperador-actualizacion-de-planes-trabaja-desde-casa-turno-am-damos-pc-bono-luz-internet-gana-aprox-s1800-planilla-completa-beneficios-de-ley-en-lima-F31B33EB1309EC4C61373E686DCF3405",
+      "description": "Teleoperador actualización de planes /Trabaja desde casa! turno A.M /Damos pc + bono luz + internet - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-08-18 21:06:40"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Mecanico de flota  tegucigalpa",
+      "company": "ACAVISA",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101973/mecanico-automotriz.aspx",
+      "description": "Mecanico de flota tegucigalpa - ACAVISA - Francisco Morazán,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 21:06:40"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1786971304",
-      "notified": true,
-      "first_seen": "2026-08-17 13:44:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Associate Medical Director",
-      "company": "Apothecom",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/associate-medical-director-389123",
-      "description": "&lt;p&gt;&lt;strong&gt;About ApotheCom&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;ApotheCom is an exciting leader in the field of medical communications. Drawn together from several backgrounds including the pharmaceutical industry, research, marketing, medical and regulatory writing, sal",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786970479",
-      "notified": true,
-      "first_seen": "2026-08-17 13:44:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Manager/Senior Account Manager",
-      "company": "Apothecom",
-      "location": "London; Manchester City",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/apothecom/account-manager-senior-account-manager-london-manchester-city-92553",
-      "description": "&lt;p&gt;&lt;strong&gt;Account Manager/Senior Account Manager – Medical Communications&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;London/Manchester/Hybrid/Remote(UK)&lt;/p&gt; &lt;p&gt;At &lt;strong&gt;Inizio Medical&lt;/strong&gt;, the combined expertise of &lt;strong&gt;ApotheCom, Nucle",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786970479",
       "notified": true,
       "first_seen": "2026-08-17 13:44:58"
     }
