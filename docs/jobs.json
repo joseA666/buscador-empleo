@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T19:40:37+00:00",
+  "generated_at": "2026-08-18T19:51:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Encargado de sistemas de gestión",
+      "company": "Disagro",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101896/analista-en-salud-y-seguridad-ocupacional.aspx",
+      "description": "Encargado de sistemas de gestión - Disagro - Cortés,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 19:51:48"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Blab",
       "location": "Washington, DC proper",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/director-growth-washington-dc-washington-dc-proper-451043",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40 hours per week, 5DWW) with no option for part-time work. Whi",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1786971304",
-      "notified": false,
-      "first_seen": "2026-08-17 13:44:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director, Growth (São Paulo, BR)",
-      "company": "Blab",
-      "location": "São Paulo, BR",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/blab/director-growth-sao-paulo-br-304165",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;hr&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;This is a &lt;strong&gt;Full-Time&lt;/strong&gt; Role (40 hours per week, 5DWW) with no option for part-time work. Whi",
       "reason": "",
       "language": "en",
