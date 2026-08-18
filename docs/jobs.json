@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T14:47:21+00:00",
+  "generated_at": "2026-08-18T15:09:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Desarrollador de negocio san pedro sula",
+      "company": "AC Talentos S.A.",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101757/ejecutivo-de-ventas.aspx",
+      "description": "Desarrollador de negocio san pedro sula - AC Talentos S.A. - Cortés,Honduras - Expira en: 02/10/2026",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": true,
+      "first_seen": "2026-08-18 15:09:33"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Encargado sanitario",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1101750/farmaceutico.aspx",
+      "description": "Encargado sanitario - Confidencial - Cortés,Honduras - Expira en: 02/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 02/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-18 15:09:15"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1786945206",
       "notified": false,
       "first_seen": "2026-08-17 06:53:38"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "IT-Spezialist Digitalisierung (m/w/d)",
-      "company": "Dr. Kittl & Partner",
-      "location": "Deggendorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-kittl-partner/it-spezialist-digitalisierung-deggendorf-217112",
-      "description": "Warum du bei uns genau richtig bist?! WORK LIFE BALANCE flexible Arbeitszeiten &#x26; mobile Arbeitsplatzgestaltung sowie Home-Office Optionen attraktives Büro in zentraler, verkehrsgünstiger Lage Top-Büroausstattung (z.B. höhenverstellbare Schreibtische) moderne IT- und Telko-Au",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786946440",
-      "notified": false,
-      "first_seen": "2026-08-17 06:53:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Passau",
-      "company": "Dr. Kittl & Partner",
-      "location": "Passau",
-      "url": "https://www.arbeitnow.com/jobs/companies/dr-kittl-partner/steuerberater-in-passau-251413",
-      "description": "Warum du bei uns genau richtig bist?! WORK LIFE BALANCE flexible Arbeitszeiten &#x26; mobile Arbeitsplatzgestaltung sowie Home-Office Optionen attraktives Büro in zentraler, verkehrsgünstiger Lage Top-Büroausstattung (z.B. höhenverstellbare Schreibtische) moderne IT- und Telko-Au",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1786946438",
-      "notified": false,
-      "first_seen": "2026-08-17 06:53:37"
     }
   ]
 }
