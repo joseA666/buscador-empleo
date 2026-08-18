@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T18:08:18+00:00",
+  "generated_at": "2026-08-18T18:25:54+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Expression of Interest with First Quantum",
+      "company": "First Quantum Minerals",
+      "location": "Perth, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-with-first-quantum-first-quantum-minerals-1136944",
+      "description": "At First Quantum, we free the talent of our people by taking a very different approach which is underpinned by a very different, very definite culture â the âFirst Quantum Wayâ. Working with us is not like working anywhere else, which is why we recruit people who will take ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T18:21:49+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 18:25:54"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13984,20 +13998,6 @@
       "description": "Neural Frames is a leading AI music video generator, turning any song into a fully produced music video in minutes. We're bootstrapped, profitable, and generating more than $5M in annualized revenue. Our ambition is to build a category-defining company that helps tens of millions",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
-      "posted_at": "1786960842",
-      "notified": true,
-      "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikant AI Engineer (m/w/d)",
-      "company": "energized& Company GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/energized-company-gmbh/praktikant-ai-engineer-munich-370373",
-      "description": "energized&#x26; – Dein Growth Partner aus deiner Branche. Wir sind eine tech- und datengetriebene Unternehmensberatung, die B2B-Unternehmen aus den Bereichen New Energy und E-Mobility dabei unterstützt, ihre Pipeline zu stärken, den Umsatz zu steigern und die Customer Acquisition",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
       "posted_at": "1786960842",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
