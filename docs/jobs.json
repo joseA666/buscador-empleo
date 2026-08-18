@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T11:08:20+00:00",
+  "generated_at": "2026-08-18T11:24:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "LLM Systems / AI Agent Engineer (Remote, Full-Time) [AS311]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/llm-systems-ai-agent-engineer-remote-full-time-as311-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. We're one of the highest-rated workplaces on Glassdoor, connecting exceptional professionals with outstanding global teams and products through long-term r",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T09:48:34.738+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 11:24:24"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Parametric Engineer (Remote, Full-Time) [AS310]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/parametric-engineer-remote-full-time-as310-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T09:03:11.603+00:00",
+      "notified": true,
+      "first_seen": "2026-08-18 11:24:24"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13971,34 +13999,6 @@
       "reason": "No se especifican tecnologías o habilidades coincidentes con el perfil",
       "language": "es",
       "posted_at": "Hace 3 días",
-      "notified": false,
-      "first_seen": "2026-08-17 02:41:09"
-    },
-    {
-      "source": "computrabajo_co",
-      "source_label": "Computrabajo Colombia",
-      "title": "Desarrollador Golang Java con Inglés B2 o Superior",
-      "company": "Adecco Colombia S.A.",
-      "location": "Bogotá, D.C., Bogotá, D.C. ($ 7.000.000,00 (Mensual))",
-      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-golang-java-con-ingles-b2-o-superior-totalmente-remoto-en-bogota-dc-8C82D7607355D07061373E686DCF3405",
-      "description": "Desarrollador Golang Java con Inglés B2 o Superior - Adecco Colombia S.A. - Bogotá, D.C., Bogotá, D.C. - $ 7.000.000,00 (Mensual) - Publicado: Hace 4 días",
-      "reason": "Desarrollador Golang Java coincide con el perfil",
-      "language": "es",
-      "posted_at": "Hace 4 días",
-      "notified": true,
-      "first_seen": "2026-08-17 02:41:09"
-    },
-    {
-      "source": "computrabajo_co",
-      "source_label": "Computrabajo Colombia",
-      "title": "Desarrollador Web Semi Junior, Vacante exclusiva para personas con discapacidad",
-      "company": "Alba Holding",
-      "location": "Cali, Valle del Cauca ($ 2.300.000,00 (Mensual))",
-      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-web-semi-junior-vacante-exclusiva-para-personas-con-discapacidad-en-cali-8D4ADFC6F65F1AD561373E686DCF3405",
-      "description": "Desarrollador Web Semi Junior, Vacante exclusiva para personas con discapacidad - Alba Holding - Cali, Valle del Cauca - $ 2.300.000,00 (Mensual) - Publicado: Hace 4 días",
-      "reason": "No se especifican tecnologías o habilidades coincidentes con el perfil",
-      "language": "es",
-      "posted_at": "Hace 4 días",
       "notified": false,
       "first_seen": "2026-08-17 02:41:09"
     }
