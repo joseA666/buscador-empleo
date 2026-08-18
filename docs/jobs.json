@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T16:58:33+00:00",
+  "generated_at": "2026-08-18T17:12:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "100% remoto desarrollador java con inglés conversacional b2 o superior",
+      "company": "ADECCO COLOMBIA S A",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/100-remoto-desarrollador-java-con-ingles-conversacional-b2-o-superior-1886753942",
+      "description": "100% remoto desarrollador java con inglés conversacional b2 o superior - ADECCO COLOMBIA S A - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-18 17:12:05"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1786960524",
-      "notified": true,
-      "first_seen": "2026-08-17 10:44:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Graduate Sales Executive at SetSales",
-      "company": "Setsales",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/setsales/graduate-sales-executive-at-setsales-london-366770",
-      "description": "&lt;p&gt;&lt;em&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with ambitious, motivated people? And are you curious or passionate about sales?&lt;/em&gt;&lt;/p&gt; ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786960506",
       "notified": true,
       "first_seen": "2026-08-17 10:44:14"
     }
