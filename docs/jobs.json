@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-18T03:05:50+00:00",
+  "generated_at": "2026-08-18T03:30:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabajo Remoto /Asesor de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-remoto-asesor-de-ventas-ya-clientes-gana-s1500a-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-7E87C330543A00FA61373E686DCF3405",
+      "description": "Trabajo Remoto /Asesor de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-08-18 03:30:12"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "No menciona tecnologías relevantes para el perfil",
       "language": "en",
       "posted_at": "2026-08-16T12:07:48+00:00",
-      "notified": false,
-      "first_seen": "2026-08-16 14:23:27"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "DevOps & SRE Engineer",
-      "company": "Bright Vision Technologies",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/devops-sre-engineer-bright-vision-technologies-himala",
-      "description": "Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States. This is a fantastic opportunity to join an established and well-respected organization offering tremendous career ",
-      "reason": "Requiere 6+ años de experiencia y no menciona tecnologías relevantes",
-      "language": "en",
-      "posted_at": "2026-08-16T12:05:13+00:00",
       "notified": false,
       "first_seen": "2026-08-16 14:23:27"
     }
