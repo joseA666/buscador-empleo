@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-19T00:10:43+00:00",
+  "generated_at": "2026-08-19T00:26:53+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor(a) de Ventas – Movistar Fija / Remoto / Planilla + Comisiones",
+      "company": "Agile BPO",
+      "location": "Comas, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesora-de-ventas-movistar-fija-remoto-planilla-comisiones-bono-de-internet-en-comas-0FB75C9BC13E608961373E686DCF3405",
+      "description": "Asesor(a) de Ventas – Movistar Fija / Remoto / Planilla + Comisiones - Agile BPO - Comas, Lima - Remoto - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 00:26:52"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-cross-turno-tarde-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-963003461714311961373E686DCF3405",
+      "description": "Trabaja desde casa Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 1 hora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 hora",
+      "notified": false,
+      "first_seen": "2026-08-19 00:26:52"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Hace 50 minutos",
-      "notified": false,
-      "first_seen": "2026-08-17 16:55:29"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Desde casa ventas portabilidad call/ lunes a sabado de 9am a 6pm",
-      "company": "Confidencial",
-      "location": "Villa El Salvador, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desde-casa-ventas-portabilidad-call-lunes-a-sabado-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-villa-el-salvador-045E2C0480C7B98D61373E686DCF3405",
-      "description": "Desde casa ventas portabilidad call/ lunes a sabado de 9am a 6pm - Confidencial - Villa El Salvador, Lima - Remoto - Publicado: Hace 1 hora",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 1 hora",
-      "notified": false,
-      "first_seen": "2026-08-17 16:55:29"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Data Analyst, Value-Based Care Analytics",
-      "company": "Clover Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150925-data-analyst-value-based-care-analytics",
-      "description": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-17T13:37:37+00:00",
       "notified": false,
       "first_seen": "2026-08-17 16:55:29"
     }
