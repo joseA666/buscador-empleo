@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-19T15:56:44+00:00",
+  "generated_at": "2026-08-19T16:09:53+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Marketing Operations Specialist",
+      "company": "Engine",
+      "location": "Remote - US",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-operations-specialist-engine-1136950",
+      "description": "About Engine At Engine, weâre transforming business travel into something personalized, rewarding, and simple. For too long, managing travel and spend has been overwhelming and fragmented â weâre here to change that. We believe the future of travel should be seamless and po",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T16:00:57+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 16:09:52"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Team Lead Education",
+      "company": "Chaos",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-lead-education-chaos-1136949",
+      "description": "**This position is based in Germany with hybrid or remote working options. Applicants must hold a valid work/residence permit for the respective location.** Chaos is a leading global software company that provides world-class visualization and design solutions, empowering creativ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T16:00:30+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 16:09:52"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Digital Workplace & Automation Specialist",
+      "company": "Dreem Health",
+      "location": "United States",
+      "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
+      "description": "About Dreem Health, by Sunrise Dreem Health is Americaâs leading digital sleep clinic. Powered by Sunriseâs technology, Dreem Health makes sleep care simple â replacing long waits and in-lab sleep studies with home-based testing, expert telehealth visits, and personalized t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T16:00:22+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 16:09:52"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente corporativo de planificación financiera",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102200/gerente-de-planificacion.aspx",
+      "description": "Gerente corporativo de planificación financiera - GRUPO ELCATEX - Cortés,Honduras - Expira en: 03/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 03/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-19 16:09:35"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13945,62 +14001,6 @@
       "posted_at": "1787040577",
       "notified": true,
       "first_seen": "2026-08-18 09:44:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Firmware Validation Engineer (m/f/d) | Embedded Systems Testing & Quality Assurance",
-      "company": "Swissbit",
-      "location": "DE-Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/swissbit/firmware-validation-engineer-embedded-systems-testing-quality-assurance-de-berlin-290250",
-      "description": "A Swissbit more you. Swissbit ist der führende europäische Hersteller von Speicher- und Security-Lösungen für Industrie- und IoT-Anwendungen. Wir machen die digitale Welt sicherer, indem wir Daten zuverlässig speichern und schützen. Für unsere spannenden Projekte suchen wir engag",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787040577",
-      "notified": true,
-      "first_seen": "2026-08-18 09:44:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Softwareentwickler Full-Stack (m/w/d)",
-      "company": "askDANTE systems GmbH",
-      "location": "Kiel",
-      "url": "https://www.arbeitnow.com/jobs/companies/askdante-systems-gmbh/softwareentwickler-full-stack-kiel-117973",
-      "description": "Seit 2003 ist die askDANTE systems GmbH ein verlässlicher IT-Partner für mittelständische Unternehmen. Unser SaaS-Produkt askDANTE haben wir in den vergangenen Jahren vom innovativen Newcomer zur etablierten Lösung bei mehr als 4.000 Unternehmen entwickelt. Wir suchen Dich, um un",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787044839",
-      "notified": true,
-      "first_seen": "2026-08-18 09:44:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "IT Business Analyst (m/w/d)",
-      "company": "Bell Food Group",
-      "location": "Radolfzell",
-      "url": "https://www.arbeitnow.com/jobs/companies/bell-food-group/it-business-analyst-radolfzell-492760",
-      "description": "Du verstehst die Bedürfnisse des Business und hast gleichzeitig ein gutes Gespür dafür, wie daraus passende IT-Lösungen entstehen? Dann bist du bei uns genau richtig. Als IT Business Analyst bist du die zentrale Schnittstelle zwischen unseren Fachbereichen und der IT. Du analysie",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787043628",
-      "notified": true,
-      "first_seen": "2026-08-18 09:44:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Process Improvement Ingenieur (m/w/d) Pharma / Produktionsmanagement in Mannheim (1711)",
-      "company": "BRÜGGEN ENGINEERING GmbH",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/bruggen-engineering-gmbh/process-improvement-ingenieur-pharma-produktionsmanagement-in-mannheim-1711-74951",
-      "description": "Ihre Karriere in der Optimierung pharmazeutischer Herstellungsprozesse. Mit BRÜGGEN ENGINEERING übernehmen Sie Verantwortung für anspruchsvolle Verbesserungsprojekte in einem regulierten Produktionsumfeld. Sie steigern die Effizienz technischer Prozesse, reduzieren Ausschuss und ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787043628",
-      "notified": true,
-      "first_seen": "2026-08-18 09:44:12"
     }
   ]
 }
