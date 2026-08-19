@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-18T23:51:31+00:00",
+  "generated_at": "2026-08-19T00:10:43+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-turno-am-renovacion-de-equipos-movil-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-52BC0E7DD67B761E61373E686DCF3405",
+      "description": "Trabaja desde casa turno A.M! renovación de equipos móvil / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Ahora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": false,
+      "first_seen": "2026-08-19 00:10:43"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Test",
+      "company": "The iNUA Hotel Collection",
+      "location": "Cork, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-test-the-inua-hotel-collection-1136953",
+      "description": "Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Test Please mention the word **FAVOR** and tag RNTIuMTc2LjEyNC4xNzc= when applying to show you read the job post completely (#RNTIuMTc2LjEyNC4xNzc=). This is a beta feature to",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T00:00:00+00:00",
+      "notified": false,
+      "first_seen": "2026-08-19 00:10:43"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-17T13:37:37+00:00",
-      "notified": false,
-      "first_seen": "2026-08-17 16:55:29"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Data Analyst, Clinical Data Effectiveness",
-      "company": "Clover Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150923-data-analyst-clinical-data-effectiveness",
-      "description": "Counterpart Health is an AI‑powered physician enablement platform that delivers clinical insights to providers at the point of care. Our flagship product, Counterpart Assistant, is embedded into clinicians’ workflows and integrates with EHR systems, helping care teams drive value",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-17T13:37:34+00:00",
-      "notified": false,
-      "first_seen": "2026-08-17 16:55:29"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Buyer",
-      "company": "Clover Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/150921-buyer",
-      "description": "The Finance team at Clover Health is a group of strategic partners providing financial and operational insights that drive informed decision-making and efficient capital allocation. Guided by our core values of excellence, accountability, and collaboration, we provide actionable ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-17T13:37:29+00:00",
       "notified": false,
       "first_seen": "2026-08-17 16:55:29"
     }
