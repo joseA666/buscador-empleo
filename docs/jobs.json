@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-19T05:58:02+00:00",
+  "generated_at": "2026-08-19T06:13:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-te-brindamos-pc-laptop-modem-s1130-planilla-completa-comisiones-bono-de-energia-en-lima-655ABF98785EBDB861373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 06:13:55"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabajo Remoto /Asesor de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-remoto-asesor-de-ventas-ya-clientes-gana-s1500a-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-E59F53079AA1538561373E686DCF3405",
+      "description": "Trabajo Remoto /Asesor de Ventas / Ya Clientes/ Gana S/1500a+/ Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 5 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 06:13:55"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Hace 4 minutos",
-      "notified": false,
-      "first_seen": "2026-08-17 20:40:46"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Freelance Asesor de Venta / 300 por ciento de Comision Internet Fibra Optica Negocios Ruc 20",
-      "company": "ATIENDE BUSINESS PERU E.I.R.L.",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-freelance-asesor-de-venta-300-por-ciento-de-comision-internet-fibra-optica-negocios-ruc-20-claro-sede-lima-metropolitana-en-lima-CAEEDC8B6D4B1D5F61373E686DCF3405",
-      "description": "Freelance Asesor de Venta / 300 por ciento de Comision Internet Fibra Optica Negocios Ruc 20 - ATIENDE BUSINESS PERU E.I.R.L. - Lima, Lima - Remoto - Publicado: Hace 43 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 43 minutos",
-      "notified": false,
-      "first_seen": "2026-08-17 20:40:46"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Asesor de Venta Freelance / Internet Fibra Optica Negocios Ruc 20",
-      "company": "ATIENDE BUSINESS PERU E.I.R.L.",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-freelance-asesor-de-venta-300-por-ciento-de-comision-internet-fibra-optica-negocios-ruc-20-claro-sede-lima-metropolitana-en-lima-91C65ED77AE683FD61373E686DCF3405",
-      "description": "Asesor de Venta Freelance / Internet Fibra Optica Negocios Ruc 20 - ATIENDE BUSINESS PERU E.I.R.L. - Lima, Lima - Remoto - Publicado: Hace 43 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 43 minutos",
       "notified": false,
       "first_seen": "2026-08-17 20:40:46"
     }
