@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T10:43:06+00:00",
+  "generated_at": "2026-08-19T10:56:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Team Member Special Assignment",
+      "company": "Reliance Industries Limited",
+      "location": "Jamnagar, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-member-special-assignment-reliance-industries-limited-1136966",
+      "description": "Job Responsibilities : Meet with clients to discuss the space that requires artwork, and must communicate effectively with clients throughout the consultation process May offer custom framing, allowing the artwork to flow perfectly in specific spaces Install or place the artwork ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T10:52:58+00:00",
+      "notified": false,
+      "first_seen": "2026-08-19 10:56:00"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787020228",
-      "notified": true,
-      "first_seen": "2026-08-18 02:39:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Backend Engineer - Energy Management Platform (all genders)",
-      "company": "gridX GmbH",
-      "location": "Remote DE; Aachen; Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/gridx-gmbh/remote-senior-backend-engineer-energy-management-platform-all-genders-322809",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787020207",
       "notified": true,
       "first_seen": "2026-08-18 02:39:03"
     }
