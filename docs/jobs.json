@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-19T22:06:49+00:00",
+  "generated_at": "2026-08-19T22:23:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa! Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-cross-turno-tarde-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-801F16274E6C5F4461373E686DCF3405",
+      "description": "Trabaja desde casa! Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 22:23:44"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Tecnico automotriz temporal",
+      "company": "GRUPO K- LACTEOS DE HONDURAS",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1102407/mecanico-automotriz.aspx",
+      "description": "Tecnico automotriz temporal - GRUPO K- LACTEOS DE HONDURAS - Honduras - Expira en: 03/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 03/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-19 22:23:44"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Planner &amp; Zoning Specialist",
+      "company": "City of Covington, Georgia",
+      "location": "Ambattur, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-planner-amp-zoning-specialist-city-of-covington-georgia-1136959",
+      "description": "Communications Technician (911) Type : Full Time - You Must Fill Out A Public Safety Application Application Deadline : Open until filled Salary Range : Starting hourly rate of $23.89 DOQ Please mention the word **FASHIONABLY** and tag RNDAuNzYuMjM5LjEwMA== when applying to show ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T22:20:09+00:00",
+      "notified": false,
+      "first_seen": "2026-08-19 22:23:44"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13959,48 +14001,6 @@
       "posted_at": "2026-08-18T11:11:27+00:00",
       "notified": true,
       "first_seen": "2026-08-18 15:25:17"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Distributed Systems Testing Software Engineer, Python / Go",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/151013-distributed-systems-testing-software-engineer-python-go",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-18T11:11:26+00:00",
-      "notified": true,
-      "first_seen": "2026-08-18 15:25:17"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Czech Sports Localization Specialist (Football)",
-      "company": "Welo Global",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/151012-czech-sports-localization-specialist-football",
-      "description": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and a",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-18T11:11:24+00:00",
-      "notified": false,
-      "first_seen": "2026-08-18 15:24:59"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Finnish Sports Localization Specialist (Football)",
-      "company": "Welo Global",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/151011-finnish-sports-localization-specialist-football",
-      "description": "As a trusted global transformation partner, Welocalize accelerates the global business journey by enabling brands and companies to reach, engage, and grow international audiences. Welocalize delivers multilingual content transformation services in translation, localization, and a",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-18T11:11:23+00:00",
-      "notified": false,
-      "first_seen": "2026-08-18 15:24:59"
     }
   ]
 }
