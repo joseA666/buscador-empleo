@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T09:03:28+00:00",
+  "generated_at": "2026-08-19T09:26:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador drupal",
+      "company": "Complemento 360 SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-drupal-1886752921",
+      "description": "Desarrollador drupal - Complemento 360 SAS - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-19 09:26:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Kayak",
       "location": "London Office",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/conceptual-designer-london-48981",
-      "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world’s leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We’re also transforming business travel with a new corporat",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787002815",
-      "notified": true,
-      "first_seen": "2026-08-17 22:40:15"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Mid-level Conceptual Copywriter",
-      "company": "Kayak",
-      "location": "London Office",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kayak/mid-level-conceptual-copywriter-london-77526",
       "description": "KAYAK, part of Booking Holdings (NASDAQ: BKNG), is the world’s leading travel search engine. With billions of queries across our platforms, we help people find their perfect flight, stay, rental car and vacation package. We’re also transforming business travel with a new corporat",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
