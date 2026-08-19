@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-19T00:49:47+00:00",
+  "generated_at": "2026-08-19T01:31:22+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Backend Engineer, Safety",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://remotejobs.org/remote-jobs/senior-backend-engineer-safety-reddit",
+      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communiti",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T21:57:34+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 01:31:22"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Software Engineer, Content Platform",
+      "company": "Reddit",
+      "location": "Remote - United States",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-content-platform-reddit",
+      "description": "Reddit is a community of communities. It’s built on shared interests, passion, and trust, and is home to the most open and authentic conversations on the internet. Every day, Reddit users submit, vote, and comment on the topics they care most about. With 100,000+ active communiti",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T19:43:32+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 01:31:22"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa! Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-cross-turno-tarde-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-1DDD269F43910D5561373E686DCF3405",
+      "description": "Trabaja desde casa! Atención al cliente Cross turno tarde / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 27 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 27 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 01:31:04"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Various",
+      "company": "Plumbers Co-op",
+      "location": "Sydney, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-various-plumbers-co-op-1136932",
+      "description": "Join Australiaâs Only Plumber-Owned Supply Team Ready to join a team that actually values the trade ? At Plumbers Co-op , weâre a plumber-owned supply business - not just another chain. Every day, we help plumbers win with competitive pricing, unbeatable service and member-fi",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T01:22:28+00:00",
+      "notified": false,
+      "first_seen": "2026-08-19 01:31:04"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-17T13:04:13+00:00",
       "notified": true,
       "first_seen": "2026-08-17 16:55:47"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Decision Scientist",
-      "company": "Instructure",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/150911-decision-scientist",
-      "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T13:04:11+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 16:55:47"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Payments GTM (Go-to-Market) Operations and Strategy Lead",
-      "company": "Jobber",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/150910-payments-gtm-go-to-market-operations-and-strategy-lead",
-      "description": "Please note the internal job title is: Principal Payments GTM Operations and Strategy Want to build the go-to-market engine for a fast growing payments business? Then Jobber might be the place for you! We’re looking for a Payments GTM Operations and Strategy Lead to be part of ou",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T13:04:09+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 16:55:47"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior Decision Scientist",
-      "company": "Instructure",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/150909-senior-decision-scientist",
-      "description": "At Instructure, we believe in the power of people to grow and succeed throughout their lives. Our goal is to amplify that power by creating intuitive products that simplify learning and personal development, facilitate meaningful relationships, and inspire people to go further in",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T13:04:07+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 16:55:47"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Desde casa gestion remoto ventas portabilidad/lunes a sabado/ capacitacion corta",
-      "company": "Atento Perú",
-      "location": "El Porvenir, La Libertad (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desde-casa-gestion-remoto-ventas-portabilidadlunes-a-sabado-capacitacion-corta-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-el-porvenir-E1326233D33F888661373E686DCF3405",
-      "description": "Desde casa gestion remoto ventas portabilidad/lunes a sabado/ capacitacion corta - Atento Perú - El Porvenir, La Libertad - Remoto - Publicado: Hace 34 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 34 minutos",
-      "notified": false,
-      "first_seen": "2026-08-17 16:55:29"
     }
   ]
 }
