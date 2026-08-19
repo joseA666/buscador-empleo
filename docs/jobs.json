@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T07:46:45+00:00",
+  "generated_at": "2026-08-19T08:02:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Solutions Delivery Manager",
+      "company": "Benchling",
+      "location": "Boston",
+      "url": "https://remoteOK.com/remote-jobs/remote-solutions-delivery-manager-benchling-1136937",
+      "description": "We are rebuilding biotech for the AI era. When a breakthrough is delayed, the world waits. Getting a molecule from discovery to patients, or a crop from lab to field, involves thousands of slow, manual, disconnected steps. AI has the potential to change this, compressing decades ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T08:00:07+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 08:02:48"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-17T13:03:38+00:00",
-      "notified": true,
-      "first_seen": "2026-08-17 22:25:14"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Junior Software Engineer",
-      "company": "PolicyMe",
-      "location": "Canada",
-      "url": "https://remotejobs.org/remote-jobs/junior-software-engineer-policyme",
-      "description": "Overview of the role We’re on a mission to modernize insurance, making it simpler, more accessible, and customer-first. The insurance industry is a $1T market that’s remained largely untouched by the digital revolution, and PolicyMe is here to change that. As a remote-first, Toro",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-17T13:03:36+00:00",
       "notified": true,
       "first_seen": "2026-08-17 22:25:14"
     }
