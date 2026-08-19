@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T23:06:40+00:00",
+  "generated_at": "2026-08-19T23:23:49+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Helpdesk, Remoto",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-helpdesk-remoto-lunes-a-viernes-espanol-portugues-o-italiano-en-lima-9214E72BED21DE6461373E686DCF3405",
+      "description": "Helpdesk, Remoto - Confidencial - Lima, Lima - Remoto - Publicado: Hace 15 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 15 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 23:23:48"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787068511",
-      "notified": true,
-      "first_seen": "2026-08-18 16:43:33"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Data Scientist",
-      "company": "Geniussports",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/geniussports/senior-data-scientist-london-414675",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;p&gt;&lt;em&gt;&lt;span data-contrast=&quot;none&quot;&gt;By bringing together next-gen technology and the finest live data available, Genius Sports is enabling a",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787068505",
       "notified": true,
       "first_seen": "2026-08-18 16:43:33"
     }
