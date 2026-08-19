@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-19T10:11:52+00:00",
+  "generated_at": "2026-08-19T10:26:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador. Net Junior",
+      "company": "PEVAAR S.A.S.",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-junior-ingles-avanzado-en-bogota-dc-ACFF78E683C1E87061373E686DCF3405",
+      "description": "Desarrollador. Net Junior - PEVAAR S.A.S. - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 20 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 20 minutos",
+      "notified": true,
+      "first_seen": "2026-08-19 10:26:21"
+    },
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Salesforce",
+      "company": "NTT DATA Colombia",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-salesforce-en-bogota-dc-CB2050213FFACAE761373E686DCF3405",
+      "description": "Desarrollador Salesforce - NTT DATA Colombia - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 51 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 51 minutos",
+      "notified": true,
+      "first_seen": "2026-08-19 10:26:21"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-18T00:01:06.584+00:00",
       "notified": true,
       "first_seen": "2026-08-18 01:31:30"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Teletrabajo Asesor crosseling Te damos PC solo debes tener Internet Lima y Chiclayo Turno PM",
-      "company": "Konecta",
-      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-teletrabajo-asesor-crosseling-te-damos-pc-solo-debes-tener-internet-lima-y-chiclayo-turno-pm-en-lima-FB1D187E2CEDD2B161373E686DCF3405",
-      "description": "Teletrabajo Asesor crosseling Te damos PC solo debes tener Internet Lima y Chiclayo Turno PM - Konecta - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 27 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 27 minutos",
-      "notified": false,
-      "first_seen": "2026-08-18 01:31:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Intern / Working Student Online Training Translation (Korean speaking)",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/intern-working-student-online-training-translation-korean-speaking-munich-432977",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the global leader in Process Intelligence and the pioneer of Process Mining technology. As one of the world’s fastest-growing enterprise SaaS companies, we are changemakers pushing the boundaries of what’s possible. W",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787010948",
-      "notified": true,
-      "first_seen": "2026-08-18 00:51:14"
     }
   ]
 }
