@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T22:40:54+00:00",
+  "generated_at": "2026-08-19T22:53:16+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Compliance Engineer",
+      "company": "Sunrun",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/sunrun/compliance-engineer-e8b2a9",
+      "description": "At Sunrun, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. To do it, we're designing a dynamic culture where employee development, well-being, and safety come first. It's why we've",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T22:42:06Z",
+      "notified": true,
+      "first_seen": "2026-08-19 22:53:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
       "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-remoto-asesor-de-ventas-fijo-s1220-comisiones-planilla-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-599160DE508B4EB661373E686DCF3405",
       "description": "Trabajo Remoto/ Asesor de Ventas /Fijo s/1220 + Comisiones + Planilla / Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 2 horas",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 2 horas",
-      "notified": false,
-      "first_seen": "2026-08-18 16:43:16"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Ingresa Hoy! Trabajo de Casa/ Asesor de Ventas / Fijo s/1220 + Comisiones + Planilla / Solo Lima",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingresa-hoy-trabajo-de-casa-asesor-de-ventas-fijo-s1220-comisiones-planilla-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-59E4CB02D42DF44861373E686DCF3405",
-      "description": "Ingresa Hoy! Trabajo de Casa/ Asesor de Ventas / Fijo s/1220 + Comisiones + Planilla / Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 2 horas",
       "reason": "",
       "language": "es",
       "posted_at": "Hace 2 horas",
