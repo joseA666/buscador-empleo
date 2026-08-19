@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T04:01:11+00:00",
+  "generated_at": "2026-08-19T04:26:06+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-turno-manana-trabajo-remoto-call-center-damos-pc-internet-bono-de-luz-comisiones-ilimitadas-todos-los-beneficios-de-ley-en-lima-4AF981147DC94DC161373E686DCF3405",
+      "description": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 3 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 3 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 04:26:06"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1786986593",
       "notified": true,
       "first_seen": "2026-08-17 18:46:08"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Backend Engineer(Go), Storage Platform",
-      "company": "wolt",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolt/senior-backend-engineergo-storage-platform-berlin-164661",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;About Wolt&lt;/span&gt;&lt;/h2&gt; &lt;p&gt;&lt;span data-sheets-root=&quot;1&quot;&gt;At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1786989335",
-      "notified": true,
-      "first_seen": "2026-08-17 18:45:51"
     }
   ]
 }
