@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-19T14:12:44+00:00",
+  "generated_at": "2026-08-19T14:28:16+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor de ventas trabaja desde CASA/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-ventas-trabaja-desde-casa-damos-pc-internet-bono-de-luz-gana-1800-a-mas-asesor-de-ventas-en-lima-A4E86C8A476233B261373E686DCF3405",
+      "description": "Asesor de ventas trabaja desde CASA/ Damos PC+ internet +bono de luz /Gana 1800 a más - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-08-19 14:28:16"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gestor sistema de calidad (tegucigalpa)",
+      "company": "FARMACIA DEL AHORRO PROCONSUMO",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102142/asistente-de-control-de-calidad.aspx",
+      "description": "Gestor sistema de calidad (tegucigalpa) - FARMACIA DEL AHORRO PROCONSUMO - Francisco Morazán,Honduras - Expira en: 03/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 03/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-19 14:28:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787034631",
-      "notified": false,
-      "first_seen": "2026-08-18 07:45:40"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Waltersdorf, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Waltersdorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-waltersdorf-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-27203",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787034630",
-      "notified": false,
-      "first_seen": "2026-08-18 07:45:40"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Adelzhausen, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Adelzhausen",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-adelzhausen-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-324341",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787034629",
       "notified": false,
       "first_seen": "2026-08-18 07:45:40"
     }
