@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-19T18:45:41+00:00",
+  "generated_at": "2026-08-19T19:02:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Backend Java",
+      "company": "ZEMSANIA COLOMBIA SAS",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-java-asoapx-en-bogota-dc-44209199AD2F25BA61373E686DCF3405",
+      "description": "Desarrollador Backend Java - ZEMSANIA COLOMBIA SAS - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 13 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": true,
+      "first_seen": "2026-08-19 19:02:17"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Software Engineer",
+      "company": "Natera",
+      "location": "US Remote",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-natera-greenh",
+      "description": "POSITION SUMMARY: A Senior Software Engineer is focused on providing an intuitive and efficient experience for our customers. You have experience in building customer-facing web applications and have a passion for great user experience with a great eye for design. Together with t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T17:03:50+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 19:02:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787056244",
-      "notified": true,
-      "first_seen": "2026-08-18 13:45:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Graduate Sales Executive CFO Insights",
-      "company": "Cfoinsights",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/cfoinsights/graduate-sales-executive-cfo-insights-london-411296",
-      "description": "&lt;p&gt;&lt;em&gt;Do you thrive in a fast-paced environment, where you gain a tremendous amount of responsibility? Do you want to be part of an exceptional entrepreneurial team with ambitious, motivated people? And are you curious or passionate about sales?&lt;/em&gt;&lt;/p&gt; ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787057732",
-      "notified": true,
-      "first_seen": "2026-08-18 13:45:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer (Go)",
-      "company": "Form3",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-478037",
-      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;📝&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&q",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787057715",
       "notified": true,
       "first_seen": "2026-08-18 13:45:53"
     }
