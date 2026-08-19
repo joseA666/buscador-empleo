@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T14:48:26+00:00",
+  "generated_at": "2026-08-19T15:10:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Enderezador Automotriz",
+      "company": "FULLTRUCK",
+      "location": "Quito, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-enderezador-automotriz-fulltruck-1136978",
+      "description": "Empresa solicita enderezador automotriz con experiencia en vehÃ­culos pesados y livianos, para la ciudad de Quito, se ofrece sueldo acorde al mercado, beneficios de ley, interesados enviar hojas de vida. Please mention the word **RENOWN** and tag RMTcyLjE4NC4yMTAuMTYw when applyi",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2026-08-14T00:00:00+00:00",
+      "notified": false,
+      "first_seen": "2026-08-19 15:10:20"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787040584",
-      "notified": false,
-      "first_seen": "2026-08-18 09:43:54"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikant:in Social Media & Content Creation (m/w/d)",
-      "company": "PILLAR GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/pillar-gmbh/praktikantin-social-media-content-creation-munich-43797",
-      "description": "PILLAR entwickelt und montiert Solarcarports, PV-Montagesysteme und Schraubfundamente. Große Maschinen, echte Baustellen, sichtbare Ergebnisse, aber online findet das bisher kaum jemand. Genau das ist dein Job. Du machst aus dem, was auf unseren Baustellen passiert, Content, der ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787040033",
       "notified": false,
       "first_seen": "2026-08-18 09:43:54"
     }
