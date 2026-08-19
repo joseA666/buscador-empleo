@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-19T16:43:37+00:00",
+  "generated_at": "2026-08-19T16:57:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "General Cleaner Caribe Hilton",
+      "company": "Hilton",
+      "location": "San Juan, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-cleaner-caribe-hilton-hilton-1136981",
+      "description": "Job Description Exceptional Hospitality Starts with You Picture yourself brightening someoneâs day. When you join our Hotels team, thatâs exactly what youâll do every time you come to work! As a General Cleaner - Steward , youâre not just keeping our kitchen and dining ar",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-18T16:49:52+00:00",
+      "notified": true,
+      "first_seen": "2026-08-19 16:57:00"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787051429",
       "notified": false,
       "first_seen": "2026-08-18 12:46:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AWS Security & Cloud Platform Consultant",
-      "company": "Kryptos Technologies limited",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kryptos-technologies-limited/aws-security-cloud-platform-consultant-london-227558",
-      "description": "Tasks AWS Security &#x26; Cloud Platform consultant Location: London,UK 3months + Contract with possible extension Role Summary We are seeking an experienced AWS Security &#x26; Cloud Platform Consultant to lead the technical execution of a large-scale Defensive AI and Bot Mitiga",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787049032",
-      "notified": true,
-      "first_seen": "2026-08-18 11:40:22"
     }
   ]
 }
