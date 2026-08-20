@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-20T13:47:41+00:00",
+  "generated_at": "2026-08-20T14:14:09+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Software Engineer | Remote",
+      "company": "OperationsArmy",
+      "location": "Remote",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-remote-operationsarmy",
+      "description": "About the Role We are looking for a hungry, scrappy Software Engineer who thrives in a startup environment and is excited to build, solve problems, and move quickly. This is a hands-on role for someone who can work independently, figure things out, and take ownership without need",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T12:31:52+00:00",
+      "notified": true,
+      "first_seen": "2026-08-20 14:14:08"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "ServiceNow CMDB Administrator",
+      "company": "Arkansas Blue Cross",
+      "location": "Remote",
+      "url": "https://remotejobs.org/remote-jobs/servicenow-cmdb-administrator-arkansas-blue-cross",
+      "description": "To learn more about Arkansas Blue Cross and Blue Shield Hiring Policies, please click here. Job Summary The ServiceNow Configuration Management Database (CMDB) Administrator is responsible for database high availability access and database security to ensure the business continui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T12:25:04+00:00",
+      "notified": true,
+      "first_seen": "2026-08-20 14:14:08"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787118022",
       "notified": false,
       "first_seen": "2026-08-19 06:51:30"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Director, Enterprise Integration Solutions",
-      "company": "Converge Technology Solutions",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/director-enterprise-integration-solutions-converge-technology-solutions",
-      "description": "Position Title: Director, Enterprise Integration Solutions Position Location: There is a preference for San Antonio, TX, but this individual can be Remote in the US Job Summary: The Director, Enterprise Integration Solutions serves as the strategic and operational bridge between ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-19T04:06:49+00:00",
-      "notified": false,
-      "first_seen": "2026-08-19 06:51:30"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-te-brindamos-pc-laptop-modem-s1130-planilla-completa-comisiones-bono-de-energia-en-lima-655ABF98785EBDB861373E686DCF3405",
-      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 6 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 6 minutos",
-      "notified": false,
-      "first_seen": "2026-08-19 06:13:55"
     }
   ]
 }
