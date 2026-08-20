@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T03:06:43+00:00",
+  "generated_at": "2026-08-20T03:31:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Cell production",
+      "company": "vbs associates",
+      "location": "Greater Surat Area, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-cell-production-vbs-associates-1136965",
+      "description": "solar cell production manpower solution Please mention the word **COHESIVE** and tag RMjAuMTYxLjcxLjU3 when applying to show you read the job post completely (#RMjAuMTYxLjcxLjU3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-19T03:23:26+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 03:31:27"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787079314",
-      "notified": true,
-      "first_seen": "2026-08-18 19:40:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Microsoft Partner Sales Manger",
-      "company": "Fireworks",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/fireworks/microsoft-partner-sales-manger-london-437484",
-      "description": "About Us: Fireworks is the platform for specialized intelligence, enabling companies to build, train, and serve AI models tailored to their own data, workflows, and products. Founded by the team behind PyTorch and backed by AMD, Atreides, Benchmark Capital, Index Ventures, Lights",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787078423",
       "notified": true,
       "first_seen": "2026-08-18 19:40:19"
     }
