@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T05:03:14+00:00",
+  "generated_at": "2026-08-20T05:25:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Gestion remoto/Ventas de portabilidad call center/ lunes a sabado de 9am a 6pm",
+      "company": "Atento Perú",
+      "location": "Cusco, Cusco (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestion-remotoventas-de-portabilidad-call-center-lunes-a-sabado-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-cusco-62D69A3963226ADA61373E686DCF3405",
+      "description": "Gestion remoto/Ventas de portabilidad call center/ lunes a sabado de 9am a 6pm - Atento Perú - Cusco, Cusco - Remoto - Publicado: Hace 24 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 24 minutos",
+      "notified": false,
+      "first_seen": "2026-08-20 05:25:12"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787086554",
-      "notified": true,
-      "first_seen": "2026-08-18 21:39:11"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior DSP Engineer",
-      "company": "Axon",
-      "location": "Kassel, Hesse",
-      "url": "https://www.arbeitnow.com/jobs/companies/axon/senior-dsp-engineer-kassel-hesse-186174",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787086509",
       "notified": true,
       "first_seen": "2026-08-18 21:39:11"
     }
