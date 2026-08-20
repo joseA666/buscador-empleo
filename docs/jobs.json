@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-20T17:56:27+00:00",
+  "generated_at": "2026-08-20T18:10:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Teleoperador actualización de planes /Trabaja desde casa! turno A.M /Damos pc + bono luz + internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-teleoperador-actualizacion-de-planes-trabaja-desde-casa-turno-am-damos-pc-bono-luz-internet-gana-aprox-s1800-planilla-completa-beneficios-de-ley-en-lima-6D967FA138D641D461373E686DCF3405",
+      "description": "Teleoperador actualización de planes /Trabaja desde casa! turno A.M /Damos pc + bono luz + internet - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 14 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 14 minutos",
+      "notified": false,
+      "first_seen": "2026-08-20 18:10:14"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-turno-manana-trabajo-remoto-call-center-damos-pc-internet-bono-de-luz-comisiones-ilimitadas-todos-los-beneficios-de-ley-en-lima-750038211BADB86E61373E686DCF3405",
+      "description": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-08-20 18:10:14"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-19T06:51:48+00:00",
-      "notified": false,
-      "first_seen": "2026-08-19 10:42:31"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Junior Brand Designer",
-      "company": "Peerspace",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151069-junior-brand-designer",
-      "description": "Junior Brand Designer About Peerspace Peerspace is the leading and category-defining online marketplace for venue rentals for meetings, productions, and events. We open doors to the most inspiring spaces around the world, from lofts and mansions to storefronts and studios. Over $",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-19T06:51:46+00:00",
-      "notified": false,
-      "first_seen": "2026-08-19 10:42:31"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Account Executive - OGC (Dallas Based, Remote)",
-      "company": "Built Technologies",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151068-account-executive-ogc-dallas-based-remote",
-      "description": "Built's Mission: Connect and simplify doing business in real estate. Built is the AI-powered platform transforming the way real estate is financed, developed, and managed. Purpose-built for real estate and construction, Built began by fixing construction draw management for lende",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-19T06:51:44+00:00",
       "notified": false,
       "first_seen": "2026-08-19 10:42:31"
     }
