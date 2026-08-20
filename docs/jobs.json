@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-20T23:24:40+00:00",
+  "generated_at": "2026-08-20T23:39:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Full remoto desde casa/ingreso directo/planilla completa +comisiones ilimitadas+ bono x permanencia",
+      "company": "Atento Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-desde-casaingreso-directoplanilla-completa-comisiones-ilimitadas-bono-x-permanencia-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-lima-75A30C872B8C4B6161373E686DCF3405",
+      "description": "Full remoto desde casa/ingreso directo/planilla completa +comisiones ilimitadas+ bono x permanencia - Atento Perú - Lima, Lima - Remoto - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-08-20 23:39:31"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Gana mas de mil en comisiones desde casa/ venta portabilidad ingreso directo/lunes a sabado",
+      "company": "Atento Perú",
+      "location": "Trujillo, La Libertad (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gana-mas-de-mil-en-comisiones-desde-casa-venta-portabilidad-ingreso-directolunes-a-sabado-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-trujillo-66758553E70061E861373E686DCF3405",
+      "description": "Gana mas de mil en comisiones desde casa/ venta portabilidad ingreso directo/lunes a sabado - Atento Perú - Trujillo, La Libertad - Remoto - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-08-20 23:39:31"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-19T11:29:10+00:00",
-      "notified": true,
-      "first_seen": "2026-08-19 14:48:26"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Staff Software Engineer- Data Ingestion",
-      "company": "Aledade",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-data-ingestion-aledade",
-      "description": "As a Staff Software Engineer, you will lead the evolution of our backend architecture, with a primary focus on refactoring and optimizing existing data pipelines. You will drive the development of next-generation distributed data storage and processing systems designed to scale i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-19T11:01:49+00:00",
-      "notified": true,
-      "first_seen": "2026-08-19 14:48:26"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Director, Email Deliverability",
-      "company": "Postscript",
-      "location": "Anywhere in the World",
-      "url": "https://remotejobs.org/remote-jobs/director-email-deliverability-postscript",
-      "description": "Headquarters: Remote Postscript is the AI messaging platform trusted by 20,000+ Shopify brands — including Brooklinen, Ruggable, True Classic, and Dr. Squatch. With a mission to make SMS your number one revenue driving channel, we built the best-in-class SMS marketing platform an",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-19T07:30:40+00:00",
       "notified": true,
       "first_seen": "2026-08-19 14:48:26"
     }
