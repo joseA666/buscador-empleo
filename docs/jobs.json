@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T04:00:47+00:00",
+  "generated_at": "2026-08-20T04:19:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Specimen Collector",
+      "company": "Alcotech Group",
+      "location": "Hamilton city, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-specimen-collector-alcotech-group-1136964",
+      "description": "Company Description We are part of a global network providing screening services, with a presence in multiple countries. Role Description We are seeking a Specimen Collector to conduct screening in Hamilton, Dv 04, Bermuda. This screening is part of a pre-employment background ch",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-19T04:15:19+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 04:19:23"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-18T19:39:25+00:00",
       "notified": true,
       "first_seen": "2026-08-18 20:24:09"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-turno-manana-trabajo-remoto-call-center-damos-pc-internet-bono-de-luz-comisiones-ilimitadas-todos-los-beneficios-de-ley-en-lima-AF1892E620B3AFC461373E686DCF3405",
-      "description": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 15 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 15 minutos",
-      "notified": false,
-      "first_seen": "2026-08-18 20:23:52"
     }
   ]
 }
