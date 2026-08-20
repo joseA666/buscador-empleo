@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T21:09:46+00:00",
+  "generated_at": "2026-08-20T21:24:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Caretaker",
+      "company": "Norwich City Council",
+      "location": "Norwich, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-caretaker-norwich-city-council-1137034",
+      "description": "We are recruiting for a Caretaker to join our Caretaking team across a Housing Stock. The successful candidate will join a well established team to ensure the security, safety, cleanliness, maintenance, repair, and monitor of communal areas. Along with assisting tenants in offeri",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-14T13:00:36+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 21:24:36"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787141708",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Berlin, Germany",
-      "company": "speechify",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-berlin-germany-403932",
-      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt; &lt;div class=&quot;p-rich_text_section&quot;&gt; &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787141707",
       "notified": true,
       "first_seen": "2026-08-19 12:47:53"
     }
