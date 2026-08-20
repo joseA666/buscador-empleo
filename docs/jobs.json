@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T08:47:19+00:00",
+  "generated_at": "2026-08-20T09:12:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Team Leader Housekeeping",
+      "company": "Grand Hyatt",
+      "location": "Bambolim, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-team-leader-housekeeping-grand-hyatt-1137013",
+      "description": "Organization- Grand Hyatt Goa Summary You will be responsible to assist with the efficient running of the department in line with Hyatt International's Corporate Strategies and brand standards, whilst meeting employee, guest and owner expectations. The Team Leader - Housekeeping ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-15T12:12:23+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 09:12:42"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Remote",
       "url": "https://remotejobs.org/remote-jobs/lead-appian-developer-remote-icf",
       "description": "*We are open to supporting 100% remote work anywhere within the US* ICF’s Digital Modernization division is a rapidly growing, entrepreneurial, technology department, seeking a Lead Appian Developer to support upcoming needs with our federal customers. Our Digital Modernization d",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-18T20:32:03+00:00",
-      "notified": true,
-      "first_seen": "2026-08-18 22:41:27"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "HTX Labs Talent Community",
-      "company": "HTX Labs",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/htx-labs-talent-community-htx-labs",
-      "description": "About HTX Labs Since 2017, HTX Labs has been on a mission to accelerate the future of learning, employing immersive software training solutions and content development services for the Department of Defense to elevate the level of proficiency and preparedness of today's warfighte",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-18T20:32:03+00:00",
