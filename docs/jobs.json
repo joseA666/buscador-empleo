@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T20:42:06+00:00",
+  "generated_at": "2026-08-20T20:56:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Baker Day",
+      "company": "Loblaw Companies Limited",
+      "location": "Edmonton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-baker-day-loblaw-companies-limited-1136999",
+      "description": "Come make your difference in communities across Canada, where authenticity, trust and making connections is valued â as we shape the future of Canadian retail, together. Our unique position as one of the country's largest employers, coupled with our commitment to positively imp",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-19T20:46:08+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 20:56:36"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13982,20 +13996,6 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/staff-product-manager-berlin-252423",
       "description": "&lt;p&gt;The Engagement tribe sits at the heart of SumUp&#39;s merchant experience, responsible for the product surfaces that 4+ million business owners interact with every day. This is a rare Staff-level IC role responsible for the merchant-facing super app, web dashboard and th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787140530",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior DevOps Engineer",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/senior-devops-engineer-berlin-185651",
-      "description": "&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Berlin, Germany (office first)&amp;nbsp;&lt;/p&gt; &lt;h2&gt;Team description&lt;/h2&gt; &lt;p&gt;Our Platform Tribe builds Fleet, the infrastructure foundation that every engineering team at SumUp relies on to ship safely and quick",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787140530",
