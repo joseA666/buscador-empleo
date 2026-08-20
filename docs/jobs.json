@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-20T19:14:09+00:00",
+  "generated_at": "2026-08-20T19:29:07+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de tienda",
+      "company": "Grupo Flores",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102620/jefe-de-sucursal-agencia.aspx",
+      "description": "Jefe de tienda - Grupo Flores - Francisco Morazán,Honduras - Expira en: 21/08/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 21/08/2026",
+      "notified": false,
+      "first_seen": "2026-08-20 19:29:06"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de soporte técnico",
+      "company": "GLOBALFLEX HONDURAS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102618/mecatronico.aspx",
+      "description": "Supervisor de soporte técnico - GLOBALFLEX HONDURAS - Cortés,Honduras - Expira en: 04/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 04/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-20 19:29:06"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787141750",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive, DACH",
-      "company": "wizinc",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/wizinc/enterprise-account-executive-dach-munich-314469",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Come join the organization that is redefining security for the AI era. As one of the&lt;a href=&quot;https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever&quot;&gt; fastest-growing s",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787141750",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer, Platform - Munich, Germany",
-      "company": "speechify",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-161452",
-      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt; &lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787141710",
       "notified": true,
       "first_seen": "2026-08-19 12:47:36"
     }
