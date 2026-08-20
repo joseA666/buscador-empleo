@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-20T11:40:43+00:00",
+  "generated_at": "2026-08-20T11:54:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "AI Transformation Working Student",
+      "company": "CHAPTERS Group AG",
+      "location": "Cologne",
+      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-transformation-working-student-cologne-262979",
+      "description": "About CHAPTERS Group CHAPTERS Group AG is a Hamburg-based holding company investing in 55+ mission-critical software companies across the DACH region, France, and the Czech Republic. Our companies deliver the digital solutions that keep the public sector and core industries runni",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787223644",
+      "notified": true,
+      "first_seen": "2026-08-20 11:54:10"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Software Engineer:in (Frontend-Focused)",
+      "company": "greenventory GmbH",
+      "location": "Freiburg im Breisgau",
+      "url": "https://www.arbeitnow.com/jobs/companies/greenventory-gmbh/software-engineerin-frontend-focused-freiburg-im-breisgau-143894",
+      "description": "At Greenventory, we build a data-driven web-GIS platform that helps organizations understand and act on energy and infrastructure data, so cities and companies can actually move toward climate neutrality. We work out of a modern office in Freiburg, with the flexibility to also wo",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787223629",
+      "notified": true,
+      "first_seen": "2026-08-20 11:54:10"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Bauingenieur im Auftrags- und Nachtragswesen (m/w/d) 100% Remote in Deutschland",
+      "company": "ANGEHEUERT GmbH Personalberatung",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/angeheuert-gmbh-personalberatung/bauingenieur-im-auftrags-und-nachtragswesen-100-remote-in-deutschland-nuremberg-250733",
+      "description": "Du möchtest Bauprojekte nicht nur begleiten, sondern wirtschaftlich mitgestalten und hast Interesse an technischen Zusammenhängen? Dann lies weiter. Unser Kunde ist ein etabliertes Bauunternehmen mit mehreren hundert Mitarbeitenden und Schwerpunkt auf komplexen Rückbau-, Entkernu",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787223649",
+      "notified": false,
+      "first_seen": "2026-08-20 11:53:53"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent*in (m/w/d) HR Operations",
+      "company": "inno2grid GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/inno2grid-gmbh/werkstudentin-hr-operations-berlin-226841",
+      "description": "Für unser Finance &#x26; Operations-Team suchen wir ab sofort einen Werkstudenten (w/m/d) HR Operations am Standort Berlin auf dem EUREF-Campus . In dieser Position bist du ein wichtiger Teil in unserem HR-Administrationsprozess, die Anlaufstelle für personalbezogene Fragen und d",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787223636",
+      "notified": false,
+      "first_seen": "2026-08-20 11:53:53"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13945,62 +14001,6 @@
       "posted_at": "1787098179",
       "notified": true,
       "first_seen": "2026-08-19 02:11:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Fullstack Engineer (Flutter/Node.js) - Mobile Experience",
-      "company": "Kpler",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-fullstack-engineer-flutter-nodejs-mobile-experience-london-458158",
-      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. &nbsp; Since our foundi",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787097929",
-      "notified": true,
-      "first_seen": "2026-08-19 02:11:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Customer Success Manager (UK)",
-      "company": "Kpler",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/kpler/senior-customer-success-manager-uk-london-442665",
-      "description": "At Kpler, we are dedicated to helping our clients navigate complex markets with ease. By simplifying global trade information and providing valuable insights, we empower organisations to make informed decisions in commodities, energy, and maritime sectors. &nbsp; Since our foundi",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787097929",
-      "notified": true,
-      "first_seen": "2026-08-19 02:11:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Account Manager",
-      "company": "Sohohouseco",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/senior-account-manager-london-111489",
-      "description": "&lt;p&gt;&lt;strong&gt;The Role…&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;The Senior Account Manager is responsible for the quality, consistency and depth of every member relationship across the Soho House portfolio. This is achieved both by managing a cohort of clients themselves, and ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787100933",
-      "notified": true,
-      "first_seen": "2026-08-19 02:11:27"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Data Coordinator, Soho Home - 6-Month FTC",
-      "company": "Sohohouseco",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sohohouseco/product-data-coordinator-soho-home-6-month-ftc-london-225008",
-      "description": "&lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;&lt;strong&gt;The Role..&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;Soho Home is currently looking for a Product Data Coordinator, for a 6 month FTC assignment. The successf",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787100933",
-      "notified": true,
-      "first_seen": "2026-08-19 02:11:27"
     }
   ]
 }
