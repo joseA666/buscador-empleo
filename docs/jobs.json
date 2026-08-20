@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T04:46:13+00:00",
+  "generated_at": "2026-08-20T05:03:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Parametric Engineer (Remote, Full-Time) [AS310] (PK)",
+      "company": "Smart Working",
+      "location": "Pakistan",
+      "url": "https://remotejobs.org/remote-jobs/parametric-engineer-remote-full-time-as310-pk-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T04:50:19.005+00:00",
+      "notified": true,
+      "first_seen": "2026-08-20 05:03:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787086509",
       "notified": true,
       "first_seen": "2026-08-18 21:39:11"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive Enterprise (m/w/d)",
-      "company": "Conceptboard",
-      "location": "Stuttgart / Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/conceptboard/remote-account-executive-enterprise-198605",
-      "description": "Arbeitsort Stuttgart / Remote Deine Aufgaben Werde Teil unserer Bewegung für die digitale Souveränität Europas! Die Digitalisierung braucht sichere Fundamente. Conceptboard ist die führende, souveräne SaaS-Collaboration-Plattform für europäische Enterprise-Kunden und den anspruch",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787083800",
-      "notified": false,
-      "first_seen": "2026-08-18 21:38:54"
     }
   ]
 }
