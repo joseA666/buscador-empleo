@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T18:47:03+00:00",
+  "generated_at": "2026-08-20T19:14:09+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Overnight Task Team FT",
+      "company": "Bass Pro Shops",
+      "location": "Saskatoon, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-ft-bass-pro-shops-1137000",
+      "description": "Summary: Reporting to the Overnight Supervisor, the Overnight Task Team Outfitter assists in the overall operational function of the retail store by reducing the amount of non-selling tasks conducted by the Sales Outfitters, allowing them to focus on legendary customer service an",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T18:50:44+00:00",
+      "notified": true,
+      "first_seen": "2026-08-20 19:14:09"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "speechify",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-munich-germany-161452",
-      "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt; &lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787141710",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer, Platform - Hamburg, Germany",
-      "company": "speechify",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-platform-hamburg-germany-97329",
       "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt; &lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so t",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
