@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T16:00:14+00:00",
+  "generated_at": "2026-08-20T16:14:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador OutSystems",
+      "company": "ManpowerGroup",
+      "location": "Cuauhtémoc, Ciudad de México DF ($ 36,685.00 (Mensual))",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-outsystems-junior-en-cuauhtemoc-4321A59AFB562D5461373E686DCF3405",
+      "description": "Desarrollador OutSystems - ManpowerGroup - Cuauhtémoc, Ciudad de México DF - $ 36,685.00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": true,
+      "first_seen": "2026-08-20 16:14:20"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13984,20 +13998,6 @@
       "description": "About Us STARK is a new kind of defence technology company revolutionizing the way autonomous systems are deployed across multiple domains. We design, develop and manufacture high-performance unmanned systems that are software-defined, mass-scalable, and cost-effective. This prov",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
-      "posted_at": "1787128227",
-      "notified": true,
-      "first_seen": "2026-08-19 09:44:47"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Sales Manager – Luftwaffe (all genders)",
-      "company": "Stark",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/stark/senior-sales-manager-luftwaffe-all-genders-berlin-253153",
-      "description": "About Us Bei STARK entwickeln wir autonome Verteidigungstechnologien, die demokratische Nationen und die Menschen schützen, die ihnen dienen. Zur Verstärkung unseres Commercial Teams suchen wir einen Senior Sales Manager – Luftwaffe , der unser Wachstum im Bereich Air Systems ent",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
       "posted_at": "1787128227",
       "notified": true,
       "first_seen": "2026-08-19 09:44:47"
