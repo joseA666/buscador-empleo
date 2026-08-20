@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T21:24:36+00:00",
+  "generated_at": "2026-08-20T21:41:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Laborer",
+      "company": "Wood",
+      "location": "Carlsbad, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-laborer-wood-1137016",
+      "description": "About Us Wood is a global leader in consulting, engineering and operations for the energy and materials sectors. With 33,000 people in around 50 countries, Wood supports clients across the full asset lifecycle, delivering safe, predictable outcomes while enabling resilient operat",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T21:28:35+00:00",
+      "notified": true,
+      "first_seen": "2026-08-20 21:41:05"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13982,20 +13996,6 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/speechify/software-engineer-data-infrastructure-acquisition-berlin-germany-374168",
       "description": "&lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&lt;/p&gt; &lt;p&gt;Over 50 million people use Speechify’s text-to-speech products to turn whatever they’re reading – PDFs, books, Google Docs, news articles, websites – into audio, so t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787141708",
-      "notified": true,
-      "first_seen": "2026-08-19 12:47:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer, Windows/Desktop Applications - Frankfurt, Germany",
-      "company": "speechify",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/speechify/senior-software-engineer-windows-desktop-applications-frankfurt-germany-423585",
-      "description": "&lt;div class=&quot;p-rich_text_section&quot;&gt;&lt;strong data-stringify-type=&quot;bold&quot;&gt;Mission&lt;/strong&gt;&lt;/div&gt; &lt;div class=&quot;p-rich_text_section&quot;&gt; &lt;p&gt;The mission of Speechify is to make sure that reading is never a barrier to learning.&",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787141708",
