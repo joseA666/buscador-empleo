@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-20T10:57:20+00:00",
+  "generated_at": "2026-08-20T11:09:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "General Physician",
+      "company": "Srikara Hospitals",
+      "location": "Nellore, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-general-physician-srikara-hospitals-1136993",
+      "description": "Attend OP and IP patients and provide appropriate medical care. Diagnose and manage acute and chronic medical conditions. Handle emergency medical cases whenever required. Conduct regular inpatient rounds and monitor patient progress. Coordinate with consultants and other departm",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-19T10:58:55+00:00",
+      "notified": false,
+      "first_seen": "2026-08-20 11:09:26"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/affirm/director-key-accounts-sales-290033",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest.&lt;/p&gt;&lt;/div&gt;&lt;p data-pm-slice=&quot;1 1 []&q",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787100921",
-      "notified": true,
-      "first_seen": "2026-08-19 02:11:27"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Recruiter - EMEA (6m Contract - Inside IR35 Day Rate)",
-      "company": "sonyinteractiveentertainmentglobal",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sonyinteractiveentertainmentglobal/senior-recruiter-emea-6m-contract-inside-ir35-day-rate-london-151143",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;Why Sony Interactive Entertainment?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Sony Interactive Entertainment isn’t just the Best Place to Play — it’s also the Best Place to Work. Sony Interactive Entertainment (SIE) is the",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787100921",
