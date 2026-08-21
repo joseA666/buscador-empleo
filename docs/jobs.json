@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T15:58:37+00:00",
+  "generated_at": "2026-08-21T16:12:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotive",
+      "source_label": "Remotive",
+      "title": "Vice President, Technology & Digital Strategy",
+      "company": "Shatterproof",
+      "location": "USA",
+      "url": "https://remotive.com/remote-jobs/all-others/vice-president-technology-digital-strategy-2091104",
+      "description": "About ShatterproofShatterproof is a national nonprofit working toward a world where addiction never defines or ends a life. Through evidence-based programs, advocacy, and public education, Shatterproof works to transform systems for tomorrow, support families today, and end stigm",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T09:54:55",
+      "notified": true,
+      "first_seen": "2026-08-21 16:12:48"
+    },
+    {
+      "source": "remotive",
+      "source_label": "Remotive",
+      "title": "Senior Data Engineer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-data-engineer-2091097",
+      "description": "Are you a talented Senior Data Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your s",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T12:12:11",
+      "notified": true,
+      "first_seen": "2026-08-21 16:12:48"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787208914",
       "notified": false,
       "first_seen": "2026-08-20 07:46:07"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) ERP Consultant (m/w/d) Finance",
-      "company": "Gus",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/gus/remote-senior-erp-consultant-finance-182474",
-      "description": "Deine Aufgaben: Du begleitest unsere Kunden bei der erfolgreichen Einführung unseres Finance-Moduls und unterstützt sie dabei, ihre Finanzprozesse zukunftssicher und effizient zu gestalten. Dabei berätst du zu Themen wie Finanzbuchhaltung, Anlagenbuchhaltung und Kostenrechnung. D",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787207354",
-      "notified": false,
-      "first_seen": "2026-08-20 07:46:07"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Area Schedule Lead - Data Center Design, Engineering and Construction",
-      "company": "Meta",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/143808-area-schedule-lead-data-center-design-engineering-and-construction-3",
-      "description": "We are seeking a candidate for a key leadership role in scheduling for a portfolio of Data Center projects of strategic importance to Meta. The Schedule lead will act as a technical Schedule subject matter expert overseeing all schedule management and reporting for their portfoli",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-20T03:05:05+00:00",
-      "notified": true,
-      "first_seen": "2026-08-20 07:18:23"
     }
   ]
 }
