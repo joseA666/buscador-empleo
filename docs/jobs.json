@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T17:24:31+00:00",
+  "generated_at": "2026-08-21T17:41:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Básico 1200! R E M O T O Asesor de Atención al Cliente WOM /turno MAÑANA/ Te bridamos PC/ Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-basico-1200-r-e-m-o-t-o-asesor-de-atencion-al-cliente-wom-turno-manana-te-bridamos-pc-internet-sueldo-planilla-bonos-de-asistencia-y-permanencia--asignacion-comisiones-en-lima-3E745D19C5CA9B4E61373E686DCF3405",
+      "description": "Básico 1200! R E M O T O Asesor de Atención al Cliente WOM /turno MAÑANA/ Te bridamos PC/ Internet - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-08-21 17:41:12"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "SumUp",
       "location": "Cologne, North Rhine-Westphalia, Germany",
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-design-system-cologne-401158",
-      "description": "About the team: As an iOS Engineer on the Design System team, you'll translate SumUp's design language into a reusable, easy-to-use library of UI components and experience patterns — empowering product teams to build cohesive, accessible user experiences at scale. The Design Syst",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787208329",
-      "notified": true,
-      "first_seen": "2026-08-20 07:46:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "iOS Engineer - Design System",
-      "company": "SumUp",
-      "location": "Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-design-system-berlin-419024",
       "description": "About the team: As an iOS Engineer on the Design System team, you'll translate SumUp's design language into a reusable, easy-to-use library of UI components and experience patterns — empowering product teams to build cohesive, accessible user experiences at scale. The Design Syst",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
