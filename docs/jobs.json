@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T22:24:06+00:00",
+  "generated_at": "2026-08-21T22:40:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Desarrollador de Software",
+      "company": "SALUD INTEGRAL FLORES E.I.R.L",
+      "location": "Villa Maria Del Triunfo, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-de-software-da-el-salto-profesional-hacia-programacion-en-villa-maria-del-triunfo-E81C7D5EE3A164D961373E686DCF3405",
+      "description": "Desarrollador de Software - SALUD INTEGRAL FLORES E.I.R.L - Villa Maria Del Triunfo, Lima - Remoto - Publicado: Hace 9 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": true,
+      "first_seen": "2026-08-21 22:40:13"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabajo remoto desde casa/ventas portabilidad /lunes a sabado ingreso directo",
+      "company": "Atento Perú",
+      "location": "Tacna, Tacna (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-remoto-desde-casaventas-portabilidad-lunes-a-sabado-ingreso-directo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-tacna-DA9D1255E182F48661373E686DCF3405",
+      "description": "Trabajo remoto desde casa/ventas portabilidad /lunes a sabado ingreso directo - Atento Perú - Tacna, Tacna - Remoto - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-08-21 22:39:55"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787228659",
       "notified": true,
       "first_seen": "2026-08-20 12:48:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Staff Data Engineer (f/m/d)_metrify",
-      "company": "Enpal",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/staff-data-engineer-metrify-berlin-347291",
-      "description": "Our goal is to have a solar system on every roof, a storage unit in every house, and an electric car in every garage. Enpal makes this possible with an integrated total solution for decentralized energy—from solar systems and battery storage to wall boxes, smart meters, and heat ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787226014",
-      "notified": true,
-      "first_seen": "2026-08-20 12:48:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in Kundensupport (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/werkstudentin-kundensupport-berlin-463143",
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzs",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787226014",
-      "notified": true,
-      "first_seen": "2026-08-20 12:48:03"
     }
   ]
 }
