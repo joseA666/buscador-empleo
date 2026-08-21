@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T05:11:25+00:00",
+  "generated_at": "2026-08-21T05:26:23+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Account Officer",
+      "company": "Natural Spirits Nepal",
+      "location": "Galchhi Rural Municipality, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-officer-natural-spirits-nepal-1137028",
+      "description": "Qualifications Candidates should possess strong skills in basic accounting, bookkeeping, and ledger management. Candidates should possess skills in financial reporting, budgeting support, and cost monitoring. Candidates should possess skills in data entry, documentation, and reco",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T05:22:50+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 05:26:23"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Rillet",
       "location": "Remote",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/rillet/remote-account-executive-49510",
-      "description": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the AI-native ERP built for modern finance teams. We help companies automate the most cr",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787154012",
-      "notified": true,
-      "first_seen": "2026-08-19 16:43:20"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Solutions Consultant",
-      "company": "Rillet",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rillet/remote-solutions-consultant-420125",
       "description": "What We Do Rillet serves accounting and finance teams, the financial brains of their companies. Our job is to help them run the numbers with impossible speed, accuracy, and insight. Rillet is the AI-native ERP built for modern finance teams. We help companies automate the most cr",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
