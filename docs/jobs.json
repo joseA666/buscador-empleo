@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T08:51:44+00:00",
+  "generated_at": "2026-08-21T09:13:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Vaga de Motorista Entregador em Sorocaba",
+      "company": "PAT",
+      "location": "Sorocaba, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-vaga-de-motorista-entregador-em-sorocaba-pat-1137046",
+      "description": "Vaga de Motorista Entregador em Sorocaba-SP Consultar DicionÃ¡rios E EnciclopÃ©dias Digitais Com experiÃªncia de 06 meses na funÃ§Ã£o Please mention the word **PHENOMENALLY** and tag RNjguMjIwLjU5LjI0NA== when applying to show you read the job post completely (#RNjguMjIwLjU5LjI0N",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-19T00:26:39+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 09:13:50"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-19T20:32:24+00:00",
       "notified": false,
       "first_seen": "2026-08-19 22:05:57"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "¡Ejecutivo de Ventas Desde Casa! Brindamos PC + Sueldo fijo + internet + Bono de Luz (hasta S/90)",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-desde-casa-brindamos-pc-sueldo-fijo-internet-bono-de-luz-hasta-s90-comisiones-ilimitadas-en-lima-F09D539E8E1600A461373E686DCF3405",
-      "description": "¡Ejecutivo de Ventas Desde Casa! Brindamos PC + Sueldo fijo + internet + Bono de Luz (hasta S/90) - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 16 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 16 minutos",
-      "notified": false,
-      "first_seen": "2026-08-19 21:57:33"
     }
   ]
 }
