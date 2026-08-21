@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T03:11:42+00:00",
+  "generated_at": "2026-08-21T03:34:53+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O desde casa de Lunes a Viernes /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-desde-casa-de-lunes-a-viernes-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-A1D5FDA77849895561373E686DCF3405",
+      "description": "R E M O T O desde casa de Lunes a Viernes /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-08-21 03:34:53"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Hace 39 minutos",
-      "notified": false,
-      "first_seen": "2026-08-19 16:42:45"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Trabajo desde casa/ Asesor de ventas portabilidad/horario fijo de 9am a 6pm",
-      "company": "Atento Perú",
-      "location": "Cajamarca, Cajamarca (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-asesor-de-ventas-portabilidadhorario-fijo-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-cajamarca-B23FE8705519749561373E686DCF3405",
-      "description": "Trabajo desde casa/ Asesor de ventas portabilidad/horario fijo de 9am a 6pm - Atento Perú - Cajamarca, Cajamarca - Remoto - Publicado: Hace 43 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 43 minutos",
       "notified": false,
       "first_seen": "2026-08-19 16:42:45"
     }
