@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T21:52:40+00:00",
+  "generated_at": "2026-08-21T22:05:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente de calidad",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1102986/gerente-de-control-de-calidad.aspx",
+      "description": "Gerente de calidad - GRUPO ELCATEX - Cortés,Honduras - Expira en: 05/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 05/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-21 22:05:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13984,20 +13998,6 @@
       "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzs",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
-      "posted_at": "1787226014",
-      "notified": true,
-      "first_seen": "2026-08-20 12:48:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer (f/m/x)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/senior-software-engineer-berlin-237624",
-      "description": "Our goal is to have a solar system on every roof, a storage unit in every house, and an electric car in every garage. Enpal makes this possible with an integrated total solution for decentralized energy—from solar systems and battery storage to wall boxes, smart meters, and heat ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
       "posted_at": "1787226014",
       "notified": true,
       "first_seen": "2026-08-20 12:48:03"
