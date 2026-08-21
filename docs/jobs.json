@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T00:54:14+00:00",
+  "generated_at": "2026-08-21T01:31:29+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "desarrollador/a web Editor Diseñador Grafico",
+      "company": "Confidencial",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrolladora-web-editor-disenador-grafico-editor-senior-disenador-grafico-en-bogota-dc-48E0F1BE52E8F00561373E686DCF3405",
+      "description": "desarrollador/a web Editor Diseñador Grafico - Confidencial - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 26 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 26 minutos",
+      "notified": true,
+      "first_seen": "2026-08-21 01:31:28"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Trimmer",
+      "company": "Canopy Growth Corporation",
+      "location": "Tiverton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-trimmer-canopy-growth-corporation-1136997",
+      "description": "The Company At Canopy Growth, our mission is clear: improve lives, end cannabis prohibition, and strengthen communities. We believe that cannabis can be a force for good. Weâre building a consumer-centric organization that is focused on sharing the transformational potential of",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T01:17:31+00:00",
+      "notified": true,
+      "first_seen": "2026-08-21 01:31:28"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787151330",
-      "notified": true,
-      "first_seen": "2026-08-19 15:42:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Softwareentwicklung - .NET (C# / VB.NET) mit Kundenprojekten",
-      "company": "Valsoft Corp",
-      "location": "Mülheim, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/valsoft-corp/softwareentwicklung-net-c-vbnet-mit-kundenprojekten-mulheim-208636",
-      "description": "Über INPLAN INPLAN entwickelt seit über 30 Jahren Standardsoftware für Häfen, Terminalbetreiber und Logistikdienstleister sowie für Einkaufs- und Beschaffungsprozesse (Source-to-Pay). Unsere Lösungen steuern geschäftskritische Abläufe an mehr als 50 Standorten in Deutschland und ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787150429",
-      "notified": true,
-      "first_seen": "2026-08-19 15:42:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Functional Consultant & Project Manager",
-      "company": "BLP Digital AG",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/blp-digital-ag/functional-consultant-project-manager-munich-222357",
-      "description": "Join BLP Digital — The #1 Solution for ERP Automation BLP Digital is redefining ERP automation with agentic AI. Spun out of ETH Zurich and HSG, we build AI agents that automate finance, procurement, logistics, sales, and more for some of the world's largest enterprises. We solve ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787150429",
       "notified": true,
       "first_seen": "2026-08-19 15:42:18"
     }
