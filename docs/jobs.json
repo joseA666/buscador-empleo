@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T15:43:54+00:00",
+  "generated_at": "2026-08-21T15:58:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor de ATC Soporte técnico Remoto/Turno PM / Damos PC + internet+ Bono de luz/",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.400,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-atc-soporte-tecnico-remototurno-pm-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-F5516046490F6DF961373E686DCF3405",
+      "description": "Asesor de ATC Soporte técnico Remoto/Turno PM / Damos PC + internet+ Bono de luz/ - Covisian Perú - Lima, Lima - S/. 1.400,00 (Mensual) - Publicado: Hace 4 minutos",
+      "reason": "",
+      "language": "other",
+      "posted_at": "Hace 4 minutos",
+      "notified": false,
+      "first_seen": "2026-08-21 15:58:36"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-20T03:05:05+00:00",
       "notified": true,
       "first_seen": "2026-08-20 07:18:23"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Store Manager",
-      "company": "JACK &amp; JONES",
-      "location": "Aberdeen, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-jack-amp-jones-1137006",
-      "description": "More than a quarter of a century ago, we set out to take on the world. We were just a few guys with our first jeans collection and a passion for denim that couldnât be denied. Many years later, we want you to join us, on our mission, to be the best denim retailer and best mensw",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-18T19:42:52+00:00",
-      "notified": false,
-      "first_seen": "2026-08-20 07:18:05"
     }
   ]
 }
