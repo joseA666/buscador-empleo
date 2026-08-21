@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T14:13:44+00:00",
+  "generated_at": "2026-08-21T14:28:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Loss Prevention Officer",
+      "company": "Manhattan Grand Hotel",
+      "location": "MalÃ©, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-loss-prevention-officer-manhattan-grand-hotel-1137027",
+      "description": "The Loss Prevention Officer is responsible for maintaining a safe and secure environment for guests, employees, company assets, and hotel premises. The position focuses on preventing loss, theft, accidents, and security incidents while ensuring compliance with hotel policies, pro",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T14:18:42+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 14:28:32"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787197212",
-      "notified": true,
-      "first_seen": "2026-08-20 04:46:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer (AI)",
-      "company": "Extrac.ai",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/extracai/software-engineer-ai-london-132685",
-      "description": "About ExTrac ExTrac is a decision intelligence company used by governments, defence organisations, financial institutions, and corporates operating in complex, fast-moving environments. Our capabilities fuse curated data sources, domain-specific AI, and deep human expertise to tr",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787197206",
       "notified": true,
       "first_seen": "2026-08-20 04:46:13"
     }
