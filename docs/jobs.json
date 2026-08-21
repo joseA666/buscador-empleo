@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-20T23:52:33+00:00",
+  "generated_at": "2026-08-21T00:12:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Senior Front End Developer (Angular 21/22 )",
+      "company": "Confidencial",
+      "location": "Miguel Hidalgo, Ciudad de México DF (Remoto)",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-senior-front-end-developer-angular-2122--remoto-en-miguel-hidalgo-06AAA69003B5C15061373E686DCF3405",
+      "description": "Senior Front End Developer (Angular 21/22 ) - Confidencial - Miguel Hidalgo, Ciudad de México DF - Remoto - Publicado: Hace 9 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": true,
+      "first_seen": "2026-08-21 00:12:46"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Consultant Implementation Engineer",
+      "company": "Harbor",
+      "location": "Remote",
+      "url": "https://remoteOK.com/remote-jobs/remote-consultant-implementation-engineer-harbor-1136987",
+      "description": "Harbor is seeking an Implementation Engineer to join our Enterprise Solutions practice. The Implementation Engineer ensures client satisfaction through successful installation of Intapp solutions that will improve the clientâs business efficiency and functionality. The Engineer",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T00:00:15+00:00",
+      "notified": true,
+      "first_seen": "2026-08-21 00:12:46"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787150415",
-      "notified": true,
-      "first_seen": "2026-08-19 15:42:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Lead/Head of Talent Acquisition, Business & Tech (all genders)",
-      "company": "Distribusion Technologies",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/distribusion-technologies/lead-head-of-talent-acquisition-business-tech-all-genders-berlin-196278",
-      "description": "About us Distribusion is the world’s leading ground transportation marketplace and gives travellers seamless access to ground transportation online, from search to ticket purchase. We have built a cutting-edge B2B technology platform that connects bus, rail, and ferry operators i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787149825",
-      "notified": true,
-      "first_seen": "2026-08-19 15:42:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in im Price Lab des Dezernat Zukunft – Institut für Makrofinanzen (w/m/d, 10-20h/ Woche, zunächst befristet auf 1 Jahr)",
-      "company": "Dezernat Zukunft",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/dezernat-zukunft/werkstudentin-im-price-lab-des-dezernat-zukunft-institut-fur-makrofinanzen-10-20h-woche-zunachst-befristet-auf-1-jahr-berlin-415768",
-      "description": "Wer wir sind und was wir suchen Das Dezernat Zukunft ist ein überparteilicher Berliner Think Tank, der an der Schnittstelle von Politik, Verwaltung und Forschung arbeitet. Rund 30 Personen verfolgen gemeinsam das Ziel, Geld-, Finanz- und Wirtschaftspolitik neu zu denken und verst",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787149814",
       "notified": true,
       "first_seen": "2026-08-19 15:42:18"
     }
