@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T19:03:23+00:00",
+  "generated_at": "2026-08-21T19:24:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-atc-wom-chile-brindamos-pc-internet-ingreso-directo-en-lima-9CBF76E9CDF4EACB61373E686DCF3405",
+      "description": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "en",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-08-21 19:24:28"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O atención al cliente WOM /Básico S/1200 turno /te damos PC + Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-atencion-al-cliente-wom-basico-s1200-turno-te-damos-pc-internet-sueldo-planilla-bonos-de-asistencia-y-permanencia--asignacion-comisiones-en-lima-D56EF8E42A296BE161373E686DCF3405",
+      "description": "R E M O T O atención al cliente WOM /Básico S/1200 turno /te damos PC + Internet - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 14 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 14 horas",
+      "notified": false,
+      "first_seen": "2026-08-21 19:24:28"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787224229",
       "notified": false,
       "first_seen": "2026-08-20 12:47:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Accounting & Group Reporting Manager (m/f/d)",
-      "company": "METYCLE",
-      "location": "Cologne (GER)",
-      "url": "https://www.arbeitnow.com/jobs/companies/metycle/senior-accounting-group-reporting-manager-cologne-ger-366492",
-      "description": "Find Jobs in Germany on Arbeitnow",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787224146",
-      "notified": false,
-      "first_seen": "2026-08-20 12:47:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Transformation Working Student",
-      "company": "CHAPTERS Group AG",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/chapters-group-ag/ai-transformation-working-student-cologne-262979",
-      "description": "About CHAPTERS Group CHAPTERS Group AG is a Hamburg-based holding company investing in 55+ mission-critical software companies across the DACH region, France, and the Czech Republic. Our companies deliver the digital solutions that keep the public sector and core industries runni",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787223644",
-      "notified": true,
-      "first_seen": "2026-08-20 11:54:10"
     }
   ]
 }
