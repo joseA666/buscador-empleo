@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T19:51:28+00:00",
+  "generated_at": "2026-08-21T20:05:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Mairoom Clerk",
+      "company": "TPH",
+      "location": "Toronto, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-mairoom-clerk-tph-1137054",
+      "description": "Mailroom Clerk Location: Bay Street &amp; King Street Area, Toronto Hours: 8:00 a.m. to 4:30/5:00 p.m. Schedule: Full-time, in-office, Monday to Friday We are seeking a reliable and organized Mailroom Clerk to support the daily mail and courier operations within our professional ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T00:00:00+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 20:05:37"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787227308",
-      "notified": false,
-      "first_seen": "2026-08-20 12:47:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Finance Analyst (m/w/d) - Erneuerbare Energien",
-      "company": "feld.energy GmbH",
-      "location": "Weissenburg in Bayern",
-      "url": "https://www.arbeitnow.com/jobs/companies/feldenergy-gmbh/finance-analyst-erneuerbare-energien-weissenburg-in-bayern-252284",
-      "description": "Deine Mission Als Finance Analyst übernimmst du Verantwortung für Planung, Controlling und Analyse für unsere Agri-PV-Projekte. Du übernimmst zentrale Themen in unserem Finance Bereich und bist für die strategische Weiterentwicklung zuständig. Eine hands-on Rolle mit direktem Imp",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787227285",
       "notified": false,
       "first_seen": "2026-08-20 12:47:29"
     }
