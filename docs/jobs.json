@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T07:46:22+00:00",
+  "generated_at": "2026-08-21T08:14:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Pilot",
+      "company": "SpaceX",
+      "location": "NV",
+      "url": "https://remoteOK.com/remote-jobs/remote-pilot-spacex-1137007",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of enabling human life on Mars.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T08:00:19+00:00",
+      "notified": true,
+      "first_seen": "2026-08-21 08:14:10"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Accountant",
+      "company": "Tipsy Topsy",
+      "location": "Vijayawada, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-accountant-tipsy-topsy-1137029",
+      "description": "Tipsy&nbsp;Topsy&nbsp;is&nbsp;a&nbsp;chain&nbsp;of&nbsp;multi brand&nbsp;fashion&nbsp;stores&nbsp;around&nbsp;Andhra&nbsp;Pradesh&nbsp;with&nbsp;our&nbsp;flagship&nbsp;store&nbsp;in&nbsp;Vijayawada. We&nbsp;are&nbsp;focused&nbsp;on&nbsp;making&nbsp;shopping&nbsp;less&nbsp;time co",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T07:59:55+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 08:13:53"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787171400",
       "notified": false,
       "first_seen": "2026-08-19 21:39:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Brand Partnerships & Licensing Manager (All Genders)",
-      "company": "Ahead Gmbh",
-      "location": "Hamburg Office",
-      "url": "https://www.arbeitnow.com/jobs/companies/ahead-gmbh/senior-brand-partnerships-licensing-manager-all-genders-hamburg-office-344494",
-      "description": "Find more English Speaking Jobs in Germany on Arbeitnow",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787171347",
-      "notified": false,
-      "first_seen": "2026-08-19 21:39:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Software Engineer (m/w/d) - Schwerpunkt iOS",
-      "company": "Ottonova",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ottonova/junior-software-engineer-schwerpunkt-ios-munchen-426674",
-      "description": "DEIN TEAM Bei ottonova schätzen wir Teamarbeit, technische Exzellenz und Wertschöpfung ebenso, wie eine positive Einstellung, kontinuierliche Verbesserung, Wachstum und Innovation. Wir suchen nun zur Verstärkung unseres Teams einen Junior-Software Engineer mit Schwerpunkt iOS, um",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787170200",
-      "notified": true,
-      "first_seen": "2026-08-19 20:42:03"
     }
   ]
 }
