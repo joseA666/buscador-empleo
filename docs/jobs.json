@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T05:58:19+00:00",
+  "generated_at": "2026-08-21T06:16:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Front Office Executive",
+      "company": "Radisson Hotel Group",
+      "location": "Guwahati, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-front-office-executive-radisson-hotel-group-1137008",
+      "description": "Radisson Hotel Group is one of the world's largest hotel groups with ten distinctive hotel brands, and more than 1,500 hotels in operation and under development in 95+ countries. The Groupâs overarching brand promise is Every Moment Matters with a signature Yes I Can! service e",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-20T05:59:25+00:00",
+      "notified": true,
+      "first_seen": "2026-08-21 06:16:45"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "London, Greater London, United Kingdom",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/heim/senior-full-stack-software-engineer-london-396348",
       "description": "ABOUT US At Heim, we are reinventing how healthcare is delivered. We believe that healthcare is best delivered in the home of patients, and that we are at the cusp of a systemic shift away from hospital based care. Our mission is to expand access to in-person clinical care at hom",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787153415",
-      "notified": true,
-      "first_seen": "2026-08-19 16:43:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Founding Implementation Lead (NHS)",
-      "company": "Heim",
-      "location": "London, Greater London, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/heim/founding-implementation-lead-nhs-london-133213",
-      "description": "About Heim Community nursing is one of the most complex operational environments in healthcare, and one of the least well equipped for it. A caseload scattered across an entire geography. Patients in high-rises, care homes, rural cottages, living rooms. Nurses driving between the",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787153415",
