@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-21T11:54:08+00:00",
+  "generated_at": "2026-08-21T12:08:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Sales Advisor",
+      "company": "H&amp;M",
+      "location": "Bhubaneshwar, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-advisor-hampm-1137044",
+      "description": "Job Description WHAT YOUâLL DO As a Sales Advisor at H&amp;M, youâll play a key role in creating an outstanding customer experience. Youâll welcome customers, guide them through your store, and support them in finding what they need while showcasing our products. Acting in ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T11:58:22+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 12:08:26"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Revel8",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/revel8/account-executive-nordics-all-genders-munich-312559",
-      "description": "Find Jobs in Germany on Arbeitnow",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787181011",
-      "notified": false,
-      "first_seen": "2026-08-19 23:51:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive - Italy (all genders)",
-      "company": "Revel8",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/revel8/account-executive-italy-all-genders-munich-343739",
       "description": "Find Jobs in Germany on Arbeitnow",
       "reason": "",
       "language": "en",
