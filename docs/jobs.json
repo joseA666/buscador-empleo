@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-21T20:52:47+00:00",
+  "generated_at": "2026-08-21T21:06:25+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Hiring For Air Ticketing Ground Staff",
+      "company": "Fronix Services",
+      "location": "Kochi, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-hiring-for-air-ticketing-ground-staff-fronix-services-1137056",
+      "description": "Dear Candidate, Greetings for the day! We are Hiring for the jobs for the position of Air Ticketing / Ground Staff / Cabin Crew / Maintenance Engineer/Airport Management SKILLS *Strong verbal communication skills *Excellent Personality Interview Timings:- 10 am to 6 pm Qualificat",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-17T18:30:00+00:00",
+      "notified": true,
+      "first_seen": "2026-08-21 21:06:25"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Senior Executive",
+      "company": "EXL",
+      "location": "Pune Division, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-exl-1137057",
+      "description": "Professionals in this group are responsible for responding to emails from customers by ensuring proper resolution. Please mention the word **BACKBONE** and tag RNTcuMTU0LjIxOC42NQ== when applying to show you read the job post completely (#RNTcuMTU0LjIxOC42NQ==). This is a beta fe",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T11:18:16+00:00",
+      "notified": false,
+      "first_seen": "2026-08-21 21:06:08"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13970,34 +13998,6 @@
       "description": "About Us We see the semiconductor industry as a realm of possibility. We see opportunity. We see the profound impact that our graphene solutions will have in transforming the industry. We invite you to join us in driving change with our fundamentally human-centered approach, unit",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
-      "posted_at": "1787226029",
-      "notified": true,
-      "first_seen": "2026-08-20 12:47:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Buchhalter (w/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/senior-buchhalter-aachen-463083",
-      "description": "Übernimm Verantwortung für unser General Ledger und gestalte unsere Finance-Strukturen mit. Black Semiconductor wächst international und baut seine Finance-Organisation für die nächste Wachstumsphase weiter aus. In dieser Rolle übernimmst Du Verantwortung für unser General Ledger",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787226029",
-      "notified": true,
-      "first_seen": "2026-08-20 12:47:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Full Stack Developer - AI Integration (w/m/d)",
-      "company": "Black Semiconductor GmbH",
-      "location": "Aachen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/black-semiconductor-gmbh/full-stack-developer-ai-integration-aachen-84885",
-      "description": "Über uns Wir sehen die Halbleiterindustrie als ein Universum der Möglichkeiten. Wir sehen Chancen. Wir sehen die tiefgreifenden Auswirkungen, die unsere Graphen-Lösungen auf die Umgestaltung der Branche habenwerden. Wir laden dich ein, mit uns gemeinsam den Wandel voranzutreiben,",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
       "posted_at": "1787226029",
       "notified": true,
       "first_seen": "2026-08-20 12:47:46"
