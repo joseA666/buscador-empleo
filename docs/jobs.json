@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T08:57:01+00:00",
+  "generated_at": "2026-08-22T09:10:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Field Technician III",
+      "company": "Cable Bahamas Ltd.",
+      "location": "Nassau, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-technician-iii-cable-bahamas-ltd-1137068",
+      "description": "Overview Responsible for day-to-day SRO completion, downstream and upstream SNR maintenance and repair, troubleshooting and repair of all aspects of the HFC network from the node to the end of line, HFC (Hybrid Fibre Coaxial) node activation. RF alignment, node power supply troub",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T22:43:28+00:00",
+      "notified": false,
+      "first_seen": "2026-08-22 09:10:11"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13982,20 +13996,6 @@
       "location": "Remote - EMEA",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-account-manager-dach-209699",
       "description": "About Us Constructor is the next-generation platform for search and discovery in ecommerce, built to explicitly optimize for metrics like revenue, conversion rate, and profit. Our search engine is entirely invented in-house utilizing transformers and generative LLMs, and we use i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787251224",
-      "notified": true,
-      "first_seen": "2026-08-20 18:46:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technical Support Engineer",
-      "company": "Constructor",
-      "location": "Remote - EMEA",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/constructor/remote-technical-support-engineer-89334",
-      "description": "About You You’re a customer-obsessed technologist in the EMEA market who thrives at the intersection of technical support, customer enablement, and impact. With a strong technical foundation and hands-on experience working with APIs, SDKs, logs, and data integrations, you’re driv",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787251224",
