@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T03:49:42+00:00",
+  "generated_at": "2026-08-22T04:12:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Buscamos asesores ATC / Trabajo remoto / Damos PC + Internet / S.1220 + Variables + Planilla",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-buscamos-asesores-atc-trabajo-remoto-damos-pc-internet-s1220-variables-planilla-sueldo-planilla-bonos-de-asistencia-y-permanencia--asignacion-comisiones-en-lima-261F1F8AF3C858DD61373E686DCF3405",
+      "description": "Buscamos asesores ATC / Trabajo remoto / Damos PC + Internet / S.1220 + Variables + Planilla - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 23 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 23 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 04:12:50"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13982,20 +13996,6 @@
       "location": "Remoto",
       "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-software-architect-germany-98311",
       "description": "Are you a highly motivated Software Architect fluent in German? EUROPEAN DYNAMICS is seeking a skilled Software Architect to join our dynamic team driving complex enterprise projects. What You'll Do: Responsibility for architecture decisions within the scope of the established an",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787235647",
-      "notified": true,
-      "first_seen": "2026-08-20 15:45:35"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Database Administrator",
-      "company": "European Dynamics",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-database-administrator-germany-431335",
-      "description": "Are you a highly motivated Database Administrator fluent in German? EUROPEAN DYNAMICS is seeking a skilled Database Administrator to join our dynamic team driving complex enterprise projects. What You'll Do: Installation, configuration and operation of an Oracle DBMS in the devel",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787235647",
