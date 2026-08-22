@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T22:05:15+00:00",
+  "generated_at": "2026-08-22T22:23:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Data Steward",
+      "company": "Smartsheet",
+      "location": "San JosÃ©, San JosÃ©, San JosÃ©, Costa Rica",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-steward-smartsheet-1137080",
+      "description": "For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T14:43:15+00:00",
+      "notified": true,
+      "first_seen": "2026-08-22 22:23:32"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787299237",
-      "notified": false,
-      "first_seen": "2026-08-21 09:49:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Brand Director (12m FTC)",
-      "company": "Bloom & Wild Group",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bloom-wild-group/brand-director-12m-ftc-london-227819",
-      "description": "📍 Location: London, Hybrid x2-3 days per week in our Vauxhall office 🗓️ Contract: 12-month FTC, Maternity Cover (ideally Nov '26 – Nov '27) 🎯 Focus: Brand Strategy &amp; Management, Team Leadership, UK &amp; DE Growth &nbsp; About Brand at Bloom &amp; Wild 🌸 Hi, we’re Bloom &amp;",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787303131",
       "notified": false,
       "first_seen": "2026-08-21 09:49:17"
     }
