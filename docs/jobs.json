@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T12:06:25+00:00",
+  "generated_at": "2026-08-22T12:25:06+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Atención al cliente Fidelización / Trabaja desde casa! turno A.M /Damos pc + bono de luz + internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-atencion-al-cliente-fidelizacion-trabaja-desde-casa-turno-am-damos-pc-bono-de-luz-internet-gana-aprox-s1800-planilla-completa-beneficios-de-ley-en-lima-4D80B4FFDF746BE061373E686DCF3405",
+      "description": "Atención al cliente Fidelización / Trabaja desde casa! turno A.M /Damos pc + bono de luz + internet - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 40 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 40 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 12:25:06"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Skin Analytics",
       "location": "London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/ai-enablement-engineer-london-250867",
-      "description": "Want to join a team of passionate people who want to build a future where no one dies from skin cancer? 👋 About us Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical device, DERM. Following our recent £15M",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787262019",
-      "notified": true,
-      "first_seen": "2026-08-20 21:54:42"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Customer Operations",
-      "company": "Skin Analytics",
-      "location": "London hybrid",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/skin-analytics/head-of-customer-operations-london-327493",
       "description": "Want to join a team of passionate people who want to build a future where no one dies from skin cancer? 👋 About us Skin Analytics is an award-winning, health tech company that deploys world-leading skin cancer pathways using AI as a medical device, DERM. Following our recent £15M",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
