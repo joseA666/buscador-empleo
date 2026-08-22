@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T04:12:51+00:00",
+  "generated_at": "2026-08-22T04:28:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O/ Asesor de Ventas /Fijo s/1220 + Comisiones + Planilla / Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-asesor-de-ventas-fijo-s1220-comisiones-planilla-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-ABE4FA79126E00C361373E686DCF3405",
+      "description": "R E M O T O/ Asesor de Ventas /Fijo s/1220 + Comisiones + Planilla / Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Ahora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": false,
+      "first_seen": "2026-08-22 04:28:09"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787236200",
-      "notified": true,
-      "first_seen": "2026-08-20 15:45:35"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Architect",
-      "company": "European Dynamics",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/european-dynamics/remote-software-architect-germany-98311",
-      "description": "Are you a highly motivated Software Architect fluent in German? EUROPEAN DYNAMICS is seeking a skilled Software Architect to join our dynamic team driving complex enterprise projects. What You'll Do: Responsibility for architecture decisions within the scope of the established an",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787235647",
       "notified": true,
       "first_seen": "2026-08-20 15:45:35"
     }
