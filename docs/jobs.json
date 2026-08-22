@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T16:04:35+00:00",
+  "generated_at": "2026-08-22T16:23:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.300,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-asesor-de-atencion-al-cliente-turno-am-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-056AD5B9F9CDFEB661373E686DCF3405",
+      "description": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz - Covisian Perú - Lima, Lima - S/. 1.300,00 (Mensual) - Publicado: Hace 18 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 18 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 16:23:50"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13982,20 +13996,6 @@
       "location": "Berlin, Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/superchat/technical-product-owner-integrations-berlin-berlin-176910",
       "description": "&lt;h2&gt;At Superchat, we&#39;re rebuilding how businesses talk to their customers. AI is becoming the engine of that communication. Integrations are what give that engine teeth: the data, the tools, the systems that turn a clever agent into one that actually closes loops.&lt;/h",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787270127",
-      "notified": true,
-      "first_seen": "2026-08-21 00:54:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technical Product Owner | Core (m/f/d)",
-      "company": "Superchat",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/superchat/technical-product-owner-core-berlin-berlin-248619",
-      "description": "&lt;h2&gt;At Superchat, we&#39;re rebuilding how businesses talk to their customers. The phone call, the contact form, the support ticket: all of it is being replaced by messaging and AI. We&#39;re building the platform that runs underneath.&lt;/h2&gt; &lt;p&gt;Founded in 2020, S",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787270127",
