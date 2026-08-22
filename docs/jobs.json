@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T05:00:36+00:00",
+  "generated_at": "2026-08-22T05:24:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-atc-wom-chile-brindamos-pc-internet-ingreso-directo-en-lima-2AF362C019D187C461373E686DCF3405",
+      "description": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 23 minutos",
+      "reason": "",
+      "language": "en",
+      "posted_at": "Hace 23 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 05:24:10"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787234984",
-      "notified": true,
-      "first_seen": "2026-08-20 15:45:52"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Management Consultant Enterprise Architecture (all genders)",
-      "company": "Eraneos",
-      "location": "Hamburg, München, Düsseldorf, remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-management-consultant-enterprise-architecture-all-genders-159542",
-      "description": "Das findest Du bei uns Als Teil unseres Sourcing &amp; IT Advisory-Teams unterstützest Du unsere Kunden dabei, komplexe Geschäfts- und IT-Transformationen branchenübergreifend zu gestalten und umzusetzen. Deine Aufgaben Unsere Aufgaben konzentrieren sich auf komplexe Transformati",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787234954",
       "notified": true,
       "first_seen": "2026-08-20 15:45:52"
     }
