@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T00:50:37+00:00",
+  "generated_at": "2026-08-22T01:30:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.300,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-asesor-de-atencion-al-cliente-turno-am-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-7F1A81093B284B5161373E686DCF3405",
+      "description": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz - Covisian Perú - Lima, Lima - S/. 1.300,00 (Mensual) - Publicado: Hace 35 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 35 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 01:30:47"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Betzdorf",
       "url": "https://www.arbeitnow.com/jobs/companies/gromnitza-systemhaus-gmbh/it-support-specialist-betzdorf-282683",
       "description": "Wir gehören zur SPG – Software Partners Group , einer stark wachsenden, finanzstarken Unternehmensgruppe mit Fokus auf B2B-Software und IT-Services für den Mittelstand. An unserem Standort in Betzdorf zählen wir zu den führenden IT-Systemhäusern im nördlichen Rheinland-Pfalz. Sei",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787232635",
-      "notified": false,
-      "first_seen": "2026-08-20 14:49:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikum HR & Talent Acquisition / Employer Branding (m/w/d)",
-      "company": "Startplatz Köln GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/startplatz-koln-gmbh/praktikum-hr-talent-acquisition-employer-branding-cologne-486640",
-      "description": "Lust auf echte Praxiserfahrung? Du willst in die aufregende Startup-Welt eintauchen? Dann bist du bei STARTPLATZ genau richtig! Als HR-Praktikant:in wirst du Teil unseres dynamischen Teams und hilfst dabei, die besten Köpfe für unsere Startup-Community mit über 1.500 unterstützte",
       "reason": "",
       "language": "other",
       "posted_at": "1787232635",
