@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-22T06:25:31+00:00",
+  "generated_at": "2026-08-22T06:46:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Account Executive",
+      "company": "blackforestlabs",
+      "location": "Paris (France), Amsterdam (Netherlands), London (United Kingdom)",
+      "url": "https://www.arbeitnow.com/jobs/companies/blackforestlabs/senior-account-executive-paris-france-amsterdam-netherlands-london-united-kingdom-366078",
+      "description": "&lt;h2&gt;&lt;strong&gt;About Black Forest Labs&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;We’re the team behind Latent Diffusion, Stable Diffusion, and FLUX—foundational technologies that changed how the world creates images and video. We’re creating the generative models that power how",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787378105",
+      "notified": true,
+      "first_seen": "2026-08-22 06:46:17"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent Mobile Development (m/w/d)",
+      "company": "Teveo Gmbh",
+      "location": "Remote",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/teveo-gmbh/remote-werkstudent-mobile-development-73791",
+      "description": "Deine Aufgaben Bei uns entwickelst du nicht einfach nur blind nach Vorgabe, sondern gestaltest unsere Mobile App aktiv mit. Wenn du Lust hast, dich tief in Flutter einzuarbeiten, Dinge mutig zu hinterfragen und echten Impact zu liefern, bist du bei uns genau richtig. Deine Aufgab",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787379043",
+      "notified": false,
+      "first_seen": "2026-08-22 06:46:00"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Sales Account Executive - Enterprise, UKI (m/f/d)",
+      "company": "Jedox GmbH",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jedox-gmbh/sales-account-executive-enterprise-uki-london-333724",
+      "description": "Find Jobs in United Kingdom on Arbeitnow",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787379013",
+      "notified": false,
+      "first_seen": "2026-08-22 06:46:00"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Accountant General Ledger (m/f/d)",
+      "company": "autoscout24",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/autoscout24/senior-accountant-general-ledger-161682",
+      "description": "&lt;p&gt;&lt;strong&gt;A career driven by you.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Join AutoScout24 Group and experience life in the fast lane. We’re not just leading the market; we’re creating it. We’re constantly innovating, evolving, and transforming things for our customers. We",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787378130",
+      "notified": false,
+      "first_seen": "2026-08-22 06:45:59"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-20T14:24:30+00:00",
       "notified": true,
       "first_seen": "2026-08-20 17:56:26"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Inicia capacitacion 21/08 ventas portabilidad movistar/ gestion remoto/ ingreso directo",
-      "company": "Atento Perú",
-      "location": "Cajamarca, Cajamarca (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-capacitacion-2108-ventas-portabilidad-movistar-gestion-remoto-ingreso-directo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-cajamarca-CB17DFA0BFEF806A61373E686DCF3405",
-      "description": "Inicia capacitacion 21/08 ventas portabilidad movistar/ gestion remoto/ ingreso directo - Atento Perú - Cajamarca, Cajamarca - Remoto - Publicado: Hace 11 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 11 minutos",
-      "notified": false,
-      "first_seen": "2026-08-20 17:56:09"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Lead Data Analyst, Product Analytics",
-      "company": "Updater",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151213-lead-data-analyst-product-analytics",
-      "description": "View All Jobs Do you love turning messy behavioral data into the \"aha\" that changes a product roadmap? Do you want your dashboards to be the first thing product leaders open in the morning — and your analyses to inform what gets built next? If so, we want to talk to you! About th",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-20T14:26:29+00:00",
-      "notified": false,
-      "first_seen": "2026-08-20 17:56:09"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Director, Corporate Development",
-      "company": "Updater",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151210-director-corporate-development",
-      "description": "View All Jobs About the Role Updater is seeking an ambitious, strategic, and results-driven leader to spearhead our corporate development and growth agenda. In this role, you will source and evaluate opportunities that fuel Updater’s next stage of growth - including acquisitions,",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-20T14:25:26+00:00",
-      "notified": false,
-      "first_seen": "2026-08-20 17:56:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Delivery Manager (Biomechanics)",
-      "company": "Hawkeyeinnovations",
-      "location": "All Offices",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hawkeyeinnovations/delivery-manager-biomechanics-all-offices-433722",
-      "description": "Delivery Manager – Biomechanics Join Our Team at Sony Sports Technology Value Stream: Biomechanics Location: Hybrid working – minimum 2 days per week in the office Office locations: Basingstoke, London or Bristol Contract: Permanent, Full-Time Salary: £42,000 - £66,000 About the ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787241641",
-      "notified": true,
-      "first_seen": "2026-08-20 17:42:35"
     }
   ]
 }
