@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T19:09:58+00:00",
+  "generated_at": "2026-08-22T19:23:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-atc-wom-chile-brindamos-pc-internet-ingreso-directo-en-lima-19BB4BD6532DF3F161373E686DCF3405",
+      "description": "Remoto/ ATC Wom Chile/ Brindamos pc + internet/ Ingreso directo - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 17 minutos",
+      "reason": "",
+      "language": "en",
+      "posted_at": "Hace 17 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 19:23:41"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787280014",
-      "notified": true,
-      "first_seen": "2026-08-21 04:01:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "People Business Partner",
-      "company": "Superhuman%20Platform%20Inc",
-      "location": "Hub - Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/superhuman20platform20inc/people-business-partner-berlin-399092",
-      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture. About Superhuman Grammarly is",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787280010",
       "notified": true,
       "first_seen": "2026-08-21 04:01:48"
     }
