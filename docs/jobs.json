@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-22T07:13:43+00:00",
+  "generated_at": "2026-08-22T07:29:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador fullstack /java/ angular/ react native",
+      "company": "Cinte Colombia SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-fullstack-java-angular-react-native-1886747104",
+      "description": "Desarrollador fullstack /java/ angular/ react native - Cinte Colombia SAS - Bogotá - $6 a $8 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-22 07:29:34"
+    },
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador as400 - synon / remoto",
+      "company": "TALYCAP GLOBAL SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-as400-synon-remoto-1886740227",
+      "description": "Desarrollador as400 - synon / remoto - TALYCAP GLOBAL SAS - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-22 07:29:34"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-20T14:33:39+00:00",
-      "notified": true,
-      "first_seen": "2026-08-20 18:25:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior Technical Program Manager - Security",
-      "company": "OpenAI",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151221-senior-technical-program-manager-security",
-      "description": "About the Team OpenAI builds powerful AI systems like ChatGPT, the OpenAI API, and enterprise products that serve millions of users across the globe. As we scale, securing our infrastructure, protecting sensitive data, and meeting global compliance standards are essential to our ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-20T14:32:41+00:00",
-      "notified": true,
-      "first_seen": "2026-08-20 18:25:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Director, Government Partnership Development",
-      "company": "Ginkgo Bioworks, Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151217-director-government-partnership-development",
-      "description": "Our mission is to make biology easier to engineer. Ginkgo is constructing, editing, and redesigning the living world in order to answer the globe’s growing challenges in health, energy, food, materials, and more. Our bioengineers make use of an in-house automated foundry for desi",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-20T14:31:26+00:00",
       "notified": true,
       "first_seen": "2026-08-20 18:25:49"
     }
