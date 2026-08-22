@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T20:04:39+00:00",
+  "generated_at": "2026-08-22T20:23:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Servicio técnico! Trabaja desde casa! / turno tarde / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-servicio-tecnico-trabaja-desde-casa-turno-tarde-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-A8F809A3D59B566461373E686DCF3405",
+      "description": "Servicio técnico! Trabaja desde casa! / turno tarde / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 20:23:46"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-21T01:41:14+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 06:46:56"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Engineering Manager - Travel FX App",
-      "company": "Bjak",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/engineering-manager-travel-fx-app-bjak-himalayas.app-companies-bjak-jobs-engineering-manager-travel-fx-app-6112332133",
-      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T01:33:50+00:00",
       "notified": true,
       "first_seen": "2026-08-21 06:46:56"
     }
