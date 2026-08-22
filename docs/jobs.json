@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T11:23:59+00:00",
+  "generated_at": "2026-08-22T11:37:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Uday",
+      "company": "MyAarohan",
+      "location": "QuÃ©bec, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-uday-myaarohan-1137048",
+      "description": "From 'I don't know what I want' to 'I have a plan' â MyAarohan's AI-powered assessments, hyper-personalised Growth Kundlis, career discovery and exploration, and expert counsellors help you make confident, data-backed career decisions. Please mention the word **WONDERFUL** and ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-21T11:24:27+00:00",
+      "notified": false,
+      "first_seen": "2026-08-22 11:37:33"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787257798",
-      "notified": true,
-      "first_seen": "2026-08-20 21:54:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer",
-      "company": "Gridfuse",
-      "location": "Leipzig",
-      "url": "https://www.arbeitnow.com/jobs/companies/gridfuse/senior-software-engineer-leipzig-330291",
-      "description": "Find Jobs in Germany on Arbeitnow",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787257782",
       "notified": true,
       "first_seen": "2026-08-20 21:54:25"
     }
