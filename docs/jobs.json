@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T17:51:42+00:00",
+  "generated_at": "2026-08-22T18:04:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Full remoto call center/ventas portabilidad /ingreso directo sin OJT/lunes a sabado o lun a vie",
+      "company": "Atento Perú",
+      "location": "Cajamarca, Cajamarca (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-call-centerventas-portabilidad-ingreso-directo-sin-ojtlunes-a-sabado-o-lun-a-vie-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-cajamarca-69727FAFADFECE0561373E686DCF3405",
+      "description": "Full remoto call center/ventas portabilidad /ingreso directo sin OJT/lunes a sabado o lun a vie - Atento Perú - Cajamarca, Cajamarca - Remoto - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 18:04:47"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787279416",
-      "notified": true,
-      "first_seen": "2026-08-21 02:44:03"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior CRM / AI Solutions Engineer (m/w/d)",
-      "company": "Hela Gewürzwerk Hermann Laue GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/hela-gewurzwerk-hermann-laue-gmbh/remote-senior-crm-ai-solutions-engineer-ahrensburg-70645",
-      "description": "Wir denken Vertrieb neu. Während klassische CRM-Systeme oft nur Daten verwalten, bauen wir die nächste Generation: intelligente, AI-gestützte Systeme, die Prozesse automatisieren, Entscheidungen unterstützen und Vertriebsteams aktiv entlasten.&nbsp; Microsoft Dynamics 365 ist dab",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787279414",
       "notified": true,
       "first_seen": "2026-08-21 02:44:03"
     }
