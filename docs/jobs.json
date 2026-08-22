@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T03:04:51+00:00",
+  "generated_at": "2026-08-22T03:28:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Open positions",
+      "company": "UzEats",
+      "location": "Reach, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-open-positions-uzeats-1137037",
+      "description": "Support Email: support@uzeats.com Phone: +1 (202) 930-5195 Telegram: @uzeats Please mention the word **SUFFICIENTLY** and tag RMjAuMTAyLjQ2LjE5Mg== when applying to show you read the job post completely (#RMjAuMTAyLjQ2LjE5Mg==). This is a beta feature to avoid spam applicants. Co",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-21T03:25:38+00:00",
+      "notified": false,
+      "first_seen": "2026-08-22 03:28:35"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-20T12:01:27+00:00",
-      "notified": true,
-      "first_seen": "2026-08-20 15:45:18"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Customer Support Engineer (Tier 1)",
-      "company": "Tailscale",
-      "location": "UK",
-      "url": "https://jobicy.com/jobs/151195-customer-support-engineer-tier-1",
-      "description": "About Tailscale Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protec",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-20T11:57:29+00:00",
       "notified": true,
       "first_seen": "2026-08-20 15:45:18"
     }
