@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T14:24:03+00:00",
+  "generated_at": "2026-08-22T14:38:23+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Urgente! Trabaja desde casa turno mañana / Damos pc + internet + Bono de luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-urgente-trabaja-desde-casa-turno-manana-damos-pc-internet-bono-de-luz-gana-s1800-aprox-planilla-completa-beneficios-de-ley-en-lima-68092FFFC6E3F47861373E686DCF3405",
+      "description": "Urgente! Trabaja desde casa turno mañana / Damos pc + internet + Bono de luz - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 43 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 43 minutos",
+      "notified": false,
+      "first_seen": "2026-08-22 14:38:23"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-20T19:46:55+00:00",
       "notified": true,
       "first_seen": "2026-08-20 23:24:22"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Trabajo desde casa remoto/venta portabilidad /sueldo fijo+comisiones+bono",
-      "company": "Atento Perú",
-      "location": "Ica, Ica (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-desde-casa-remotoventa-portabilidad-sueldo-fijocomisionesbono-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-ica-9C1DEF7BC0A3A73261373E686DCF3405",
-      "description": "Trabajo desde casa remoto/venta portabilidad /sueldo fijo+comisiones+bono - Atento Perú - Ica, Ica - Remoto - Publicado: Hace 4 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 4 minutos",
-      "notified": false,
-      "first_seen": "2026-08-20 23:24:05"
     }
   ]
 }
