@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-22T15:05:06+00:00",
+  "generated_at": "2026-08-22T15:23:09+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Estimator",
+      "company": "Linsco Ltd",
+      "location": "Dronfield, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-estimator-linsco-ltd-1137060",
+      "description": "Estimator - Construction Location: Sheffield (with occasional travel to surrounding sites) Employment Type: Full-time Salary: Up to Â£55k Additional: Car allowance and company benefits scheme About the Role Our client, a construction specialist in both design and build, are seeki",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-21T15:21:35+00:00",
+      "notified": false,
+      "first_seen": "2026-08-22 15:23:09"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787267382",
       "notified": false,
       "first_seen": "2026-08-20 23:52:16"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Full remoto desde casa/ingreso directo/planilla completa +comisiones ilimitadas+ bono x permanencia",
-      "company": "Atento Perú",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-desde-casaingreso-directoplanilla-completa-comisiones-ilimitadas-bono-x-permanencia-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-lima-75A30C872B8C4B6161373E686DCF3405",
-      "description": "Full remoto desde casa/ingreso directo/planilla completa +comisiones ilimitadas+ bono x permanencia - Atento Perú - Lima, Lima - Remoto - Publicado: Hace 2 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 2 minutos",
-      "notified": false,
-      "first_seen": "2026-08-20 23:39:31"
     }
   ]
 }
