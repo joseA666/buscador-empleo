@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T23:37:59+00:00",
+  "generated_at": "2026-08-23T23:51:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Enterprise Architect (Associate, Contract)",
+      "company": "Intelance",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/intelance/senior-enterprise-architect-associate-contract-london-383297",
+      "description": "Intelance works with UK organisations that need clear, practical decisions about technology. We are building a trusted group of senior associates to lead short enterprise architecture engagements. This project based contract role is for someone who can understand how decisions ar",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787526026",
+      "notified": false,
+      "first_seen": "2026-08-23 23:51:04"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13981,20 +13995,6 @@
       "company": "Rematiq Gmbh",
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/head-of-finance-and-operations-berlin-327630",
-      "description": "Join REMATIQ in revolutionizing medical innovation. Join us on our mission to help medical innovators bring life-saving products to market faster and safer. About REMATIQ REMATIQ builds AI software for life sciences and medical device companies. Our platform helps teams automate ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787334025",
-      "notified": true,
-      "first_seen": "2026-08-21 18:45:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Deployment Strategist",
-      "company": "Rematiq Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/rematiq-gmbh/ai-deployment-strategist-berlin-433089",
       "description": "Join REMATIQ in revolutionizing medical innovation. Join us on our mission to help medical innovators bring life-saving products to market faster and safer. About REMATIQ REMATIQ builds AI software for life sciences and medical device companies. Our platform helps teams automate ",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
