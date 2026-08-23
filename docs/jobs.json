@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T08:43:14+00:00",
+  "generated_at": "2026-08-23T08:58:41+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Endpoint Engineer",
+      "company": "Wave",
+      "location": "London, England, United Kingdom",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/wave/senior-endpoint-engineer-london-169650",
+      "description": "Our mission We're making Africa the first cashless continent. In 2017, over half the population in Sub-Saharan Africa had no bank account. That's for good reason—the fees are too high, the closest branch can be miles away, and nobody takes cards. Without access to financial insti",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787471128",
+      "notified": true,
+      "first_seen": "2026-08-23 08:58:40"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13981,20 +13995,6 @@
       "company": "eucalyptus",
       "location": "",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/senior-product-designer-contract-london-uk-360151",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Eucalyptus&lt;/h3&gt; &lt;p&gt;We&#39;re on a mission to make good health last a lifetime. More than 1 billion people live with obesity worldwide, driving preventable chronic conditions. We&#39;re here to build better lon",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787316940",
-      "notified": false,
-      "first_seen": "2026-08-21 13:46:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Lead Product Designer, London, UK",
-      "company": "eucalyptus",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/eucalyptus/lead-product-designer-london-uk-41660",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;About Eucalyptus&lt;/h3&gt; &lt;p&gt;We&#39;re on a mission to make good health last a lifetime. More than 1 billion people live with obesity worldwide, driving preventable chronic conditions. We&#39;re here to build better lon",
       "reason": "",
       "language": "en",
