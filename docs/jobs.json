@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-23T15:52:04+00:00",
+  "generated_at": "2026-08-23T16:05:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Retail Store Associate",
+      "company": "Rowan",
+      "location": "Chicago, IL",
+      "url": "https://remoteOK.com/remote-jobs/remote-retail-store-associate-rowan-1137073",
+      "description": "About This Role: &nbsp; We are looking for an enthusiastic, customer-obsessed Studio Sales Associate to join our team in our Lincoln Park &nbsp; studio location. You will be responsible for creating an exceptional piercing and shopping experience for our customers in a genuine an",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-22T16:00:21+00:00",
+      "notified": true,
+      "first_seen": "2026-08-23 16:05:17"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Senior Specialist Global QMS",
+      "company": "Orca Bio",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-specialist-global-qms-orca-bio-1137072",
+      "description": "More than one million people in the United States today are fighting blood cancer. While a traditional allogeneic stem cell transplant has been the best hope for many, the transplant itself can prove fatal or lead to serious conditions, such as graft vs. host disease. Orca Bio is",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-22T16:00:15+00:00",
+      "notified": true,
+      "first_seen": "2026-08-23 16:05:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Expira en: 05/10/2026",
-      "notified": false,
-      "first_seen": "2026-08-21 16:27:34"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Motorista de cabezal",
-      "company": "Confidencial",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1102830/chofer.aspx",
-      "description": "Motorista de cabezal - Confidencial - Cortés,Honduras - Expira en: 05/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 05/10/2026",
-      "notified": false,
-      "first_seen": "2026-08-21 16:27:34"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Associate Billing Specialist - Portugal",
-      "company": "Cloudbeds",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151319-associate-billing-specialist-portugal-2",
-      "description": "What Makes Cloudbeds UniqueAt Cloudbeds, we're not just building software, we’re transforming hospitality. Our intelligently designed platform powers properties across 150 countries, processing billions in bookings annually. From independent properties to hotel groups, we help ho",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-21T12:34:37+00:00",
       "notified": false,
       "first_seen": "2026-08-21 16:27:34"
     }
