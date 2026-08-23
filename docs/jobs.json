@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-23T16:40:41+00:00",
+  "generated_at": "2026-08-23T16:53:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Executive, Affiliate Marketing",
+      "company": "Accelerationpartners",
+      "location": "London; Manchester; Newcastle upon Tyne",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/accelerationpartners/account-executive-affiliate-marketing-london-manchester-newcastle-upon-tyne-353058",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Position: Account Specialist, Affiliate Marketing &lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quo",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787500521",
+      "notified": false,
+      "first_seen": "2026-08-23 16:53:27"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Executive, Affiliate Marketing",
+      "company": "Accelerationpartners",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/accelerationpartners/account-executive-affiliate-marketing-291146",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Position: Account Specialist, Affiliate Marketing &lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{}&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quo",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787500521",
+      "notified": false,
+      "first_seen": "2026-08-23 16:53:27"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Socia Media TikTok Creator (m/w/d)",
+      "company": "bedrop",
+      "location": "Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/bedrop/socia-media-tiktok-creator-mannheim-52712",
+      "description": "Über uns Wir möchten mit natürlichen Bienenprodukten das körperliche Wohlbefinden der Menschen und ihre Gesundheit unterstützen. Wir sind ein aufstrebendes Wachstumsunternehmen im Kosmetik- und Beauty-Segment des E-Commerce. Unsere Produkte stehen für natürliche Inhaltsstoffe mit",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787499036",
+      "notified": false,
+      "first_seen": "2026-08-23 16:53:26"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13959,48 +14001,6 @@
       "posted_at": "1787327709",
       "notified": false,
       "first_seen": "2026-08-21 16:46:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Regulatory Officer (UK/EU) - THG Nutrition",
-      "company": "Thehutgroup",
-      "location": "Manchester",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thehutgroup/senior-regulatory-officer-uk-eu-thg-nutrition-manchester-165000",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About THG&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;201341983&amp;quot;:0",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787327707",
-      "notified": false,
-      "first_seen": "2026-08-21 16:46:19"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior ML Engineer (Europe-based/Remote)",
-      "company": "SWORD Health",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151320-senior-ml-engineer-europe-based-remote",
-      "description": "At Sword, we’re building AI to heal billions and unlock humanity’s full potential. In doing so, we’re pioneering AI Care, a fundamentally new approach to healthcare built for medical reasoning, safety, and real-time treatment, not generic technology applied after the fact. As bot",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T12:34:39+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 16:27:52"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Data Analytics Engineer",
-      "company": "Ruby Labs",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151318-data-analytics-engineer",
-      "description": "About usRuby Labs is a leading tech company that creates and operates innovative consumer products. We offer a diverse range of opportunities across the health, education, and entertainment industries. Our innovative teams are driving the future of consumer-led products, and we'r",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T12:34:35+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 16:27:52"
     }
   ]
 }
