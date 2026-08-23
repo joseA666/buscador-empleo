@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T16:24:02+00:00",
+  "generated_at": "2026-08-23T16:40:41+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-A9CD0A292FCE66DF61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 3 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 3 horas",
+      "notified": false,
+      "first_seen": "2026-08-23 16:40:41"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-21T12:34:35+00:00",
       "notified": true,
       "first_seen": "2026-08-21 16:27:52"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Planificador de inventarios (alimentos) sps",
-      "company": "Confidencial",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1102833/jefe-de-inventario.aspx",
-      "description": "Planificador de inventarios (alimentos) sps - Confidencial - Cortés,Honduras - Expira en: 05/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 05/10/2026",
-      "notified": false,
-      "first_seen": "2026-08-21 16:27:34"
     }
   ]
 }
