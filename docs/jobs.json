@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T14:52:17+00:00",
+  "generated_at": "2026-08-23T15:05:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Platypus Store Manager Grand Plaza",
+      "company": "Platypus Shoes",
+      "location": "Hillcrest, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-platypus-store-manager-grand-plaza-platypus-shoes-1137085",
+      "description": "Since 1998 here at Platypus Shoes we have made it our business to deck out every single person who walks through our doors with the freshest footwear from all the biggest brands. But we reckon life goes beyond shoes. We believe itâs what you do in them that truly counts. So sta",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T09:47:14+00:00",
+      "notified": false,
+      "first_seen": "2026-08-23 15:05:45"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1787324104",
-      "notified": false,
-      "first_seen": "2026-08-21 15:43:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Finanzberater:in",
-      "company": "Telis Finanz Kanzlei Benjamin Rurka",
-      "location": "Kiel",
-      "url": "https://www.arbeitnow.com/jobs/companies/telis-finanz-kanzlei-benjamin-rurka/finanzberaterin-kiel-431244",
-      "description": "Karriere in der Finanzbranche – auch ohne Vorerfahrung 🚀 Jetzt durchstarten: Karriere in der digitalen Finanzberatung – Quereinstieg willkommen! Gestalte deine berufliche Zukunft selbst – flexibel, digital und leistungsorientiert. Du möchtest selbst entscheiden, wann, wo und wie ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787322634",
       "notified": false,
       "first_seen": "2026-08-21 15:43:19"
     }
