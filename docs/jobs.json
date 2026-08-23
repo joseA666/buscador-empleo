@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T14:23:38+00:00",
+  "generated_at": "2026-08-23T14:38:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Across all departments",
+      "company": "Saasuji",
+      "location": "Ahmedabad, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-across-all-departments-saasuji-1137075",
+      "description": "Vistara Group Apply now Share This Job Get a rok.co short link Vistara Group is hiring a Remote Across all departments Not Just Real Estateâ¦. Building a Community Experience | Vistara Group Vistara Group is an integrated real estate development company building businesses and e",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-22T14:24:57+00:00",
+      "notified": false,
+      "first_seen": "2026-08-23 14:38:45"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13982,20 +13996,6 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/right-search/project-manager-business-solutions-sap-sd-berlin-123767",
       "description": "Project Manager Business Solutions – SAP SD (w/m/d) Berlin-Adlershof – Hybrid (max. 2 Tage Homeoffice/Woche), 30+3 Urlaubstage Du willst nicht einfach Tickets bearbeiten, sondern international geschäftskritische IT-Projekte leiten, die SAP-SD-Landschaft einer globalen Pharma-Grup",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787319031",
-      "notified": true,
-      "first_seen": "2026-08-21 14:48:20"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote aus Bayern",
-      "company": "DWWA Personalberatung GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/dwwa-personalberatung-gmbh/inhouse-net-backend-entwickler-full-remote-aus-bayern-dusseldorf-31441",
-      "description": "Inhouse .NET Backend Entwickler (m/w/d) - Full Remote innerhalb von Bayern Stellenbeschreibung Du suchst einen sicheren Job als Inhouse .NET Backend Entwickler mit bis zu 100% Remote (innerhalb von Bayern) und mit krisenfestem Fundament? Möchtest du an der Transformation eines mo",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787319031",
