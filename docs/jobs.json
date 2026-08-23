@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T21:51:44+00:00",
+  "generated_at": "2026-08-23T22:04:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.300,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-asesor-de-atencion-al-cliente-turno-am-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-DC982DD092E3455E61373E686DCF3405",
+      "description": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz - Covisian Perú - Lima, Lima - S/. 1.300,00 (Mensual) - Publicado: Hace 3 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 3 minutos",
+      "notified": false,
+      "first_seen": "2026-08-23 22:04:38"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Köngen",
       "url": "https://www.arbeitnow.com/jobs/companies/maier-heiztechnik-gmbh/backoffice-kaufmannische-unterstutzung-und-kundenservice-tga-kongen-55953",
       "description": "Ihre Aufgaben Unterstützung Kundendienstleiter und Projektleiter, Aufbereitung von Kundenanfragen und Informationen Vorbereitung von Angeboten, Leistungsverzeichnissen Kommunikation mit Kunden und potenziellen neuen Kunden Koordination von Technikern im Tagesgeschäft Ansprechpart",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787331633",
-      "notified": false,
-      "first_seen": "2026-08-21 17:55:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Projektleiter (m/w/d) Simulationssysteme",
-      "company": "MY Humancapital GmbH",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/projektleiter-simulationssysteme-munich-34393",
-      "description": "Im Auftrag unseres Partnerunternehmens in München suchen wir Sie zum nächstmöglichen Zeitpunkt als „Projektleiter (m/w/d) “. Aufgaben Als Projektleiter (m/w/d) übernehmen Sie die Gesamtverantwortung für nationale und internationale Entwicklungsprojekte hinsichtlich Qualität, Term",
       "reason": "",
       "language": "other",
       "posted_at": "1787331633",
