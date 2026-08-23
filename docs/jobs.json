@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-23T00:52:50+00:00",
+  "generated_at": "2026-08-23T01:31:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa Atención al cliente Cross turno A.M / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-cross-turno-am-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-B608A9639F0972F461373E686DCF3405",
+      "description": "Trabaja desde casa Atención al cliente Cross turno A.M / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 27 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 27 minutos",
+      "notified": false,
+      "first_seen": "2026-08-23 01:31:11"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Parcel Delivery Drivers",
+      "company": "InPost Group",
+      "location": "Indore, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-parcel-delivery-drivers-inpost-group-1137066",
+      "description": "Home Who We Are InPost Values Our UK Divisions Current Roles We Deliver Talent Employee Log in as employee Candidate Log in to Connect Homepage inpost.co.uk Please mention the word **PROTECTIVE** and tag RMjAuMTE4LjM4LjEwNg== when applying to show you read the job post completely",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-22T01:20:50+00:00",
+      "notified": false,
+      "first_seen": "2026-08-23 01:31:11"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787299786",
-      "notified": true,
-      "first_seen": "2026-08-21 09:49:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior IT-Administrator (m/w/d) in der Workplace-Verwaltung",
-      "company": "prettyTELCO GmbH",
-      "location": "Ehingen",
-      "url": "https://www.arbeitnow.com/jobs/companies/prettytelco-gmbh/senior-it-administrator-in-der-workplace-verwaltung-ehingen-384853",
-      "description": "Was prettyTELCO von anderen Personalvermittlungen abhebt, ist unser Fokus auf die Vermittlung von Menschen, die nicht nur fachlich qualifiziert sind, sondern auch menschlich perfekt ins Unternehmen passen. 🤝🏻 Wir agieren deutschlandweit innerhalb der Telekommunikationsbranche und",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787299238",
-      "notified": true,
-      "first_seen": "2026-08-21 09:49:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Online Marketing Trainee (m/w/d)",
-      "company": "Klickkonzept by Cosmo5",
-      "location": "Frankfurt am Main",
-      "url": "https://www.arbeitnow.com/jobs/companies/klickkonzept-by-cosmo5/online-marketing-trainee-frankfurt-am-main-475612",
-      "description": "Hallo! Wir sind Klickkonzept. Eine datengetriebene, KI-orientierte Online-Marketing-Agentur im Herzen von Frankfurt. Als Teil der internationalen Cosmo5-Gruppe betreuen wir großartige Marken aus E-Commerce, Luxus, Beauty und B2B. Was uns besonders macht? Echte Leidenschaft, eine ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787299237",
       "notified": true,
       "first_seen": "2026-08-21 09:49:51"
     }
