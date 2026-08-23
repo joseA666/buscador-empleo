@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-23T07:30:56+00:00",
+  "generated_at": "2026-08-23T07:47:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Director, Strategic Partner Sales",
+      "company": "remotecom",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/remotecom/director-strategic-partner-sales-196971",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Remote&lt;/strong&gt;&lt;/h2&gt; &lt;div&gt;&lt;span style=&quot;font-size: 12pt; font-family: helvetica, arial, sans-serif;&quot;&gt;Remote is solving modern organizations’ biggest challenge – navigating gl",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787468126",
+      "notified": true,
+      "first_seen": "2026-08-23 07:47:45"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Director of Data (m/f/d)",
+      "company": "Moonfare",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/moonfare/director-of-data-london-3168",
+      "description": "&lt;p&gt;&lt;strong&gt;Director of Data (m/f/d)&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Reporting to the CTO, you will own the data strategy and execution for Moonfare at a pivotal moment in our growth. We are building the infrastructure and intelligence layer that will power how we se",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787468113",
+      "notified": true,
+      "first_seen": "2026-08-23 07:47:45"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Data Engineer | Betty CA",
+      "company": "Bettyjobboard",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/bettyjobboard/senior-data-engineer-betty-ca-london-169535",
+      "description": "&lt;p&gt;&lt;strong&gt;About us:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Betty is an innovative entertainment company pioneering at the intersection of real money online casino and casual mobile gaming. Accredited by the Alcohol and Gaming Commission of Ontario (AGCO) as a B2C operator",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787468105",
+      "notified": true,
+      "first_seen": "2026-08-23 07:47:45"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Fixed-Term Field Sales & Training Executive — Sephora UK",
+      "company": "Yepoda",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/yepoda/fixed-term-field-sales-training-executive-sephora-uk-london-138981",
+      "description": "About Yepoda Clean K-Beauty Innovation. No compromises. Yepoda is a clean K-Beauty brand that actually proves it works. We make Korean skincare without any of the compromises. Everything is clinically tested, 100% vegan, and formulated above EU standards. So you get the innovatio",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1787467207",
+      "notified": false,
+      "first_seen": "2026-08-23 07:47:27"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-08-21T09:26:19+00:00",
       "notified": true,
       "first_seen": "2026-08-21 13:20:06"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Auxiliar contable honduras (temporal)",
-      "company": "Tecoloco.com",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1102781/auxiliar-contable.aspx",
-      "description": "Auxiliar contable honduras (temporal) - Tecoloco.com - Francisco Morazán,Honduras - Expira en: 05/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 05/10/2026",
-      "notified": false,
-      "first_seen": "2026-08-21 13:19:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Director, Revenue Operations",
-      "company": "Digimarc",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151280-director-revenue-operations-2",
-      "description": "ABOUT US: Digimarc Corporation (NASDAQ: DMRC) is the global leader in product digitization. A pioneer in digital watermarks, Digimarc connects every physical and digital item to a digital twin that enables the capture of product data, records events and interactions, and supports",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-21T09:27:13+00:00",
-      "notified": false,
-      "first_seen": "2026-08-21 13:19:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Affiliate EAP Counsellor (Network Partnership)",
-      "company": "Lyra Health",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/151279-affiliate-eap-counsellor-network-partnership",
-      "description": "About Lyra Lyra Health is the leading provider of mental health solutions for employers supporting more than 20 million people globally. The company has delivered 13 million sessions of mental health care, published more than 20 peer-reviewed studies, and delivered unmatched outc",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-21T09:26:54+00:00",
-      "notified": false,
-      "first_seen": "2026-08-21 13:19:49"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Requirements Engineer: Material Science Applications (m/f/d)",
-      "company": "EVIDENT Europe GmbH",
-      "location": "Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/evident-europe-gmbh/requirements-engineer-material-science-applications-munster-448073",
-      "description": "Headquartered in Tokyo, Japan, Evident employs around 4,500 people at a total of 57 locations worldwide. Evident Europe, headquartered in Hamburg, Germany, employs approximately 770 people in 16 countries. The product portfolio includes a wide range of microscope systems used in ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787313710",
-      "notified": true,
-      "first_seen": "2026-08-21 12:47:23"
     }
   ]
 }
