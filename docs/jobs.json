@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T11:05:36+00:00",
+  "generated_at": "2026-08-23T11:23:03+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "building cleaner",
+      "company": "Newfoundland Chocolate Company",
+      "location": "St Johnâs, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-building-cleaner-newfoundland-chocolate-company-1137071",
+      "description": "Overview Languages English Education Other trades certificate or diploma or equivalent experience Experience Experience an asset On site Work must be completed at the physical location. There is no option to work remotely. Benefits Health benefits Dental plan Disability benefits ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-22T11:11:18+00:00",
+      "notified": false,
+      "first_seen": "2026-08-23 11:23:03"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "London - The River Building HQ",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/machine-learning-engineer-routing-eta-london-5454",
       "description": "Machine Learning Engineer - Delivery (Routing/ETA) Join us in our mission to transform the way people shop and eat, where impact, innovation and growth drive everything we do. Our Global Engineering teams tackle complex technical challenges across a global, three-sided marketplac",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787316022",
-      "notified": true,
-      "first_seen": "2026-08-21 13:46:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Strategy & Operations Manager",
-      "company": "Deliveroo",
-      "location": "London - The River Building HQ",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deliveroo/senior-strategy-operations-manager-london-357631",
-      "description": "Senior Strategy &amp; Operations Manager As the S&amp;O Lead for Monetisation, you will be responsible for managing and optimising merchant monetisation strategy across our markets. This includes commission structures, merchant fees, pricing architecture and more. We are looking ",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787316022",
