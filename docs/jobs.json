@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-23T10:24:21+00:00",
+  "generated_at": "2026-08-23T10:40:09+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Ingeniero full stack mid / sr",
+      "company": "MBI Tech",
+      "location": "Barranquilla",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/ingeniero-full-stack-mid-sr-1886756285",
+      "description": "Ingeniero full stack mid / sr - MBI Tech - Barranquilla - $4,5 a $5,5 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-23 10:40:09"
+    },
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador de software junior",
+      "company": "MBI Tech",
+      "location": "Barranquilla",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-de-software-junior-1886756284",
+      "description": "Desarrollador de software junior - MBI Tech - Barranquilla - $2 a $2,5 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-23 10:40:09"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-21T10:00:39+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 13:46:29"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Support Engineer (APAC)",
-      "company": "Supabase",
-      "location": "APAC",
-      "url": "https://jobicy.com/jobs/151305-support-engineer-apac",
-      "description": "Supabase is the Postgres development platform, built by developers for developers. We provide a complete backend solution including Database, Auth, Storage, Edge Functions, Realtime, and Vector Search. All services are deeply integrated and designed for growth. We are seeking Sup",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T09:52:06+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 13:46:29"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Account Executive",
-      "company": "Valerie Health",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151301-account-executive-8",
-      "description": "About the Company Valerie Health is the AI front office for independent provider groups. We are reimagining how independent practices operate by using AI to modernize patient/provider communication, enhance care, and drive industry-changing operational efficiencies. Why join us n",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T09:51:04+00:00",
       "notified": true,
       "first_seen": "2026-08-21 13:46:29"
     }
