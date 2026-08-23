@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-23T20:04:32+00:00",
+  "generated_at": "2026-08-23T20:23:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa Atención al cliente Cross turno A.M / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-cross-turno-am-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-8CBC82073155B5A261373E686DCF3405",
+      "description": "Trabaja desde casa Atención al cliente Cross turno A.M / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 13 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": false,
+      "first_seen": "2026-08-23 20:23:33"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/debitorenbuchhalter-munich-393114",
       "description": "Debitorenbuchhalter (m/w/d) gesucht – Vollzeit | München | Homeoffice-Möglichkeit Im Auftrag unseres Partnerunternehmens aus dem Öffentlichen Dienst suchen wir Sie zum nächstmöglichen Zeitpunkt als „Debitorenbuchhalter (m/w/d)“. Aufgaben Sie erstellen Ausgangsrechnungen und Gutsc",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787331638",
-      "notified": false,
-      "first_seen": "2026-08-21 17:55:50"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Hausmeister (m/w/d) Potsdam",
-      "company": "MY Humancapital GmbH",
-      "location": "Potsdam",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/hausmeister-potsdam-8550",
-      "description": "Hausmeister (m/w/d) - Vollzeit | Potsdam | Montag - Freitag Im Auftrag unseres Partnerunternehmens in Potsdam suchen wir Sie zum nächstmöglichen Zeitpunkt als „ Hausmeister (m/w/d) “. Aufgaben Als Hausmeister (m/w/d) führen Sie Wartungs-, Instandhaltungs- und Reparaturarbeiten an",
       "reason": "",
       "language": "other",
       "posted_at": "1787331638",
