@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T21:12:32+00:00",
+  "generated_at": "2026-08-24T21:26:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Cajero de ventanilla rotativo (comayagua)",
+      "company": "Banrural Honduras",
+      "location": "Comayagua,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103470/cajero-bancario.aspx",
+      "description": "Cajero de ventanilla rotativo (comayagua) - Banrural Honduras - Comayagua,Honduras - Expira en: 08/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 08/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-24 21:26:28"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T16:30:06+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 19:38:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Sustaining Operations Engineer",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149532-sustaining-operations-engineer",
-      "description": "This is a fast-paced engineering role in Linux-based software-defined infrastructure and applications, covering all layers of the stack, including bare metal, virtualization (KVM) and containerization (Docker and LXC/LXD), storage (Ceph and Linux filesystems), networking (OVS, OV",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:30:05+00:00",
       "notified": true,
       "first_seen": "2026-08-22 19:38:13"
     }
