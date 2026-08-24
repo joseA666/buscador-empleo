@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T04:03:16+00:00",
+  "generated_at": "2026-08-24T04:30:16+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O desde casa de Lunes a Viernes /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-desde-casa-de-lunes-a-viernes-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-5373D90BC12B8D7461373E686DCF3405",
+      "description": "R E M O T O desde casa de Lunes a Viernes /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-08-24 04:30:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "commercetools",
       "location": "München, Bayern",
       "url": "https://www.arbeitnow.com/jobs/companies/commercetools/principal-engineer-product-security-munchen-bayern-353065",
-      "description": "&lt;div class=&quot;ng-tns-c879422873-771&quot;&gt; &lt;section id=&quot;processing-state-26&quot; class=&quot;processing-state_container ng-tns-c879422873-771 is-gpi-avatar is-done-processing ng-trigger ng-trigger-processingStateShowHide ng-star-inserted&quot;&gt; &lt;div id=&qu",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787345709",
-      "notified": true,
-      "first_seen": "2026-08-21 21:52:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Principal Engineer, Product Security (m/f/x)",
-      "company": "commercetools",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/commercetools/principal-engineer-product-security-berlin-442587",
       "description": "&lt;div class=&quot;ng-tns-c879422873-771&quot;&gt; &lt;section id=&quot;processing-state-26&quot; class=&quot;processing-state_container ng-tns-c879422873-771 is-gpi-avatar is-done-processing ng-trigger ng-trigger-processingStateShowHide ng-star-inserted&quot;&gt; &lt;div id=&qu",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
