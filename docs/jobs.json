@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-24T20:25:14+00:00",
+  "generated_at": "2026-08-24T20:43:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Cloud Engineer - Frontend-leaning (Remote, Full-Time) [AS315]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/cloud-engineer-frontend-leaning-remote-full-time-as315-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-24T12:58:42.958+00:00",
+      "notified": true,
+      "first_seen": "2026-08-24 20:43:20"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior AWS Cloud Engineer (Remote, Full-Time) [AS314]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/senior-aws-cloud-engineer-remote-full-time-as314-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-24T12:54:30.34+00:00",
+      "notified": true,
+      "first_seen": "2026-08-24 20:43:20"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13973,34 +14001,6 @@
       "posted_at": "Hace 11 minutos",
       "notified": false,
       "first_seen": "2026-08-22 16:04:34"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "VP, Platform Engineering",
-      "company": "Frontify",
-      "location": "Europe",
-      "url": "https://jobicy.com/jobs/151398-vp-platform-engineering",
-      "description": "We're all about helping brands turn ideas into impact. Frontify’s brand platform transforms how teams organize digital assets, collaborate on projects, and create engaging campaigns. Our people empower thousands of marketers and designers — including teams at Uber, Microsoft, Vol",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T12:24:32+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 15:51:21"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Finance Manager - Germany",
-      "company": "Thoughtworks",
-      "location": "Germany,  UK",
-      "url": "https://jobicy.com/jobs/151397-finance-manager-germany",
-      "description": "Finance Manager (Germany, Netherlands, Switzerland) Thoughtworks is seeking a highly skilled finance manager to support our Global Controllership team. This role is vital for driving immediate impact across our European entities. You will be responsible for leading audits, managi",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T12:24:17+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 15:51:21"
     }
   ]
 }
