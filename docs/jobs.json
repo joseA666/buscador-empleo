@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T19:58:48+00:00",
+  "generated_at": "2026-08-24T20:11:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Electrical Tradesperson",
+      "company": "Territory Generation",
+      "location": "Alice Springs, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-electrical-tradesperson-territory-generation-1137092",
+      "description": "Vacancy Number: 038957 Agency: Territory Generation Number of Vacancies: 1 Work Unit: Operations and Maintenance Location: Alice Springs Primary Objective: The Electrical Tradesperson will provide a high level of technical expertise in electrical maintenance, performing preventat",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-23T20:09:16+00:00",
+      "notified": true,
+      "first_seen": "2026-08-24 20:11:05"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787410830",
-      "notified": false,
-      "first_seen": "2026-08-22 15:51:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Strategic Account Executive, Firefox Enterprise (DACH)",
-      "company": "mozilla",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/mozilla/senior-strategic-account-executive-firefox-enterprise-dach-497100",
-      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Why Mozilla&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Mozilla Corporation&lt;span style=&quot;font-weight: 400;&quot;&gt; is a non-profit-backed technology company that has ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787410517",
       "notified": false,
       "first_seen": "2026-08-22 15:51:04"
     }
