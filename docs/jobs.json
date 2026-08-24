@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T19:13:32+00:00",
+  "generated_at": "2026-08-24T19:28:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor de ventas desde casa/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-ventas-desde-casa-damos-pc-internet-bono-de-luz-gana-1800-a-mas-en-lima-58EF0D120F5FE64461373E686DCF3405",
+      "description": "Asesor de ventas desde casa/ Damos PC+ internet +bono de luz /Gana 1800 a más - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-08-24 19:28:32"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T12:29:44+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 14:24:02"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Cloud Engineer",
-      "company": "Boardroom Appointments",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/cloud-engineer-boardroom-appointments",
-      "description": "Key purpose: To act as a Cloud Engineer in a senior position to build out and maintain resilient, scalable, cost effective and high performing Cloud solutions that will assist the company to become the best in the world. ﻿Qualifications and experience: - 5+ years experience in In",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T12:06:52+00:00",
       "notified": true,
       "first_seen": "2026-08-22 14:24:02"
     }
