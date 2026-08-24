@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T21:26:28+00:00",
+  "generated_at": "2026-08-24T21:42:08+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Ejecutivo de facturación – canal de mayoreo",
+      "company": "PROMACO",
+      "location": "Choluteca,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103480/ejecutivo-de-ventas.aspx",
+      "description": "Ejecutivo de facturación – canal de mayoreo - PROMACO - Choluteca,Honduras - Expira en: 08/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 08/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-24 21:42:08"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T16:30:08+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 19:38:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Ubuntu Linux Kernel Engineer - Silicon Enablement",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149533-ubuntu-linux-kernel-engineer-silicon-enablement",
-      "description": "Ubuntu Linux, already the most popular Linux distribution in the world, is looking to increase its adoption even further by expanding the number of System On Chip (SoC) platforms supported natively and further optimising to ensure the highest performant experience for all users. ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:30:06+00:00",
       "notified": true,
       "first_seen": "2026-08-22 19:38:13"
     }
