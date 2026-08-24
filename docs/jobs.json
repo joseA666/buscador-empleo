@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T17:56:17+00:00",
+  "generated_at": "2026-08-24T18:09:55+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de ventas",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103355/jefe-de-ventas.aspx",
+      "description": "Jefe de ventas - Confidencial - Cortés,Honduras - Expira en: 29/09/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 29/09/2026",
+      "notified": false,
+      "first_seen": "2026-08-24 18:09:54"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-22T04:32:35+00:00",
       "notified": true,
       "first_seen": "2026-08-22 14:23:45"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Associate Instructor",
-      "company": "BeyondTrust",
-      "location": "Anywhere in the World",
-      "url": "https://remotejobs.org/remote-jobs/associate-instructor-beyondtrust",
-      "description": "Headquarters: Remote Canada | East Coast Canada BeyondTrust is a place where you can bring your purpose to life through the work that you do, creating a safer world through our cybersecurity SaaS portfolio. Our culture of flexibility, trust, and continual learning means you will ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-22T07:31:03+00:00",
-      "notified": false,
-      "first_seen": "2026-08-22 14:23:28"
     }
   ]
 }
