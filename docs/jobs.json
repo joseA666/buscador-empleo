@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-24T01:31:18+00:00",
+  "generated_at": "2026-08-24T02:13:38+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Software Engineer | Identity and Access Management | Full-Stack",
+      "company": "Deepl",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/senior-software-engineer-identity-and-access-management-full-stack-london-160338",
+      "description": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-li",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787532010",
+      "notified": true,
+      "first_seen": "2026-08-24 02:13:38"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.300,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-asesor-de-atencion-al-cliente-turno-am-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-4D8FFDBED9779ED461373E686DCF3405",
+      "description": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz - Covisian Perú - Lima, Lima - S/. 1.300,00 (Mensual) - Publicado: Hace 17 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 17 minutos",
+      "notified": false,
+      "first_seen": "2026-08-24 02:13:21"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-21T15:58:46+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 19:38:41"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Cloud & ISV Alliances and Marketplaces Lead",
-      "company": "Keyfactor, Inc.",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151339-cloud-isv-alliances-and-marketplaces-lead",
-      "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T15:58:28+00:00",
-      "notified": true,
-      "first_seen": "2026-08-21 19:38:41"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Scout Junior Quality Coordinator - Spanish (Mexico)",
-      "company": "Welo Global",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/151338-scout-junior-quality-coordinator-spanish-mexico",
-      "description": "MAIN PURPOSE OF THE ROLE Are you a search engine guru? Can you find what you're looking for with just a few keywords? We have a unique opportunity for you to put your skills to the test! Welocalize is looking for an Spanish (Mexico) speaker in Mexico to help support our client's ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-21T15:58:11+00:00",
       "notified": true,
       "first_seen": "2026-08-21 19:38:41"
     }
