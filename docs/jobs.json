@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T09:47:18+00:00",
+  "generated_at": "2026-08-24T10:15:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
+      "company": "Canonical Ltd.",
+      "location": "Home based - Worldwide",
+      "url": "https://remotejobs.org/remote-jobs/graduate-software-engineer-open-source-and-linux-canonical-ubuntu-canonical-ltd-greenhouse_8",
+      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-24T09:14:46+00:00",
+      "notified": true,
+      "first_seen": "2026-08-24 10:15:31"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787366420",
-      "notified": true,
-      "first_seen": "2026-08-22 03:04:34"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive (DACH)",
-      "company": "Singu",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/singu/account-executive-dach-berlin-470500",
-      "description": "About SINGU At SINGU , we’re redefining how the world’s most ambitious real estate companies run their operations. Our mission is to become Europe’s leading platform for managing warehouse, logistics, retail, and multi-site commercial real estate portfolios — empowering our Clien",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787366415",
       "notified": true,
       "first_seen": "2026-08-22 03:04:34"
     }
