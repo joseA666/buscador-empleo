@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-24T23:06:20+00:00",
+  "generated_at": "2026-08-24T23:23:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente de ingenieria industrial",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103554/gerente-de-ingenieria.aspx",
+      "description": "Gerente de ingenieria industrial - GRUPO ELCATEX - Cortés,Honduras - Expira en: 08/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 08/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-24 23:23:23"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar contable",
+      "company": "GRUPO OPSA",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103553/auxiliar-contable.aspx",
+      "description": "Auxiliar contable - GRUPO OPSA - Cortés,Honduras - Expira en: 08/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 08/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-24 23:23:23"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T16:45:10+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 20:52:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "IoT Solutions Architecture Manager (Americas only)",
-      "company": "Canonical Ltd.",
-      "location": "LATAM,  Canada,  USA",
-      "url": "https://jobicy.com/jobs/149579-iot-solutions-architecture-manager-americas-only",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation and IoT. ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:45:09+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 20:52:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior Security Operations Engineer",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149578-senior-security-operations-engineer",
-      "description": "The Canonical Security Operations team is hiring for a Senior or Staff engineer. The Security Operations team is responsible for designing, building, and operating a world-class Security Operations Center, and the successful candidate will provide leadership, mentorship, expertis",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:45:08+00:00",
       "notified": true,
       "first_seen": "2026-08-22 20:52:49"
     }
