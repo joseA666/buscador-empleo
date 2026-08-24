@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T23:37:56+00:00",
+  "generated_at": "2026-08-24T23:51:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Online Marketing Manager / Paid Ads Manager (m/w/d)",
+      "company": "bd operations GmbH",
+      "location": "Augsburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/bd-operations-gmbh/online-marketing-manager-paid-ads-manager-augsburg-259428",
+      "description": "Du möchtest Paid Advertising nicht für ein einzelnes Land und ein paar Kampagnen betreiben, sondern Performance Marketing auf europäischer Ebene verantworten? Bei vintrica.com steuerst und entwickelst du unsere Paid-Marketing-Aktivitäten in mehr als 30 europäischen Märkten . Mit ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1787610655",
+      "notified": true,
+      "first_seen": "2026-08-24 23:51:46"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T16:45:11+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 20:52:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Graduate Software Engineer, Open Source and Linux, Canonical Ubuntu",
-      "company": "Canonical Ltd.",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149581-graduate-software-engineer-open-source-and-linux-canonical-ubuntu",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:45:10+00:00",
       "notified": true,
       "first_seen": "2026-08-22 20:52:49"
     }
