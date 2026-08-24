@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-24T03:35:58+00:00",
+  "generated_at": "2026-08-24T04:03:16+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Product Manager, Agents",
+      "company": "Peec AI",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/peec-ai/product-manager-agents-berlin-54155",
+      "description": "About Peec AI Peec AI is the visibility platform for the age of AI search. The way people discover brands is being rewritten. ChatGPT, Claude, Google AI Mode and Copilot now sit between companies and their customers, and most brands have no idea what those models say about them. ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787539223",
+      "notified": true,
+      "first_seen": "2026-08-24 04:03:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787345709",
-      "notified": true,
-      "first_seen": "2026-08-21 21:52:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Finance Manager - AI Native (m/f/d)",
-      "company": "voize",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/voize/finance-manager-ai-native-berlin-427486",
-      "description": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people . Our vision i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787344822",
       "notified": true,
       "first_seen": "2026-08-21 21:52:39"
     }
