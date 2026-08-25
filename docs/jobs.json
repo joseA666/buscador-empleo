@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T22:56:06+00:00",
+  "generated_at": "2026-08-25T23:07:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Operario calidad e inocuidad temporal centro de distribucion sps",
+      "company": "Walmart de Mexico y Centroamerica",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103956/auditor-de-calidad.aspx",
+      "description": "Operario calidad e inocuidad temporal centro de distribucion sps - Walmart de Mexico y Centroamerica - Cortés,Honduras - Expira en: 09/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 09/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-25 23:07:35"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13984,20 +13998,6 @@
       "description": "Seit über 14 Jahren entwickeln wir bei TenMedia Individualsoftware für Mittelstand, öffentliche Hand und KRITIS-Betreiber. Unsere Software läuft dort, wo Ausfälle keine Option sind: in Behörden, bei kritischen Infrastrukturen und im Mittelstand. Wir suchen dich als erfahrenen PHP",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
-      "posted_at": "1787583642",
-      "notified": true,
-      "first_seen": "2026-08-24 15:59:42"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Contract Platform Engineer",
-      "company": "YLD.com",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/yldcom/contract-platform-engineer-berlin-257326",
-      "description": "Location: Remote (EU based, GMT timezone) Department: Engineering Employment Type: Contract (B2B) Contract Length: 6 months (with potential for extension) About YLD: Our goal is to help our clients keep moving forward. We work with them to build the skills and capabilities they n",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
       "posted_at": "1787583642",
       "notified": true,
       "first_seen": "2026-08-24 15:59:42"
