@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-25T02:39:49+00:00",
+  "generated_at": "2026-08-25T03:07:58+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Backend Engineer (m/f/x)",
+      "company": "Travelcircus",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/travelcircus/backend-engineer-berlin-413725",
+      "description": "Intro Do you love traveling and are you ready for new challenges in an ambitious, fast-growing and committed company? Then you've come to the right place! Start your career with us as: Backend Engineer (m/f/x) Your responsibilities Travelcircus is seeking an experienced (4+ years",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1787623797",
+      "notified": true,
+      "first_seen": "2026-08-25 03:07:58"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent Foodservice | Robotic Kitchens (all genders welcome)",
+      "company": "goodBytz",
+      "location": "Heikendorf (bei Kiel)",
+      "url": "https://www.arbeitnow.com/jobs/companies/goodbytz/werkstudent-foodservice-robotic-kitchens-all-genders-welcome-heikendorf-bei-kiel-344279",
+      "description": "Deine Rolle Freshly cooked food. Everywhere. All the time. Mit unseren Robotern verändern wir, wie die Welt kocht, isst und genießt. Durch Technologie, die Gastronomien entlastet, automatisiert frisches Essen zubereitet und kulinarische Qualität auf ein neues, skalierbares Level ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787623832",
+      "notified": false,
+      "first_seen": "2026-08-25 03:07:40"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "(Senior) Sales Manager (m/w/d)",
+      "company": "Ryze Digital",
+      "location": "RYZE Digital Holding GmbH Mainz",
+      "url": "https://www.arbeitnow.com/jobs/companies/ryze-digital/senior-sales-manager-ryze-digital-holding-gmbh-mainz-412372",
+      "description": "Deine Aufgaben RYZE Digital ist eine der führenden Agenturgruppen für digitale Unternehmenskommunikation im deutschsprachigen Raum – aufgebaut über eine konsequente Buy-&amp;-Build-Strategie. Wir verbinden strategische Kommunikation, digitales Reporting und Technologie zu einem L",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787623800",
+      "notified": false,
+      "first_seen": "2026-08-25 03:07:40"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13959,48 +14001,6 @@
       "posted_at": "1787440220",
       "notified": true,
       "first_seen": "2026-08-22 23:51:08"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior C++ Software Engineer – Real-Time Systems (m/f/d)",
-      "company": "Enabl Technologies Gmbh",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/enabl-technologies-gmbh/senior-c-software-engineer-real-time-systems-karlsruhe-330183",
-      "description": "Your mission At enabl, we're bringing AI into the physical world. While everyone else talks about automating office work, we're going after the biggest problem in logistics: 25 million industrial vehicles worldwide are still driven by hand. Our hybrid system pairs the judgment of",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787440174",
-      "notified": true,
-      "first_seen": "2026-08-22 23:51:08"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Kioskleitung (all genders)",
-      "company": "Supreme Sports Hospitality GmbH",
-      "location": "Bremen, Bremen, Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/supreme-sports-hospitality-gmbh/kioskleitung-all-genders-bremen-364495",
-      "description": "Wir bei Supreme Sports Hospitality lieben echte Stadion-Atmosphäre: Egal ob Fußballspiele oder Konzerte – wir lieben gute Stimmung! Perfekte Lebensläufe stehen bei uns nicht im Vordergrund, wir legen viel mehr Wert auf individuelle Persönlichkeiten &amp; Leidenschaft. Wir suchen ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787441436",
-      "notified": false,
-      "first_seen": "2026-08-22 23:50:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Collection Merchandiser Shoes (f/m/d)",
-      "company": "Aeyde",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/aeyde/senior-collection-merchandiser-shoes-berlin-452930",
-      "description": "What you will do: As the (Senior) Collection Merchandiser for the Shoes category, you will play a pivotal role in shaping the strategic direction of the footwear assortment. This role requires a deep understanding of luxury fashion, strong collaboration skills, and the ability to",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787440172",
-      "notified": false,
-      "first_seen": "2026-08-22 23:50:51"
     }
   ]
 }
