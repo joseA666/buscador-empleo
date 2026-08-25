@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-25T07:46:41+00:00",
+  "generated_at": "2026-08-25T08:15:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Software Engineer – Support (USA Only - 100% Remote)",
+      "company": "Close",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151550-software-engineer-support-usa-only-100-remote",
+      "description": "About Us Since 2013, we’ve been building a CRM that gets out of your way and helps your team sell more, faster. Now we’re building AI into every part of it, so Close does the busywork and your team does the selling. No manual data entry, no 10-click workflows. Just communication-",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-25T04:47:26+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 08:15:35"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Frontend-Focused Full Stack Developer - Angular / .NET (Remote, Full-Time) [AS313]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/frontend-focused-full-stack-developer-angular-net-remote-full-time-as313-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-25T07:15:54.02+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 08:15:35"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Store person",
+      "company": "Krannich Solar Australia",
+      "location": "Brendale, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-person-krannich-solar-australia-1137100",
+      "description": "Warehouse Storeperson Please mention the word **EXCELLED** and tag RNTcuMTUxLjEzOC4xMQ== when applying to show you read the job post completely (#RNTcuMTUxLjEzOC4xMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-24T08:04:09+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 08:15:17"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Support (ERP System)",
+      "company": "Ajax Systems",
+      "location": "Ukraine",
+      "url": "https://jobicy.com/jobs/151552-support-erp-system",
+      "description": "Ajax Systems — це міжнародна технологічна компанія, найбільший в Європі розробник і виробник систем безпеки Ajax із можливостями розумного дому. Це ціла екосистема зі 180 пристроїв, мобільних і десктопних застосунків, серверної інфраструктури. Кожного року ми демонструємо кратне ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "2026-08-25T04:47:57+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 08:15:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "1787478015",
       "notified": true,
       "first_seen": "2026-08-23 10:52:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Site Reliability Engineer (m/w/d) – Konstanz, Berlin oder remote",
-      "company": "Seitenbau Gmbh",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/site-reliability-engineer-konstanz-berlin-oder-remote-75299",
-      "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen Site Reliability Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisierun",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787477380",
-      "notified": true,
-      "first_seen": "2026-08-23 10:52:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "DevOps & Cloud Engineer (m/w/d) - Konstanz, Berlin oder remote",
-      "company": "Seitenbau Gmbh",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/seitenbau-gmbh/devops-cloud-engineer-konstanz-berlin-oder-remote-464804",
-      "description": "Deine Aufgaben Wir suchen dich – einen motivierten und leidenschaftlichen DevOps &amp; Cloud Engineer. Unsere Kund*innen sind vielfältig. Unsere Software-Projekte ebenso. Wir lassen die großen Visionen unserer Kund*innen Wirklichkeit werden und helfen ihnen dabei die Digitalisier",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787477380",
-      "notified": true,
-      "first_seen": "2026-08-23 10:52:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Cybersecurity Expert (United Kingdom)",
-      "company": "Authority.inc",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/cybersecurity-expert-united-kingdom-london-123844",
-      "description": "Role description The Cybersecurity Expert Commentary role is a remote contract position open to experts located anywhere in the United Kingdom. You will provide clear, accurate commentary on security operations, cyber risk, identity, cloud security, incident response, regulation,",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787481032",
-      "notified": false,
-      "first_seen": "2026-08-23 10:52:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technology & Software Expert (United Kingdom)",
-      "company": "Authority.inc",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/authorityinc/technology-software-expert-united-kingdom-london-301451",
-      "description": "Role description The Technology &#x26; Software Expert Commentary role is a remote contract position open to experts located anywhere in the United Kingdom. You will provide clear, accurate commentary on software markets, product strategy, enterprise technology, cloud platforms, ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787481031",
-      "notified": false,
-      "first_seen": "2026-08-23 10:52:24"
     }
   ]
 }
