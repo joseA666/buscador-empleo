@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T20:41:59+00:00",
+  "generated_at": "2026-08-25T20:55:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Media Buyer / Meta Ads (m/w/d)",
+      "company": "Finanzklar GmbH",
+      "location": "Mannheim",
+      "url": "https://www.arbeitnow.com/jobs/companies/finanzklar-gmbh/media-buyer-meta-ads-mannheim-213528",
+      "description": "Wer sind wir? Entstanden sind wir aus Deutschlands größter Finanzbildungsorganisation. Über 250.000 jungen Menschen haben wir gezeigt, wie Finanzen wirklich funktionieren. Aus dieser Mission ist Finanzklar entstanden. Denn Wissen allein reicht nicht – die meisten Menschen scheite",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787688032",
+      "notified": false,
+      "first_seen": "2026-08-25 20:55:58"
+    },
     {
       "source": "computrabajo_mx",
       "source_label": "Computrabajo México",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787570997",
-      "notified": true,
-      "first_seen": "2026-08-24 12:47:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in Finance & Controlling  (m/w/d)",
-      "company": "Peter Park",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/peter-park/werkstudentin-finance-controlling-munchen-433365",
-      "description": "Einleitung Willst Du während Deines Studiums nicht nur Theorie büffeln, sondern von Tag eins an echte Verantwortung im Finance-Bereich eines wachsenden Scale-ups übernehmen? Dann bist Du bei uns genau richtig! Peter Park digitalisiert das Parken: Mit automatischer Kennzeichenerke",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787570993",
       "notified": true,
       "first_seen": "2026-08-24 12:47:45"
     }
