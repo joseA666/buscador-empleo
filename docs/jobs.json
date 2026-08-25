@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T02:11:35+00:00",
+  "generated_at": "2026-08-25T02:39:49+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja de Casa / Asesor de Ventas / Brindamos PC + Internet/ Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-de-casa-asesor-de-ventas-brindamos-pc-internet-solo-lima-sueldo-fijo-comisiones-planilla-completa-en-lima-AB082F990863EC0C61373E686DCF3405",
+      "description": "Trabaja de Casa / Asesor de Ventas / Brindamos PC + Internet/ Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 25 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 25 minutos",
+      "notified": false,
+      "first_seen": "2026-08-25 02:39:49"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787440172",
       "notified": false,
       "first_seen": "2026-08-22 23:50:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Account Executive - Insurance & SaaS background",
-      "company": "Shifttechnology",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/shifttechnology/senior-account-executive-insurance-saas-background-480207",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;font-size: 12pt; font-family: arial, helvetica, sans-serif;&quot;&gt;Shift delivers AI agents that transform insurers&#39; most critical work. By combining deep industry expertise and unmatched data resource",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787435748",
-      "notified": true,
-      "first_seen": "2026-08-22 22:52:06"
     }
   ]
 }
