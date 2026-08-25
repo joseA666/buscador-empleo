@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T19:28:50+00:00",
+  "generated_at": "2026-08-25T19:45:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Client Director - Chevron",
+      "company": "Celonis",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/celonis/client-director-chevron",
+      "description": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blin",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-25T19:37:31Z",
+      "notified": true,
+      "first_seen": "2026-08-25 19:45:19"
+    },
     {
       "source": "themuse",
       "source_label": "The Muse",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787570984",
-      "notified": false,
-      "first_seen": "2026-08-24 12:47:11"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Makler Logistikimmobilien (m/w/d)",
-      "company": "RUHR REAL GmbH",
-      "location": "Essen",
-      "url": "https://www.arbeitnow.com/jobs/companies/ruhr-real-gmbh/senior-makler-logistikimmobilien-essen-402619",
-      "description": "Du interessierst Dich für die Immobilien hinter Lieferketten, Produktion und Wachstum? Dann werde Teil von RUHR REAL. Dann gestalte mit uns den Markt für Logistik- und Industrieimmobilien. Bei RUHR REAL verantwortest Du komplexe Mandate, bringst Eigentümer und Nutzer zusammen und",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787570416",
       "notified": false,
       "first_seen": "2026-08-24 12:47:11"
     }
