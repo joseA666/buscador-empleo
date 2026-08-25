@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T11:56:11+00:00",
+  "generated_at": "2026-08-25T12:09:38+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Executive",
+      "company": "Vashi Integrated Solutions",
+      "location": "Pune Division, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-executive-vashi-integrated-solutions-1137105",
+      "description": "0-3 Pune Full-Time INR 288000 - 300000 Require for Accounts Receivables (Commercial) Share with someone awesome View all job openings Please mention the word **DAZZLING** and tag RNTIuMTczLjE2NS4xNzE= when applying to show you read the job post completely (#RNTIuMTczLjE2NS4xNzE=)",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-24T12:09:13+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 12:09:37"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787506234",
-      "notified": true,
-      "first_seen": "2026-08-23 18:58:10"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Unsolicited Application: Working Student - Software Engineering (m/f/d)",
-      "company": "TYTAN Technologies GmbH",
-      "location": "Munich, Bayern, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tytan-technologies-gmbh/unsolicited-application-working-student-software-engineering-munich-98564",
-      "description": "TYTAN Technologies At TYTAN , we aim to set a global standard in autonomous air defense with AI-driven, cost-efficient systems that counter unmanned aerial threats at scale. We protect people. We protect critical infrastructure. We protect Europe’s sovereignty. Interested in a Wo",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787506219",
       "notified": true,
       "first_seen": "2026-08-23 18:58:10"
     }
