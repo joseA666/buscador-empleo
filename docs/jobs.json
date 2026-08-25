@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-25T21:08:31+00:00",
+  "generated_at": "2026-08-25T21:24:49+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Desarrollador sr. tegucigalpa",
+      "company": "Equidad Compañía de Seguros SA",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1103877/analista-en-desarrollo-e-innovacion.aspx",
+      "description": "Desarrollador sr. tegucigalpa - Equidad Compañía de Seguros SA - Honduras - Expira en: 09/10/2026",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Expira en: 09/10/2026",
+      "notified": true,
+      "first_seen": "2026-08-25 21:24:49"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de producto terminado",
+      "company": "GRUPO CADELGA",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103879/ingeniero-industrial.aspx",
+      "description": "Jefe de producto terminado - GRUPO CADELGA - Francisco Morazán,Honduras - Expira en: 09/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 09/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-25 21:24:32"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787571034",
-      "notified": true,
-      "first_seen": "2026-08-24 12:47:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in IT / AI  (m / w / d), 8-16 Std. / Woche",
-      "company": "BONVENTURE",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bonventure/werkstudentin-it-ai-m-w-d-8-16-std-woche-munich-235471",
-      "description": "Du willst die digitale und KI-gestützte Transformation eines führenden Impact-Venture-Capital-Fonds aktiv mitgestalten? Willkommen bei BONVENTURE! Wir finanzieren und begleiten als führender High-Impact Fund wirkungsorientierte Startups rund um Climate Tech, Bildung, Gesundheit u",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787571032",
-      "notified": true,
-      "first_seen": "2026-08-24 12:47:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive - Enterprise Sales (Mensch)",
-      "company": "Event Inc",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/event-inc/account-executive-enterprise-sales-mensch-hamburg-457788",
-      "description": "Worum gehts? Viele Unternehmen organisieren ihre Tagungen, Meetings &amp; Events noch immer komplex, intransparent und ineffizient. Genau hier kommen wir ins Spiel. Mit unserer SaaS-Lösung digitalisieren und vereinfachen wir den gesamten Einkaufsprozess rund um Business Events – ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787570997",
       "notified": true,
       "first_seen": "2026-08-24 12:47:45"
     }
