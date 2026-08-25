@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T04:46:48+00:00",
+  "generated_at": "2026-08-25T05:11:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-sueldo-planilla-bonos-de-asistencia-y-permanencia--asignacion-comisiones-en-lima-FCB8C3A9402A018461373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 1 hora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 hora",
+      "notified": false,
+      "first_seen": "2026-08-25 05:11:59"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "London, UK",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/senior-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-458163",
       "description": "The Space Rangers team are recruiting a 6 Month Fixed Term Contract (FTC) Senior UI Engineer to join a London based Game Studio! Location: UK Remote OR London, Bromley (on-site) The Role Space Rangers is partnering with a AAA game development studio to recruit a Senior UI Enginee",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787456424",
-      "notified": true,
-      "first_seen": "2026-08-23 04:46:11"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Principal UI Engineer [6 Month FTC - Remote OR Onsite]",
-      "company": "Rocketsciencegg",
-      "location": "London, UK",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/rocketsciencegg/principal-ui-engineer-6-month-ftc-remote-or-onsite-london-uk-232033",
-      "description": "The Space Rangers team are recruiting a 6 Month Fixed Term Contract (FTC) Principal UI Engineer to join a London based Game Studio! Location: UK Remote OR London, Bromley (on-site) The Role Space Rangers is partnering with a AAA game development studio to recruit a Principal UI E",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787456424",
