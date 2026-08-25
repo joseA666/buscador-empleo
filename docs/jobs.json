@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T15:46:36+00:00",
+  "generated_at": "2026-08-25T16:13:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto! trabaja desde casa + bono de luz de 90so + plantilla completa + comisiones ilimitadas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-trabaja-desde-casa-bono-de-luz-de-90so-plantilla-completa-comisiones-ilimitadas-te-brindamos-pclaptop-internet-audifonos-en-lima-960CDDD32FCABB0661373E686DCF3405",
+      "description": "Remoto! trabaja desde casa + bono de luz de 90so + plantilla completa + comisiones ilimitadas - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 5 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": false,
+      "first_seen": "2026-08-25 16:13:12"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787538622",
-      "notified": false,
-      "first_seen": "2026-08-24 03:11:55"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in Vertrieb / Sales Development Representative (m/w/d)",
-      "company": "Pink University Gmbh",
-      "location": "Hamburg & Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/pink-university-gmbh/remote-werkstudentin-vertrieb-sales-development-representative-67291",
-      "description": "Das machst du bei uns: Du identifizierst spannende Unternehmen und recherchierst die relevanten Entscheider:innen für unseren B2B-Vertrieb und bereitest selbständig den Erstkontakt vor. Du unterstützt unsere Sales Manager:innen durch eine erste Kontaktaufnahme mit potenziellen Ne",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787538597",
       "notified": false,
       "first_seen": "2026-08-24 03:11:55"
     }
