@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-25T06:47:30+00:00",
+  "generated_at": "2026-08-25T07:18:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "GLUCOBAY TASK FORCE",
+      "company": "Bayer",
+      "location": "Siliguri, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-glucobay-task-force-bayer-1137102",
+      "description": "At Bayer weâre visionaries, driven to solve the worldâs toughest challenges and striving for a world where ,Health for all, Hunger for noneâ is no longer a dream, but a real possibility. Weâre doing it with energy, curiosity and sheer dedication, always learning from uniq",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-24T07:17:43+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 07:18:48"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Airport Ground Staff Jobs For Freshers",
+      "company": "Fronix Services",
+      "location": "Thiruvananthapuram, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-airport-ground-staff-jobs-for-freshers-fronix-services-1137116",
+      "description": "Dear Candidate, We are looking for a Dynamic Candidate with good Communication Skill Roles And Responsibilities Greeting and welcoming passengers, and responding to questions. Checking in baggage. Making reservations. Selling airline tickets. Stocking aircraft with refreshments. ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-18T18:30:00+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 07:18:48"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-23T03:55:53+00:00",
       "notified": true,
       "first_seen": "2026-08-23 07:30:56"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Sr. Enterprise Architect",
-      "company": "Ironclad",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151417-sr-enterprise-architect",
-      "description": "Ironclad is the leading AI contracting platform that transforms agreements into assets. Contracts move faster, insights surface instantly, and agents push work forward, all with you in control. Whether you’re buying or selling, Ironclad unifies the entire process on one intellige",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-23T03:55:24+00:00",
-      "notified": true,
-      "first_seen": "2026-08-23 07:30:56"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "COMLEX Tutor",
-      "company": "Inspira Education",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/151421-comlex-tutor",
-      "description": "About Inspira Education Inspira Education Group is one of the fastest-growing edtech startups in the US. We started with a simple mission to democratize access to high-quality coaching so that every student in the world has an equal opportunity to access the best opportunities. A",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-23T03:56:21+00:00",
-      "notified": false,
-      "first_seen": "2026-08-23 07:30:39"
     }
   ]
 }
