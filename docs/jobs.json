@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-25T17:26:55+00:00",
+  "generated_at": "2026-08-25T17:43:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Senior ML Engineer",
+      "company": "Quilter",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151566-senior-ml-engineer",
+      "description": "About Quilter At Quilter, we are helping electrical engineers save time and accomplish more by automating the tedious and time-consuming task of designing printed circuit boards (PCBs). Our small team is composed of experts in electrical engineering, electromagnetic simulation, M",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-25T14:25:54+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 17:43:17"
+    },
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Account Executive, Small Group",
+      "company": "Elation Health",
+      "location": "USA",
+      "url": "https://jobicy.com/jobs/151567-account-executive-small-group",
+      "description": "Our team is committed to enhancing physician and patient quality of life through Elation, a SaaS cloud-based clinical platform. Since inception, we’ve been focused on building a world-class technology solution that creates an experience of delight and ease for physicians, and tha",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-25T14:26:14+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 17:43:00"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T11:15:06+00:00",
-      "notified": true,
-      "first_seen": "2026-08-24 06:28:35"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Engineer III, Hardware Development",
-      "company": "CrowdStrike",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/engineer-iii-hardware-development-crowdstrike",
-      "description": "As a global leader in cybersecurity, CrowdStrike protects the people, processes and technologies that drive modern organizations. Since 2011, our mission hasn’t changed — we’re here to stop breaches, and we’ve redefined modern security with the world’s most advanced AI-native pla",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-24T04:38:45+00:00",
-      "notified": true,
-      "first_seen": "2026-08-24 06:28:35"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Advanced Technologies Architect",
-      "company": "Agilent Technologies",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/advanced-technologies-architect-agilent-technologies",
-      "description": "Job Description The Technology Architecture Lead is responsible for designing, building, and governing a scalable, AI-enabled platform for developing, managing, and maintaining training and enablement content. This role serves as the technical architect for SharePoint-based ecosy",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-24T04:24:02+00:00",
       "notified": true,
       "first_seen": "2026-08-24 06:28:35"
     }
