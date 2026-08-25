@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T14:47:37+00:00",
+  "generated_at": "2026-08-25T15:17:54+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Overnight Task Team Lead",
+      "company": "Bass Pro Shops",
+      "location": "Regina, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-overnight-task-team-lead-bass-pro-shops-1137121",
+      "description": "Summary: Reporting to the Assistant General Manager (AGM), the Overnight Supervisor provides daily direction to the team members working the overnight shift within the retail store, to include: sales floor replenishment, merchandise presentation, seasonal resets, inventory manage",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-19T00:50:30+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 15:17:53"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1787527762",
-      "notified": false,
-      "first_seen": "2026-08-24 00:50:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) CRM Automation & Lifecycle Manager (all genders)",
-      "company": "HolidayCheck Group AG",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/holidaycheck-group-ag/senior-crm-automation-lifecycle-manager-all-genders-munchen-194692",
-      "description": "Start your very own journey – with HolidayCheck! At HolidayCheck, everything revolves around making vacations better – together. We’re not only enabling the best time of the year for our travelers, but also creating an inspiring work environment for our team in our modern offices",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787527758",
       "notified": false,
       "first_seen": "2026-08-24 00:50:53"
     }
