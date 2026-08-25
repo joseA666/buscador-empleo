@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-25T13:48:38+00:00",
+  "generated_at": "2026-08-25T14:17:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor de ventas desde casa/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-ventas-desde-casa-damos-pc-internet-bono-de-luz-gana-1800-a-mas-en-lima-D29E08035C64A64F61373E686DCF3405",
+      "description": "Asesor de ventas desde casa/ Damos PC+ internet +bono de luz /Gana 1800 a más - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 18 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 18 minutos",
+      "notified": false,
+      "first_seen": "2026-08-25 14:17:45"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Utility",
+      "company": "Continental Events",
+      "location": "Chittoor, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-utility-continental-events-1137119",
+      "description": "A Utility Team Member responsibilities include collecting used dishes, plates and utensils, loading dish washing machines and stacking washed items appropriately. In addition, collecting garbage, sweeping, mopping and upkeep of the overall cleanliness of the facility inside and o",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T03:56:58+00:00",
+      "notified": false,
+      "first_seen": "2026-08-25 14:17:45"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-23T20:33:37+00:00",
       "notified": true,
       "first_seen": "2026-08-23 22:23:44"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.300,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-asesor-de-atencion-al-cliente-turno-am-damos-pc-internet-bono-de-luz-sueldo-fijo-comisiones-en-lima-DC982DD092E3455E61373E686DCF3405",
-      "description": "Trabaja en Casa¡¡ Asesor de Atención al cliente / Turno AM / Damos PC + internet+ Bono de luz - Covisian Perú - Lima, Lima - S/. 1.300,00 (Mensual) - Publicado: Hace 3 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 3 minutos",
-      "notified": false,
-      "first_seen": "2026-08-23 22:04:38"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Strategist & Analytics Specialist",
-      "company": "Smxtech",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/smxtech/data-strategist-analytics-specialist-stuttgart-398292",
-      "description": "&lt;p&gt;SMX is seeking an experienced Data Strategist &amp;amp; Analytics Specialist to serve as the primary data authority for our organization&#39;s Theater/Tactical Mission Network (TMN) operations. This individual will be responsible for the full data lifecycle — from sourci",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787518514",
-      "notified": true,
-      "first_seen": "2026-08-23 21:51:44"
     }
   ]
 }
