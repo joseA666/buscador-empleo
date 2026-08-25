@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T19:58:34+00:00",
+  "generated_at": "2026-08-25T20:10:22+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente de garment dye",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103815/gerente-de-produccion-planta.aspx",
+      "description": "Gerente de garment dye - GRUPO ELCATEX - Cortés,Honduras - Expira en: 09/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 09/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-25 20:10:22"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "TOWA - the digital growth company",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/senior-consultant-search-ai-visibility-seo-geo-munchen-munich-186247",
-      "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen w",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787574632",
-      "notified": true,
-      "first_seen": "2026-08-24 12:47:28"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Consultant Search & AI Visibility (SEO/GEO) (m/w/d), Düsseldorf",
-      "company": "TOWA - the digital growth company",
-      "location": "Düsseldorf",
-      "url": "https://www.arbeitnow.com/jobs/companies/towa-the-digital-growth-company/senior-consultant-search-ai-visibility-seo-geo-dusseldorf-445565",
       "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” Stillstand? Nicht mit uns. Wir glauben: Alles ist BETA und genau darin liegt die Chance für Fortschritt. Darum hinterfragen w",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
