@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T00:11:33+00:00",
+  "generated_at": "2026-08-25T00:27:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Residential Technician",
+      "company": "The Abaco Club",
+      "location": "Marsh Harbour, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-residential-technician-the-abaco-club-1137096",
+      "description": "Celebrate Life, the Southworth Way The Company: Welcome to Southworth. We own and operate a growing portfolio of premier private communities, each offering inspired environments and locations. Our dedication to hospitality and endless activities for the entire family ensures our ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-24T00:24:16+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 00:27:57"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-22T16:47:06+00:00",
-      "notified": true,
-      "first_seen": "2026-08-22 20:52:49"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Hebrew Freelance Translator & Copy Editor (Product, Support & Marketing Content)",
-      "company": "Welo Global",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/149580-hebrew-freelance-translator-copy-editor-product-support-marketing-content",
-      "description": "About Welo Global Welo Global is a leader in multilingual AI, technology, and content solutions serving over 2,000 clients in 300 languages. The company combines globally scaled multilingual infrastructure, including a network of over 500,000 linguists and domain experts, with ad",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-22T16:45:11+00:00",
       "notified": true,
       "first_seen": "2026-08-22 20:52:49"
     }
