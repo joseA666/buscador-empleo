@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T05:58:58+00:00",
+  "generated_at": "2026-08-25T06:17:02+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "AUS Dr Martens Sales Assistant Expression of Interest",
+      "company": "Dr. Martens Australia / New Zealand",
+      "location": "Canberra, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-aus-dr-martens-sales-assistant-expression-of-interest-dr-martens-australia-new-zealand-1137113",
+      "description": "Established in 1901, Dr. Martens was recognized originally as a sturdy, durable work boot before being transformed in the 1960's, into an iconic fashion statement, synonymous with festival culture. The past six decades that have witnessed the brand's adoption by a diverse range o",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-21T10:33:35+00:00",
+      "notified": true,
+      "first_seen": "2026-08-25 06:17:02"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787461825",
-      "notified": true,
-      "first_seen": "2026-08-23 05:55:43"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Kundenservice | Spätschicht & Samstagsdienst (m/w/d)",
-      "company": "Wattfox",
-      "location": "Freiburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/werkstudent-kundenservice-spatschicht-samstagsdienst-freiburg-90203",
-      "description": "Gemeinsam großartig – werde Teil des Teams Als Werkstudent Kundenservice | Spätschicht &amp; Samstagsdienst (m/w/d) bei WattFox trägst du maßgeblich zu unserem Erfolg bei, indem du die Projekte unserer Kundschaft mit ihnen telefonisch so detailliert ausarbeitest, dass sie folgend",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787461822",
       "notified": true,
       "first_seen": "2026-08-23 05:55:43"
     }
