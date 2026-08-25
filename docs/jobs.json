@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T16:13:13+00:00",
+  "generated_at": "2026-08-25T16:29:22+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar contable (tgu)",
+      "company": "GRUPO OPSA",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1103704/auxiliar-contable.aspx",
+      "description": "Auxiliar contable (tgu) - GRUPO OPSA - Francisco Morazán,Honduras - Expira en: 09/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 09/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-25 16:29:21"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787538589",
       "notified": true,
       "first_seen": "2026-08-24 03:12:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent B2B Sales (Mensch*)",
-      "company": "Goodlife",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/goodlife/werkstudent-b2b-sales-mensch-hamburg-212793",
-      "description": "Warum Mensch*? Weil wir Diversität schätzen! Wir sehen Menschen mit ihren Stärken und bieten dazu passende Arbeitsplätze. Deine Herkunft, Hautfarbe, Religion, Sexualität oder Geschlecht sind dabei keine Auswahlkriterien. Sei du selbst und wachse mit uns. Welcome to the Goodlife! ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787538622",
-      "notified": false,
-      "first_seen": "2026-08-24 03:11:55"
     }
   ]
 }
