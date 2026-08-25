@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-25T22:25:14+00:00",
+  "generated_at": "2026-08-25T22:41:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabajo de Casa/ Asesor de Ventas /Fijo s/1220 + Comisiones + Planilla / Solo Lima",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabajo-de-casa-asesor-de-ventas-fijo-s1220-comisiones-planilla-solo-lima-brindamos-pc-internet-bono-de-luz-en-lima-794EF3A06C3DD23361373E686DCF3405",
+      "description": "Trabajo de Casa/ Asesor de Ventas /Fijo s/1220 + Comisiones + Planilla / Solo Lima - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 1 hora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 hora",
+      "notified": false,
+      "first_seen": "2026-08-25 22:41:27"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787581776",
-      "notified": false,
-      "first_seen": "2026-08-24 15:59:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Working Student - Event & Marketing (all genders)",
-      "company": "Impossible Founders",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/impossible-founders/working-student-event-marketing-all-genders-hamburg-414053",
-      "description": "Your mission You help create experiences that people remember. Working closely with our Event Manager, you support the planning and execution of our events – from Impossible Founders' own formats to our presence at conferences and trade fairs. You keep the operational details und",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787580599",
       "notified": false,
       "first_seen": "2026-08-24 15:59:25"
     }
