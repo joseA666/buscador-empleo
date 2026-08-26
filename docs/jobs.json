@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-26T06:46:59+00:00",
+  "generated_at": "2026-08-26T07:19:05+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Senior Backend Engineer Build AI Agents",
+      "company": "Salesforge",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-build-ai-agents-salesforge-1137114",
+      "description": "Remote - Most sales tools help you send emails. Weâre building something different.At Salesforge, weâre creating autonomous AI agents that can:Find the right prospectsGenerate highly personalized outreachRun conversationsAnd book meetingsAll without human invo... Please menti",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-25T07:00:03+00:00",
+      "notified": true,
+      "first_seen": "2026-08-26 07:19:05"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-24T19:40:28Z",
-      "notified": true,
-      "first_seen": "2026-08-24 19:58:48"
-    },
-    {
-      "source": "themuse",
-      "source_label": "The Muse",
-      "title": "Client Value Partner (CVP) - Oil & Gas Industry",
-      "company": "Celonis",
-      "location": "Flexible / Remote",
-      "url": "https://www.themuse.com/jobs/celonis/client-value-partner-cvp-oil-gas-industry",
-      "description": "Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI can actually understand, turning AI's operational blin",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-24T19:40:52Z",
       "notified": true,
       "first_seen": "2026-08-24 19:58:48"
     }
