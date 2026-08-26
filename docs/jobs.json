@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-26T05:43:32+00:00",
+  "generated_at": "2026-08-26T05:58:53+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Prozesstechniker (m/w/d)",
+      "company": "Osbra GmbH",
+      "location": "Bad Wörishofen",
+      "url": "https://www.arbeitnow.com/jobs/companies/osbra-gmbh/prozesstechniker-bad-worishofen-279329",
+      "description": "Wir sind ein mittelständisches, zukunftsorientiertes Familienunternehmen mit Sitz im Unterallgäu. Seit über 40 Jahren beliefern wir führende Automobilhersteller mit innovativen Kunststoffteilen für den Innen- und Außenbereich. Bei uns erwarten Sie langfristige Perspektiven und gu",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1787720434",
+      "notified": false,
+      "first_seen": "2026-08-26 05:58:52"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-24T16:27:12+00:00",
-      "notified": true,
-      "first_seen": "2026-08-24 19:58:13"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Marketing Operations and CRM Expert (Hubspot)",
-      "company": "Docplanner",
-      "location": "Italy",
-      "url": "https://jobicy.com/jobs/151459-marketing-operations-and-crm-expert-hubspot",
-      "description": "Company Description At Docplanner Group, we’re on a mission to help people live longer, healthier lives. As the world’s largest healthcare platform, each month, we connect 24 million patients with 280k doctors across 13 countries (through brands like ZnanyLekarz, Doctoralia, MioD",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-24T16:26:55+00:00",
       "notified": true,
       "first_seen": "2026-08-24 19:58:13"
     }
