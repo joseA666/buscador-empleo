@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-26T17:58:15+00:00",
+  "generated_at": "2026-08-26T18:41:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "DP OPERATOR",
+      "company": "Saipem",
+      "location": "Stavanger, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-dp-operator-saipem-1137148",
+      "description": "Saipem Drilling Norway is looking for a qualified and experienced DP Operator for our drilling rig Scarabeo 8. The minimum qualifications have to be as follows; Unlimited DPO Certificate issued by The Nautical Institute. Experience on DP vessels in an offshore environment is pref",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-20T15:33:25+00:00",
+      "notified": false,
+      "first_seen": "2026-08-26 18:41:40"
+    },
     {
       "source": "computrabajo_mx",
       "source_label": "Computrabajo México",
@@ -13982,20 +13996,6 @@
       "location": "Berlin",
       "url": "https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-mobile-platform-berlin-41899",
       "description": "&lt;h3&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;The Mobile Platform Squad is the backbone of SumUp&#39;s iOS engineering — we build and maintain the foundation that every iOS feature team relies on to ship fast, confidently, and at scale.&lt;/p&gt; &lt;",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787658921",
-      "notified": true,
-      "first_seen": "2026-08-25 12:47:35"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "iOS Engineer - Design System",
-      "company": "sumup",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/sumup/ios-engineer-design-system-berlin-166330",
-      "description": "&lt;p&gt;&lt;strong&gt;About the team:&lt;/strong&gt;&lt;/p&gt; &lt;p data-pm-slice=&quot;1 1 []&quot;&gt;As an iOS Engineer on the Design System team, you&#39;ll translate SumUp&#39;s design language into a reusable, easy-to-use library of UI components and experience patterns —",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787658921",
