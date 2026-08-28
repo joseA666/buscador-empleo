@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-28T23:33:54+00:00",
+  "generated_at": "2026-08-28T23:47:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Urgente¡¡ Ventas RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-urgente-ventas-re-mo-to-damos-pc-internet-bono-de-luz-gana-1800-a-mas-en-lima-51BDAEFDCF51208761373E686DCF3405",
+      "description": "Urgente¡¡ Ventas RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más - Confidencial - Lima, Lima - Remoto - Publicado: Hace 12 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 12 minutos",
+      "notified": false,
+      "first_seen": "2026-08-28 23:47:45"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787839816",
-      "notified": true,
-      "first_seen": "2026-08-27 16:56:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer - Data (All Genders)",
-      "company": "PREMATCH Sports GmbH",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/prematch-sports-gmbh/software-engineer-data-all-genders-koln-291105",
-      "description": "Hey! Imagine amateur football finally had the platform it deserves. Every weekend, millions of people write their own personal football stories – on pitches, in clubs and on the sidelines. We believe this passion deserves a digital home too. That's exactly what we're building eve",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787839808",
       "notified": true,
       "first_seen": "2026-08-27 16:56:58"
     }
