@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-08-28T23:07:08+00:00",
+  "generated_at": "2026-08-28T23:18:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Meat and Seafood Clerk",
+      "company": "Pete's Frootique",
+      "location": "Bedford, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-meat-and-seafood-clerk-petes-frootique-1137191",
+      "description": "Meat &amp; Seafood Clerk At Pete's Frootique &amp; Fine Foods, we're passionate about providing our customers with the freshest, highest-quality products and exceptional service. As a Meat &amp; Seafood Clerk, you'll play an important role in creating an outstanding shopping expe",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-27T23:13:30+00:00",
+      "notified": false,
+      "first_seen": "2026-08-28 23:18:48"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Receiver",
+      "company": "Pete's Frootique",
+      "location": "Bedford, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-receiver-petes-frootique-1137192",
+      "description": "Our Receiving team plays a vital role in keeping the store running smoothly. This fast-paced position is responsible for receiving, inspecting, and organizing incoming deliveries to ensure our departments are fully stocked with the freshest, highest-quality products. As a Receive",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-27T23:13:16+00:00",
+      "notified": false,
+      "first_seen": "2026-08-28 23:18:48"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Cdp",
+      "company": "Hilton Salwa Beach Resort &amp; Villas",
+      "location": "ÙØ³ÙØ·, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-cdp-hilton-salwa-beach-resort-amp-villas-1137179",
+      "description": "- Please mention the word **STRONGEST** and tag RMTMyLjE5Ni4zMS4xMzA= when applying to show you read the job post completely (#RMTMyLjE5Ni4zMS4xMzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they'",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-27T23:16:03+00:00",
+      "notified": false,
+      "first_seen": "2026-08-28 23:18:47"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13959,48 +14001,6 @@
       "posted_at": "1787839808",
       "notified": true,
       "first_seen": "2026-08-27 16:56:58"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Relationship Manager",
-      "company": "Enumerate",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/151807-relationship-manager",
-      "description": "Enumerate is hiring a Relationship Manager to serve as a trusted advisor and partner for our clients. This role is responsible for managing client requests and providing timely and results-based customer service. The Relationship Manager acts as a liaison between our clients and ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T10:05:43+00:00",
-      "notified": true,
-      "first_seen": "2026-08-27 16:56:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Manager/in Business Development & Projekte (m/w/d)",
-      "company": "QUANTEC Engineering GmbH",
-      "location": "Kempten",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantec-engineering-gmbh/manager-in-business-development-projekte-kempten-375777",
-      "description": "Rechte Hand der Geschäftsführung – Robotik-Projekte &#x26; Vertrieb Kempten (Allgäu) | Vollzeit | ab sofort Über Uns Die QUANTEC Engineering GmbH steht für anspruchsvolle Engineering-Lösungen im Bereich der industriellen Automatisierung und Robotik. Von der ersten Machbarkeitsbet",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787844649",
-      "notified": true,
-      "first_seen": "2026-08-27 16:56:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Flutter & Node.js Fullstack Engineer (f/m/d) - Fully Remote",
-      "company": "memodio",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/memodio/flutter-nodejs-fullstack-engineer-fully-remote-potsdam-193068",
-      "description": "memodio is a digital health application (DiGA) fighting forgetfulness and dementia 🧠 Our app is prescribed by doctors, fully reimbursed by German statutory health insurance, and recommended by leading medical associations. In a clinical trial with 140 participants, we showed that",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787844647",
-      "notified": true,
-      "first_seen": "2026-08-27 16:56:41"
     }
   ]
 }
