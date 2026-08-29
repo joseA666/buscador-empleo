@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T11:07:02+00:00",
+  "generated_at": "2026-08-29T11:18:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "åæ",
+      "company": "Stanley Black &amp; Decker, Inc.",
+      "location": "ä¸­å±±å¸, ",
+      "url": "https://remoteOK.com/remote-jobs/",
+      "description": "ä½ä¸ä¸­ We Donât Just Build The World, We Build Innovative Technology Too. Joining the Stanley Black &amp; Decker team means working in an innovative, tech-driven and highly collaborative team environment supported by over 43,500 professionals in 60 countries across the globe",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-28T11:06:57+00:00",
+      "notified": false,
+      "first_seen": "2026-08-29 11:18:43"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-27T00:00:23+00:00",
-      "notified": true,
-      "first_seen": "2026-08-28 02:21:19"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Oracle Fusion Cloud Lead â Logistics & Supply Chain Management",
-      "company": "Tessera Labs",
-      "location": "Remoto",
-      "url": "https://remoteOK.com/remote-jobs/remote-oracle-fusion-cloud-lead-logistics-supply-chain-management-tessera-labs-1137155",
-      "description": "Oracle Fusion Cloud Lead â Logistics &amp; Supply Chain Management Greenfield Oracle Fusion Implementation Company Tessera Labs AI Role Type Senior consulting engagement â full-time or contract, workstream-critical role Location Nearshore, based in Mexico or Brazil â remote",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T00:00:17+00:00",
       "notified": true,
       "first_seen": "2026-08-28 02:21:19"
     }
