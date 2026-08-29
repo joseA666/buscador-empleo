@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T04:35:49+00:00",
+  "generated_at": "2026-08-29T04:47:43+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-89D79BC47943127A61373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 3 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 3 minutos",
+      "notified": false,
+      "first_seen": "2026-08-29 04:47:43"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-27T16:18:02+00:00",
-      "notified": false,
-      "first_seen": "2026-08-27 20:25:52"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Lifecycle Marketing Automation Specialist",
-      "company": "PadSplit",
-      "location": "LATAM",
-      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
-      "description": "The Role We Need: We are seeking a Lifecycle Marketing Automation Specialist dedicated to supporting supply-side growth by building, optimizing, and scaling communication journeys for our Host community. In this role, you won't just monitor existing flow, you will actively design",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-27T16:14:53+00:00",
       "notified": false,
       "first_seen": "2026-08-27 20:25:52"
     }
