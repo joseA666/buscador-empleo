@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T12:30:45+00:00",
+  "generated_at": "2026-08-29T12:47:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Sales Manager",
+      "company": "Radisson Hotel Group",
+      "location": "Visakhapatnam Rural mandal, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-manager-radisson-hotel-group-1137200",
+      "description": "Radisson Hotel Group is one of the world's largest hotel groups with ten distinctive hotel brands, and more than 1,500 hotels in operation and under development in 95+ countries. The Groupâs overarching brand promise is Every Moment Matters with a signature Yes I Can! service e",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-28T12:44:40+00:00",
+      "notified": true,
+      "first_seen": "2026-08-29 12:47:50"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787871899",
-      "notified": true,
-      "first_seen": "2026-08-28 02:21:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Scientist",
-      "company": "Qwello.eu",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/qwelloeu/data-scientist-munich-bavaria-345572",
-      "description": "Our mission at Qwello is to revolutionize the charging industry, we are committed to turn the world from combustion to electric. We design, build and operate charging infrastructure for the public space. We excel in simplicity, user focus and engineering excellence. We value dive",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787871847",
       "notified": true,
       "first_seen": "2026-08-28 02:21:36"
     }
