@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T08:10:38+00:00",
+  "generated_at": "2026-08-29T08:27:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador full stack de datos azure con especialización .net",
+      "company": "Empresa confidencial",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-full-stack-de-datos-azure-con-especializacion-net-1886758883",
+      "description": "Desarrollador full stack de datos azure con especialización .net - Empresa confidencial - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-08-29 08:27:49"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-27T17:02:32+00:00",
-      "notified": false,
-      "first_seen": "2026-08-27 23:44:21"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior Payroll Administrator",
-      "company": "Lyra Health",
-      "location": "Mexico",
-      "url": "https://jobicy.com/jobs/151900-senior-payroll-administrator",
-      "description": "About Lyra Lyra Health is the leading provider of mental health solutions for employers supporting more than 20 million people globally. The company has delivered 13 million sessions of mental health care, published more than 20 peer-reviewed studies, and delivered unmatched outc",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-27T17:02:14+00:00",
       "notified": false,
       "first_seen": "2026-08-27 23:44:21"
     }
