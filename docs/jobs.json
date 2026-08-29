@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T03:25:49+00:00",
+  "generated_at": "2026-08-29T03:36:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Donât see your role Apply here",
+      "company": "Atreides",
+      "location": "Denmark, Denmark, Western Australia, Australia",
+      "url": "https://remoteOK.com/remote-jobs/remote-dont-see-your-role-apply-here-atreides-1137186",
+      "description": "Not seeing a position that matches your skillset? Kindly submit your resume to be considered for future opportunities. Company Overview: Atreides helps organizations transform large and complex multi-modal datasets into information-rich geospatial data subscriptions that can be u",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-28T03:27:51+00:00",
+      "notified": false,
+      "first_seen": "2026-08-29 03:36:13"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-08-27T16:08:15+00:00",
-      "notified": false,
-      "first_seen": "2026-08-27 20:25:52"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Ads Quality Rater - Bulgarian (Bulgaria)",
-      "company": "Welo Global",
-      "location": "Bulgaria",
-      "url": "https://jobicy.com/jobs/151863-ads-quality-rater-bulgarian-bulgaria",
-      "description": "Welo Data is an award-winning localization and data transformation company. We run one of the world’s largest Ads Rating Programs and we want you to join! As an Ads Quality Rater, you will review and grade internet advertisements to help shape how ads are delivered to the end use",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-27T16:06:45+00:00",
       "notified": false,
       "first_seen": "2026-08-27 20:25:52"
     }
