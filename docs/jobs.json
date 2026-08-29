@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T16:22:53+00:00",
+  "generated_at": "2026-08-29T16:33:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa(remoto) S/.565 y S/.1300 Asesor ventas internet Claro Lunes",
+      "company": "Confidencial",
+      "location": "Lima, Lima (S/. 565,00 (Mensual) + Comisiones)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casaremoto-s565-y-s1300-asesor-ventas-internet-claro-lunes-viernes-cs-experiencia-capacit-pagada-en-lima-F7336E84AF825E5661373E686DCF3405",
+      "description": "Trabaja desde casa(remoto) S/.565 y S/.1300 Asesor ventas internet Claro Lunes - Confidencial - Lima, Lima - S/. 565,00 (Mensual) + Comisiones - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-08-29 16:33:52"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787900440",
-      "notified": false,
-      "first_seen": "2026-08-28 08:00:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Google Performance & Analytics Manager (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/junior-google-performance-analytics-manager-stuttgart-331766",
-      "description": "In dieser Position bist du für die operative Umsetzung unseres Google-Marketings zuständig. Während die Strategie und das technische Setup vorgegeben werden, verantwortest du das fehlerfreie Einbuchen, die tägliche Pflege und das exakte Monitoring unserer Google-Ads-Kampagnen. Du",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787900437",
       "notified": false,
       "first_seen": "2026-08-28 08:00:22"
     }
