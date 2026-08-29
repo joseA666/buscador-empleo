@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T00:57:49+00:00",
+  "generated_at": "2026-08-29T01:16:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Desde casa venta de lineas fija/ingreso directo sin ojt/9am a 6pm",
+      "company": "Atento Perú",
+      "location": "Callao, Callao (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desde-casa-venta-de-lineas-fijaingreso-directo-sin-ojt9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-callao-EE85A9C81411088D61373E686DCF3405",
+      "description": "Desde casa venta de lineas fija/ingreso directo sin ojt/9am a 6pm - Atento Perú - Callao, Callao - Remoto - Publicado: Hace 16 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 16 minutos",
+      "notified": false,
+      "first_seen": "2026-08-29 01:16:44"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787837443",
-      "notified": true,
-      "first_seen": "2026-08-27 16:57:16"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Linux Software Engineer (m/f/d)",
-      "company": "Quantum-Systems GmbH",
-      "location": "Gilching",
-      "url": "https://www.arbeitnow.com/jobs/companies/quantum-systems-gmbh/linux-software-engineer-gilching-65714",
-      "description": "As Linux Software Engineer , you will be a key part of our System Architecture team to develop and maintain the Linux-based systems powering our unmanned aerial vehicles at Quantum-Systems. Together with our World-Class-Team, currently 3 team members, you will take an empowering ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787836816",
       "notified": true,
       "first_seen": "2026-08-27 16:57:16"
     }
