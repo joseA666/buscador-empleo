@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T23:07:26+00:00",
+  "generated_at": "2026-08-29T23:19:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "APPLY NOW Send Veritas your Resume DON'T CLOSE WEBSITE",
+      "company": "Elements Recruitment Australia",
+      "location": "Clayton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-apply-now-send-veritas-your-resume-dont-close-website-elements-recruitment-australia-1137201",
+      "description": "APPLY NOW - to send Veritas Recruitment your resume. Please refer to the Privacy Policy on our website. Accepting Candidates Please mention the word **FAULTLESS** and tag RMjAuNTEuMjA2Ljg0 when applying to show you read the job post completely (#RMjAuNTEuMjA2Ljg0). This is a beta",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-28T23:15:28+00:00",
+      "notified": false,
+      "first_seen": "2026-08-29 23:19:48"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787915420",
-      "notified": true,
-      "first_seen": "2026-08-28 12:02:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Product Manager/Consultant (f/m/ x)",
-      "company": "Thiga",
-      "location": "Hamburg, Munich, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/thiga/senior-product-manager-consultant-f-m-x-hamburg-munich-berlin-196503",
-      "description": "Thiga is a European consulting company &nbsp;whose aim is to make technology a force for differentiation and positive impact. We help businesses drive sustainable growth by embedding a product mindset at the heart of their operations. With a team of 250 specialists, we support to",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787915133",
       "notified": true,
       "first_seen": "2026-08-28 12:02:22"
     }
