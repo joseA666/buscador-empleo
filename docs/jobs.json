@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-29T18:48:06+00:00",
+  "generated_at": "2026-08-29T19:06:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Weather Analytics Internship Program",
+      "company": "engelhart",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/engelhart/weather-analytics-internship-program-berlin-245063",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Engelhart was founded in 2013 by BTG Pactual Group as a commodities trading company. Our business model is “asset light” and highly diversified – giving us the ability t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788026120",
+      "notified": true,
+      "first_seen": "2026-08-29 19:06:31"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Renewables Origination Analytics Internship Program",
+      "company": "engelhart",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/engelhart/renewables-origination-analytics-internship-program-berlin-224400",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Engelhart was founded in 2013 by BTG Pactual Group as a commodities trading company. Our business model is “asset light” and highly diversified – giving us the ability t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788026120",
+      "notified": true,
+      "first_seen": "2026-08-29 19:06:31"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Power Trading & Renewables Analytics Internship Program",
+      "company": "engelhart",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/engelhart/power-trading-renewables-analytics-internship-program-berlin-289341",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;&lt;strong&gt;About Us&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Engelhart was founded in 2013 by BTG Pactual Group as a commodities trading company. Our business model is “asset light” and highly diversified – giving us the ability t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788026120",
+      "notified": true,
+      "first_seen": "2026-08-29 19:06:31"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Construction Project Manager",
+      "company": "Elgin Energy",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/elgin-energy/senior-construction-project-manager-london-109871",
+      "description": "Elgin Values Core behavioural responsibilities for all employees Agility We Lead with Agility Integrity We Act with Integrity Excellence",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788027016",
+      "notified": true,
+      "first_seen": "2026-08-29 19:06:31"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13945,62 +14001,6 @@
       "posted_at": "",
       "notified": true,
       "first_seen": "2026-08-28 08:01:49"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Anywhere in the World",
-      "url": "https://remotejobs.org/remote-jobs/senior-react-full-stack-developer-lemonio-lemon-io-sen",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Euro",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T14:16:49+00:00",
-      "notified": true,
-      "first_seen": "2026-08-28 08:01:32"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Full Stack Product Engineer (TypeScript)",
-      "company": "Maze",
-      "location": "Canada,  Ireland,  Netherlands,  Portugal,  Spain,  UK",
-      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-product-engineer-typescript-maze",
-      "description": "About Maze Maze is the user research platform that helps companies build the right products faster by making user insights available at the speed of product development. In most companies, research demand far exceeds supply. Time, cost, and lack of access to expertise hold teams ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T10:31:55+00:00",
-      "notified": true,
-      "first_seen": "2026-08-28 08:01:32"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Backend Engineer - Platform - Stacks | Ireland | Remote",
-      "company": "Grafana Labs",
-      "location": "Germany,  Ireland,  Spain,  Sweden,  UK",
-      "url": "https://remotejobs.org/remote-jobs/backend-engineer-platform-stacks-ireland-remote-grafana-labs-151822",
-      "description": "Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interope",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T10:28:29+00:00",
-      "notified": true,
-      "first_seen": "2026-08-28 08:01:32"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Full Stack Software Engineer",
-      "company": "BetterHelp",
-      "location": "USA",
-      "url": "https://remotejobs.org/remote-jobs/full-stack-software-engineer-betterhelp",
-      "description": "Who are we and why should you join us? BetterHelp is on a mission to champion the well-being in all of us and make mental healthcare more accessible to everyone. Founded in 2013, we are now the world’s largest online therapy service, providing affordable and convenient therapy ac",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T10:20:31+00:00",
-      "notified": true,
-      "first_seen": "2026-08-28 08:01:32"
     }
   ]
 }
