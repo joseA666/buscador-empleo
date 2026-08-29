@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T17:33:49+00:00",
+  "generated_at": "2026-08-29T17:48:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo",
+      "source_label": "Computrabajo Honduras",
+      "title": "Analista programador",
+      "company": "Supermercados la Colonia",
+      "location": "Distrito Central, Francisco Morazán (20,000.00 $ (Mensual))",
+      "url": "https://hn.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-programador-tegucigalpa-en-distrito-central-A4B904D0AE5AFF5061373E686DCF3405",
+      "description": "Analista programador - Supermercados la Colonia - Distrito Central, Francisco Morazán - 20,000.00 $ (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": true,
+      "first_seen": "2026-08-29 17:48:13"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1787898634",
-      "notified": true,
-      "first_seen": "2026-08-28 08:00:40"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Engineering Manager (f/m/d)",
-      "company": "Moonfare",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/moonfare/engineering-manager-berlin-243211",
-      "description": "&lt;div class=&quot;job__description body&quot;&gt; &lt;p&gt;&lt;strong&gt;Join the team rewriting the rules in private markets.&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Moonfare delivers what few others can: the highly sought-after funds and hidden-gem investments that go beyond what m",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787896523",
       "notified": true,
       "first_seen": "2026-08-28 08:00:40"
     }
