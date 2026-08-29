@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T14:34:05+00:00",
+  "generated_at": "2026-08-29T14:48:01+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotive",
+      "source_label": "Remotive",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "LATAM, Europe, USA, Canada, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-react-full-stack-developer-2091101",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your senio",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-27T14:36:09",
+      "notified": true,
+      "first_seen": "2026-08-29 14:48:00"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1787894410",
-      "notified": false,
-      "first_seen": "2026-08-28 08:00:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technischer Senior Projektmanager (m/w/d)",
-      "company": "Vitagroup",
-      "location": "Mannheim, Remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/vitagroup/remote-technischer-senior-projektmanager-365889",
-      "description": "Dein Plus bei der vitagroup 30 Tage Urlaub Mobile Office Möglichkeit zum Arbeiten im europäischen Ausland Betriebliche Altersvorsorge Flexible Arbeitszeiten Auslandskrankenversicherung Wettbewerbsfähiges Gehalt, Sozialleistungen und einen leistungsabhängigen Bonus JobRad : Fahrra",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787893830",
       "notified": false,
       "first_seen": "2026-08-28 08:00:22"
     }
