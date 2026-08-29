@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-29T15:47:37+00:00",
+  "generated_at": "2026-08-29T16:08:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Talent Marketing Internship",
+      "company": "Andercore",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/andercore/talent-marketing-internship-berlin-217056",
+      "description": "About Andercore Andercore is the AI-native supplier of industrial materials for energy, infrastructure, and construction in wholesale and beyond. We trade with global suppliers and distribute to European customers on our own account. Our AI runs the full trade and distribution en",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788014414",
+      "notified": true,
+      "first_seen": "2026-08-29 16:08:32"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Revenue Operations Working Student",
+      "company": "trawa",
+      "location": "Berlin HQ",
+      "url": "https://www.arbeitnow.com/jobs/companies/trawa/revenue-operations-working-student-berlin-25036",
+      "description": "Revenue Operations – Working Student Festanstellung · Vollzeit · Berlin (HQ) Unsere Mission für dich Die Energiekosten in Europa sind doppelt so hoch wie in den USA und China. Gleichzeitig wird sich die Stromnachfrage bis 2050 voraussichtlich verdoppeln. Marktpreisvolatilität und",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788014411",
+      "notified": true,
+      "first_seen": "2026-08-29 16:08:32"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787900437",
-      "notified": false,
-      "first_seen": "2026-08-28 08:00:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Influencer Marketing Manager (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/influencer-marketing-manager-stuttgart-435351",
-      "description": "Als Amazon-Agentur wissen wir, wie Marktplätze funktionieren. Jetzt gehen wir den nächsten Schritt. In dieser neuen Schlüsselposition bist du nicht für ein paar Ads zuständig. Du bist der Architekt unseres TikTok-Cores. Du verbindest Performance Marketing, Creator-Strukturen und ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787898638",
-      "notified": false,
-      "first_seen": "2026-08-28 08:00:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerberater (m/w/d) in Bühlerzell, auf Wunsch mit Partnerperspektive, gesucht - mindestens 90.000€",
-      "company": "Taxtalente.de",
-      "location": "Bühlerzell",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxtalentede/steuerberater-in-buhlerzell-auf-wunsch-mit-partnerperspektive-gesucht-mindestens-90000eur-319934",
-      "description": "TaxTalente ist die Nr. 1 Job-Matching Plattform für Jobsuchende in der Steuerberatung. Sie suchen eine positive berufliche Veränderung? Sie möchten den nächsten Schritt in Ihrer Karriere gehen und streben möglicherweise sogar eine Partnerschaft in einer zukunftsorientierten Kanzl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787896962",
       "notified": false,
       "first_seen": "2026-08-28 08:00:22"
     }
