@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T11:47:34+00:00",
+  "generated_at": "2026-08-29T12:11:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Key Account Manager (m/w/d)",
+      "company": "HAIAR GmbH",
+      "location": "Münster",
+      "url": "https://www.arbeitnow.com/jobs/companies/haiar-gmbh/key-account-manager-munster-318174",
+      "description": "Als Key Account Manager*in verantwortest die Bestandskunden von CARvinci® in Autohäusern und Autohausgruppen — von der Vertragsverlängerung bis zum Ausbau des Accounts. Du bist die zentrale Ansprechperson für unsere Kunden – von der Einführung über die laufende Betreuung bis zur ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788001230",
+      "notified": false,
+      "first_seen": "2026-08-29 12:11:30"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13987,20 +14001,6 @@
       "posted_at": "1787878528",
       "notified": true,
       "first_seen": "2026-08-28 02:21:36"
-    },
-    {
-      "source": "computrabajo_mx",
-      "source_label": "Computrabajo México",
-      "title": "Desarrollador .net",
-      "company": "Coatí",
-      "location": "Mérida, Yucatán ($ 20,000.00 (Mensual))",
-      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-net-fullstack-con-javascript-remoto-en-merida-2C828CCA16BFC81C61373E686DCF3405",
-      "description": "Desarrollador .net - Coatí - Mérida, Yucatán - $ 20,000.00 (Mensual) - Publicado: Hace 1 hora",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "es",
-      "posted_at": "Hace 1 hora",
-      "notified": true,
-      "first_seen": "2026-08-28 02:21:19"
     }
   ]
 }
