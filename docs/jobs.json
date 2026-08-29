@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-29T11:18:44+00:00",
+  "generated_at": "2026-08-29T11:33:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "handyman woman",
+      "company": "Royal Lepage Icon Realty",
+      "location": "Prince Albert, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-handyman-woman-royal-lepage-icon-realty-1137196",
+      "description": "Overview Languages English Education No degree, certificate or diploma Experience Experience an asset On site Work must be completed at the physical location. There is no option to work remotely. Benefits Health benefits Dental plan Health care plan Vision care benefits Financial",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-28T11:29:44+00:00",
+      "notified": false,
+      "first_seen": "2026-08-29 11:33:42"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "es",
       "posted_at": "Hace 1 hora",
-      "notified": true,
-      "first_seen": "2026-08-28 02:21:19"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "Senior Level Designer",
-      "company": "Blackbird Interactive",
-      "location": "Vancouver, BC, Canada",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-level-designer-blackbird-interactive-1137156",
-      "description": "Blackbird Interactive is a creative-fueled, future-driven, independent game studio where the best talent in the industry can find long-term careers to help grow their abilities while working on a wide range of projects, which encompass world-class IPs as well as our own creations",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-27T00:00:23+00:00",
       "notified": true,
       "first_seen": "2026-08-28 02:21:19"
     }
