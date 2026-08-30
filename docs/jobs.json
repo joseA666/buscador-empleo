@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-30T12:47:55+00:00",
+  "generated_at": "2026-08-30T13:07:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Embedded Software Engineer (m/f/d)",
+      "company": "isaraerospace",
+      "location": "Ottobrunn, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/isaraerospace/embedded-software-engineer-ottobrunn-bavaria-269119",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span lang=&quot;EN-US&quot;&gt;Mission Brief&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span class=&quot;TextRun SCXW114497174 BCX8&quot; lang=&quot;EN-US&quot; data-contrast=&quot;auto&quot;&gt;&lt;span class=&quot;NormalTextRun Comme",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788090916",
+      "notified": true,
+      "first_seen": "2026-08-30 13:07:33"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Servicekräfte / Eventlogistik / Eventpersonal (m/w/d) ab 17 €/Std.",
+      "company": "Prestige Service GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/prestige-service-gmbh/servicekrafte-eventlogistik-eventpersonal-ab-17-eur-std-berlin-413820",
+      "description": "Du hast Spaß daran, mit Menschen zu arbeiten und möchtest neben Schule, Studium oder Ausbildung flexibel in der Gastronomie und bei Events arbeiten? Dann könnte Prestige Service zu dir passen. Wir unterstützen Veranstaltungen und Eventlocations in Berlin mit unserem Team. Dabei i",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788091234",
+      "notified": false,
+      "first_seen": "2026-08-30 13:07:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787928907",
-      "notified": true,
-      "first_seen": "2026-08-28 16:23:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Operations Lead, Agents",
-      "company": "Superhuman",
-      "location": "Hub - Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/superhuman/business-operations-lead-agents-berlin-157108",
-      "description": "Superhuman offers a dynamic hybrid working model for this role. This flexible approach gives team members the best of both worlds: plenty of focus time along with in-person collaboration that helps foster trust, innovation, and a strong team culture. About Superhuman Grammarly is",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787928028",
-      "notified": true,
-      "first_seen": "2026-08-28 16:23:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-      "company": "Perk",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-berlin-489717",
-      "description": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eli",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787928017",
       "notified": true,
       "first_seen": "2026-08-28 16:23:44"
     }
