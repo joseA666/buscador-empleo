@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-30T18:35:51+00:00",
+  "generated_at": "2026-08-30T18:47:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-turno-manana-trabajo-remoto-call-center-damos-pc-internet-bono-de-luz-comisiones-ilimitadas-todos-los-beneficios-de-ley-en-lima-618D83570D867A9061373E686DCF3405",
+      "description": "Turno Mañana / Trabajo Remoto / Call Center / Damos PC + internet + Bono de Luz - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 36 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 36 minutos",
+      "notified": false,
+      "first_seen": "2026-08-30 18:47:32"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787916017",
-      "notified": true,
-      "first_seen": "2026-08-28 16:24:35"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Product Data Analyst - Consumer Growth",
-      "company": "SumUp",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sumup/senior-product-data-analyst-consumer-growth-london-167800",
-      "description": "About the team SumUp is best known for helping small businesses get paid — our Consumer tribe builds the other half of that story. We make SumUp Consumer, the wallet app that lets everyday consumers pay SumUp merchants with a tap, send money to friends, track their spending and e",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787928322",
       "notified": true,
       "first_seen": "2026-08-28 16:24:35"
     }
