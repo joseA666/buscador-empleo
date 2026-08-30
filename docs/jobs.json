@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-30T15:47:51+00:00",
+  "generated_at": "2026-08-30T16:08:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Tensor AI Scientist",
+      "company": "Terraquantum",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/terraquantum/senior-tensor-ai-scientist-288861",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/XN94Hg4.png&quot; alt=&quot;&quot; width=&quot;900&quot; style=&quot;max-width: 100%;&quot;&gt;&lt;/p&gt; &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;&lt;h2&gt;Job Description&lt;/h2&gt; &lt;p&",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788101703",
+      "notified": true,
+      "first_seen": "2026-08-30 16:08:23"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Praktikant*in Brand & Product Marketing (m/w/d)",
+      "company": "Amperecloud GmbH",
+      "location": "Berlin , Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/amperecloud-gmbh/praktikantin-brand-product-marketing-berlin-358813",
+      "description": "Das Betriebssystem für die erneuerbaren Energien zu entwickeln, um nahtlose und effiziente Workflows zu gewährleisten, das ist unsere Mission. Unsere Mission ist systemrelevant. Sie maximiert die Performance der Erneuerbaren und somit deren Wirtschaftlichkeit. Unser großes Ziel d",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788100202",
+      "notified": true,
+      "first_seen": "2026-08-30 16:08:23"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787927434",
-      "notified": true,
-      "first_seen": "2026-08-28 16:24:01"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "HR Administrator (m/w/d)",
-      "company": "Elevion Energy & Engineering Solutions GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/elevion-energy-engineering-solutions-gmbh/hr-administrator-berlin-445402",
-      "description": "Aufgaben In unserem zentralen HR-Admin-Team betreust Du die Personalprozesse mehrerer Tochtergesellschaften – von der Stammdatenpflege bis zur vorbereitenden Lohn- und Gehaltsabrechnung: Du übernimmst nach der Einarbeitung eigenständig die Personaladministration Deiner Betreuungs",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1787927431",
-      "notified": true,
-      "first_seen": "2026-08-28 16:24:01"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Founding Product Manager",
-      "company": "TechBiz Global GmbH",
-      "location": "Berlin, Berlin, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/techbiz-global-gmbh/founding-product-manager-berlin-495450",
-      "description": "At TechBiz Global, we are providing recruitment service to our TOP clients from our portfolio. We are currently seeking a Founding Product Manager to join one of our clients ' team. If you're looking for an exciting opportunity to grow in a innovative environment, this could be t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787927426",
       "notified": true,
       "first_seen": "2026-08-28 16:24:01"
     }
