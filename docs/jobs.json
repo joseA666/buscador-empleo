@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-30T19:47:43+00:00",
+  "generated_at": "2026-08-30T20:07:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Software Engineer (Go)",
+      "company": "Form3",
+      "location": "",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/form3/senior-software-engineer-go-498325",
+      "description": "&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;THE ROLE&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;📝&amp;nbsp;&lt;/span&gt;&lt;span data-ccp-props=&quot;{&amp;quot;335559738&amp;quot;:240,&amp;quot;335559739&amp;quot;:240}&q",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788116111",
+      "notified": true,
+      "first_seen": "2026-08-30 20:07:52"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13982,20 +13996,6 @@
       "location": "",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-statistician-permanent-role-remote-in-uk-304426",
       "description": "&lt;p&gt;&lt;/p&gt; &lt;p style=&quot;line-height: 1;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt; &lt;p style=&quot;line-height: 1.2;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, h",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787932504",
-      "notified": false,
-      "first_seen": "2026-08-28 20:23:55"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Statistical Programmer/Analyst Consultant--(Oncology) -Remote (Outside IR35)",
-      "company": "Clinchoice",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/clinchoice/senior-statistical-programmer-analyst-consultant-oncology-remote-outside-ir35-50106",
-      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p style=&quot;line-height: 1;&quot;&gt;&lt;span style=&quot;font-family: tahoma, arial, helvetica, sans-serif; font-size: 12pt;&quot;&gt;Are you interested in working directly for a single sponsor while having the security and additional career o",
       "reason": "",
       "language": "en",
       "posted_at": "1787932504",
