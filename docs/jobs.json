@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-30T16:48:01+00:00",
+  "generated_at": "2026-08-30T17:07:03+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Data Engineer - Real time analytics",
+      "company": "Aircall",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/senior-data-engineer-real-time-analytics-london-office-439696",
+      "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seam",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788102312",
+      "notified": true,
+      "first_seen": "2026-08-30 17:07:03"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Managing Director North / UKI",
+      "company": "Aircall",
+      "location": "London Office",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/aircall/managing-director-north-uki-london-office-389629",
+      "description": "Aircall is a unicorn, AI-powered customer communications platform used by 22,000+ companies worldwide to drive revenue, resolve issues faster, and scale customer-facing teams. We’re redefining customer communications by bringing voice, SMS, WhatsApp, and AI together into one seam",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788102312",
+      "notified": true,
+      "first_seen": "2026-08-30 17:07:03"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1787916610",
       "notified": true,
       "first_seen": "2026-08-28 16:24:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Management Director for Industry- F/M/D",
-      "company": "Mendix",
-      "location": "Berlin | Cologne | Frankfurt | Hamburg | Hannover | Leipzig | Munich | Nuremberg | Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/mendix/product-management-director-for-industry-berlin-cologne-frankfurt-hamburg-hannover-leipzig-munich-nuremberg-stuttgart-29131",
-      "description": "About Us Mendix, a Siemens company, is the top tier low-code application development platform. The Mendix Platform uses visual modeling to abstract long-form coding out of application development. Our customers use Mendix to build and deploy better software for the enterprise, fa",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787916273",
-      "notified": true,
-      "first_seen": "2026-08-28 16:24:18"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Ops Intern - People & Culture (f/m/x)",
-      "company": "4screen",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/4screen/business-ops-intern-people-culture-munich-69319",
-      "description": "Become a part of the 4screen team! As a Business Ops Intern – People &#x26; Culture at 4screen, you will support our team across the full employee lifecycle – from recruiting and onboarding to offboarding and beyond. You'll help optimize P&#x26;C processes, support P&#x26;C admin",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787927434",
-      "notified": true,
-      "first_seen": "2026-08-28 16:24:01"
     }
   ]
 }
