@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-30T22:47:39+00:00",
+  "generated_at": "2026-08-30T23:07:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Frontend Engineer (React / TypeScript)",
+      "company": "Persohap GmbH",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/persohap-gmbh/frontend-engineer-react-typescript-berlin-126910",
+      "description": "Persohap ist eine KI-Plattform für Recruiting, Onboarding und Weiterbildung. Bewerbungs- gespräche, Lernpfade und Feedbackzyklen laufen bei uns über sprechende Avatare — und alles, was Nutzerinnen und Nutzer davon sehen, baust du. Du arbeitest an einem React-Frontend, das täglich",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788129029",
+      "notified": true,
+      "first_seen": "2026-08-30 23:07:17"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13981,20 +13995,6 @@
       "company": "Addepar1",
       "location": "Edinburgh",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/staff-backend-software-engineer-edinburgh-382848",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787932569",
-      "notified": true,
-      "first_seen": "2026-08-28 20:25:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sr. Product Designer - Data Management",
-      "company": "Addepar1",
-      "location": "Remote",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/remote-sr-product-designer-data-management-20132",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
