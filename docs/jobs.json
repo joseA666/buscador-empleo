@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T19:07:14+00:00",
+  "generated_at": "2026-08-31T19:19:44+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador Backend Senior",
+      "company": "addiuva",
+      "location": "Miguel Hidalgo, Ciudad de México DF ($ 40,000.00 (Mensual))",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-backend-senior-en-miguel-hidalgo-D56E95FF4DE701F561373E686DCF3405",
+      "description": "Desarrollador Backend Senior - addiuva - Miguel Hidalgo, Ciudad de México DF - $ 40,000.00 (Mensual) - Publicado: Ahora",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": true,
+      "first_seen": "2026-08-31 19:19:44"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/ottonova/werkstudent-office-people-management-munchen-299018",
       "description": "DEIN TEAM ottonova ist eine digitale private Krankenversicherung - innovativ, zeitgemäß und anders. An unseren Standorten München und Köln entwickeln wir zukunftsweisende Lösungen für die Digitalisierung der Versicherungsbranche. Unser Ziel ist klar: Eine Versicherung sein, bei d",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788001799",
-      "notified": false,
-      "first_seen": "2026-08-29 13:06:57"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent – Compliance Management (m/w/d)",
-      "company": "Ottonova",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ottonova/werkstudent-compliance-management-munchen-301270",
-      "description": "DEIN TEAM Compliance ist für uns mehr als die Einhaltung gesetzlicher Vorgaben. Sie schafft Vertrauen – bei unseren Versicherten, Partnern und Mitarbeitenden. Unser Compliance -Team, Teil des Legal-Bereichs, ist klein, agil und gewährleistet die Einhaltung von Gesetzen und Richtl",
       "reason": "",
       "language": "other",
       "posted_at": "1788001799",
