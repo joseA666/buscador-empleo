@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T03:50:36+00:00",
+  "generated_at": "2026-08-31T04:11:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Enterprise Account Executive, Advertising Technology Solutions",
+      "company": "mirakl",
+      "location": "München, Bavaria",
+      "url": "https://www.arbeitnow.com/jobs/companies/mirakl/enterprise-account-executive-advertising-technology-solutions-munchen-bavaria-203509",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;About Mirakl:&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Founded in 2012, Mirakl has been at the forefront of marketplace innovation, empowering every business to compete in the platform economy.&lt;br&gt;&lt;br&gt;Today, M",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1788144930",
+      "notified": false,
+      "first_seen": "2026-08-31 04:11:20"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13981,20 +13995,6 @@
       "company": "Lightspeedhq",
       "location": "Remote in Germany",
       "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/remote-technical-support-specialist-hospitality-german-speaking-all-genders-263832",
-      "description": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place. Lightspeed is looking for a Technical Specialist, Strategic Accounts in Berlin. You will be mostly focused on K-Series, repo",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787949617",
-      "notified": false,
-      "first_seen": "2026-08-28 22:02:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technical Support Specialist (Hospitality) German speaking- all genders",
-      "company": "Lightspeedhq",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/technical-support-specialist-hospitality-german-speaking-all-genders-frankfurt-79268",
       "description": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place. Lightspeed is looking for a Technical Specialist, Strategic Accounts in Berlin. You will be mostly focused on K-Series, repo",
       "reason": "",
       "language": "en",
