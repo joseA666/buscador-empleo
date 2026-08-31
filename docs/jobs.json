@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T15:35:26+00:00",
+  "generated_at": "2026-08-31T15:47:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Especialista de capacitacion (san pedro sula)",
+      "company": "CLARO",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105136/ingeniero-electrico.aspx",
+      "description": "Especialista de capacitacion (san pedro sula) - CLARO - Cortés,Honduras - Expira en: 15/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 15/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-31 15:47:51"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-29T02:04:43+00:00",
-      "notified": true,
-      "first_seen": "2026-08-29 06:52:09"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Product Engineer - AI Investing",
-      "company": "Bjak",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/product-engineer-ai-investing-bjak-himalayas.app-companies-bjak-jobs-product-engineer-ai-investing",
-      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-29T02:04:27+00:00",
       "notified": true,
       "first_seen": "2026-08-29 06:52:09"
     }
