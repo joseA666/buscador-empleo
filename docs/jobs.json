@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T16:10:04+00:00",
+  "generated_at": "2026-08-31T16:26:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Professional PAT Tester",
+      "company": "Guardian Electrical Compliance Ltd",
+      "location": "Oxford, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-professional-pat-tester-guardian-electrical-compliance-ltd-1137235",
+      "description": "PAT Tester Required - Oxford / Milton Keynes Area Guardian Electrical Compliance is looking for a high-calibre PAT Tester to join our growing team covering the Oxford and Milton Keynes area. Requirements â¢City &amp; Guilds 2377 qualification (essential) â¢Full, clean UK drivin",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-30T16:19:19+00:00",
+      "notified": true,
+      "first_seen": "2026-08-31 16:26:20"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Init Ag",
       "location": "Hamburg",
       "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-hamburg-427102",
-      "description": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.400 ]init[s in interd",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787992209",
-      "notified": false,
-      "first_seen": "2026-08-29 10:08:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Consultant Public Sector (all genders)",
-      "company": "Init Ag",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-berlin-117317",
       "description": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.400 ]init[s in interd",
       "reason": "",
       "language": "other",
