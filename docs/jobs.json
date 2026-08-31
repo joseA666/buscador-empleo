@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T03:32:06+00:00",
+  "generated_at": "2026-08-31T03:50:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "MOT Tester",
+      "company": "Mr Clutch Autocentres",
+      "location": "Oxford, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-mot-tester-mr-clutch-autocentres-1137218",
+      "description": "We have a fabulous opportunity for an experienced MOT Tester to join our friendly team. We offer a competitive salary with an outstanding bonus scheme, ongoing training and the opportunity to progress within the company for the right candidate. Current employee quotes: 1. \"Such a",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-30T03:32:53+00:00",
+      "notified": false,
+      "first_seen": "2026-08-31 03:50:35"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13981,20 +13995,6 @@
       "company": "Lightspeedhq",
       "location": "Frankfurt",
       "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/technical-support-specialist-hospitality-german-speaking-all-genders-frankfurt-79268",
-      "description": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place. Lightspeed is looking for a Technical Specialist, Strategic Accounts in Berlin. You will be mostly focused on K-Series, repo",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787949617",
-      "notified": false,
-      "first_seen": "2026-08-28 22:02:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Technical Support Specialist (Hospitality) German speaking- all genders",
-      "company": "Lightspeedhq",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/lightspeedhq/technical-support-specialist-hospitality-german-speaking-all-genders-cologne-429389",
       "description": "Hi there! Thanks for stopping by 👋 Are you actively looking for a new opportunity? Or just checking the market? Well… you might just be in the right place. Lightspeed is looking for a Technical Specialist, Strategic Accounts in Berlin. You will be mostly focused on K-Series, repo",
       "reason": "",
       "language": "en",
