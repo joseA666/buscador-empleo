@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T20:34:38+00:00",
+  "generated_at": "2026-08-31T20:47:41+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "¡Home Office! / Brindamos PC + Sueldo fijo + internet + Bono de Luz!! Turno AM!",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-home-office-brindamos-pc-sueldo-fijo-internet-bono-de-luz-turno-am-comisiones-sin-tope-en-lima-0E8AE634A468EDB161373E686DCF3405",
+      "description": "¡Home Office! / Brindamos PC + Sueldo fijo + internet + Bono de Luz!! Turno AM! - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "other",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-08-31 20:47:41"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788002975",
-      "notified": true,
-      "first_seen": "2026-08-29 13:07:31"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Brand Protection Specialist (SEO)",
-      "company": "Jobgether",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/jobgether/brand-protection-specialist-seo-germany-41628",
-      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Brand Protection Specialist (SEO) based in Germany. This is an opportunity to play a key role in protecting a global digital brand and its intellectua",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788002695",
       "notified": true,
       "first_seen": "2026-08-29 13:07:31"
     }
