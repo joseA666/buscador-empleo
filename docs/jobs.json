@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T01:58:01+00:00",
+  "generated_at": "2026-08-31T02:29:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa! / Atención al cliente Fidelización /Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-fidelizacion-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-D75349DA7B91E7BD61373E686DCF3405",
+      "description": "Trabaja desde casa! / Atención al cliente Fidelización /Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 30 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 30 minutos",
+      "notified": false,
+      "first_seen": "2026-08-31 02:29:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787932563",
-      "notified": true,
-      "first_seen": "2026-08-28 20:25:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Mid Market Account Executive - EMEA",
-      "company": "Launchdarkly",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/launchdarkly/mid-market-account-executive-emea-london-473487",
-      "description": "&lt;h4&gt;&lt;strong&gt;About the Job:&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;We’re looking for a strategic, customer-focused sales professional to help expand our Mid-Market Account Executive team at LaunchDarkly. In this role, you&#39;ll own the sales cycle - partnering with sales ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787932526",
       "notified": true,
       "first_seen": "2026-08-28 20:25:21"
     }
