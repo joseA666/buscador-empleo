@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-08-31T16:35:50+00:00",
+  "generated_at": "2026-08-31T16:48:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo",
+      "source_label": "Computrabajo Honduras",
+      "title": "Ingeniero de Desarrollo Full Stack",
+      "company": "VSR Honduras",
+      "location": "Distrito Central, Francisco Morazán (Presencial y remoto)",
+      "url": "https://hn.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingeniero-de-desarrollo-full-stack-ingeniero-de-desarrollo-full-stack-en-distrito-central-5013A417B3A2E13261373E686DCF3405",
+      "description": "Ingeniero de Desarrollo Full Stack - VSR Honduras - Distrito Central, Francisco Morazán - Presencial y remoto - Publicado: Hace 8 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": true,
+      "first_seen": "2026-08-31 16:48:15"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de programación",
+      "company": "Super Farmacia Simán",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105166/analista-programador.aspx",
+      "description": "Supervisor de programación - Super Farmacia Simán - Cortés,Honduras - Expira en: 15/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 15/10/2026",
+      "notified": false,
+      "first_seen": "2026-08-31 16:47:57"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1787992210",
-      "notified": false,
-      "first_seen": "2026-08-29 10:08:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Sales Manager - Infrastruktur & Services (all genders)",
-      "company": "Init Ag",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/senior-sales-manager-infrastruktur-services-all-genders-hamburg-209000",
-      "description": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.400 ]init[s in interd",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787992210",
-      "notified": false,
-      "first_seen": "2026-08-29 10:08:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Consultant Public Sector (all genders)",
-      "company": "Init Ag",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/init-ag/consultant-public-sector-all-genders-hamburg-427102",
-      "description": "Über ]init[ Du möchtest die Gesellschaft von morgen mitgestalten? Dann bist du bei ]init[ richtig. Denn unsere digitalen Lösungen sind für Menschen gemacht und haben gesellschaftliche Relevanz. Klingt spannend? Dann steig ein und arbeite gemeinsam mit über 1.400 ]init[s in interd",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787992209",
       "notified": false,
       "first_seen": "2026-08-29 10:08:13"
     }
