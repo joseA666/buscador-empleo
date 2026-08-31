@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T12:53:54+00:00",
+  "generated_at": "2026-08-31T13:09:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Gestion remoto desde casa/ lunes a sabado de 9am a 6pm",
+      "company": "Atento Perú",
+      "location": "Junin, Junin (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gestion-remoto-desde-casa-lunes-a-sabado-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-junin-C99A9B55DC55173161373E686DCF3405",
+      "description": "Gestion remoto desde casa/ lunes a sabado de 9am a 6pm - Atento Perú - Junin, Junin - Remoto - Publicado: Hace 1 minuto",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 minuto",
+      "notified": false,
+      "first_seen": "2026-08-31 13:09:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "FTAPI GmbH",
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/senior-sales-strategy-operations-managerin-munchen-145563",
-      "description": "Deine Aufgaben Du bist das Gesicht von RevOps im Go-to-Market. Gemeinsam mit den Verantwortlichen aus unseren Neu- und Bestandskunden-Segmenten führst du FTAPI auf die nächste Wachstumsstufe. Die gesamte Journey liegt bewusst in einer Hand, deiner. So greifen Erkenntnisse aus Akq",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787981421",
-      "notified": true,
-      "first_seen": "2026-08-29 06:51:00"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Field Operations Manager*in (w/m/d)",
-      "company": "FTAPI GmbH",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/ftapi-gmbh/senior-field-operations-managerin-munchen-177210",
       "description": "Deine Aufgaben Du bist das Gesicht von RevOps im Go-to-Market. Gemeinsam mit den Verantwortlichen aus unseren Neu- und Bestandskunden-Segmenten führst du FTAPI auf die nächste Wachstumsstufe. Die gesamte Journey liegt bewusst in einer Hand, deiner. So greifen Erkenntnisse aus Akq",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
