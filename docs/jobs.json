@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T15:09:26+00:00",
+  "generated_at": "2026-08-31T15:25:15+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Ejecutivo / Agente de Ventas B2B Software",
+      "company": "Evox Lab",
+      "location": "Miraflores, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-agente-de-ventas-b2b-software-remoto-en-miraflores-AD3FFC928FD643AA61373E686DCF3405",
+      "description": "Ejecutivo / Agente de Ventas B2B Software - Evox Lab - Miraflores, Lima - Remoto - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-08-31 15:25:14"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-29T02:04:27+00:00",
-      "notified": true,
-      "first_seen": "2026-08-29 06:52:09"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Staff Software Engineer",
-      "company": "Bjak",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-bjak-himalayas.app-companies-bjak-jobs-staff-software-engineer",
-      "description": "The Role BJAK builds technology products used by millions of users across Southeast Asia. As our products and systems scale, we need technical leaders who can solve difficult engineering problems and raise the engineering bar around them. The Staff Software Engineer owns technica",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-29T02:04:23+00:00",
       "notified": true,
       "first_seen": "2026-08-29 06:52:09"
     }
