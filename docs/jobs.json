@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-08-31T02:45:37+00:00",
+  "generated_at": "2026-08-31T03:11:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent oder Praktikant Human Resources (m/w/d)",
+      "company": "Plutos",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/plutos/werkstudent-oder-praktikant-human-resources-frankfurt-412125",
+      "description": "Ihre Aufgaben Unterstützung des HR-Teams im operativen Tagesgeschäft Mitarbeit im Recruiting von der Stellenausschreibung bis zur Bewerberkommunikation Unterstützung beim Onboarding neuer Mitarbeitender Pflege von Personalstammdaten und Personalakten Erstellung von Bescheinigunge",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788142178",
+      "notified": true,
+      "first_seen": "2026-08-31 03:11:50"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Minijob Master Data (m/w/d) Bearbeitung von Stammdatenänderungen (Befristet bis zum 31.12.26)",
+      "company": "Culligan",
+      "location": "Hamburg",
+      "url": "https://www.arbeitnow.com/jobs/companies/culligan/minijob-master-data-bearbeitung-von-stammdatenanderungen-befristet-bis-zum-311226-hamburg-84673",
+      "description": "Deine Benefits Passion Eine bedeutungsvolle und spannende Beschäftigung in einem internationalen, dynamischen und erfolgreichen Unternehmensumfeld Vertrauen <span style=\"border:0px solid;margin:0px;font-size:14px;font-style:normal;font-weight:400;text-transform:none;color:rgb(32,",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788142170",
+      "notified": true,
+      "first_seen": "2026-08-31 03:11:50"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Werkstudent oder Praktikant Human Resources (m/w/d)",
+      "company": "Plutos",
+      "location": "Frankfurt",
+      "url": "https://www.arbeitnow.com/jobs/companies/plutos/werkstudent-oder-praktikant-human-resources-frankfurt-47225",
+      "description": "Ihre Aufgaben Unterstützung des HR-Teams im operativen Tagesgeschäft Mitarbeit im Recruiting von der Stellenausschreibung bis zur Bewerberkommunikation Unterstützung beim Onboarding neuer Mitarbeitender Pflege von Personalstammdaten und Personalakten Erstellung von Bescheinigunge",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1788142178",
+      "notified": false,
+      "first_seen": "2026-08-31 03:11:33"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Informationssicherheitsbeauftragter (ISB) (m/w/d) | Kritische Infrastruktur | Ruhrgebiet",
+      "company": "Valpeo.com",
+      "location": "Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/valpeocom/informationssicherheitsbeauftragter-isb-kritische-infrastruktur-ruhrgebiet-germany-49176",
+      "description": "DAS UNTERNEHMEN Unser Mandant ist eine etablierte Organisation der kritischen Infrastruktur im Ruhrgebiet. Das Unternehmen steht für hohe Versorgungsrelevanz, komplexe Betriebsstrukturen und einen starken gesellschaftlichen Auftrag. Mehrere tausend Mitarbeitende tragen täglich zu",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788141887",
+      "notified": false,
+      "first_seen": "2026-08-31 03:11:33"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13945,62 +14001,6 @@
       "posted_at": "1787947498",
       "notified": false,
       "first_seen": "2026-08-28 22:02:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Legal Counsel (m/w/d)",
-      "company": "Octopus Energy Group",
-      "location": "München (DE)",
-      "url": "https://www.arbeitnow.com/jobs/companies/octopus-energy-group/senior-legal-counsel-munchen-de-327254",
-      "description": "Wir sind nicht der lokale Stromanbieter um die Ecke. Wir sind das globale EnerTech-Unternehmen , das den Energiemarkt revolutionieren wird. Wir haben kein geringeres Ziel, als die global benötigte Energie 100% nachhaltig zu gestalten. Global, agil und zukunftsorientiert verändern",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1787947498",
-      "notified": false,
-      "first_seen": "2026-08-28 22:02:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Manager, Homepage",
-      "company": "Wolt - English",
-      "location": "London, England, United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/wolt-english/product-manager-homepage-london-52373",
-      "description": "About Wolt At Wolt, we create technology that brings joy, simplicity and earnings to the neighborhoods of the world. In 2014 we started with delivery of restaurant food. Now we're building the delivery of (almost) everything and you'll find us in over 500 cities in 30 countries a",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1787953522",
-      "notified": false,
-      "first_seen": "2026-08-28 22:02:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Alternatives  Data Operations Analyst",
-      "company": "Addepar1",
-      "location": "Edinburgh",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/addepar1/alternatives-data-operations-analyst-edinburgh-296922",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;span style=&quot;text-decoration: underline;&quot;&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt; &lt;p&gt;Addepar is a global data and AI platform empowering investment professionals to turn complex finan",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787932569",
-      "notified": true,
-      "first_seen": "2026-08-28 20:25:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Frontend Engineer",
-      "company": "Lightningai",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/lightningai/frontend-engineer-london-434461",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h2&gt;Who &lt;strong&gt;We Are&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Lightning AI is the company behind PyTorch Lightning. Founded in 2019, we build an end-to-end platform for developing, training, and deploying AI systems—designed to t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787932563",
-      "notified": true,
-      "first_seen": "2026-08-28 20:25:21"
     }
   ]
 }
