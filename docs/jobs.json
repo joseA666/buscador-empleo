@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T12:14:40+00:00",
+  "generated_at": "2026-08-31T12:39:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo",
+      "source_label": "Computrabajo Honduras",
+      "title": "Oficial Jr. de Procesos y Presupuesto / TI",
+      "company": "OE System",
+      "location": "Distrito Central, Francisco Morazán (20,000.00 $ (Mensual))",
+      "url": "https://hn.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-oficial-jr-de-procesos-y-presupuesto-ti-en-distrito-central-883226757CFFA59D61373E686DCF3405",
+      "description": "Oficial Jr. de Procesos y Presupuesto / TI - OE System - Distrito Central, Francisco Morazán - 20,000.00 $ (Mensual) - Publicado: Hace 34 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 34 minutos",
+      "notified": false,
+      "first_seen": "2026-08-31 12:39:00"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787974815",
-      "notified": true,
-      "first_seen": "2026-08-29 05:08:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director of Go-to-Market Engineering (Revenue Operations)",
-      "company": "Perk",
-      "location": "Birmingham",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/perk/director-of-go-to-market-engineering-revenue-operations-birmingham-221642",
-      "description": "About Us Perk (formerly TravelPerk) is the intelligent platform for travel and spend management. Built to tackle the time-consuming, manual work that gets in the way of real work, our tools automate everything from travel bookings to expenses, invoice processing, and more. By eli",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787974814",
       "notified": true,
       "first_seen": "2026-08-29 05:08:17"
     }
