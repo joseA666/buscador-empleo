@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-08-31T00:26:39+00:00",
+  "generated_at": "2026-08-31T01:12:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Sr Agent Architect (Germany)",
+      "company": "parloa",
+      "location": "",
+      "url": "https://www.arbeitnow.com/jobs/companies/parloa/sr-agent-architect-germany-432325",
+      "description": "&lt;h2&gt;&lt;strong&gt;About Parloa&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Parloa’s mission is to make every customer conversation feel effortless for both customers and the companies serving them. As agentic AI accelerates, Parloans are shaping the foundation of a new era in custom",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788134118",
+      "notified": true,
+      "first_seen": "2026-08-31 01:12:39"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787931623",
-      "notified": true,
-      "first_seen": "2026-08-28 20:25:21"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Staff Software Engineer | Developer Experience",
-      "company": "Deepl",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/deepl/staff-software-engineer-developer-experience-london-447009",
-      "description": "Meet DeepL DeepL is a global AI product and research company focused on building secure, intelligent solutions to complex business problems. Over 200,000 business customers and millions of individuals across 228 global markets today trust DeepL's Language AI platform for human-li",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787931620",
       "notified": true,
       "first_seen": "2026-08-28 20:25:21"
     }
