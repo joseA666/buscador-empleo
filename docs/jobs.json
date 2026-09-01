@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T16:13:00+00:00",
+  "generated_at": "2026-09-01T16:44:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador java remoto",
+      "company": "Empresa confidencial",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-java-remoto-1886757667",
+      "description": "Desarrollador java remoto - Empresa confidencial - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-01 16:44:48"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788121807",
-      "notified": false,
-      "first_seen": "2026-08-30 22:07:44"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Principal Cybersecurity (all genders)",
-      "company": "Eraneos",
-      "location": "Hamburg, München, Düsseldorf, remote",
-      "url": "https://www.arbeitnow.com/jobs/companies/eraneos/remote-principal-cybersecurity-all-genders-186416",
-      "description": "What you can expect from us We are the cybersecurity experts of the globally operating Eraneos group based in Germany. We primarily advise DAX and Fortune 500 companies on cybersecurity topics such as OT security, risk assessment or compliance. We offer prospective employees an i",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788120587",
       "notified": false,
       "first_seen": "2026-08-30 22:07:44"
     }
