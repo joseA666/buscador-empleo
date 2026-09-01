@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T14:27:43+00:00",
+  "generated_at": "2026-09-01T14:39:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Frontend",
+      "company": "ZEMSANIA COLOMBIA SAS",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-glomo-cells-en-bogota-dc-C0893E50E4B7C17F61373E686DCF3405",
+      "description": "Desarrollador Frontend - ZEMSANIA COLOMBIA SAS - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 1 minuto",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 1 minuto",
+      "notified": true,
+      "first_seen": "2026-09-01 14:39:12"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-te-brindamos-pc-laptop-modem-s1130-planilla-completa-comisiones-bono-de-energia-en-lima-5CB013E2E99AB49461373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 9 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 14:38:55"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-30T11:53:00+00:00",
       "notified": true,
       "first_seen": "2026-08-30 14:21:59"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Manager, Security Operations Center - EMEA",
-      "company": "Huntress",
-      "location": "Anywhere in the World",
-      "url": "https://remotejobs.org/remote-jobs/manager-security-operations-center-emea-huntress",
-      "description": "Headquarters: Remote Ireland Reports to: Director, Security Operations Center Location: Remote Ireland Compensation Range: €115,200 to €133,000 base plus bonus and equity What We Do: Cybercrime is growing, and more businesses are getting hit by threats that used to target only th",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-08-30T07:30:43+00:00",
-      "notified": false,
-      "first_seen": "2026-08-30 14:21:42"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Programmiertutor/Informatiktutor (m/w/d) - complori",
-      "company": "Cleverly edu GmbH",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/cleverly-edu-gmbh/programmiertutor-informatiktutor-complori-berlin-297126",
-      "description": "Über complori Complori begeistert Kinder und Jugendliche für Programmieren, KI und digitale Zukunftsthemen. Unterrichtet wird in kleinen Live-Online-Kursen auf complori – unserer Plattform für Kurse, Mentoring und Tutoring. complori wird von Unternehmen als Benefit für ihre Mitar",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788093033",
-      "notified": true,
-      "first_seen": "2026-08-30 14:07:45"
     }
   ]
 }
