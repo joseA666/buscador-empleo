@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T21:07:59+00:00",
+  "generated_at": "2026-09-01T21:22:58+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Platform Engineer",
+      "company": "Natera",
+      "location": "US Remote",
+      "url": "https://remotejobs.org/remote-jobs/senior-platform-engineer-natera",
+      "description": "Experience: 5+ years in Platform Engineering, Infrastructure, DevOps or Site Reliability Engineering. About the Role We are building an Internal Developer Portal at Natera, and we are looking for a Senior Platform Engineer to help build it. This is a hands-on software engineering",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-01T20:38:26+00:00",
+      "notified": true,
+      "first_seen": "2026-09-01 21:22:58"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-F59FB0A0AE2FACCE61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 21:22:41"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788172227",
       "notified": false,
       "first_seen": "2026-08-31 12:14:05"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Mechatroniker Kältetechnik (m/w/d) 50-55k + Firmenwagen",
-      "company": "Riverstate Premium Recruiting",
-      "location": "Duisburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/riverstate-premium-recruiting/mechatroniker-kaltetechnik-50-55k-firmenwagen-duisburg-345201",
-      "description": "Sichern Sie sich 30 Tage Urlaub und ein eigenes Servicefahrzeug ab dem ersten Tag – für planbare Einsätze in Ihrer Region statt deutschlandweiter Montage. Sie wünschen sich einen zukunftssicheren Job als Servicetechniker mit regionalen Einsätzen, viel Eigenverantwortung und ohne ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788172227",
-      "notified": false,
-      "first_seen": "2026-08-31 12:14:05"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Studentische Hilfskraft, Team German Microdata Lab (SHK_DRS_2026_015)",
-      "company": "GESIS – Leibniz-Institut für Sozialwissenschaften",
-      "location": "Mannheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/gesis-leibniz-institut-fur-sozialwissenschaften/studentische-hilfskraft-team-german-microdata-lab-shk-drs-2026-015-mannheim-248944",
-      "description": "GESIS – Leibniz-Institut für Sozialwissenschaften ist eine von Bund und Ländern finanzierte, international tätige sozialwissenschaftliche Einrichtung der Leibniz-Gemeinschaft. Wir suchen zum 01.10.2026 für den Standort Mannheim für die Abteilung Data and Research on Society, Team",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788174577",
-      "notified": false,
-      "first_seen": "2026-08-31 12:14:04"
     }
   ]
 }
