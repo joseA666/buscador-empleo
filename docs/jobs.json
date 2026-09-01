@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T20:24:36+00:00",
+  "generated_at": "2026-09-01T20:35:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Assistant Store Manager Puerto Rico Premium Outlets",
+      "company": "Brooks Brothers",
+      "location": "Barceloneta, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-assistant-store-manager-puerto-rico-premium-outlets-brooks-brothers-1137241",
+      "description": "Overview As an Assistant Store Manager, you will support the Store Manager to build a team that delivers results through providing an amazing customer experience. You also share the responsibility to execute all store operations and maintain a visually appealing store. You create",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-08-31T20:32:25+00:00",
+      "notified": true,
+      "first_seen": "2026-09-01 20:35:35"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788168012",
       "notified": false,
       "first_seen": "2026-08-31 11:08:07"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent (m/w/d) mit Hund für Videoproduktion in Berlin",
-      "company": "LWB Group",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/lwb-group/werkstudent-mit-hund-fur-videoproduktion-in-berlin-134949",
-      "description": "Über uns Wir sind Die Tierversicherer. Wir machen Tierversicherung so, wie sie sein sollte: verständlich, digital, ohne Kleingedrucktes-Falle. Unser Wachstum kommt aus Performance-Marketing — und der Rohstoff dafür sind Videos. Worum es geht Du produzierst gemeinsam mit unserer G",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788170444",
-      "notified": false,
-      "first_seen": "2026-08-31 11:08:06"
     }
   ]
 }
