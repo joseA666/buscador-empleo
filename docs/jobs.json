@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T11:33:45+00:00",
+  "generated_at": "2026-09-01T11:48:07+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Fire Officer",
+      "company": "JLL",
+      "location": "Ludhiana, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-fire-officer-jll-1137230",
+      "description": "Position : Fire Officer Business : Mall Operation About the role: Objective of the role: You will oversee and ensure fire safety at your site. You will use the assigned apparatus and follow the command structure instructions for fire suppression or a related emergency service. Yo",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-31T11:35:56+00:00",
+      "notified": false,
+      "first_seen": "2026-09-01 11:48:06"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "München",
       "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-6-monate-im-marketing-fokus-events-munchen-267884",
       "description": "Einleitung Du möchtest praxisnah Marketingluft schnuppern und gleichzeitig spannende Events hautnah miterleben? Dann ist dieses Praktikum genau das Richtige für dich! Bei uns im Marketing-Team in München unterstützt du vielfältige Projekte – von klassischen Marketingaufgaben über",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788066622",
-      "notified": false,
-      "first_seen": "2026-08-30 06:13:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikant (all genders) 3-6 Monate im Creative Content Team",
-      "company": "Valuenet Group",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/valuenet-group/praktikant-all-genders-3-6-monate-im-creative-content-team-munchen-279266",
-      "description": "Einleitung Du hast ein Gespür für Trends, weißt, was auf Social Media funktioniert – und willst nicht nur zuschauen, sondern selbst gestalten? Dann bist du bei uns genau richtig. Wir suchen einen kreativen Kopf, der Lust hat, unser Creative Content Team für 3 bis 6 Monate tatkräf",
       "reason": "",
       "language": "other",
       "posted_at": "1788066622",
