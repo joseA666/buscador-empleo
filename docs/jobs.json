@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T12:13:45+00:00",
+  "generated_at": "2026-09-01T12:38:19+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa! / Atención al cliente Fidelización /Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-fidelizacion-damos-pc-internet-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-BB8337D677E9F23F61373E686DCF3405",
+      "description": "Trabaja desde casa! / Atención al cliente Fidelización /Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 12:38:19"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-ED48F5CEB71310A261373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 8 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 12:38:19"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788067817",
-      "notified": true,
-      "first_seen": "2026-08-30 06:52:16"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Business Transformation Analyst Operations Execution",
-      "company": "Intersnack Group GmbH & Co. KG",
-      "location": "Düsseldorf, Nordrhein-Westfalen, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/intersnack-group-gmbh-co-kg/senior-business-transformation-analyst-operations-execution-dusseldorf-243133",
-      "description": "Why This Role Matters As a Senior Business Transformation Analyst Operations Execution , you will deliver transformation projects within the Transformation Management sub-department, working independently in at least one functional area. You will apply expertise in project manage",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788067805",
-      "notified": true,
-      "first_seen": "2026-08-30 06:52:16"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) System Engineer (all genders) – Microsoft Infrastructure",
-      "company": "Urano",
-      "location": "Mainz",
-      "url": "https://www.arbeitnow.com/jobs/companies/urano/senior-system-engineer-all-genders-microsoft-infrastructure-mainz-66613",
-      "description": "Gestalte moderne Microsoft-Infrastrukturen im Public Sector Du möchtest dein technisches Know-how einsetzen, weiterentwickeln und Verantwortung übernehmen? Dann bring deine Fähigkeiten in unsere anspruchsvollen IT-Projekte im öffentlichen Umfeld ein. Wir realisieren, betreiben un",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788067798",
       "notified": true,
       "first_seen": "2026-08-30 06:52:16"
     }
