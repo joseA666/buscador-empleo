@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T19:33:40+00:00",
+  "generated_at": "2026-09-01T19:48:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Tecnico mecanico",
+      "company": "Pipsa PVC Honduras",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105577/mecanico.aspx",
+      "description": "Tecnico mecanico - Pipsa PVC Honduras - Cortés,Honduras - Expira en: 16/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 16/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-01 19:48:09"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788166848",
-      "notified": false,
-      "first_seen": "2026-08-31 10:09:50"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Affiliates Manager (m/f/d)",
-      "company": "raisin",
-      "location": "Berlin, Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/raisin/senior-affiliates-manager-berlin-berlin-495100",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p class=&quot;sc-gEkIjz cjtSrT MuiTypography-root MuiTypography-body1 sc-hoLEA&quot;&gt;Raisin is the world’s leading platform for savings and investment products. Founded in 2012, the&amp;nbsp;&lt;strong&gt;FinTech&lt;/strong&gt; co",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788166502",
       "notified": false,
       "first_seen": "2026-08-31 10:09:50"
     }
