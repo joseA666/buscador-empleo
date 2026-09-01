@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T06:16:39+00:00",
+  "generated_at": "2026-09-01T06:49:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Ingreso directo full remoto con experiencia en ventas portabilidad call center",
+      "company": "Atento Perú",
+      "location": "Cajamarca, Cajamarca (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ingreso-directo-full-remoto-con-experiencia-en-ventas-portabilidad-call-center-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-cajamarca-9EF71AB735EB262861373E686DCF3405",
+      "description": "Ingreso directo full remoto con experiencia en ventas portabilidad call center - Atento Perú - Cajamarca, Cajamarca - Remoto - Publicado: Hace 1 hora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 hora",
+      "notified": false,
+      "first_seen": "2026-09-01 06:49:13"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1788035413",
-      "notified": false,
-      "first_seen": "2026-08-29 21:07:07"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Produktmanagement (m/w/d)",
-      "company": "Luis Technology",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/luis-technology/werkstudent-produktmanagement-hamburg-239969",
-      "description": "Das erwartet Dich bei uns: Einen modernen Arbeitsplatz im Herzen Hamburgs, direkt an der schönen Bille Flexible Arbeitszeiten, die sich ideal mit Deinem Studium vereinbaren lassen Flache Hierarchien, kurze Entscheidungswege und eine offene Unternehmenskultur Viel Gestaltungsspiel",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788035400",
       "notified": false,
       "first_seen": "2026-08-29 21:07:07"
     }
