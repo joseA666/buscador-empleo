@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T23:21:54+00:00",
+  "generated_at": "2026-09-01T23:33:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s2000-a-mas-en-lima-78E3C0453269C9FD61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 23:33:47"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-lunes-a-sabado-bono-de-luz-y-comisiones-damos-pc-internet-ingreso-directo-en-lima-7C9B6769BBF0D49961373E686DCF3405",
+      "description": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-09-01 23:33:47"
+    },
     {
       "source": "hn_whoishiring",
       "source_label": "HN Who's Hiring",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1788188443",
-      "notified": true,
-      "first_seen": "2026-08-31 16:09:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Salesforce Developer (f/m/x)",
-      "company": "caronsale",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/senior-salesforce-developer-munich-89630",
-      "description": "&lt;h1&gt;Senior Salesforce Developer (m/w/d)&lt;/h1&gt; &lt;p&gt;Over 40,000 buyers. More than 20 countries. Every vehicle listed, sold and settled through one platform. On our Inventory team you own the Service and Sales Cloud layer that carries those transactions — Apex, LWC, ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788188119",
-      "notified": true,
-      "first_seen": "2026-08-31 16:09:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Salesforce Developer (f/m/x)",
-      "company": "caronsale",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/caronsale/senior-salesforce-developer-berlin-237892",
-      "description": "&lt;div class=&quot;page&quot;&gt; &lt;div class=&quot;section&quot;&gt; &lt;div class=&quot;layoutArea&quot;&gt; &lt;div class=&quot;column&quot;&gt; &lt;h1&gt;Senior Salesforce Developer (m/w/d)&lt;/h1&gt; &lt;p&gt;Over 40,000 buyers. More than 20 countries. Every vehicle liste",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788188119",
       "notified": true,
       "first_seen": "2026-08-31 16:09:46"
     }
