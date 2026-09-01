@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T10:28:28+00:00",
+  "generated_at": "2026-09-01T10:41:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador/a ibm odm | reglas de negocio (remoto)",
+      "company": "TALYCAP GLOBAL SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-a-ibm-odm-reglas-de-negocio-remoto-1886757215",
+      "description": "Desarrollador/a ibm odm | reglas de negocio (remoto) - TALYCAP GLOBAL SAS - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-01 10:41:58"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Production Lead",
+      "company": "ITC Limited",
+      "location": "Guntur, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-production-lead-itc-limited-1137233",
+      "description": "Production Lead - G3 Please mention the word **HOT** and tag RNjQuMjM2LjE0MC4xNzA= when applying to show you read the job post completely (#RNjQuMjM2LjE0MC4xNzA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-31T10:34:40+00:00",
+      "notified": false,
+      "first_seen": "2026-09-01 10:41:41"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788055808",
-      "notified": true,
-      "first_seen": "2026-08-30 03:10:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Earth Observation Data Supplier Manager (f/m/x)",
-      "company": "LiveEO GmbH",
-      "location": "LiveEO GmbH Berlin Office (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/liveeo-gmbh/senior-earth-observation-data-supplier-manager-liveeo-gmbh-berlin-office-hybrid-457337",
-      "description": "Build the Market Leader in Satellite Analytics with us at LiveEO You will develop LiveEO's Earth Observation (EO) data strategy jointly with our product and commercial teams, identifying the right data sources, building strong relationships with EO data suppliers, and ensuring ou",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788055808",
-      "notified": true,
-      "first_seen": "2026-08-30 03:10:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Consultant Search, Content & AI Visibility (SEO/GEO) (m/w/d), München",
-      "company": "Towa",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/towa/senior-consultant-search-content-ai-visibility-seo-geo-munchen-45032",
-      "description": "Wofür wir stehen: “We drive digital transformation end-to-end - from strategy to execution. Creating measurable progress and real impact for our clients.” </spa",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788055807",
       "notified": true,
       "first_seen": "2026-08-30 03:10:46"
     }
