@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T18:48:51+00:00",
+  "generated_at": "2026-09-01T19:08:01+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Trade Marketing Lead",
+      "company": "Sharkninjaoperatingllc",
+      "location": "Frankfurt am Main",
+      "url": "https://www.arbeitnow.com/jobs/companies/sharkninjaoperatingllc/senior-trade-marketing-lead-frankfurt-am-main-494336",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;About Us&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;134233117&amp;quot;:false,&amp;quot;134233118&amp;quot;:false,&amp;quot;335559738&amp;quot;:0,",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788285305",
+      "notified": true,
+      "first_seen": "2026-09-01 19:08:01"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Business Analyst IT",
+      "company": "Gildan",
+      "location": "Christ Church, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-business-analyst-it-gildan-1137243",
+      "description": "Who We Are Gildan is a leading manufacturer of everyday basic apparel, with a strong portfolio of brands, including GildanÂ®, HanesÂ®, Comfort ColorsÂ®, American ApparelÂ®, ALLPROâ¢, GOLDTOEÂ®, PedsÂ®, BaliÂ®, PlaytexÂ®, MaidenformÂ®, BondsÂ®, as well as ChampionÂ® which is unde",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-31T18:52:19+00:00",
+      "notified": false,
+      "first_seen": "2026-09-01 19:07:44"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1788166502",
-      "notified": false,
-      "first_seen": "2026-08-31 10:09:50"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sales Support Manager (w/m/d)",
-      "company": "Enpal",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/enpal/sales-support-manager-berlin-51216",
-      "description": "Unser Ziel ist eine Solaranlage auf jedem Dach, ein Speicher in jedem Haus und ein E-Auto in jeder Garage. Enpal macht das möglich mit einer integrierten Gesamtlösung für dezentrale Energie – von Solaranlage und Batteriespeicher über Wallbox, Smart Meter bis zur Wärmepumpe. Herzs",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788165611",
-      "notified": false,
-      "first_seen": "2026-08-31 10:09:50"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
-      "company": "Kohnle & Partner",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-karlsruhe-24074",
-      "description": "Kohnle &#x26; Partner, die etwas andere Steuerkanzlei. Modernste Technik, digitale Prozesse, dynamisches Wachstum, führende Experten, hochwertige Büros, überdurchschnittliche Bezahlung, ein hoch motiviertes Team und vieles mehr – wir reden nicht nur von Top-Arbeitsbedingungen, wi",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788165045",
       "notified": false,
       "first_seen": "2026-08-31 10:09:50"
     }
