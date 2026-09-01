@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-01T20:09:35+00:00",
+  "generated_at": "2026-09-01T20:24:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Trainee mantenimiento industrial",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105590/mecatronico.aspx",
+      "description": "Trainee mantenimiento industrial - Confidencial - Cortés,Honduras - Expira en: 16/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 16/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-01 20:24:36"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Job Role",
+      "company": "Tap Growth ai",
+      "location": "Singapore, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-role-tap-growth-ai-1137246",
+      "description": "We are seeking a passionate and dedicated Job Role to join our team. ð Location: Singapore, Singapore â° Work Mode: Work From Office Please mention the word **STUPENDOUS** and tag RNjguMTU0LjU0LjM1 when applying to show you read the job post completely (#RNjguMTU0LjU0LjM1). T",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-08-31T20:18:25+00:00",
+      "notified": false,
+      "first_seen": "2026-09-01 20:24:36"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788170444",
-      "notified": false,
-      "first_seen": "2026-08-31 11:08:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "IT-Systemelektroniker (m/w/d)",
-      "company": "think about IT GmbH",
-      "location": "Bochum",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/it-systemelektroniker-bochum-145046",
-      "description": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unseres Innovationsgeiste",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788170444",
-      "notified": false,
-      "first_seen": "2026-08-31 11:08:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior IT Administrator (m/w/d)",
-      "company": "think about IT GmbH",
-      "location": "Bochum",
-      "url": "https://www.arbeitnow.com/jobs/companies/think-about-it-gmbh/senior-it-administrator-bochum-82274",
-      "description": "Die thinkGROUP ist eine erfolgreiche Systemhausgruppe, die ständig nach Innovation strebt und großen Wert auf die kontinuierliche Optimierung unserer internen Prozesse legt. Die Nutzung modernster Technologien ist kein Selbstzweck, sondern die Ausprägung unseres Innovationsgeiste",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788170443",
       "notified": false,
       "first_seen": "2026-08-31 11:08:06"
     }
