@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T17:34:15+00:00",
+  "generated_at": "2026-09-01T17:48:25+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador java senior",
+      "company": "INDRA COLOMBIA LTDA",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-java-senior-1886758848",
+      "description": "Desarrollador java senior - INDRA COLOMBIA LTDA - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-01 17:48:24"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13982,20 +13996,6 @@
       "location": "Pinneberg",
       "url": "https://www.arbeitnow.com/jobs/companies/kurt-personal-gmbh/o-au-pinneberg-495564",
       "description": "Für die direkte Zusammenarbeit mit unserem Geschäftsführer suchen wir eine engagierte, souveräne und absolut vertrauenswürdige Persönlichkeit, die als persönliche Schnittstelle zwischen Geschäftsführung, Mitarbeitern, Geschäftspartnern und externen Ansprechpartnern agiert. Als pe",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788161438",
-      "notified": false,
-      "first_seen": "2026-08-31 08:52:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Artist Manager / Influencer Manager (m/w/d)",
-      "company": "Lionflence",
-      "location": "Mülheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/lionflence/junior-artist-manager-influencer-manager-mulheim-2501",
-      "description": "Was wir Dir bieten: Eine spannende Herausforderung, in der du dich weiterentwickeln kannst, rundum den Bereich Artistmanagement Medien/Social Media, Influencer Marketing und den dazugehörigen Technologien (Software Systeme) Perfekt abgestimmte selbst entwickelte Softwaresysteme f",
       "reason": "",
       "language": "other",
       "posted_at": "1788161438",
