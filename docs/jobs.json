@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-01T18:31:39+00:00",
+  "generated_at": "2026-09-01T18:48:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "¡Ejecutivo de Ventas Desde Casa! Brindamos PC + Sueldo fijo + internet + Bono de Luz (hasta S/90)",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-ejecutivo-de-ventas-desde-casa-brindamos-pc-sueldo-fijo-internet-bono-de-luz-hasta-s90-comisiones-ilimitadas-en-lima-516BB22F27B8DFC261373E686DCF3405",
+      "description": "¡Ejecutivo de Ventas Desde Casa! Brindamos PC + Sueldo fijo + internet + Bono de Luz (hasta S/90) - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 1 hora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 hora",
+      "notified": false,
+      "first_seen": "2026-09-01 18:48:50"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13981,20 +13995,6 @@
       "company": "Kohnle & Partner",
       "location": "Karlsruhe",
       "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-karlsruhe-24074",
-      "description": "Kohnle &#x26; Partner, die etwas andere Steuerkanzlei. Modernste Technik, digitale Prozesse, dynamisches Wachstum, führende Experten, hochwertige Büros, überdurchschnittliche Bezahlung, ein hoch motiviertes Team und vieles mehr – wir reden nicht nur von Top-Arbeitsbedingungen, wi",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788165045",
-      "notified": false,
-      "first_seen": "2026-08-31 10:09:50"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Auszubildender zum Steuerfachangestellten (m/w/d)",
-      "company": "Kohnle & Partner",
-      "location": "Weingarten",
-      "url": "https://www.arbeitnow.com/jobs/companies/kohnle-partner/auszubildender-zum-steuerfachangestellten-weingarten-214640",
       "description": "Kohnle &#x26; Partner, die etwas andere Steuerkanzlei. Modernste Technik, digitale Prozesse, dynamisches Wachstum, führende Experten, hochwertige Büros, überdurchschnittliche Bezahlung, ein hoch motiviertes Team und vieles mehr – wir reden nicht nur von Top-Arbeitsbedingungen, wi",
       "reason": "",
       "language": "other",
