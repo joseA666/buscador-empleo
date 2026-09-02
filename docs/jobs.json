@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T01:06:53+00:00",
+  "generated_at": "2026-09-02T01:34:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Todo Remoto! Te entregamos Pc Internet/Trabaja de Lunes a Sábado de 9am a 6pm",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-todo-remoto-te-entregamos-pc-internettrabaja-de-lunes-a-sabado-de-9am-a-6pm-postula-ahora-en-lima-54922A777B10578361373E686DCF3405",
+      "description": "Todo Remoto! Te entregamos Pc Internet/Trabaja de Lunes a Sábado de 9am a 6pm - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 20 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 20 minutos",
+      "notified": false,
+      "first_seen": "2026-09-02 01:34:03"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-31T13:28:36+00:00",
       "notified": true,
       "first_seen": "2026-08-31 17:08:01"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Auditor (a) interno",
-      "company": "GRUPO OPGASH",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1105154/auditor-interno.aspx",
-      "description": "Auditor (a) interno - GRUPO OPGASH - Francisco Morazán,Honduras - Expira en: 15/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 15/10/2026",
-      "notified": false,
-      "first_seen": "2026-08-31 17:07:43"
     }
   ]
 }
