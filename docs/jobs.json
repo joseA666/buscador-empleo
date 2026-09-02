@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-02T16:29:02+00:00",
+  "generated_at": "2026-09-02T16:42:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de canales tgu",
+      "company": "COFINTER",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105868/supervisor-de-operaciones-financieras.aspx",
+      "description": "Jefe de canales tgu - COFINTER - Francisco Morazán,Honduras - Expira en: 17/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 17/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 16:42:32"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Facturacion aduana sps",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105863/facturador.aspx",
+      "description": "Facturacion aduana sps - Confidencial - Cortés,Honduras - Expira en: 17/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 17/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 16:42:32"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788265850",
-      "notified": false,
-      "first_seen": "2026-09-01 12:53:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Active Sourcing Talent - Baugewerbe (m/w/d)",
-      "company": "JIRO CONSULTING",
-      "location": "Remoto",
-      "url": "https://www.arbeitnow.com/jobs/companies/jiro-consulting/active-sourcing-talent-baugewerbe-hamburg-248669",
-      "description": "Kein Bock auf 9-to-5, festen Wohnsitz oder „das haben wir schon immer so gemacht\"? Same. Wir bauen JIRO Consulting weiter auf und suchen Leute, die Lust haben, ins Recruiting reinzuschnuppern – egal ob vom Schreibtisch zuhause, aus dem Hostel in Bali oder vom Balkon deiner WG aus",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788265850",
-      "notified": false,
-      "first_seen": "2026-09-01 12:53:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director of Sales (w/m/d)",
-      "company": "enua Pharma GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/enua-pharma-gmbh/director-of-sales-cologne-357600",
-      "description": "enua ist ein ganzheitlicher Hersteller für medizinisches Cannabis in Deutschland und gehört zu den Top 3 Anbietern im Markt. Unsere Vision ist es, Patienten und Menschen einen nachhaltigen Zugang zu Cannabis zu verschaffen. Wir sind ein Team von 50 motivierten Persönlichkeiten in",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788264042",
       "notified": false,
       "first_seen": "2026-09-01 12:53:09"
     }
