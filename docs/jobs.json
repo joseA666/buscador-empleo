@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-02T11:47:54+00:00",
+  "generated_at": "2026-09-02T12:13:49+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Maintenance Technician 40hrs week",
+      "company": "Delta Hotels by Marriott Edinburgh",
+      "location": "Edinburgh, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-maintenance-technician-40hrs-week-delta-hotels-by-marriott-edinburgh-1137257",
+      "description": "At Delta Hotels by Marriott, we like to keep things simple and get them done right. Weâre a busy, friendly team, and weâre looking for a handy, reliable Maintenance Team Member to help us keep the hotel looking sharp and running smoothly. We are looking for a highly motivated",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-01T11:51:39+00:00",
+      "notified": true,
+      "first_seen": "2026-09-02 12:13:49"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-lunes-a-sabado-bono-de-luz-y-comisiones-damos-pc-internet-ingreso-directo-en-lima-09F7B061F5DCF8EC61373E686DCF3405",
+      "description": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Ahora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": false,
+      "first_seen": "2026-09-02 12:13:32"
+    },
     {
       "source": "hn_whoishiring",
       "source_label": "HN Who's Hiring",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T05:49:05+00:00",
-      "notified": true,
-      "first_seen": "2026-09-01 06:16:04"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Staff Software Engineer, Backend (Identity International)",
-      "company": "Affirm",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/staff-software-engineer-backend-identity-international-affirm",
-      "description": "Affirm is reinventing credit to make it more honest and friendly, giving consumers the flexibility to buy now and pay later without any hidden fees or compounding interest. Identity at Affirm is mission-critical; it is the very first step of the customer journey and the foundatio",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T05:48:11+00:00",
-      "notified": true,
-      "first_seen": "2026-09-01 06:16:04"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Distributed Systems Engineer",
-      "company": "Airship",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/senior-distributed-systems-engineer-airship-himala",
-      "description": "About Airship Airship is trusted by world’s leading brands such as Alaska Airlines, BBC and The Home Depot to drive revenue growth and customer loyalty with exceptional cross-channel customer experiences. Today, brands are challenged to deliver seamless, unified customer experien",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T05:45:21+00:00",
       "notified": true,
       "first_seen": "2026-09-01 06:16:04"
     }
