@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-02T23:33:49+00:00",
+  "generated_at": "2026-09-02T23:48:26+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Detailer",
+      "company": "Go Auto",
+      "location": "Edmonton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-detailer-go-auto-1137277",
+      "description": "Job Description Detailer â Southtown Hyundai Some people clean cars. Real detailers take pride in making a vehicle look better than the day it rolled off the lot. Southtown Hyundai is hiring Detailers, and weâre looking for people who actually care about the finished product.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-01T23:45:31+00:00",
+      "notified": true,
+      "first_seen": "2026-09-02 23:48:26"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de gestión operativa",
+      "company": "CASAPAN",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106076/analista-bi.aspx",
+      "description": "Jefe de gestión operativa - CASAPAN - Francisco Morazán,Honduras - Expira en: 14/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 14/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 23:48:08"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788275125",
       "notified": false,
       "first_seen": "2026-09-01 16:56:27"
-    },
-    {
-      "source": "elempleo",
-      "source_label": "elempleo.com",
-      "title": "Desarrollador java remoto",
-      "company": "Empresa confidencial",
-      "location": "Bogotá",
-      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-java-remoto-1886757667",
-      "description": "Desarrollador java remoto - Empresa confidencial - Bogotá - Salario confidencial",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "es",
-      "posted_at": "",
-      "notified": true,
-      "first_seen": "2026-09-01 16:44:48"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Accountant (m/w/d) (Voll- oder Teilzeit)",
-      "company": "Snke",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/snke/senior-accountant-voll-oder-teilzeit-munchen-118714",
-      "description": "Was dich erwartet Als Senior Accountant übernimmst du eine verantwortungsvolle Rolle im operativen und bilanziellen Tagesgeschäft mehrerer Gesellschaften innerhalb des Konzerns. Du trägst aktiv dazu bei, die finanziellen Strukturen unseres neu eigenständigen Unternehmens aufzubau",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788271753",
-      "notified": true,
-      "first_seen": "2026-09-01 16:13:00"
     }
   ]
 }
