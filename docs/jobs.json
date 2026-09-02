@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T03:12:03+00:00",
+  "generated_at": "2026-09-02T03:30:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-897E002849A34B1861373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 10 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 minutos",
+      "notified": false,
+      "first_seen": "2026-09-02 03:30:58"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-31T13:26:58+00:00",
-      "notified": true,
-      "first_seen": "2026-08-31 17:08:18"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Staff Engineer",
-      "company": "Dutchie",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152176-staff-engineer",
-      "description": "About Dutchie Founded in 2017, Dutchie is a comprehensive technology platform powering dispensary operations, while providing consumers with safe and easy access to cannabis. Dutchie aims to further support the positive societal change the cannabis industry brings to the world th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-31T13:26:33+00:00",
       "notified": true,
       "first_seen": "2026-08-31 17:08:18"
     }
