@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-02T14:48:30+00:00",
+  "generated_at": "2026-09-02T15:11:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-81F094657FE3682E61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 21 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 21 minutos",
+      "notified": false,
+      "first_seen": "2026-09-02 15:11:17"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "It technical support representative",
+      "company": "Compass Experience Labs",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1105620/agente-de-soporte.aspx",
+      "description": "It technical support representative - Compass Experience Labs - Honduras - Expira en: 07/10/2026",
+      "reason": "",
+      "language": "en",
+      "posted_at": "Expira en: 07/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 15:11:17"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788253241",
-      "notified": false,
-      "first_seen": "2026-09-01 10:09:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Mitarbeiter:in Marketing (m/w/d)",
-      "company": "RITA LEIBINGER GmbH & Co. KG",
-      "location": "Mühlheim an der Donau",
-      "url": "https://www.arbeitnow.com/jobs/companies/rita-leibinger-gmbh-co-kg/mitarbeiterin-marketing-muhlheim-an-der-donau-87861",
-      "description": "Werden Sie Teil unseres Teams bei RITA LEIBINGER GmbH &#x26; Co.KG , einem stetig wachsenden Familienunternehmen im Bereich der Medizintechnik für Tierimplantate, das seit seiner Gründung im Jahr 2010 Erfolge feiert. Als Mitarbeiter:in im Marketing in Teilzeit/Vollzeit haben Sie ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788253240",
-      "notified": false,
-      "first_seen": "2026-09-01 10:09:58"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Steuerfachangestellter / Steuerfachwirt / Bilanzbuchhalter / Trainee Steuerberatung (m/w/d)",
-      "company": "SBC Steuerberater Rechtsanwälte GbR",
-      "location": "Darmstadt",
-      "url": "https://www.arbeitnow.com/jobs/companies/sbc-steuerberater-rechtsanwalte-gbr/steuerfachangestellter-steuerfachwirt-bilanzbuchhalter-trainee-steuerberatung-darmstadt-303189",
-      "description": "Partnerschaft auf Augenhöhe. Wir stellen uns vor. Seit nunmehr 20 Jahren stellen wir an unseren beiden Standorten in Bad Homburg und Darmstadt einen verlässlichen Partner dar – für unsere breitgefächerte Mandantschaft und allen voran für unser loyales, knapp 30-köpfiges Team. Wir",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788253240",
       "notified": false,
       "first_seen": "2026-09-01 10:09:58"
     }
