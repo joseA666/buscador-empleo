@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T23:07:41+00:00",
+  "generated_at": "2026-09-02T23:21:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Facturacion",
+      "company": "Global Outsourcing",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106069/facturador.aspx",
+      "description": "Facturacion - Global Outsourcing - Cortés,Honduras - Expira en: 01/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 01/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 23:21:35"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788271796",
-      "notified": true,
-      "first_seen": "2026-09-01 16:12:42"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Data QA & Algorithm Benchmarking (m/w/d)",
-      "company": "Syte Gmbh",
-      "location": "Münster",
-      "url": "https://www.arbeitnow.com/jobs/companies/syte-gmbh/werkstudent-data-qa-algorithm-benchmarking-munster-418111",
-      "description": "Deine Mission syte benutzt komplexe Algorithmen, die auf Basis von 3D-Punktwolken und 3D-Modellen Gebäudemetriken ausrechnen. Typische Beispiele für relevante Metriken sind Geschossfläche, Anzahl Geschosse, Volumen und Gebäudehöhen. Um schnelle Entwicklungszyklen zu gewährleisten",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788271784",
       "notified": true,
       "first_seen": "2026-09-01 16:12:42"
     }
