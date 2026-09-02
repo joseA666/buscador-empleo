@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T22:35:40+00:00",
+  "generated_at": "2026-09-02T22:47:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa! Atención al cliente turno tarde / Damos pc + internet /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-atencion-al-cliente-turno-tarde-damos-pc-internet-gana-s1800-a-mas-planilla-completa-tarjeta-de-alimentos-beneficios-de-ley-en-lima-802C2D7CA7D12EC461373E686DCF3405",
+      "description": "Trabaja desde casa! Atención al cliente turno tarde / Damos pc + internet /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 5 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": false,
+      "first_seen": "2026-09-02 22:47:47"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Staffbase",
       "location": "Chemnitz, Sachsen",
       "url": "https://www.arbeitnow.com/jobs/companies/staffbase/engineering-manager-data-analytics-chemnitz-sachsen-459054",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788274625",
-      "notified": true,
-      "first_seen": "2026-09-01 16:12:24"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Engineering Manager, Data & Analytics",
-      "company": "Staffbase",
-      "location": "Dresden, Sachsen",
-      "url": "https://www.arbeitnow.com/jobs/companies/staffbase/engineering-manager-data-analytics-dresden-sachsen-347991",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;About Staffbase&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;We inspire people to achieve great things together. Our mission is to help organizations unlock the power of inspirational communication with the first &lt;strong",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
