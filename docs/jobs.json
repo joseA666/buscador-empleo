@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T15:29:49+00:00",
+  "generated_at": "2026-09-02T15:43:25+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Vehicle Technician MOT Tester",
+      "company": "Halfords",
+      "location": "Coventry, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-technician-mot-tester-halfords-1137258",
+      "description": "On-target earnings up to Â£42,070 Comprising a base salary of Â£33,000 - Â£36,770 An uncapped monthly bonus scheme with average additional earnings of Â£5,300 per year. 5 days a week Earn extra with our refer a friend scheme T&amp;Cs Apply Here at Halfords Garage Services, were l",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-01T15:34:21+00:00",
+      "notified": false,
+      "first_seen": "2026-09-02 15:43:24"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788256858",
-      "notified": false,
-      "first_seen": "2026-09-01 11:08:16"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "People & Culture Manager:in (m/w/d), ab Junior",
-      "company": "MOV3 GmbH",
-      "location": "Bremerhaven",
-      "url": "https://www.arbeitnow.com/jobs/companies/mov3-gmbh/people-culture-managerin-ab-junior-bremerhaven-44088",
-      "description": "Du willst HR nicht verwalten, sondern gestalten? Von der Ausschreibung bis zur Personalentwicklung, mit kurzen Wegen und echtem Einfluss? Dann bist du bei uns richtig, gern auch als Junior. Das Hälsa House in Bremerhaven vereint unter einem Dach fünf Bereiche rund um Gesundheit, ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788255028",
       "notified": false,
       "first_seen": "2026-09-01 11:08:16"
     }
