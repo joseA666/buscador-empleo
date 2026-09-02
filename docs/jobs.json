@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T21:34:29+00:00",
+  "generated_at": "2026-09-02T21:48:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo",
+      "source_label": "Computrabajo Honduras",
+      "title": "Tester QA",
+      "company": "OE System",
+      "location": "Distrito Central, Francisco Morazán (Presencial y remoto)",
+      "url": "https://hn.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-tester-qa-en-distrito-central-F712451A987C80E761373E686DCF3405",
+      "description": "Tester QA - OE System - Distrito Central, Francisco Morazán - Presencial y remoto - Publicado: Hace 7 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 horas",
+      "notified": false,
+      "first_seen": "2026-09-02 21:48:23"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788273041",
-      "notified": false,
-      "first_seen": "2026-09-01 16:11:49"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Osnabrück (m/w/d)",
-      "company": "My Jewellery",
-      "location": "Osnabrück, Nedersaksen, Duitsland",
-      "url": "https://www.arbeitnow.com/jobs/companies/my-jewellery/werkstudent-osnabruck-197018",
-      "description": "Als Werkstudent/-in in unserer Boutique in Osnabrück bist du das Gesicht von My Jewellery. Du begrüßt Kund/-innen mit viel Begeisterung, gibst individuelle Styling-Tipps und sorgst dafür, dass jede Person die Boutique mit einem Lächeln verlässt. Gemeinsam mit deinem Team schaffst",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788273032",
       "notified": false,
       "first_seen": "2026-09-01 16:11:49"
     }
