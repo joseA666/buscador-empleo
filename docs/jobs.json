@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-02T17:08:16+00:00",
+  "generated_at": "2026-09-02T17:22:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Comprador de proyectos inmobiliarios",
+      "company": "Inversiones Aliadas, S.A De C.V.",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105890/comprador.aspx",
+      "description": "Comprador de proyectos inmobiliarios - Inversiones Aliadas, S.A De C.V. - Cortés,Honduras - Expira en: 17/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 17/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 17:22:50"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Liquidador pre venta tegucigalpa",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105889/facturador.aspx",
+      "description": "Liquidador pre venta tegucigalpa - Confidencial - Francisco Morazán,Honduras - Expira en: 17/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 17/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 17:22:50"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788265850",
-      "notified": true,
-      "first_seen": "2026-09-01 12:53:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Individualkundenberater (m/w/d) (inkl. Filialkoordination) Filiale Weingarten",
-      "company": "Sparkasse Karlsruhe",
-      "location": "Karlsruhe",
-      "url": "https://www.arbeitnow.com/jobs/companies/sparkasse-karlsruhe/individualkundenberater-inkl-filialkoordination-filiale-weingarten-karlsruhe-466594",
-      "description": "Mit einer Bilanzsumme von über 12 Mrd. €, ca. 1.300 Mitarbeitenden und einer über 213-jährigen Unternehmensgeschichte sind wir eines der größten und das älteste selbstständige Finanzdienstleistungsinstitut unserer Region. Gemessen an der Bilanzsumme ist die Sparkasse Karlsruhe di",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788265849",
-      "notified": true,
-      "first_seen": "2026-09-01 12:53:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "IST Hochschule -Duales Studium  „Online-Marketing“ (B.A) Kommunikation und Medienmanagement (B.A) Hamburg",
-      "company": "Meine Landausflüge",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/meine-landausfluge/ist-hochschule-duales-studium-online-marketing-ba-kommunikation-und-medienmanagement-ba-hamburg-251957",
-      "description": "Schaffe Erlebnisse an Land, die Meer wert sind Bist du bereit, mit uns die Segel zu setzen? Bewirb dich jetzt bei uns im Marketing! Mit „Meine Landausflüge“ ( meine-landausfluege.de ) setzen wir als führende Buchungsplattform für individuelle Ausflugserlebnisse neue Maßstäbe in d",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788264042",
       "notified": true,
       "first_seen": "2026-09-01 12:53:26"
     }
