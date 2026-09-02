@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T20:48:23+00:00",
+  "generated_at": "2026-09-02T21:07:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Vehicle Detailer",
+      "company": "Clutch",
+      "location": "Etobicoke, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-vehicle-detailer-clutch-1137278",
+      "description": "About Clutch At Clutch, we are reinventing the way Canadians buy and own cars. We had enough of traditional dealerships that took advantage of customers and knew that we could build an incredible car-buying experience while leaving a positive impact on the communities we serve. C",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-01T20:52:42+00:00",
+      "notified": false,
+      "first_seen": "2026-09-02 21:07:35"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "es",
       "posted_at": "Hace 26 minutos",
-      "notified": false,
-      "first_seen": "2026-09-01 15:40:38"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Coordinador fiscal",
-      "company": "Super Farmacia Simán",
-      "location": "Cortés,Honduras",
-      "url": "https://www.tecoloco.com.hn/1105435/jefe-de-auditoria-fiscal.aspx",
-      "description": "Coordinador fiscal - Super Farmacia Simán - Cortés,Honduras - Expira en: 16/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 16/10/2026",
       "notified": false,
       "first_seen": "2026-09-01 15:40:38"
     }
