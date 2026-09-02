@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T08:34:49+00:00",
+  "generated_at": "2026-09-02T08:50:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-2932F05A30DC4DCB61373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 4 horas",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 4 horas",
+      "notified": false,
+      "first_seen": "2026-09-02 08:50:46"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Elastic",
       "location": "London",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/senior-analyst-sales-strategy-operations-london-185147",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 5",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788213318",
-      "notified": true,
-      "first_seen": "2026-08-31 23:08:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sales Sector Lead - Public Sector",
-      "company": "Elastic",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/elastic/sales-sector-lead-public-sector-395211",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale — unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 5",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
