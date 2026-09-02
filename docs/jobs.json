@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T21:07:35+00:00",
+  "generated_at": "2026-09-02T21:22:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador goanywhere",
+      "company": "HITSS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-goanywhere-1886761207",
+      "description": "Desarrollador goanywhere - HITSS - Bogotá - $5,5 a $6 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-02 21:22:21"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-09-01T11:58:58+00:00",
       "notified": true,
       "first_seen": "2026-09-01 15:40:55"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-DDA343EACCF8DAD361373E686DCF3405",
-      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 26 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 26 minutos",
-      "notified": false,
-      "first_seen": "2026-09-01 15:40:38"
     }
   ]
 }
