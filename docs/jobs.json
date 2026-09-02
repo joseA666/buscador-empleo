@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T19:07:42+00:00",
+  "generated_at": "2026-09-02T19:21:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar de farmacia",
+      "company": "FARMACIAS KIELSA",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1105939/vendedor-de-mostrador-interno.aspx",
+      "description": "Auxiliar de farmacia - FARMACIAS KIELSA - Francisco Morazán,Honduras - Expira en: 17/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 17/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-02 19:21:09"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T05:09:02+00:00",
-      "notified": true,
-      "first_seen": "2026-09-01 14:27:26"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Electrical Engineer",
-      "company": "ManTech",
-      "location": "USA",
-      "url": "https://remotejobs.org/remote-jobs/electrical-engineer-mantech-149908",
-      "description": "General information Requisition # R69656 Locations USA-Remote Work Posting Date 07/31/2026 Security Clearance Required Secret Remote Type Fully Remote Time Type Full time Description & Requirements Shape the future of defense with MANTECH! Join a team dedicated to safeguarding ou",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T04:20:08+00:00",
       "notified": true,
       "first_seen": "2026-09-01 14:27:26"
     }
