@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T05:42:14+00:00",
+  "generated_at": "2026-09-02T05:49:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Expression of Interest Canât see a role thatâs right for you",
+      "company": "C2 Group",
+      "location": "Greater Sydney Area, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-expression-of-interest-cant-see-a-role-thats-right-for-you-c2-group-1137251",
+      "description": "Expression of Interest Canât see a role thatâs right for you? Weâre always interested in hearing from talented people who would like to join our team. Click â Apply Now â to Submit an expression of interest and attach your CV to tell us about your experience, skills and",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-01T05:48:16+00:00",
+      "notified": false,
+      "first_seen": "2026-09-02 05:49:26"
+    },
     {
       "source": "hn_whoishiring",
       "source_label": "HN Who's Hiring",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-08-31T16:50:55+00:00",
-      "notified": true,
-      "first_seen": "2026-08-31 20:09:10"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Sales Development Representative",
-      "company": "Deepgram",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152222-sales-development-representative-9",
-      "description": "Company Overview Deepgram is the leading platform underpinning the emerging trillion-dollar Voice AI economy, providing real-time APIs for speech-to-text (STT), text-to-speech (TTS), and building production-grade voice agents at scale. More than 200,000 developers and 1,300+ orga",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-08-31T16:50:35+00:00",
       "notified": true,
       "first_seen": "2026-08-31 20:09:10"
     }
