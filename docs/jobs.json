@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T09:29:04+00:00",
+  "generated_at": "2026-09-02T09:42:26+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "FLM",
+      "company": "Hovis Bakeries",
+      "location": "Belfast, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-flm-hovis-bakeries-1137262",
+      "description": "Welcome to Hovis. We are the proud guardians of over 130 years of baking experience that make up our iconic and much-loved brand. We produce bread and bakery products created with Hovis goodness at the heart of each. We deliver around 1.3million loaves, every day of the week thro",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-01T09:33:41+00:00",
+      "notified": true,
+      "first_seen": "2026-09-02 09:42:25"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788217771",
-      "notified": false,
-      "first_seen": "2026-09-01 01:18:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent*in Marktforschung (m/w/d)",
-      "company": "Aktion Mensch e.V.",
-      "location": "Bonn",
-      "url": "https://www.arbeitnow.com/jobs/companies/aktion-mensch-ev/werkstudentin-marktforschung-bonn-105038",
-      "description": "WIR suchen dich! Suchst du nach einem Job, der nicht nur spannend ist, sondern auch einen echten positiven Beitrag zur Gesellschaft leistet? Werde Werkstudent*in im Team Marktforschung und hilf uns, wertvolle Erkenntnisse zu gewinnen, die unser Unternehmen und die Gesellschaft gl",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788217766",
       "notified": false,
       "first_seen": "2026-09-01 01:18:17"
     }
