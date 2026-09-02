@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-02T16:42:33+00:00",
+  "generated_at": "2026-09-02T16:50:08+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "JANITOR",
+      "company": "Buffalo Wild Wings - Fralich, Inc.",
+      "location": "Georgetown, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-janitor-buffalo-wild-wings-fralich-inc-1137266",
+      "description": "If youâre a high-energy leader who thrives in hospitality and enjoys working in a fast-paced sports environment, apply today! Please mention the word **RESOURCEFUL** and tag RMTcyLjE5MC45My4xMjg= when applying to show you read the job post completely (#RMTcyLjE5MC45My4xMjg=). T",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-01T16:49:47+00:00",
+      "notified": false,
+      "first_seen": "2026-09-02 16:50:08"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788264293",
       "notified": true,
       "first_seen": "2026-09-01 12:53:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Social Media Manager*in - Creative & Trends (wie/du/bist)",
-      "company": "Kruger Media GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/kruger-media-gmbh/junior-social-media-managerin-creative-trends-wie-du-bist-berlin-317937",
-      "description": "Du weißt, was auf TikTok gerade abgeht. Und warum? Du bist auf TikTok und Instagram zuhause. Du kennst die neuesten Trends, Creator und Formate, bevor sie bei den meisten Marken angekommen sind. Du hast ein Gespür dafür, was gerade relevant ist. Und noch wichtiger: Du kannst dara",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788265850",
-      "notified": false,
-      "first_seen": "2026-09-01 12:53:09"
     }
   ]
 }
