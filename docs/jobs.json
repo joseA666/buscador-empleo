@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T12:54:42+00:00",
+  "generated_at": "2026-09-03T13:09:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-64FE7008B0DAD11861373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 13 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 13:09:19"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor Movistar Remoto/ Sin Experiencia/ Damos equipos Pc + Internet + Sueldo Fijo en Planilla",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-movistar-remoto-sin-experiencia-damos-equipos-pc-internet-sueldo-fijo-en-planilla-ingreso-directo-en-lima-A7E4E9B194872E2661373E686DCF3405",
+      "description": "Asesor Movistar Remoto/ Sin Experiencia/ Damos equipos Pc + Internet + Sueldo Fijo en Planilla - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 14 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 14 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 13:09:19"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T17:29:00.000Z",
-      "notified": true,
-      "first_seen": "2026-09-01 23:20:44"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Ohr",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49525116",
-      "description": "Ohr | Data Engineer + Software Engineer | REMOTE (US) | $140K–$200K + Equity Ohr is reinventing industrial chemistry from the atom up—turning breakthrough science into industrial alchemy. We&#x27;re hiring two engineers to help build the computational infrastructure behind it: Da",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T17:32:15.000Z",
-      "notified": true,
-      "first_seen": "2026-09-01 23:20:44"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Runway",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49525135",
-      "description": "Runway | Remote (see below) | Full-time | https:&#x2F;&#x2F;runway.com&#x2F; Runway is building foundational Real-World Intelligence that can understand, simulate and act in the world. We offer products and services built on-top of this intelligence to empower individuals and org",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T17:34:00.000Z",
       "notified": true,
       "first_seen": "2026-09-01 23:20:44"
     }
