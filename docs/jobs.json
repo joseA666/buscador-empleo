@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T16:27:54+00:00",
+  "generated_at": "2026-09-03T16:39:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-E6FF051F851AB3D561373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 16:39:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T20:25:16.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 05:28:54"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Location: Florianopolis, Brazil (UTC-3) Remote: Yes Willing to relocate: Not yet Technologies: Node.js, TypeScript, Post",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49527716",
-      "description": "Location: Florianopolis, Brazil (UTC-3) Remote: Yes Willing to relocate: Not yet Technologies: Node.js, TypeScript, PostgreSQL, Azure, MongoDB Resumé&#x2F;CV: https:&#x2F;&#x2F;linkedin.com&#x2F;in&#x2F;f-heredia https:&#x2F;&#x2F;felipeheredia.com Email: hello [at] felipeheredia",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T20:28:41.000Z",
       "notified": true,
       "first_seen": "2026-09-02 05:28:54"
     }
