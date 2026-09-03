@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T16:48:04+00:00",
+  "generated_at": "2026-09-03T17:07:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de cumplimiento",
+      "company": "Confidencial",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1106277/jefe-de-cumplimiento.aspx",
+      "description": "Jefe de cumplimiento - Confidencial - Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 17:07:56"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente de calidad",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106268/gerente-de-ingenieria.aspx",
+      "description": "Gerente de calidad - Confidencial - Cortés,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 17:07:56"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-09-01T23:07:56.000Z",
       "notified": true,
       "first_seen": "2026-09-02 05:29:12"
-    },
-    {
-      "source": "computrabajo_mx",
-      "source_label": "Computrabajo México",
-      "title": "Desarrollador FrontEnd",
-      "company": "Confidencial",
-      "location": "San Luis Potosí, San Luis Potosí ($ 25,000.00 (Mensual))",
-      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-frontend-en-san-luis-potosi-F23C0471E5A7452761373E686DCF3405",
-      "description": "Desarrollador FrontEnd - Confidencial - San Luis Potosí, San Luis Potosí - $ 25,000.00 (Mensual) - Publicado: Hace 17 minutos",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "es",
-      "posted_at": "Hace 17 minutos",
-      "notified": true,
-      "first_seen": "2026-09-02 05:28:54"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Artificial Intelligence Underwriting Company (aiuc.com)",
-      "company": "Ver descripcion",
-      "location": "Ver descripcion",
-      "url": "https://news.ycombinator.com/item?id=49527452",
-      "description": "Artificial Intelligence Underwriting Company (aiuc.com) | MTS (full-stack + AI evals) | Full-time | Onsite (San Francisco) | $200K - $400K + equity We&#x27;re a team of frontier AI (including ex-Anthropic, METR, OpenAI), insurance, and governance people building incentive infrast",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T20:11:44.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 05:28:54"
     }
   ]
 }
