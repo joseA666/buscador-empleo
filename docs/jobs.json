@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T23:07:25+00:00",
+  "generated_at": "2026-09-03T23:21:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Software Engineer III (EHR Integration Team)",
+      "company": "Natera",
+      "location": "US Remote",
+      "url": "https://remotejobs.org/remote-jobs/software-engineer-iii-ehr-integration-team-natera",
+      "description": "Job Description We are seeking an enthusiastic Software Engineer III to join our EHR (Electronic Health Records) integration team. This is a golden opportunity for a software engineer looking to broaden their horizons and grow within an innovative and supportive environment. You ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-03T22:11:37+00:00",
+      "notified": true,
+      "first_seen": "2026-09-03 23:21:18"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-02T06:46:38+00:00",
-      "notified": true,
-      "first_seen": "2026-09-02 14:09:16"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Lead AI Solutions Architect, Customer Success",
-      "company": "Genesys",
-      "location": "Sweden",
-      "url": "https://remotejobs.org/remote-jobs/lead-ai-solutions-architect-customer-success-genesys",
-      "description": "Be the one building AI-powered experiences where they matter most. At Genesys, we help organizations create better customer experiences through AI-powered experience orchestration. Our platform connects people, systems, data and AI to help organizations deliver more personalized ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T04:59:24+00:00",
       "notified": true,
       "first_seen": "2026-09-02 14:09:16"
     }
