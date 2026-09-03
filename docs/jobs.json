@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T20:08:18+00:00",
+  "generated_at": "2026-09-03T20:23:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asesor de servicio (san pedro sula)",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106359/ejecutivo-de-servicio-al-cliente.aspx",
+      "description": "Asesor de servicio (san pedro sula) - Confidencial - Cortés,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 20:23:45"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13982,20 +13996,6 @@
       "location": "Cologne",
       "url": "https://www.arbeitnow.com/jobs/companies/qvest-group-gmbh/senior-project-controller-controlling-qvest-group-koln-cologne-395547",
       "description": "Als (Senior) Project Controller übernimmst du eine zentrale Rolle bei der finanziellen Steuerung unserer Projekte. Du analysierst Kennzahlen, Budgets und Projektentwicklungen und schaffst damit eine transparente Grundlage für fundierte Entscheidungen. Dabei arbeitest du eng mit d",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788334226",
-      "notified": false,
-      "first_seen": "2026-09-02 08:34:49"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Bilanzbuchhalter (m/w/d)",
-      "company": "Acandis GmbH",
-      "location": "Pforzheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/acandis-gmbh/bilanzbuchhalter-pforzheim-466056",
-      "description": "Medizintechnik Als Bilanzbuchhalter (m/w/d) unterstützen Sie unser Accounting-Team bei der laufenden Finanzbuchhaltung und der Erstellung von Monats- und Jahresabschlüssen. Sie übernehmen Verantwortung für die korrekte Bilanzierung und Verbuchung relevanter Geschäftsvorfälle und ",
       "reason": "",
       "language": "other",
       "posted_at": "1788334226",
