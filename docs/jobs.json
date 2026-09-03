@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T20:34:55+00:00",
+  "generated_at": "2026-09-03T20:47:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Job Summary",
+      "company": "WorkaJobs",
+      "location": "Ø¯Ø¨Ù, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-job-summary-workajobs-1137290",
+      "description": "Camp Boss PFC Group Full-time Dubai, United Arab Emirates 2w ago Please mention the word **LOVE** and tag RMTcyLjIwOC4xMjcuMjAz when applying to show you read the job post completely (#RMTcyLjIwOC4xMjcuMjAz). This is a beta feature to avoid spam applicants. Companies can search t",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-02T20:41:15+00:00",
+      "notified": false,
+      "first_seen": "2026-09-03 20:47:50"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-08-28T16:06:00+00:00",
       "notified": true,
       "first_seen": "2026-09-02 09:10:53"
-    },
-    {
-      "source": "remoteok",
-      "source_label": "RemoteOK",
-      "title": "HIGIENIZADOR DE CARROS BLUMENAU SC",
-      "company": "Localiza&amp;Co",
-      "location": "Blumenau, ",
-      "url": "https://remoteOK.com/remote-jobs/remote-higienizador-de-carros-blumenau-sc-localizaampco-1137269",
-      "description": "LOCALIZA&amp;CO Estar em constante evoluÃ§Ã£o nos trouxe atÃ© aqui. Ao lado de talentos e habilidades mÃºltiplas nos conectamos em busca da nossa motivaÃ§Ã£o: construir o futuro da mobilidade sustentÃ¡vel. Ã por meio da valorizaÃ§Ã£o da individualidade de cada um que impulsionam",
-      "reason": "",
-      "language": "other",
-      "posted_at": "2026-08-28T22:37:27+00:00",
-      "notified": false,
-      "first_seen": "2026-09-02 09:10:36"
     }
   ]
 }
