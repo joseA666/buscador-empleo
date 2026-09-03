@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T01:39:42+00:00",
+  "generated_at": "2026-09-03T01:58:36+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-lunes-a-sabado-bono-de-luz-y-comisiones-damos-pc-internet-ingreso-directo-en-lima-EB4C053D42C2F02061373E686DCF3405",
+      "description": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 10 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 01:58:36"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Bjak",
       "location": "United Kingdom",
       "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/chief-of-staff-london-220768",
-      "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to c",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788277204",
-      "notified": true,
-      "first_seen": "2026-09-01 16:57:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Chief Strategy Officer",
-      "company": "Bjak",
-      "location": "United Kingdom",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/bjak/chief-strategy-officer-london-255107",
       "description": "About ActAI There are over 5 billion users using basic applications today such email, notes, tasks, calendar and they're not AI-native. Our mission is to build proactive applications for anyone in the world, who are not used to complex prompting. We aim to bring intelligence to c",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
