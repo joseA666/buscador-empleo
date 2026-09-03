@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T08:52:00+00:00",
+  "generated_at": "2026-09-03T09:10:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Store Manager Port Macquarie",
+      "company": "Ampol",
+      "location": "Port Macquarie, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-port-macquarie-ampol-1137295",
+      "description": "Job Description At Ampol, Weâre Powered by People!â¯ Weâre redefining convenience, and as a Store Manager at Ampol, youâll be at the forefront of this transformation. As the face of our stores, you'll treat each location as your own, driving excellence and creating outstan",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-02T05:14:56+00:00",
+      "notified": true,
+      "first_seen": "2026-09-03 09:10:39"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T14:49:43+00:00",
-      "notified": true,
-      "first_seen": "2026-09-01 18:31:21"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Regional Sales Manager (Mar y Sierras)",
-      "company": "Halter",
-      "location": "Argentina",
-      "url": "https://jobicy.com/jobs/152339-regional-sales-manager-mar-y-sierras",
-      "description": "About Halter At Halter, we’re on a mission to enable farmers and graziers to run the most productive and sustainable operations. Our customers are using Halter to break free from the time-intensive constraints of conventional practices. Imagine watching 500 cattle stand up and wa",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T14:49:09+00:00",
       "notified": true,
       "first_seen": "2026-09-01 18:31:21"
     }
