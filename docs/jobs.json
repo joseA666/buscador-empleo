@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T14:48:33+00:00",
+  "generated_at": "2026-09-03T15:09:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador ios",
+      "company": "Empresa confidencial",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-ios-1886761459",
+      "description": "Desarrollador ios - Empresa confidencial - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-03 15:09:18"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13981,20 +13995,6 @@
       "company": "workato",
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-munich-20192",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Worka",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788306908",
-      "notified": true,
-      "first_seen": "2026-09-02 01:06:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Rust Developer",
-      "company": "workato",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/workato/senior-rust-developer-berlin-37807",
       "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h1&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;&lt;strong&gt;About Workato&lt;/strong&gt;&lt;/span&gt;&lt;/h1&gt; &lt;p&gt;&lt;span style=&quot;font-family: helvetica, arial, sans-serif;&quot;&gt;Worka",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
