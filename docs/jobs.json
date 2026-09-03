@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T17:35:20+00:00",
+  "generated_at": "2026-09-03T17:48:19+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Ejecutivo de sistemas y métricas",
+      "company": "BANCO DAVIVIENDA HONDURAS",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106309/analista-de-base-de-datos.aspx",
+      "description": "Ejecutivo de sistemas y métricas - BANCO DAVIVIENDA HONDURAS - Francisco Morazán,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 17:48:18"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Munich",
       "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-life-sciences-munich-36699",
       "description": "&lt;p&gt;FEQ327R413&lt;/p&gt; &lt;p&gt;As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization&#39;s most complex customer engagements. You drive consumption strategy, own executive-level relationships, and serve as the definitive t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788328515",
-      "notified": true,
-      "first_seen": "2026-09-02 06:52:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sr. Solutions Architect - Automotive",
-      "company": "databricks",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-automotive-munich-463574",
-      "description": "&lt;p&gt;FEQ327R414&lt;/p&gt; &lt;p&gt;As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization&#39;s most complex customer engagements. You drive consumption strategy, own executive-level relationships, and serve as the definitive t",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788328515",
