@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T22:48:00+00:00",
+  "generated_at": "2026-09-03T23:07:25+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-13B8F6E615DF8BB761373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 13 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 23:07:25"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Public Area Attendant",
+      "company": "Four Seasons",
+      "location": "Nassau, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-public-area-attendant-four-seasons-1137297",
+      "description": "About Four Seasons Four Seasons is powered by our people. We are a collective of individuals who crave to become better, to push ourselves to new heights and to treat each other as we wish to be treated in return. Our team members around the world create amazing experiences for o",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-02T22:54:41+00:00",
+      "notified": false,
+      "first_seen": "2026-09-03 23:07:25"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-09-02T04:59:24+00:00",
       "notified": true,
       "first_seen": "2026-09-02 14:09:16"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Ubuntu Core Software Engineer",
-      "company": "Canonical Ltd.",
-      "location": "EMEA",
-      "url": "https://remotejobs.org/remote-jobs/ubuntu-core-software-engineer-canonical",
-      "description": "Canonical is a leading provider of open source software and operating systems to the global enterprise and technology markets. Our platform, Ubuntu, is very widely used in breakthrough enterprise initiatives such as public cloud, data science, AI, engineering innovation, and IoT.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T04:55:26+00:00",
-      "notified": true,
-      "first_seen": "2026-09-02 14:09:16"
-    },
-    {
-      "source": "computrabajo_co",
-      "source_label": "Computrabajo Colombia",
-      "title": "desarrollador software",
-      "company": "DASHFLEET S.A.S.",
-      "location": "Bogotá, D.C., Bogotá, D.C. ($ 4.000.000,00 (Mensual))",
-      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-software-desarrollador-full-stack-junior-en-bogota-dc-778F1A822628F37E61373E686DCF3405",
-      "description": "desarrollador software - DASHFLEET S.A.S. - Bogotá, D.C., Bogotá, D.C. - $ 4.000.000,00 (Mensual) - Publicado: Hace 9 minutos",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "es",
-      "posted_at": "Hace 9 minutos",
-      "notified": true,
-      "first_seen": "2026-09-02 13:38:18"
     }
   ]
 }
