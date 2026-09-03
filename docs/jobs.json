@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T19:48:15+00:00",
+  "generated_at": "2026-09-03T20:08:18+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Driver",
+      "company": "St. George's University",
+      "location": "St. George's, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-driver-st-georges-university-1137289",
+      "description": "St. Georgeâs University invites applicants for the position of DRIVER within the Transportation Department Job Description Objective Drivers within the transportation department are responsible for operating SGU buses to transport students, faculty, staff, and other authorized ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-02T20:01:08+00:00",
+      "notified": false,
+      "first_seen": "2026-09-03 20:08:18"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788334226",
-      "notified": false,
-      "first_seen": "2026-09-02 08:34:49"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Personalreferent (m/w/d)",
-      "company": "eder - Agentur für Produktkommunikation",
-      "location": "Ostfildern",
-      "url": "https://www.arbeitnow.com/jobs/companies/eder-agentur-fur-produktkommunikation/personalreferent-ostfildern-129076",
-      "description": "In der Agentur eder legen wir bereits seit über 50 Jahren den Fokus auf professionelle Produktkommunikation. Für internationale Kunden aus der Automobil- und Industriebranche erschaffen wir State-of-the-Art Kommunikationsmittel für das digitale Vermarkten, Erklären und Verkaufen ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788334225",
       "notified": false,
       "first_seen": "2026-09-02 08:34:49"
     }
