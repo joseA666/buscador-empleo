@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T16:39:17+00:00",
+  "generated_at": "2026-09-03T16:48:04+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Cajer@",
+      "company": "Confidencial",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1106261/cajero.aspx",
+      "description": "Cajer@ - Confidencial - Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 16:48:04"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de seguridad . tocoa colon",
+      "company": "Dinant",
+      "location": "Colón,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106258/supervisor-de-seguridad.aspx",
+      "description": "Supervisor de seguridad . tocoa colon - Dinant - Colón,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 16:48:04"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T20:11:44.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 05:28:54"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Newtwen",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49527588",
-      "description": "Newtwen | Backend &amp; Cloud Platform Engineer | REMOTE (EU) | Full-time | €70k–€90k+ Newtwen is building a cloud platform that brings complex physics and data-driven intelligence directly onto microcontrollers, generating ultra-fast runtime firmware that executes in just a few ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T20:20:25.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 05:28:54"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Paramark",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49527646",
-      "description": "Paramark | Software Engineer (L4) | San Francisco HYBRID (3 days&#x2F;wk) or REMOTE (US) | Full-time | $199K–$249K + equity Paramark helps Marketing teams optimize spend across all of their channels and programs. There are proven scientific ways to do this, but they are poorly un",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T20:25:16.000Z",
       "notified": true,
       "first_seen": "2026-09-02 05:28:54"
     }
