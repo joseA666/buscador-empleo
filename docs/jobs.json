@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-03T05:32:07+00:00",
+  "generated_at": "2026-09-03T05:58:37+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Gana mas de 2000 trabaja solo lunes a viernes full remoto/Ingreso directo",
+      "company": "Atento Perú",
+      "location": "Piura, Piura (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-gana-mas-de-2000-trabaja-solo-lunes-a-viernes-full-remotoingreso-directo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-piura-3BD06E4CD3A2593A61373E686DCF3405",
+      "description": "Gana mas de 2000 trabaja solo lunes a viernes full remoto/Ingreso directo - Atento Perú - Piura, Piura - Remoto - Publicado: Hace 19 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 19 minutos",
+      "notified": false,
+      "first_seen": "2026-09-03 05:58:36"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-01T16:18:19.000Z",
-      "notified": true,
-      "first_seen": "2026-09-01 17:12:30"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "WorkHero https:&#x2F;&#x2F;workhero.pro",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49524167",
-      "description": "WorkHero https:&#x2F;&#x2F;workhero.pro | Senior SWE, AI Automation Engr, Senior PM | REMOTE (US+INTL for eng, US for product &amp; automations) WorkHero is building the AI-powered back office for the skilled trades, starting with HVAC. Small contractors spend their nights on reb",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-01T16:23:18.000Z",
       "notified": true,
       "first_seen": "2026-09-01 17:12:30"
     }
