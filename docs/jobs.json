@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T17:48:19+00:00",
+  "generated_at": "2026-09-03T18:12:30+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asesor de ventas institucional tegucigalpa",
+      "company": "GRUPO MACDEL",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106320/ejecutivo-de-ventas-industriales.aspx",
+      "description": "Asesor de ventas institucional tegucigalpa - GRUPO MACDEL - Francisco Morazán,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 18:12:30"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Grades Person",
+      "company": "Wilco Contractors Northwest Inc.",
+      "location": "Edmonton, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-grades-person-wilco-contractors-northwest-inc-1137293",
+      "description": "Are you an enthusiastic and skilled individual looking to take your career to the next level ? See what I did there... Join us at Wilco Contractors Northwest Inc as a Gradesperson ! In this role, you will work closely with the Operators and Foreman to interpret and follow project",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-02T17:54:33+00:00",
+      "notified": false,
+      "first_seen": "2026-09-03 18:12:30"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1788328830",
-      "notified": true,
-      "first_seen": "2026-09-02 06:52:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Projekttechniker/in Blasformen (m/w/d)",
-      "company": "Mauser Packaging Solutions",
-      "location": "Hamburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/mauser-packaging-solutions/projekttechniker-in-blasformen-hamburg-8210",
-      "description": "Mauser Packaging Solutions ist ein globaler Marktführer von hochwertigen und wegweisenden Verpackungen für industrielle Zwecke. Das Leistungsspektrum umfasst ein vielfältiges Produktportfolio, zu dem Kunststoffverpackungen, Fibertrommeln, Stahlfässer, Intermediate Bulk Container ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788328830",
-      "notified": true,
-      "first_seen": "2026-09-02 06:52:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sr. Solutions Architect - Life Sciences",
-      "company": "databricks",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/databricks/sr-solutions-architect-life-sciences-munich-36699",
-      "description": "&lt;p&gt;FEQ327R413&lt;/p&gt; &lt;p&gt;As a Sr. Solutions Architect, you are an expert-level technical leader responsible for the organization&#39;s most complex customer engagements. You drive consumption strategy, own executive-level relationships, and serve as the definitive t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788328515",
       "notified": true,
       "first_seen": "2026-09-02 06:52:37"
     }
