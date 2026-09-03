@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-03T20:23:45+00:00",
+  "generated_at": "2026-09-03T20:34:55+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Trainee AI Engineering in der Unternehmensberatung",
+      "company": "niologic",
+      "location": "Hürth",
+      "url": "https://www.arbeitnow.com/jobs/companies/niologic/trainee-ai-engineering-in-der-unternehmensberatung-hurth-52872",
+      "description": "START YOUR CAREER WITH OUR CONSULTING ACTIVITIES IN MACHINE LEARNING! - Bei Niologic bauen wir das führende Beratungsunternehmen für Product Engineering für KI und Location Intelligence in Deutschland auf. Durch die Kombination der Megatrends KI und Location Intelligence wollen w",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788465627",
+      "notified": true,
+      "first_seen": "2026-09-03 20:34:54"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Recepcionista",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106370/recepcionista.aspx",
+      "description": "Recepcionista - Confidencial - Francisco Morazán,Honduras - Expira en: 18/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 18/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-03 20:34:37"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-08-28T22:37:27+00:00",
       "notified": false,
       "first_seen": "2026-09-02 09:10:36"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-2932F05A30DC4DCB61373E686DCF3405",
-      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 4 horas",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 4 horas",
-      "notified": false,
-      "first_seen": "2026-09-02 08:50:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Project Controller (m/w/d) – Controlling | Qvest Group | Köln",
-      "company": "Qvest Group GmbH",
-      "location": "Cologne",
-      "url": "https://www.arbeitnow.com/jobs/companies/qvest-group-gmbh/senior-project-controller-controlling-qvest-group-koln-cologne-395547",
-      "description": "Als (Senior) Project Controller übernimmst du eine zentrale Rolle bei der finanziellen Steuerung unserer Projekte. Du analysierst Kennzahlen, Budgets und Projektentwicklungen und schaffst damit eine transparente Grundlage für fundierte Entscheidungen. Dabei arbeitest du eng mit d",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788334226",
-      "notified": false,
-      "first_seen": "2026-09-02 08:34:49"
     }
   ]
 }
