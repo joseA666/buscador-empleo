@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-04T15:47:34+00:00",
+  "generated_at": "2026-09-04T16:09:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Back End .NET Senior, experto en IA",
+      "company": "Recruiting Colombia SAS",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-back-end-net-senior-experto-en-ia-remoto-en-bogota-dc-38BF7C30F02C476F61373E686DCF3405",
+      "description": "Desarrollador Back End .NET Senior, experto en IA - Recruiting Colombia SAS - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 13 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": true,
+      "first_seen": "2026-09-04 16:09:42"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "QA Engineer",
+      "company": "SunnyData",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-qa-engineer-sunnydata-1137300",
+      "description": "About SunnyData At SunnyData, a leading DataBricks technology partner, our mission is to empower customers with scalable architectures, robust data engineering pipelines, seamless data consumption layers, and advanced ML and AI applications. As a QA Engineer with a strong focus o",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-03T16:00:05+00:00",
+      "notified": true,
+      "first_seen": "2026-09-04 16:09:42"
+    },
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Fullstack developer ingles b2(angular- c# node.js python) bogota",
+      "company": "ADECCO COLOMBIA S A",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/fullstack-developer-ingles-b2angular-c-nodejs-python-bogota-1886762127",
+      "description": "Fullstack developer ingles b2(angular- c# node.js python) bogota - ADECCO COLOMBIA S A - Bogotá - $3,5 a $4 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-04 16:09:42"
+    },
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Store Manager BOSS Store Plaza Las Americas",
+      "company": "HUGO BOSS",
+      "location": "San Juan, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-store-manager-boss-store-plaza-las-americas-hugo-boss-1137301",
+      "description": "HUGO BOSS is one of the leading fashion and lifestyle companies in the premium segment with over 19,000 employees worldwide. As versatile as we are, we are united by a common goal: We love fashion, we change fashion! Become a brand ambassador and be part of a team that works with",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-03T15:48:13+00:00",
+      "notified": false,
+      "first_seen": "2026-09-04 16:09:24"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-09-03T04:34:53+00:00",
       "notified": true,
       "first_seen": "2026-09-03 06:34:10"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Network Engineer",
-      "company": "Sequoia Connect",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/network-engineer-sequoia-connect-himala",
-      "description": "Description At Sequoia Connect, we are a Talent-First Technology Ecosystem that redefines how elite professionals interact with the global digital landscape. We move beyond traditional models to act as a catalyst for the top 1% of global talent, connecting human potential with co",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-03T04:27:00+00:00",
-      "notified": true,
-      "first_seen": "2026-09-03 06:34:10"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Application Security Engineer",
-      "company": "AlphaSense",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/senior-application-security-engineer-alphasense",
-      "description": "About AlphaSense: The world’s most sophisticated companies rely on AlphaSense to remove uncertainty from decision-making. With market intelligence and search built on proven AI, AlphaSense delivers insights that matter from content you can trust. Our universe of public and privat",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-03T04:26:57+00:00",
-      "notified": true,
-      "first_seen": "2026-09-03 06:34:10"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "INGENIERO/A DE IA (TELETRABAJO)",
-      "company": "IRIUM",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/ingenieroa-de-ia-teletrabajo-irium",
-      "description": "En IRIUM nos preocupamos porque no dejes de perseguir tus sueños. Prepárate para conquistar tus metas, y ten siempre presente disfrutar del camino. Buscamos un/a Ingeniero/a de IA entre 6 y 9 años de experiencia para diseñar, desarrollar e implementar soluciones avanzadas de IA/M",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "es",
-      "posted_at": "2026-09-03T04:25:41+00:00",
-      "notified": true,
-      "first_seen": "2026-09-03 06:34:10"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Manager (DevTools & AI Reliability, remote)",
-      "company": "Checkly",
-      "location": "Remote (UTC-3 to UTC+3)",
-      "url": "https://www.arbeitnow.com/jobs/companies/checkly/product-manager-devtools-ai-reliability-remote-berlin-99554",
-      "description": "(Fully remote, async-first, DevTools SaaS, 40h/week, time zones: UTC-3 to UTC+3) The best developers don't wait for a customer to tell them something's broken. They catch it first, in the pull request, in staging, or in the checkout flow at 3am, before a single user notices. That",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788414010",
-      "notified": true,
-      "first_seen": "2026-09-03 06:33:53"
     }
   ]
 }
