@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T23:07:28+00:00",
+  "generated_at": "2026-09-04T23:20:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s2000-a-mas-en-lima-865FFA00E2458F4F61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 10 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 23:20:57"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-09-02T16:00:07+00:00",
       "notified": false,
       "first_seen": "2026-09-03 16:10:22"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Lead DevOps Engineer",
-      "company": "Particle41",
-      "location": "USA - Remote ",
-      "url": "https://remotejobs.org/remote-jobs/lead-devops-engineer-particle41",
-      "description": "Lead DevOps Engineer As a Lead DevOps Engineer at Particle41, you will own the DevOps strategy and the design, automation, and operation of the cloud infrastructure that powers our clients’ most complex digital projects. Working closely with cross-functional teams, you will champ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-03T14:54:00+00:00",
-      "notified": true,
-      "first_seen": "2026-09-03 15:40:39"
     }
   ]
 }
