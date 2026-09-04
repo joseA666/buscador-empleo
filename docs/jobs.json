@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T13:36:07+00:00",
+  "generated_at": "2026-09-04T13:47:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-F77E7CA4E477E75D61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 13:47:57"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s2000-a-mas-en-lima-D4D9FCD636DDF86861373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 13:47:57"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "Hace 1 hora",
       "notified": false,
       "first_seen": "2026-09-03 03:06:15"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.130,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-lunes-a-sabado-bono-de-luz-y-comisiones-damos-pc-internet-ingreso-directo-en-lima-EB4C053D42C2F02061373E686DCF3405",
-      "description": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet - Covisian Perú - Lima, Lima - S/. 1.130,00 (Mensual) - Publicado: Hace 10 minutos",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 10 minutos",
-      "notified": false,
-      "first_seen": "2026-09-03 01:58:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive, Strategic (EMEA)",
-      "company": "Docker",
-      "location": "England",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/docker/account-executive-strategic-emea-england-390978",
-      "description": "About Docker Docker has been one of the most loved brands in developer tooling, trusted by more than 20 million monthly users and over 20 billion container image pulls. From solo founders to the world's largest companies, developers rely on Docker to build, share, and run their a",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788396012",
-      "notified": true,
-      "first_seen": "2026-09-03 01:39:42"
     }
   ]
 }
