@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-04T22:08:07+00:00",
+  "generated_at": "2026-09-04T22:22:19+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Full remoto call center ventas portabilidad experienica minima/lunes a sabado con ingreso dierecto",
+      "company": "Confidencial",
+      "location": "Ancon, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-call-center-ventas-portabilidad-experienica-minimalunes-a-sabado-con-ingreso-dierecto-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-ancon-0D66ED9B205E11D061373E686DCF3405",
+      "description": "Full remoto call center ventas portabilidad experienica minima/lunes a sabado con ingreso dierecto - Confidencial - Ancon, Lima - Remoto - Publicado: Hace 2 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 2 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 22:22:18"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de tienda (san esteban)",
+      "company": "Confidencial",
+      "location": "Olancho,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106823/administrador.aspx",
+      "description": "Jefe de tienda (san esteban) - Confidencial - Olancho,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:22:18"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de tienda (guaimaca)",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106816/administrador.aspx",
+      "description": "Jefe de tienda (guaimaca) - Confidencial - Francisco Morazán,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:22:18"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar de recursos humanos",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106811/analista-de-recursos-humanos.aspx",
+      "description": "Auxiliar de recursos humanos - Confidencial - Cortés,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:22:18"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13945,62 +14001,6 @@
       "posted_at": "1788444269",
       "notified": true,
       "first_seen": "2026-09-03 14:28:09"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "PHP Entwickler (m/w/d)",
-      "company": "hubside - Die Recruitingwerkstatt",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/hubside-die-recruitingwerkstatt/php-entwickler-munich-128520",
-      "description": "Du bist leidenschaftlicher Softwareentwickler mit Erfahrung in PHP und modernen Web-Technologien? Du möchtest in einem agilen Team innovative Features entwickeln, bestehende Prozesse hinterfragen und aktiv an Weiterentwicklungen mitwirken? Dann bewirb Dich jetzt und wir stellen D",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788444041",
-      "notified": true,
-      "first_seen": "2026-09-03 14:28:09"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Ingeniero de procesos y controles administrativos",
-      "company": "CASAPAN",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1106166/ingeniero-de-planta-y-proceso.aspx",
-      "description": "Ingeniero de procesos y controles administrativos - CASAPAN - Francisco Morazán,Honduras - Expira en: 14/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 14/10/2026",
-      "notified": false,
-      "first_seen": "2026-09-03 14:27:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Product Manager Integration (m/w/d)",
-      "company": "Epay",
-      "location": "Martinsried, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/epay/product-manager-integration-martinsried-380128",
-      "description": "Als Product Manager Integration (m/w/d) gestaltest du die technische Anbindung unserer Produkte und Services aktiv mit und sorgst dafür, dass Integrationsprojekte effizient und erfolgreich umgesetzt werden. Du bewegst dich an der Schnittstelle von Produktmanagement, IT und Kund*i",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788445216",
-      "notified": false,
-      "first_seen": "2026-09-03 14:27:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Analyst Payment (m/w/d)",
-      "company": "Epay",
-      "location": "Martinsried, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/epay/data-analyst-payment-martinsried-44388",
-      "description": "Als Data Analyst Payment (m/w/d) bist du Teil unseres Acquiring Teams und sorgst dafür, dass datenbasierte Entscheidungen auf einer verlässlichen und transparenten Grundlage getroffen werden. Du schaffst Klarheit in komplexen Zusammenhängen, machst Geschäftsentwicklungen messbar ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788445216",
-      "notified": false,
-      "first_seen": "2026-09-03 14:27:51"
     }
   ]
 }
