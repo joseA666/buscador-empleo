@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T20:47:52+00:00",
+  "generated_at": "2026-09-04T21:07:19+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.200,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s2000-a-mas-en-lima-227011046F32452761373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana S/2000 a más - Covisian Perú - Lima, Lima - S/. 1.200,00 (Mensual) - Publicado: Hace 1 minuto",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 1 minuto",
+      "notified": false,
+      "first_seen": "2026-09-04 21:07:19"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar contable tegucigalpa",
+      "company": "COFINTER",
+      "location": "Honduras",
+      "url": "https://www.tecoloco.com.hn/1106765/auxiliar-contable.aspx",
+      "description": "Auxiliar contable tegucigalpa - COFINTER - Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 21:07:19"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788441616",
       "notified": false,
       "first_seen": "2026-09-03 14:27:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Fachinformatiker/-in für Anwendungsentwicklung – Vollzeit (m/w/d)",
-      "company": "Schulze Marketing GmbH",
-      "location": "Berlin-Lichtenberg",
-      "url": "https://www.arbeitnow.com/jobs/companies/schulze-marketing-gmbh/fachinformatiker-in-fur-anwendungsentwicklung-vollzeit-berlin-lichtenberg-188608",
-      "description": "Wir suchen neue Mitarbeiter (m/w/d) im Bereich Fachinformatik – Anwendungsentwicklung, die ihre Stärken gezielt einbringen und gemeinsam mit uns daran arbeiten, unser Unternehmen sowie die deutsche Industrie nachhaltig voranzubringen. Als Fachinformatiker/-in für Anwendungsentwic",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788441616",
-      "notified": false,
-      "first_seen": "2026-09-03 14:27:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Digital Marketing Specialist",
-      "company": "ThriveCart",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/thrivecart/digital-marketing-specialist-london-499887",
-      "description": "About Piktochart: Piktochart is a web-based graphic design platform that empowers users to create professional-grade visuals, including infographics, presentations, and videos, without the need for extensive design experience. Founded in 2011, Piktochart has grown into a global t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788438636",
-      "notified": true,
-      "first_seen": "2026-09-03 13:26:46"
     }
   ]
 }
