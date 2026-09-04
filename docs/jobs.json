@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T18:28:07+00:00",
+  "generated_at": "2026-09-04T18:40:33+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Salesforce Sales Cloud Developer",
+      "company": "Gi Group Colombia",
+      "location": "Bogotá, D.C., Bogotá, D.C. (Remoto)",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-salesforce-sales-cloud-developer-apex-flow-integraciones-los-en-bogota-dc-49B8FA29DD3BD7D361373E686DCF3405",
+      "description": "Salesforce Sales Cloud Developer - Gi Group Colombia - Bogotá, D.C., Bogotá, D.C. - Remoto - Publicado: Hace 4 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 4 minutos",
+      "notified": true,
+      "first_seen": "2026-09-04 18:40:33"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Wattfox",
       "location": "Freiburg",
       "url": "https://www.arbeitnow.com/jobs/companies/wattfox/werkstudent-kundenservice-spatschicht-samstagsdienst-freiburg-466822",
-      "description": "Gemeinsam großartig – werde Teil des Teams Als Werkstudent Kundenservice | Spätschicht &amp; Samstagsdienst (m/w/d) bei WattFox trägst du maßgeblich zu unserem Erfolg bei, indem du die Projekte unserer Kundschaft mit ihnen telefonisch so detailliert ausarbeitest, dass sie folgend",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788433765",
-      "notified": true,
-      "first_seen": "2026-09-03 11:34:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Kundenservice | Spätschicht & Samstagsdienst (m/w/d)",
-      "company": "Wattfox",
-      "location": "Home Office Deutschland",
-      "url": "https://www.arbeitnow.com/jobs/companies/wattfox/werkstudent-kundenservice-spatschicht-samstagsdienst-home-office-deutschland-313957",
       "description": "Gemeinsam großartig – werde Teil des Teams Als Werkstudent Kundenservice | Spätschicht &amp; Samstagsdienst (m/w/d) bei WattFox trägst du maßgeblich zu unserem Erfolg bei, indem du die Projekte unserer Kundschaft mit ihnen telefonisch so detailliert ausarbeitest, dass sie folgend",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
