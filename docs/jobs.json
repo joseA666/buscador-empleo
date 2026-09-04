@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T03:29:40+00:00",
+  "generated_at": "2026-09-04T03:43:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Police Officer",
+      "company": "Scottish Police Authority",
+      "location": "Kirkwall, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-police-officer-scottish-police-authority-1137305",
+      "description": "The skills you need to be a police officer might be the ones you already have. . Being a police officer is less about formal qualifications and all about the skills you already have, skills that get added to every day. Those skills come from the jobs you do, the community you liv",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-03T03:36:21+00:00",
+      "notified": false,
+      "first_seen": "2026-09-04 03:43:47"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788364530",
-      "notified": true,
-      "first_seen": "2026-09-02 16:28:45"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer, Release Engineering",
-      "company": "mozilla",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/mozilla/software-engineer-release-engineering-177435",
-      "description": "&lt;div class=&quot;gmail_default&quot; style=&quot;font-size: small;&quot;&gt; &lt;div&gt; &lt;p&gt;&lt;strong&gt;Why Mozilla?&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;Mozilla Corporation is the non-profit-backed technology company that h",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788364518",
       "notified": true,
       "first_seen": "2026-09-02 16:28:45"
     }
