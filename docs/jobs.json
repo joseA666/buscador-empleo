@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T21:47:45+00:00",
+  "generated_at": "2026-09-04T22:08:07+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auxiliar contable de ingresos",
+      "company": "GRUPO OPSA",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106806/asistente-contable.aspx",
+      "description": "Auxiliar contable de ingresos - GRUPO OPSA - Cortés,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:08:07"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788445216",
-      "notified": false,
-      "first_seen": "2026-09-03 14:27:51"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) HR Manager (m/w/d) in Teilzeit (30h/Woche) befristet für 1,5 Jahre",
-      "company": "LichtBlick Energy as a Service GmbH",
-      "location": "Köln Zentrale",
-      "url": "https://www.arbeitnow.com/jobs/companies/lichtblick-energy-as-a-service-gmbh/senior-hr-manager-in-teilzeit-30h-woche-befristet-fur-15-jahre-koln-zentrale-135577",
-      "description": "Deine Aufgaben Du berätst und unterstützt unsere Führungskräfte als vertrauensvolle:r Sparringspartner:in in allen strategischen und operativen HR Fragestellungen . Du betreust unsere Mitarbeitenden entlang des gesamten Employee Life Cycles Du gestaltest und begleitest Organisati",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788444572",
       "notified": false,
       "first_seen": "2026-09-03 14:27:51"
     }
