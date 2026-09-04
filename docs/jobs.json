@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T22:47:48+00:00",
+  "generated_at": "2026-09-04T23:07:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente logístico de importaciones marítimas exp sistema sarah",
+      "company": "Matus International",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106815/gerente-de-operaciones-y-logistica.aspx",
+      "description": "Gerente logístico de importaciones marítimas exp sistema sarah - Matus International - Cortés,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 23:07:28"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-09-03T14:54:00+00:00",
       "notified": true,
       "first_seen": "2026-09-03 15:40:39"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "ECommerce Acceleration Manager",
-      "company": "Luzern eCommerce Group",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/luzern-ecommerce-group/ecommerce-acceleration-manager-london-81283",
-      "description": "Join Luzern eCommerce: Powering the World’s Most Ambitious Brands Step into the world of limitless possibilities with Luzern eCommerce, where we’ve been redefining online retail since 2003. We partner with global icons like On Running, Wella, Nestlé, Mattel, Panasonic, HTC, and P",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788447622",
-      "notified": true,
-      "first_seen": "2026-09-03 15:28:37"
     }
   ]
 }
