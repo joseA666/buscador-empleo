@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T14:47:44+00:00",
+  "generated_at": "2026-09-04T15:08:32+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Product owner regional de canales digitales",
+      "company": "GRUPO 3C",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106569/ingeniero-en-sistemas.aspx",
+      "description": "Product owner regional de canales digitales - GRUPO 3C - Francisco Morazán,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 15:08:31"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788406809",
-      "notified": true,
-      "first_seen": "2026-09-03 04:42:33"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior People Partner – Product & Functions",
-      "company": "M Kopa",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/m-kopa/senior-people-partner-product-functions-london-319440",
-      "description": "Join our growing People team! We're hiring a Senior People Partner to own the people agenda for our Product organisation and a set of global functions sitting at the centre of how M-KOPA operates The Impact 🌍 Your leadership will directly shape how we build, retain and grow the e",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788406806",
       "notified": true,
       "first_seen": "2026-09-03 04:42:33"
     }
