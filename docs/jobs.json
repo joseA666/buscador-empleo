@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T17:34:01+00:00",
+  "generated_at": "2026-09-04T17:48:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto desde casa ventas portabilidad/ horario a escoger/ingreso directo",
+      "company": "Atento Perú",
+      "location": "Chiclayo, Lambayeque (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-desde-casa-ventas-portabilidad-horario-a-escogeringreso-directo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-chiclayo-9C77BBFB7C2DBE5E61373E686DCF3405",
+      "description": "Remoto desde casa ventas portabilidad/ horario a escoger/ingreso directo - Atento Perú - Chiclayo, Lambayeque - Remoto - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 17:48:55"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Digitador de bodega san pedro sula",
+      "company": "GRUPO GANALA HOLDINGS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106673/digitador.aspx",
+      "description": "Digitador de bodega san pedro sula - GRUPO GANALA HOLDINGS - Cortés,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 17:48:55"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788426033",
-      "notified": false,
-      "first_seen": "2026-09-03 09:28:20"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Demand Generation Lead (all genders) SaaS/Fintech",
-      "company": "mika",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/mika/demand-generation-lead-all-genders-saas-fintech-berlin-461343",
-      "description": "There are millions of small and medium businesses in Germany, and each one loses time and money to the same unavoidable work: bookkeeping, VAT returns, annual accounts. It has to be done, nobody enjoys it, and it costs more than it should. mika takes that work off them. Complianc",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788426032",
-      "notified": false,
-      "first_seen": "2026-09-03 09:28:20"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Vertriebsassistent (m/w/d)",
-      "company": "Dein Finanzmanagment",
-      "location": "Regensburg",
-      "url": "https://www.arbeitnow.com/jobs/companies/dein-finanzmanagment/vertriebsassistent-regensburg-280278",
-      "description": "Wir sind ein Dienstleistungsunternehmen im Bereich Kostenoptimierung und Mandantenbetreuung. Unser Fokus liegt darauf, Privatpersonen dabei zu unterstützen, ihre Ausgaben strukturiert zu erfassen und Einsparpotenziale zu identifizieren. Aufgaben Deine Aufgaben Unterstützung unser",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788424240",
       "notified": false,
       "first_seen": "2026-09-03 09:28:20"
     }
