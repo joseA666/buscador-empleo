@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T02:50:31+00:00",
+  "generated_at": "2026-09-04T03:11:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-349BEE9CEE7063E361373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 17 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 17 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 03:11:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-02T12:28:59+00:00",
-      "notified": true,
-      "first_seen": "2026-09-02 15:51:57"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Sales Engineer, EMEA",
-      "company": "Sonatype",
-      "location": "Germany,  Singapore,  UK",
-      "url": "https://jobicy.com/jobs/152363-sales-engineer-emea-2",
-      "description": "Sonatype is the software supply chain security company. Sonatype is accelerating the future of agentic software development. As developers and AI agents build faster than ever, enterprises need a new level of control, visibility, and confidence at the moment software is assembled",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T12:28:14+00:00",
       "notified": true,
       "first_seen": "2026-09-02 15:51:57"
     }
