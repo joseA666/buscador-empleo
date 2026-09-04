@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T22:35:06+00:00",
+  "generated_at": "2026-09-04T22:47:48+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Técnico mecánico automotriz con experiencia en montacargas de combustión",
+      "company": "Disagro",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106834/supervisor-de-taller-automotriz.aspx",
+      "description": "Técnico mecánico automotriz con experiencia en montacargas de combustión - Disagro - Cortés,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:47:48"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Oficial de recursos humanos tegucigalpa",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106830/reclutador.aspx",
+      "description": "Oficial de recursos humanos tegucigalpa - Confidencial - Francisco Morazán,Honduras - Expira en: 19/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 19/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-04 22:47:48"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788447622",
       "notified": true,
       "first_seen": "2026-09-03 15:28:37"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Sales",
-      "company": "Bifrost Defence",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/bifrost-defence/head-of-sales-munich-406210",
-      "description": "Thor's Haven | No mission should fail for lack of infrastructure | Munich Thor's Haven keeps critical infrastructure running wherever it's needed most, proven in the hardest conditions there are. Our mobile, trailer-based platforms (command posts, medical cabinets, drone control ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788447624",
-      "notified": true,
-      "first_seen": "2026-09-03 15:28:20"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Commercial Account Executive",
-      "company": "Fastly",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/fastly/commercial-account-executive-munich-130809",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Fastly helps people stay better connected with the things they love. Fastly’s edge cloud platform enables customers to create great digital experiences quickly, securely, and reliably by processing, serving, and securing our cus",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788447340",
-      "notified": true,
-      "first_seen": "2026-09-03 15:28:20"
     }
   ]
 }
