@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-04T14:08:21+00:00",
+  "generated_at": "2026-09-04T14:25:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor de ventas/RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-de-ventasre-mo-to-damos-pc-internet-bono-de-luz-gana-1800-a-mas-en-lima-CFEF00BDDF612DAB61373E686DCF3405",
+      "description": "Asesor de ventas/RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más - Confidencial - Lima, Lima - Remoto - Publicado: Hace 13 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": false,
+      "first_seen": "2026-09-04 14:24:59"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788401343",
       "notified": false,
       "first_seen": "2026-09-03 03:06:16"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-3B2EA47A4D7BF0C961373E686DCF3405",
-      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 1 hora",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Hace 1 hora",
-      "notified": false,
-      "first_seen": "2026-09-03 03:06:15"
     }
   ]
 }
