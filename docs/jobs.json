@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T13:08:35+00:00",
+  "generated_at": "2026-09-04T13:26:34+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Python &#x2F; Backend &#x2F; AI Engineer — Remote &#x2F; Relocation Experienced Python engineer with 10+ years in softwa",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49562366",
+      "description": "Python &#x2F; Backend &#x2F; AI Engineer — Remote &#x2F; Relocation Experienced Python engineer with 10+ years in software engineering. Strong experience with Python, Django, FastAPI, Linux, AWS, Docker, MySQL, microservices, CI&#x2F;CD and GenAI&#x2F;RAG. I also run Compute Labs",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T09:30:35.000Z",
+      "notified": true,
+      "first_seen": "2026-09-04 13:26:34"
+    },
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Crossref",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49562582",
+      "description": "Crossref | Head of Infrastructure Services | REMOTE | Full-time | 120k USD or local equivalent I&#x27;m the Director of Technology at Crossref and I&#x27;m looking for a Head of Infrastructure Services to join my team. This role will lead the strategy and evolution of Crossref&#x",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T10:06:07.000Z",
+      "notified": true,
+      "first_seen": "2026-09-04 13:26:34"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-02T22:41:32.000Z",
-      "notified": true,
-      "first_seen": "2026-09-03 00:25:02"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Mastra",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49543632",
-      "description": "Mastra | Customer Engineer | REMOTE (AMER or EMEA time zones) | Full-time Mastra is the open-source TypeScript framework for building AI agents (agents, workflows, memory, evals, tracing). From the team behind Gatsby, YC-backed, https:&#x2F;&#x2F;github.com&#x2F;mastra-ai&#x2F;ma",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T22:46:45.000Z",
-      "notified": true,
-      "first_seen": "2026-09-03 00:25:02"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Duets Network",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49544301",
-      "description": "Duets Network | Founding Engineer | REMOTE (US) | Equity + discretionary cash | ~10–15 hrs&#x2F;wk Duets Network is an AI-powered platform connecting startups and investors across the sports and entertainment industries. We are building a dynamic ecosystem that bridges founders, ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-03T00:06:35.000Z",
       "notified": true,
       "first_seen": "2026-09-03 00:25:02"
     }
