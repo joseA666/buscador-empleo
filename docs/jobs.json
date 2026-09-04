@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-04T06:58:30+00:00",
+  "generated_at": "2026-09-04T07:21:40+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling usin",
+      "company": "Ver descripcion",
+      "location": "Ver descripcion",
+      "url": "https://news.ycombinator.com/item?id=49559434",
+      "description": "SwingVision is the AI tennis, pickleball, and padel app that provides automated stats, highlights, and line calling using just your phone. Our mission is to democratize the pro sports experience for all athletes. All positions are in Berkeley, California: - Data Labeling Intern: ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T01:31:43.000Z",
+      "notified": true,
+      "first_seen": "2026-09-04 07:21:40"
+    },
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Flow Traders",
+      "company": "Ver descripcion",
+      "location": "Ver descripcion",
+      "url": "https://news.ycombinator.com/item?id=49559854",
+      "description": "Flow Traders | Research Engineer | Hong Kong&#x2F; London (onsite) | Full Time | Visa | Relocation Flow Traders is a leading proprietary trading firm with an entrepreneurial and innovative Tech culture at the heart of its business. We are looking for Research Engineers in our Hon",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T02:33:45.000Z",
+      "notified": true,
+      "first_seen": "2026-09-04 07:21:40"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-09-02T16:42:43.000Z",
       "notified": true,
       "first_seen": "2026-09-02 17:48:31"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Senzing (entity resolution SDK)",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49539168",
-      "description": "Senzing (entity resolution SDK) | Platform Engineer | Remote (USA) | Full-time Senzing builds enterprise entity-resolution SDK technology — an embeddable library that runs entirely inside customer infrastructure with zero data exfiltration. We&#x27;re hiring a platform engineer t",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T16:59:23.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 17:48:31"
-    },
-    {
-      "source": "hn_whoishiring",
-      "source_label": "HN Who's Hiring",
-      "title": "Strobe Power",
-      "company": "Ver descripcion",
-      "location": "Remoto",
-      "url": "https://news.ycombinator.com/item?id=49534764",
-      "description": "Strobe Power | Site Reliability Engineer | ONSITE (SF) | https:&#x2F;&#x2F;strobepower.com AI data centers are creating a massive new wave of electricity demand and putting even more strain on an aging grid. Strobe is building the power company that will meet that demand. Our sof",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-02T11:34:04.000Z",
-      "notified": true,
-      "first_seen": "2026-09-02 17:48:30"
     }
   ]
 }
