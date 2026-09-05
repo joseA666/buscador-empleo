@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-05T18:36:16+00:00",
+  "generated_at": "2026-09-05T18:47:57+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Analista y desarrollador de aplicaciones de negocio (it)",
+      "company": "CISA",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1106920/analista-programador.aspx",
+      "description": "Analista y desarrollador de aplicaciones de negocio (it) - CISA - Cortés,Honduras - Expira en: 20/10/2026",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Expira en: 20/10/2026",
+      "notified": true,
+      "first_seen": "2026-09-05 18:47:56"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1788514813",
-      "notified": false,
-      "first_seen": "2026-09-04 10:35:57"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "GTM Operations, Agent Development (London)",
-      "company": "Sierra",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/sierra/gtm-operations-agent-development-london-488320",
-      "description": "About us At Sierra, we’re building a platform to enable every company in the world to build better, more human customer experiences with AI. We partner with industry leaders such as SoftBank, Uber, Rivian, CLEAR, and Sutter Health. We are primarily an in-person company based in S",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788514811",
       "notified": false,
       "first_seen": "2026-09-04 10:35:57"
     }
