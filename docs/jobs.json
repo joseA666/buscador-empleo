@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-05T01:30:49+00:00",
+  "generated_at": "2026-09-05T01:48:39+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "LiveKit| http:&#x2F;&#x2F;livekit.io&#x2F;",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49570095",
+      "description": "LiveKit| http:&#x2F;&#x2F;livekit.io&#x2F; | VoiceAI | webRTC | Remote | Full Time LiveKit is building the infrastructure layer for the voice-driven era of computing. Our platform gives developers everything they need to build, test, deploy, scale, and observe agents in productio",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T20:56:16.000Z",
+      "notified": true,
+      "first_seen": "2026-09-05 01:48:38"
+    },
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Deeter Analytics",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49571280",
+      "description": "Deeter Analytics | ML Engineer | REMOTE (WORLDWIDE) | Full-time Small private investment firm trading its own capital. One junior ML engineer to work directly with our senior technical lead on an AI system for our own trading. No finance background needed — we hire on fundamental",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T23:12:32.000Z",
+      "notified": true,
+      "first_seen": "2026-09-05 01:48:38"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788455245",
-      "notified": false,
-      "first_seen": "2026-09-03 17:34:28"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in Payment & Collection (m/w/d)",
-      "company": "FINN",
-      "location": "Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/finn/werkstudentin-payment-collection-germany-63664",
-      "description": "Your Role Als Working Student Payment &amp; Collection (m/w/d) stellst du sicher, dass unsere Zahlungs- und Forderungsprozesse reibungslos, effizient und fehlerfrei ablaufen. Du bist die zentrale Schnittstelle bei komplexen Kundenanfragen im B2B-Bereich und hilfst dabei, unsere s",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788455104",
-      "notified": false,
-      "first_seen": "2026-09-03 17:34:28"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Sales Development Manager B2B (m/w/d)",
-      "company": "VIAMA",
-      "location": "Forchheim",
-      "url": "https://www.arbeitnow.com/jobs/companies/viama/sales-development-manager-b2b-forchheim-282418",
-      "description": "Standort: Forchheim | Vollzeit Du sorgst dafür, dass aus einem guten Anlass ein gutes Gespräch wird. VIAMA übernimmt für Unternehmen den laufenden Betrieb von Informationssicherheit und Governance. Unsere Kunden müssen Anforderungen wie NIS2, ISO 27001 oder TISAX nicht nur einmal",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788451225",
       "notified": false,
       "first_seen": "2026-09-03 17:34:28"
     }
