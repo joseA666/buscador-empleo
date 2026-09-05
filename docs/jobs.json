@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-05T20:34:58+00:00",
+  "generated_at": "2026-09-05T20:48:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Post-doctorante ou post-doctorant \"Etude de capteurs sélectifs à des agents toxiques gazeux\" - CDD 12 Mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-etude-de-capteurs-selectifs-a-des-agents-toxiques-gazeux-cdd-12-mois-saint-etienne-143087",
+      "description": "Rejoindre Mines Saint-Étienne , c’est s’engager dans une institution où la science et l’innovation bâtissent un avenir plus durable . Une école d’excellence où chacun &nbsp; a l’opportunité de révéler son plein potentiel et de contribuer à relever les défis de demain . Classée pa",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788636612",
+      "notified": true,
+      "first_seen": "2026-09-05 20:48:17"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Post-doctorante ou post-doctorant en Génie des procédés - CDD 20 Mois",
+      "company": "Institut Mines-Télécom",
+      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-genie-des-procedes-cdd-20-mois-saint-etienne-406563",
+      "description": "Rejoindre Mines Saint-Étienne , c’est s’engager dans une institution où la science et l’innovation bâtissent un avenir plus durable . Une école d’excellence où chacun &nbsp; a l’opportunité de révéler son plein potentiel et de contribuer à relever les défis de demain . Classée pa",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788636612",
+      "notified": true,
+      "first_seen": "2026-09-05 20:48:17"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Doctorant(e) \"Développement et caractérisation d’une plateforme multi-capteurs pour le monitoring de sites de stockage onshore de CO2\" - Contrat doctoral",
+      "company": "Institut Mines-Télécom",
+      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
+      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/doctorante-developpement-et-caracterisation-dune-plateforme-multi-capteurs-pour-le-monitoring-de-sites-de-stockage-onshore-de-co2-contrat-docto-241729",
+      "description": "ENGLISH VERSION Rejoindre Mines Saint-Étienne, c’est s’engager dans une institution où la science et l’innovation bâtissent un avenir plus durable. Une école d’excellence où chacun a l’opportunité de révéler son plein potentiel et de contribuer à relever les défis de demain. Clas",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788636612",
+      "notified": true,
+      "first_seen": "2026-09-05 20:48:17"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Software Engineer - Investments",
+      "company": "Mercury",
+      "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-investments-mercury-greenh",
+      "description": "During the Renaissance in Florence, affluent merchants sought a way to protect their gold while ensuring it remained productive. The Medici family introduced a groundbreaking solution: by depositing assets with them, wealth remained secure and earned steady returns while staying ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-04T17:15:22+00:00",
+      "notified": true,
+      "first_seen": "2026-09-05 20:48:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "1788532217",
       "notified": true,
       "first_seen": "2026-09-04 15:35:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Infrastructure DevOps Engineer (100% Remote Germany)",
-      "company": "Innocraft",
-      "location": "Frankfurt",
-      "url": "https://www.arbeitnow.com/jobs/companies/innocraft/senior-infrastructure-devops-engineer-100-remote-germany-frankfurt-381413",
-      "description": "Architect and scale the cloud platform behind a mission-critical SaaS product used globally. Own infrastructure strategy, reliability, and automation while influencing engineering at scale, reporting to the Cloud DevOps Team Leader. About Innocraft & Matomo Matomo is an open-sour",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788531875",
-      "notified": true,
-      "first_seen": "2026-09-04 15:35:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Scientific Data Architect -Darmstadt or Düsseldorf, Germany",
-      "company": "Tetrascience",
-      "location": "Düsseldorf, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/tetrascience/scientific-data-architect-darmstadt-or-dusseldorf-germany-368413",
-      "description": "About TetraScience TetraScience is the Scientific Data and AI Company building Tetra OS, the operating system for scientific intelligence. We help the world’s leading life sciences firms turn fragmented scientific data into AI-native assets and scientific workflows that accelerat",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788531606",
-      "notified": true,
-      "first_seen": "2026-09-04 15:35:30"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "(Senior) Strategic Partner Manager (m|w|d)",
-      "company": "idealo internet GmbH",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/idealo-internet-gmbh/senior-strategic-partner-manager-mwd-berlin-222080",
-      "description": "idealo works with a broad range of partners across the e-commerce ecosystem – from international platforms and major online retailers to affiliate networks, agencies and technology partners. At the core of this role is the strategic management and development of relevant affiliat",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788535212",
-      "notified": false,
-      "first_seen": "2026-09-04 15:35:13"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Strategy - Future Leaders Graduate Program",
-      "company": "Teampicnic",
-      "location": "Düsseldorf, North Rhine-Westphalia",
-      "url": "https://www.arbeitnow.com/jobs/companies/teampicnic/strategy-future-leaders-graduate-program-dusseldorf-north-rhine-westphalia-339662",
-      "description": "&lt;h2&gt;&lt;strong&gt;Kurz und knapp&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Du kommst frisch aus dem Studium und bist bereit, direkt ins Herz unseres Businesses einzusteigen? Komplexe Challenges schrecken dich nicht ab - sondern motivieren dich erst recht? Dann gehörst du ins Consu",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788533716",
-      "notified": false,
-      "first_seen": "2026-09-04 15:35:13"
     }
   ]
 }
