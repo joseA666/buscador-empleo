@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-05T16:47:50+00:00",
+  "generated_at": "2026-09-05T17:07:07+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador(a) full stack / software engineer - automatización e ia",
+      "company": "PROINSIS SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrolladora-full-stack-software-engineer-automatizacion-e-ia-1886762601",
+      "description": "Desarrollador(a) full stack / software engineer - automatización e ia - PROINSIS SAS - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-05 17:07:06"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788501320",
-      "notified": true,
-      "first_seen": "2026-09-04 06:43:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Application Product Manager - Supply Chain - Procurement",
-      "company": "celonis",
-      "location": "Munich",
-      "url": "https://www.arbeitnow.com/jobs/companies/celonis/senior-application-product-manager-supply-chain-procurement-munich-95849",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Celonis is the trusted platform to industrialize Enterprise AI. At our core is the Celonis Context Model — which combines process data, business knowledge, and intelligence into a living digital twin of the enterprise that AI ca",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788501308",
       "notified": true,
       "first_seen": "2026-09-04 06:43:14"
     }
