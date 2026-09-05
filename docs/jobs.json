@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-05T19:47:53+00:00",
+  "generated_at": "2026-09-05T20:07:52+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Desde casa full remoto/ ventas por call center/ lunes a sabado de 9am a 6pm",
+      "company": "Atento Perú",
+      "location": "Castilla, Piura (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desde-casa-full-remoto-ventas-por-call-center-lunes-a-sabado-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-castilla-D34C9011C5D529CB61373E686DCF3405",
+      "description": "Desde casa full remoto/ ventas por call center/ lunes a sabado de 9am a 6pm - Atento Perú - Castilla, Piura - Remoto - Publicado: Hace 9 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": false,
+      "first_seen": "2026-09-05 20:07:51"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Bonn, Germany (Hybrid)",
       "url": "https://www.arbeitnow.com/jobs/companies/fsc/infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-57744",
       "description": "The Scope The Infrastructure &amp; Cloud Engineer is responsible for implementing, operating, maintaining, and continuously improving FSC's cloud and on-premises infrastructure services. The role ensures the availability, reliability, security, and performance of infrastructure p",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788520167",
-      "notified": true,
-      "first_seen": "2026-09-04 12:39:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Integrity Data and Innovations (m-f-d)",
-      "company": "Fsc",
-      "location": "Bonn, Germany (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/fsc/head-of-integrity-data-and-innovations-m-f-d-bonn-germany-hybrid-110123",
-      "description": "The Scope The Head of Integrity Data &amp; Innovations (m-f-d) leads the development and implementation of FSC’s integrity data and innovation agenda, driving the use of data analytics, emerging technologies, and innovative approaches to strengthen the FSC integrity system. The r",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788520167",
