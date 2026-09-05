@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-05T07:47:45+00:00",
+  "generated_at": "2026-09-05T08:10:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Supero",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49573833",
+      "description": "Supero | Cloud &#x2F; Platform Engineer | REMOTE (SF Bay Area, CA, US · Bengaluru, KA, India) | Full-time | https:&#x2F;&#x2F;www.supero.dev&#x2F;careers&#x2F;cloud-platform-engineer&#x2F; We generate full-stack apps and deploy them — a generated app becomes a live URL, on our in",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-05T06:55:49.000Z",
+      "notified": true,
+      "first_seen": "2026-09-05 08:10:31"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-03T17:23:08+00:00",
-      "notified": false,
-      "first_seen": "2026-09-03 21:22:55"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Account Lead - Middle East - Fintech Ancillaries (100% Remote - Dubai)",
-      "company": "Hopper",
-      "location": "UAE",
-      "url": "https://jobicy.com/jobs/152440-account-lead-middle-east-fintech-ancillaries-100-remote-dubai",
-      "description": "About the job As an Account Lead within the Fintech Team at HTS, you will be responsible for driving the success of our fintech solutions with airline partners. You will work closely with airlines to launch new products, optimize and grow existing solutions, and develop new oppor",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-03T17:22:30+00:00",
       "notified": false,
       "first_seen": "2026-09-03 21:22:55"
     }
