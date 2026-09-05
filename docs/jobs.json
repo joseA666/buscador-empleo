@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-05T20:07:52+00:00",
+  "generated_at": "2026-09-05T20:22:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Valkyrie Aero",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49578811",
+      "description": "Valkyrie Aero | Software Engineer (Autonomy, Perception, Frontend) | REMOTE (US) | Contract | U.S. Citizens | https:&#x2F;&#x2F;valkyrieaero.com Valkyrie Aero is a DoD prime contractor. We&#x27;re building an airborne system for a manned counter-drone aircraft (that we operate) t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-05T17:40:02.000Z",
+      "notified": true,
+      "first_seen": "2026-09-05 20:22:47"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-AE1192CB1E24B1B361373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 12 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 12 minutos",
+      "notified": false,
+      "first_seen": "2026-09-05 20:22:29"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788523305",
       "notified": true,
       "first_seen": "2026-09-04 12:39:23"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior GTM Strategy Manager (m/f/d)",
-      "company": "Chrono24",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/chrono24/senior-gtm-strategy-manager-berlin-119283",
-      "description": "About Chrono24 is the world’s leading online marketplace for luxury watches. Driven by a passion for timepieces and technology, we connect buyers and sellers from across the globe. Our goal is to maximise trust and transparency in the watch market. About Growth Operations is the ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788520178",
-      "notified": true,
-      "first_seen": "2026-09-04 12:39:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Infrastructure & Cloud Engineer (m-f-d)",
-      "company": "Fsc",
-      "location": "Bonn, Germany (Hybrid)",
-      "url": "https://www.arbeitnow.com/jobs/companies/fsc/infrastructure-cloud-engineer-m-f-d-bonn-germany-hybrid-57744",
-      "description": "The Scope The Infrastructure &amp; Cloud Engineer is responsible for implementing, operating, maintaining, and continuously improving FSC's cloud and on-premises infrastructure services. The role ensures the availability, reliability, security, and performance of infrastructure p",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788520167",
-      "notified": true,
-      "first_seen": "2026-09-04 12:39:06"
     }
   ]
 }
