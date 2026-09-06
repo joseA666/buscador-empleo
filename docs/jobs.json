@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T12:47:52+00:00",
+  "generated_at": "2026-09-06T13:07:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja en Casa! Te entregamos Pc Internet/ Lun a Sáb de 9am a 6pm Gana fijo 1220  con planilla",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-en-casa-te-entregamos-pc-internet-lun-a-sab-de-9am-a-6pm-gana-fijo-1220-con-planilla-postula-ahora-en-lima-057AC4D3E148691C61373E686DCF3405",
+      "description": "Trabaja en Casa! Te entregamos Pc Internet/ Lun a Sáb de 9am a 6pm Gana fijo 1220 con planilla - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-06 13:07:20"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788620114",
       "notified": true,
       "first_seen": "2026-09-05 15:33:56"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Customer Success Manager (d/w/m)",
-      "company": "Taxfix",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/taxfix/customer-success-manager-berlin-209714",
-      "description": "Über uns und unsere Mission: Jahr für Jahr verzichten Millionen von Menschen auf die ihnen zustehende Steuerrückerstattung – viele davon aus Angst vor der Steuererklärung. Taxfix ändert das. Wir möchten es allen ermöglichen, das Thema Steuern und Finanzen in die eigenen Hände zu ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788619209",
-      "notified": false,
-      "first_seen": "2026-09-05 15:33:39"
     }
   ]
 }
