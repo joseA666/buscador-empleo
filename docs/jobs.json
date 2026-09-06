@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-09-06T15:21:14+00:00",
+  "generated_at": "2026-09-06T15:34:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Software Engineer II - C++/Rust",
+      "company": "Axon",
+      "location": "Kassel, Hesse",
+      "url": "https://www.arbeitnow.com/jobs/companies/axon/software-engineer-ii-c-rust-kassel-hesse-452567",
+      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h4&gt;&lt;strong&gt;Join Axon and be a Force for Good.&lt;/strong&gt;&lt;/h4&gt; &lt;p&gt;At Axon, we’re on a mission to Protect Life. We’re explorers, pursuing society’s most critical safety and justice issues with our ecosystem of ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788706505",
+      "notified": true,
+      "first_seen": "2026-09-06 15:34:10"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Product Manager",
+      "company": "CesiumAstro",
+      "location": "Munich, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/cesiumastro/product-manager-munich-germany-492918",
+      "description": "At&nbsp; CesiumAstro , we are developers and pioneers of out-of-the-box communication systems for satellites, UAVs, launch vehicles, and other space and airborne platforms. We take pride in our dynamic and cross-functional work environment, which allows us to learn, develop, and ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788704679",
+      "notified": true,
+      "first_seen": "2026-09-06 15:34:10"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Product Manager - B2B SaaS (Martech) - Europe",
+      "company": "Insider One",
+      "location": "Berlin, Germany",
+      "url": "https://www.arbeitnow.com/jobs/companies/insider-one/product-manager-b2b-saas-martech-europe-berlin-germany-34094",
+      "description": "Before jumping into all the information about the role and what you can bring to the table, let us introduce ourselves real quick. About us Insider One is the #1 platform that brings everything marketing and customer engagement teams need in one place so they can reach their peak",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788704667",
+      "notified": true,
+      "first_seen": "2026-09-06 15:34:10"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13959,48 +14001,6 @@
       "posted_at": "1788635082",
       "notified": false,
       "first_seen": "2026-09-05 19:33:49"
-    },
-    {
-      "source": "computrabajo_pe",
-      "source_label": "Computrabajo Perú",
-      "title": "Todo Remoto! Te entregamos Pc Internet/Trabaja de Lunes a Sábado de 9am a 6pm",
-      "company": "Covisian Perú",
-      "location": "Lima, Lima (Remoto)",
-      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-todo-remoto-te-entregamos-pc-internettrabaja-de-lunes-a-sabado-de-9am-a-6pm-postula-ahora-en-lima-0B8560AAEA33956361373E686DCF3405",
-      "description": "Todo Remoto! Te entregamos Pc Internet/Trabaja de Lunes a Sábado de 9am a 6pm - Covisian Perú - Lima, Lima - Remoto - Publicado: Ahora",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Ahora",
-      "notified": false,
-      "first_seen": "2026-09-05 19:33:48"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Senior Data Analyst, GTM Analytics - CANADA",
-      "company": "Luxury Presence",
-      "location": "Canada",
-      "url": "https://jobicy.com/jobs/152606-senior-data-analyst-gtm-analytics-canada",
-      "description": "Luxury Presence is building the AI growth platform for real estate. Backed by Bessemer Venture Partners and other top investors, we're a Series C company that has hit $100M in annual recurring revenue. More than 90,000 real estate professionals, including over 30% of the WSJ Real",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T16:10:49+00:00",
-      "notified": true,
-      "first_seen": "2026-09-05 19:19:04"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Forward Deployment Engineer, AI - US Remote",
-      "company": "PerfectServe",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152605-forward-deployment-engineer-ai-us-remote",
-      "description": "What is PerfectServe? PerfectServe is a leading provider of clinical communication and physician scheduling solutions in the health IT space. The company was founded in 1997 and has grown steadily since then, with a notable jump after several major acquisitions were announced in ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T16:10:26+00:00",
-      "notified": true,
-      "first_seen": "2026-09-05 19:19:04"
     }
   ]
 }
