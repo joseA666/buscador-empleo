@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T01:12:58+00:00",
+  "generated_at": "2026-09-06T01:36:29+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Senior Innovation Consultant",
+      "company": "Pno Group Europe",
+      "location": "UK",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/pno-group-europe/senior-innovation-consultant-uk-450905",
+      "description": "Job summary (Short promotional text) PNO Innovation UK is looking for an experienced Senior Innovation Consultant / Senior Grant Writer to lead complex Horizon Europe proposals and advise innovative organisations on their funding strategies. This is a genuinely senior role combin",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1788653352",
+      "notified": false,
+      "first_seen": "2026-09-06 01:36:28"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-04T17:03:36+00:00",
-      "notified": false,
-      "first_seen": "2026-09-04 20:24:09"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Customer Service Representative",
-      "company": "Beyond Finance",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152536-customer-service-representative-5",
-      "description": "At Beyond Finance, we've made it our mission to help everyday Americans escape the endless cycle of crippling debt and step into a brighter financial future. Through compassionate, individualized care, a culture focused on compliance and ethics, supportive user-centric technology",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-04T17:03:20+00:00",
       "notified": false,
       "first_seen": "2026-09-04 20:24:09"
     }
