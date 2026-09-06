@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T08:49:06+00:00",
+  "generated_at": "2026-09-06T09:08:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Full Stack Developer",
+      "company": "KIS Solutions",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/kis-solutions/jobs/full-stack-developer",
+      "description": "This is a remote position. At KIS, we are always looking for talented individuals to join our team for future opportunities.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1784443979",
+      "notified": true,
+      "first_seen": "2026-09-06 09:08:51"
+    },
     {
       "source": "himalayas",
       "source_label": "Himalayas",
@@ -13981,20 +13995,6 @@
       "company": "Voodoo",
       "location": "Paris",
       "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/workplace-excellence-specialist-paris-64799",
-      "description": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads afte",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788604811",
-      "notified": false,
-      "first_seen": "2026-09-05 15:07:02"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Marketing Video Artist - Hole.io",
-      "company": "Voodoo",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/voodoo/marketing-video-artist-holeio-paris-483743",
       "description": "About Voodoo Founded in 2013, Voodoo is a tech company that creates mobile games and apps with a mission to entertain the world. Gathering 800 employees, 7 billion downloads, and over 200 million active users, Voodoo is the #3 mobile publisher worldwide in terms of downloads afte",
       "reason": "",
       "language": "en",
