@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T21:48:25+00:00",
+  "generated_at": "2026-09-06T22:07:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-C0FCBB76B6672F5E61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Ahora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": false,
+      "first_seen": "2026-09-06 22:07:21"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Institut Mines-Télécom",
       "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
       "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-etude-de-capteurs-selectifs-a-des-agents-toxiques-gazeux-cdd-12-mois-saint-etienne-143087",
-      "description": "Rejoindre Mines Saint-Étienne , c’est s’engager dans une institution où la science et l’innovation bâtissent un avenir plus durable . Une école d’excellence où chacun &nbsp; a l’opportunité de révéler son plein potentiel et de contribuer à relever les défis de demain . Classée pa",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788636612",
-      "notified": true,
-      "first_seen": "2026-09-05 20:48:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Post-doctorante ou post-doctorant en Génie des procédés - CDD 20 Mois",
-      "company": "Institut Mines-Télécom",
-      "location": "Saint-Etienne, Auvergne-Rhône-Alpes, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/institut-mines-telecom/post-doctorante-ou-post-doctorant-en-genie-des-procedes-cdd-20-mois-saint-etienne-406563",
       "description": "Rejoindre Mines Saint-Étienne , c’est s’engager dans une institution où la science et l’innovation bâtissent un avenir plus durable . Une école d’excellence où chacun &nbsp; a l’opportunité de révéler son plein potentiel et de contribuer à relever les défis de demain . Classée pa",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
