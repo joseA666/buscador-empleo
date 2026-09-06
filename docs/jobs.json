@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T01:56:16+00:00",
+  "generated_at": "2026-09-06T02:16:23+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-7298960EFEE4505561373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-09-06 02:16:23"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-04T17:04:27+00:00",
-      "notified": false,
-      "first_seen": "2026-09-04 20:24:09"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Farm Certification Specialist",
-      "company": "CCOF",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152537-farm-certification-specialist",
-      "description": "Who we are: CCOF advances organic agriculture for a healthy world. We advocate on behalf of our members for organic policies, support the growth of organic through education and grants, and provide organic certification that is personal and accessible. CCOF is a nonprofit organiz",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-04T17:03:36+00:00",
       "notified": false,
       "first_seen": "2026-09-04 20:24:09"
     }
