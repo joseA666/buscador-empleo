@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T13:20:59+00:00",
+  "generated_at": "2026-09-06T13:34:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Chief of Staff / Business Ops",
+      "company": "Searoutes",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.fr/jobs/companies/searoutes/remote-chief-of-staff-business-ops-france-115880",
+      "description": "Global supply chains move 80% of world trade and almost none of it accounts for its climate impact. Searoutes builds the data infrastructure that lets freight forwarders, shippers, and carriers measure and cut their CO2 footprint. We're a ~20-person SaaS team headquartered betwee",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788700807",
+      "notified": true,
+      "first_seen": "2026-09-06 13:34:11"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788618632",
       "notified": true,
       "first_seen": "2026-09-05 15:33:57"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Commercial Sales Representative (German Speaker)",
-      "company": "Sentinellabs",
-      "location": "",
-      "url": "https://www.arbeitnow.com/jobs/companies/sentinellabs/senior-commercial-sales-representative-german-speaker-179252",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;Our Purpose&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;At SentinelOne, we are driven by a clear purpose: to give the advantage to those who secure our future. As AI reshapes how organizations build, operate, and",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788620114",
-      "notified": true,
-      "first_seen": "2026-09-05 15:33:56"
     }
   ]
 }
