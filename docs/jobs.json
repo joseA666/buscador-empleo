@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-06T18:25:14+00:00",
+  "generated_at": "2026-09-06T18:34:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Mitarbeiter im Homeoffice - 100 % Remote",
+      "company": "SofortinArbeit.de",
+      "location": "Remoto",
+      "url": "https://www.arbeitnow.com/jobs/companies/sofortinarbeitde/mitarbeiter-im-homeoffice-100-remote-monchengladbach-209557",
+      "description": "Du bist kommunikativ, suchst eine echte Festeinstellung und möchtest vollflexibel von zu Hause aus arbeiten? Für unseren Auftraggeber suchen wir engagierte Mitarbeiter (m/w/d) in der telefonischen Terminvereinbarung für den Außendienst. Bei diesem Stellenangebot handelt es sich u",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788717623",
+      "notified": false,
+      "first_seen": "2026-09-06 18:34:50"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Teampicnic",
       "location": "Paris, Paris",
       "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/senior-in-app-homepage-manager-paris-paris-244300",
-      "description": "&lt;h2&gt;&lt;strong&gt;En bref&lt;/strong&gt;&lt;/h2&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;Chez Picnic, tout commence dans l&#39;application : c&#39;est là que se joue l&#39;expérience de nos clients avec notre supermarché en lign",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788638121",
-      "notified": false,
-      "first_seen": "2026-09-05 20:33:32"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior E-commerce Specialist - App Landing Page",
-      "company": "Teampicnic",
-      "location": "Paris, Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/teampicnic/senior-e-commerce-specialist-app-landing-page-paris-paris-12986",
       "description": "&lt;h2&gt;&lt;strong&gt;En bref&lt;/strong&gt;&lt;/h2&gt; &lt;p class=&quot;font-claude-response-body break-words whitespace-normal&quot;&gt;Chez Picnic, tout commence dans l&#39;application : c&#39;est là que se joue l&#39;expérience de nos clients avec notre supermarché en lign",
       "reason": "",
       "language": "other",
