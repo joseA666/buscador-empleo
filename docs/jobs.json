@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-06T16:09:18+00:00",
+  "generated_at": "2026-09-06T16:24:03+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "MCP Expert",
+      "company": "micro1",
+      "location": "Remoto (mundial)",
+      "url": "https://himalayas.app/companies/micro1/jobs/mcp-expert",
+      "description": "Job Title: MCP Expert Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788709824",
+      "notified": true,
+      "first_seen": "2026-09-06 16:24:02"
+    },
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "AI Engineer",
+      "company": "micro1",
+      "location": "Remoto (mundial)",
+      "url": "https://himalayas.app/companies/micro1/jobs/ai-engineer-7982880650",
+      "description": "Job Title: AI Engineer Job Type: Contractor (~15 hrs a week) Location: Remote Schedule: Flexible, you pick the hours and days (including weekends if desired) Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788709825",
+      "notified": true,
+      "first_seen": "2026-09-06 16:24:02"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788635102",
       "notified": true,
       "first_seen": "2026-09-05 19:34:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior EPM Consultant - Paris",
-      "company": "Pigment",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/pigment/senior-epm-consultant-paris-464974",
-      "description": "Join Pigment: The AI Platform Redefining Business Planning &nbsp; Pigment is the AI-powered business planning and performance management platform built for agility and scale. We connect people, data, and processes in one intuitive, feature-rich solution, empowering every team—fro",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788635102",
-      "notified": true,
-      "first_seen": "2026-09-05 19:34:06"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior IBP Consultant",
-      "company": "Westernacher",
-      "location": "Paris, France",
-      "url": "https://www.arbeitnow.fr/jobs/companies/westernacher/senior-ibp-consultant-paris-france-152580",
-      "description": "You will implement business processes and design SAP Integrated Business Planning (IBP) solutions, taking ownership of functional streams from requirements analysis through configuration, testing, and go-live support. You will work closely with business stakeholders and delivery ",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788635082",
-      "notified": false,
-      "first_seen": "2026-09-05 19:33:49"
     }
   ]
 }
