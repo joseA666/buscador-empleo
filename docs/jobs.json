@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-07T16:09:31+00:00",
+  "generated_at": "2026-09-07T16:25:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Urgente¡¡ Asesor de venta RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-urgente-asesor-de-venta-re-mo-to-damos-pc-internet-bono-de-luz-gana-1800-a-mas-en-lima-144BF8B525446F1061373E686DCF3405",
+      "description": "Urgente¡¡ Asesor de venta RE MO TO/ Damos PC+ internet +bono de luz /Gana 1800 a más - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 27 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 27 minutos",
+      "notified": false,
+      "first_seen": "2026-09-07 16:25:45"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Asesor de tráfico internacional inplant",
+      "company": "TRANSPORTE INTERNACIONAL TICAL S.A.",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107031/asistente-de-exportaciones-importaciones.aspx",
+      "description": "Asesor de tráfico internacional inplant - TRANSPORTE INTERNACIONAL TICAL S.A. - Cortés,Honduras - Expira en: 22/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-07 16:25:45"
+    },
     {
       "source": "elempleo",
       "source_label": "elempleo.com",
@@ -13970,34 +13998,6 @@
       "description": "📍Paris | CDI | Français 🇫🇷 &amp; Anglais 🇬🇧 courants requis Le e-commerce explose — mais les marques indépendantes galèrent encore à offrir une logistique aussi fluide que celle d’Amazon. Chez Bigblue, on veut changer ça. Notre mission : aider les marques à scaler plus vite tout ",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
-      "posted_at": "1788656646",
-      "notified": true,
-      "first_seen": "2026-09-06 03:28:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Software Engineer",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/senior-software-engineer-paris-279735",
-      "description": "📍 Paris | Full-time | Fluent 🇫🇷 &amp; 🇬🇧 &nbsp; At Bigblue, we're building the logistics backbone for the next generation of commerce. Modern brands sell everywhere: through their own online stores, marketplaces, retail, social commerce, and more. Across every channel, customers ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788656646",
-      "notified": true,
-      "first_seen": "2026-09-06 03:28:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Account Manager 🇫🇷",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/senior-account-manager-paris-100881",
-      "description": "E-commerce is booming — but independent brands still struggle to match the seamless logistics of giants like Amazon. At Bigblue , we’re on a mission to change that. We help brands by democratizing best-in-class operations: scaling faster while delivering a five-star customer expe",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
       "posted_at": "1788656646",
       "notified": true,
       "first_seen": "2026-09-06 03:28:41"
