@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T13:39:38+00:00",
+  "generated_at": "2026-09-07T13:49:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-lunes-a-sabado-bono-de-luz-y-comisiones-damos-pc-internet-te-brindamos-pc-laptop-modem-s1130-planilla-completa-comisiones-bono-de-energia-en-lima-F6FC84C82BC5095261373E686DCF3405",
+      "description": "Trabaja Desde Casa!! Lunes a Sábado, Bono de Luz y Comisiones / Damos Pc + Internet - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 10 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 10 minutos",
+      "notified": false,
+      "first_seen": "2026-09-07 13:49:49"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "Mistral.ai",
       "location": "Paris",
       "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/site-reliability-engineer-paris-226246",
-      "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sec",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788658805",
-      "notified": true,
-      "first_seen": "2026-09-06 02:49:22"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Site Reliability Engineer, Mistral Cloud",
-      "company": "Mistral.ai",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/mistralai/site-reliability-engineer-mistral-cloud-paris-27343",
       "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sec",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
