@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T01:40:17+00:00",
+  "generated_at": "2026-09-07T01:58:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Remoto Part time/ ventas por call center/ lunes a sabado ingreso directo",
+      "company": "Confidencial",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-remoto-part-time-ventas-por-call-center-lunes-a-sabado-ingreso-directo-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-lima-B9264207CA5FA07E61373E686DCF3405",
+      "description": "Remoto Part time/ ventas por call center/ lunes a sabado ingreso directo - Confidencial - Lima, Lima - Remoto - Publicado: Hace 5 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 5 minutos",
+      "notified": false,
+      "first_seen": "2026-09-07 01:58:30"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-05T21:42:50+00:00",
-      "notified": true,
-      "first_seen": "2026-09-05 22:08:01"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "IT Automation Specialist (Infra as Code)",
-      "company": "Partner One Capital",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/it-automation-specialist-infra-as-code-partner-one-capital",
-      "description": "Partner One is a long-term investment group specializing in the acquisition and growth of successful software companies. With over 30 years in business, we own and operate some of the fastest-growing enterprise software companies globally. More than 2,000 of the world’s largest c",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T21:30:41+00:00",
       "notified": true,
       "first_seen": "2026-09-05 22:08:01"
     }
