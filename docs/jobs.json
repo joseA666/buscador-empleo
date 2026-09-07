@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-09-07T01:11:45+00:00",
+  "generated_at": "2026-09-07T01:40:17+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Embedded Software & Systems Consultant (all genders)",
+      "company": "Invensity Group",
+      "location": "Wiesbaden (WIE)",
+      "url": "https://www.arbeitnow.com/jobs/companies/invensity-group/embedded-software-systems-consultant-all-genders-wiesbaden-wie-138982",
+      "description": "Welcome Are you passionate about embedded software, industrial communication, and intelligent drive systems? Then join INVENSITY. Together with our customers, we develop innovative solutions for the next generation of industrial control and drive technologies and actively drive t",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788736147",
+      "notified": true,
+      "first_seen": "2026-09-07 01:40:17"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Sales Account Executive - Enterprise, UKI (m/f/d)",
+      "company": "Jedox GmbH",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/jedox-gmbh/sales-account-executive-enterprise-uki-london-309630",
+      "description": "What is Jedox? Jedox is a global leader in Enterprise Performance Management (EPM) and a recognized Gartner Magic Quadrant Leader, helping organizations transform fragmented planning into connected, data-driven decision-making. Trusted by more than 2,500 customers worldwide, Jedo",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788739777",
+      "notified": true,
+      "first_seen": "2026-09-07 01:40:17"
+    },
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Tech Lead — Backend Gaming Services Integrations",
+      "company": "Xsolla",
+      "location": "Spain",
+      "url": "https://himalayas.app/companies/xsolla/jobs/tech-lead-backend-gaming-services-integrations-9638344988",
+      "description": "ABOUT YOUWe are seeking a Tech Lead to own the architecture, integrations, and technical direction for systems that bridge Xsolla’s platform with external backend gaming service providers.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788739454",
+      "notified": true,
+      "first_seen": "2026-09-07 01:40:17"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13959,48 +14001,6 @@
       "posted_at": "2026-09-05T21:30:41+00:00",
       "notified": true,
       "first_seen": "2026-09-05 22:08:01"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Global IT Manager, Data Center IT",
-      "company": "Serverfarm",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/global-it-manager-data-center-it-serverfarm",
-      "description": "Serverfarm is a leading developer and operator of data centers with over 750+ locations and key customer relationships in 45 countries. We're revolutionizing how data centers operate across North America, Western Europe, and Israel, serving the world's leading technology and hype",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T21:25:25+00:00",
-      "notified": true,
-      "first_seen": "2026-09-05 22:08:01"
-    },
-    {
-      "source": "themuse",
-      "source_label": "The Muse",
-      "title": "Senior Payment Solutions Expert",
-      "company": "Sunrun",
-      "location": "Flexible / Remote, Lehi, UT",
-      "url": "https://www.themuse.com/jobs/sunrun/senior-payment-solutions-expert-0742b1",
-      "description": "At Sunrun, we're on a mission to change the way the world interacts with energy, and we're building a company and brand that puts power at the center of life. To do it, we're designing a dynamic culture where employee development, well-being, and safety come first. It's why we've",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T21:57:29Z",
-      "notified": true,
-      "first_seen": "2026-09-05 22:08:01"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Director, Global Field & Channel Marketing",
-      "company": "Keyfactor, Inc.",
-      "location": "Canada,  USA",
-      "url": "https://jobicy.com/jobs/152618-director-global-field-channel-marketing",
-      "description": "About Keyfactor Our mission is to securely connect the world: humans, machines, and AI. Keyfactor is the leader in trust infrastructure for AI and machines, helping the world's largest enterprises and government agencies take control of the cryptographic identities that safeguard",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-05T18:54:32+00:00",
-      "notified": true,
-      "first_seen": "2026-09-05 22:07:44"
     }
   ]
 }
