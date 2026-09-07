@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T15:48:04+00:00",
+  "generated_at": "2026-09-07T16:09:31+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Lead ai, full-stack & cybersecurity engineer",
+      "company": "MANPOWER",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/lead-ai-fullstack-cybersecurity-engineer-1886762796",
+      "description": "Lead ai, full-stack & cybersecurity engineer - MANPOWER - Bogotá - Más de $21 millones",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-07 16:09:30"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788656646",
-      "notified": true,
-      "first_seen": "2026-09-06 03:28:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Professional Services Director",
-      "company": "Bigblue",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/bigblue/professional-services-director-paris-472759",
-      "description": "E-commerce is booming — but independent brands still struggle to match the seamless logistics of giants like Amazon. At Bigblue , we’re on a mission to change that. We help brands turn fulfillment into a competitive advantage: scaling faster while delivering a five-star customer ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788656645",
       "notified": true,
       "first_seen": "2026-09-06 03:28:41"
     }
