@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T08:53:33+00:00",
+  "generated_at": "2026-09-07T09:12:56+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Lucia",
+      "company": "Ver descripcion",
+      "location": "Remoto",
+      "url": "https://news.ycombinator.com/item?id=49595476",
+      "description": "Lucia | Director of Corp Dev · Product Marketing Associate · MLOps Engineer | Remote (NYC &#x2F; SEA &#x2F; global overlap) | $140K–$200K + meaningful equity Distribution is one of the last durable moats left; models are commoditizing, but knowing how attention and demand actuall",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-07T08:19:00.000Z",
+      "notified": true,
+      "first_seen": "2026-09-07 09:12:55"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788649755",
-      "notified": true,
-      "first_seen": "2026-09-05 23:34:11"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Managing Director (m/w/d)",
-      "company": "Acture Germany",
-      "location": "Köln",
-      "url": "https://www.arbeitnow.com/jobs/companies/acture-germany/managing-director-koln-436630",
-      "description": "Hinweis: Das Kölner Institut für Managementberatung (KI.M) ist Teil von Acture Germany. Seit vielen Jahren begleiten wir Unternehmen bei Themen rund um Eignungsdiagnostik, Leadership Development sowie Personal- und Organisationsentwicklung. Dabei verbinden wir fachliche Exzellenz",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788649748",
       "notified": true,
       "first_seen": "2026-09-05 23:34:11"
     }
