@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T17:48:13+00:00",
+  "generated_at": "2026-09-07T18:10:45+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Gerente de mantenimiento (choloma)",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107119/gerente-de-mantenimiento.aspx",
+      "description": "Gerente de mantenimiento (choloma) - Confidencial - Cortés,Honduras - Expira en: 22/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-07 18:10:45"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13981,20 +13995,6 @@
       "company": "Alta Ares",
       "location": "Paris",
       "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/gnc-engineer-h-f-paris-240671",
-      "description": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems are regularly deploy",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788669605",
-      "notified": true,
-      "first_seen": "2026-09-06 05:35:02"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "MLOps Engineer",
-      "company": "Alta Ares",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/alta-ares/mlops-engineer-paris-372117",
       "description": "About Alta Ares Alta Ares is an air defense Neoprime. We build AI-guided interceptors to counter drones and cruise missiles, along with the software platform that powers them. Our customers are NATO-aligned militaries and defense institutions, and our systems are regularly deploy",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
