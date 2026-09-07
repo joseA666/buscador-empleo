@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T22:48:04+00:00",
+  "generated_at": "2026-09-07T23:08:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Full Stack Developer (Nestjs/Angular)",
+      "company": "Univacity Ltd.",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/univacity-ltd/jobs/full-stack-developer-nestjs-angular",
+      "description": "Category: Computer Location: We are seeking an experienced Full Stack Developer to join our dynamic tech team at Univacity.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1784443990",
+      "notified": true,
+      "first_seen": "2026-09-07 23:08:21"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788020963",
-      "notified": true,
-      "first_seen": "2026-09-06 08:11:16"
-    },
-    {
-      "source": "himalayas",
-      "source_label": "Himalayas",
-      "title": "Laravel Developer + React - Remote, Latin America",
-      "company": "Bluelight Consulting",
-      "location": "Chile",
-      "url": "https://himalayas.app/companies/bluelight-consulting/jobs/laravel-developer-react-remote-latin-america-5828663661",
-      "description": "Bluelight Consulting is a leading software consultancy dedicated to designing and developing innovative technology that enhances users' lives.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788028460",
       "notified": true,
       "first_seen": "2026-09-06 08:11:16"
     }
