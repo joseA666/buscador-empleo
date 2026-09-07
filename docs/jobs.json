@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T04:11:14+00:00",
+  "generated_at": "2026-09-07T04:30:10+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Mid-Market Account Executive",
+      "company": "Avepoint",
+      "location": "London",
+      "url": "https://www.arbeitnow.co.uk/jobs/companies/avepoint/mid-market-account-executive-london-88951",
+      "description": "&lt;p&gt;&amp;nbsp;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;span data-contrast=&quot;auto&quot;&gt;Overview&lt;/span&gt;&lt;/strong&gt;&lt;span data-ccp-props=&quot;{&amp;quot;201341983&amp;quot;:0,&amp;quot;335559739&amp;quot;:0,&amp;quot;335559740&amp;quot;:240}&quot;&gt;&amp;nbsp",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1788753303",
+      "notified": false,
+      "first_seen": "2026-09-07 04:30:10"
+    },
     {
       "source": "himalayas",
       "source_label": "Himalayas",
@@ -13984,20 +13998,6 @@
       "description": "Our Mission ⚖️ At Doctrine, we're building Europe's leading legal AI platform. Our belief? Law shouldn't be slowed down by repetitive tasks. It should be augmented by a specialised AI, designed to understand, analyse and produce legal reasoning at the highest standard. Our ambiti",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
-      "posted_at": "1788647066",
-      "notified": true,
-      "first_seen": "2026-09-05 23:07:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Key Account Executive - segment LAW",
-      "company": "Doctrine",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/key-account-executive-segment-law-paris-242126",
-      "description": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement jur",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
       "posted_at": "1788647066",
       "notified": true,
       "first_seen": "2026-09-05 23:07:29"
