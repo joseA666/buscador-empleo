@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-07T19:48:12+00:00",
+  "generated_at": "2026-09-07T20:08:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador BI Jr.",
+      "company": "MCMX",
+      "location": "Puebla, Puebla (Remoto)",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-bi-jr-sql-server-ssis-ssrs-en-puebla-EF7804938CD9ED1F61373E686DCF3405",
+      "description": "Desarrollador BI Jr. - MCMX - Puebla, Puebla - Remoto - Publicado: Hace 3 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 3 minutos",
+      "notified": true,
+      "first_seen": "2026-09-07 20:08:46"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Analista de inventario",
+      "company": "GRUPO ELCATEX",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107167/auditor-interno.aspx",
+      "description": "Analista de inventario - GRUPO ELCATEX - Cortés,Honduras - Expira en: 22/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-07 20:08:29"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13973,34 +14001,6 @@
       "posted_at": "2026-09-06T04:25:53+00:00",
       "notified": true,
       "first_seen": "2026-09-06 06:13:43"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Vice President- Chief Architect",
-      "company": "Sagility",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/vice-president-chief-architect-sagility",
-      "description": "Sagility combines industry-leading technology and transformation-driven BPM services with decades of healthcare domain expertise to help clients draw closer to their members. The company optimizes the entire member/patient experience through service offerings for clinical, case m",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T04:25:31+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 06:13:43"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Systems Engineer, Mission Success & Performance",
-      "company": "Muon Space",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/systems-engineer-mission-success-performance-muon-space",
-      "description": "About the role Muon seeks a Senior Systems Engineer, Mission Success & Performance to join our Mission Engineering team. As we scale the Muon Mission Foundry, we need a strategic architect of mission success, someone who champions predictable mission outcomes across the entire Mi",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T04:33:04+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 06:13:26"
     }
   ]
 }
