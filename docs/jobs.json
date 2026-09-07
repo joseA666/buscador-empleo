@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-07T03:50:42+00:00",
+  "generated_at": "2026-09-07T04:11:14+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Go Lang Developer",
+      "company": "ImagineArt",
+      "location": "Malaysia",
+      "url": "https://himalayas.app/companies/imagineart/jobs/go-lang-developer-8755167321",
+      "description": "About ImagineArtWe're redefining how the world creates and designs.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788749795",
+      "notified": true,
+      "first_seen": "2026-09-07 04:11:14"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13984,20 +13998,6 @@
       "description": "Notre mission ⚖️ Chez Doctrine, nous construisons le leader de l’IA juridique en Europe. Notre conviction ? Le droit ne doit pas être ralenti par des tâches répétitives. Il doit être augmenté par une IA spécialisée, conçue pour comprendre, analyser et produire du raisonnement jur",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
-      "posted_at": "1788647066",
-      "notified": true,
-      "first_seen": "2026-09-05 23:07:29"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior / Intermediate Machine Learning Engineer - Squad Distribute",
-      "company": "Doctrine",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/doctrine/junior-intermediate-machine-learning-engineer-squad-distribute-paris-462465",
-      "description": "Our Mission ⚖️ At Doctrine, we're building Europe's leading legal AI platform. Our belief? Law shouldn't be slowed down by repetitive tasks. It should be augmented by a specialised AI, designed to understand, analyse and produce legal reasoning at the highest standard. Our ambiti",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
       "posted_at": "1788647066",
       "notified": true,
       "first_seen": "2026-09-05 23:07:29"
