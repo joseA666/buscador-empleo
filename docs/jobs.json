@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-08T01:34:22+00:00",
+  "generated_at": "2026-09-08T01:56:22+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Analista de planeacion (choloma)",
+      "company": "ALUTECH",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107342/asistente-de-inventarios.aspx",
+      "description": "Analista de planeacion (choloma) - ALUTECH - Cortés,Honduras - Expira en: 22/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 01:56:21"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Supervisor de despacho (la entrada copán)",
+      "company": "ALUTECH",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107341/supervisor-de-bodega.aspx",
+      "description": "Supervisor de despacho (la entrada copán) - ALUTECH - Cortés,Honduras - Expira en: 22/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 22/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 01:56:21"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "other",
       "posted_at": "1788681307",
-      "notified": true,
-      "first_seen": "2026-09-06 08:28:59"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Enterprise Account Executive - France",
-      "company": "Verkada",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/verkada/enterprise-account-executive-france-paris-301288",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;h3&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Verkada is transforming how organizations protect their people and places with an integrated, privacy-sensitive AI-powered platform that includes solutions for video s",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788681304",
-      "notified": true,
-      "first_seen": "2026-09-06 08:28:59"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Director, Enterprise Sales",
-      "company": "Yext",
-      "location": "Paris",
-      "url": "https://www.arbeitnow.fr/jobs/companies/yext/director-enterprise-sales-paris-82584",
-      "description": "&lt;div class=&quot;content-intro&quot;&gt;&lt;p&gt;Yext (NYSE: YEXT) is the enterprise agentic marketing platform. Built on the world&#39;s most comprehensive structured data platform for local businesses, Yext gives brands and their partners the visibility intelligence to win e",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788681303",
       "notified": true,
       "first_seen": "2026-09-06 08:28:59"
     }
