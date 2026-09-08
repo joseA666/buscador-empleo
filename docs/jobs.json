@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-08T17:48:02+00:00",
+  "generated_at": "2026-09-08T18:11:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Especialista de hidrosanitario",
+      "company": "OPTESA",
+      "location": "San Salvador,El Salvador",
+      "url": "https://www.tecoloco.com.hn/1107548/ingeniero-civil.aspx",
+      "description": "Especialista de hidrosanitario - OPTESA - San Salvador,El Salvador - Expira en: 23/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 18:11:20"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Jefe de slotting e inventario",
+      "company": "RANSA HONDURAS",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107545/jefe-de-inventario.aspx",
+      "description": "Jefe de slotting e inventario - RANSA HONDURAS - Cortés,Honduras - Expira en: 23/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 18:11:20"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Especialista hidráulico",
+      "company": "OPTESA",
+      "location": "San Salvador,El Salvador",
+      "url": "https://www.tecoloco.com.hn/1107541/ingeniero-civil.aspx",
+      "description": "Especialista hidráulico - OPTESA - San Salvador,El Salvador - Expira en: 23/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 18:11:20"
+    },
+    {
+      "source": "torre",
+      "source_label": "Torre",
+      "title": "Ejecutivo Comercial B2B – Tecnología (Hardware y Software) | Prospección Telefónica | Trabajo Virtual | (Antioquia)",
+      "company": "Lasus",
+      "location": "San Fernando Plaza, Avenida El Poblado, El Poblado, Medellín, Antioquia, Colombia",
+      "url": "https://torre.co/jobs/2W1ekanW",
+      "description": "Impulsarás el crecimiento tecnológico de pymes, innovando y desarrollando tu potencial. Skills: CRM (Gestión de relaciones con el cliente), LinkedIn management, Microsoft 365, Notion, Prospección de clientes, Prospección de ventas, Telemarketing, Venta cruzada, Ventas, Ventas de ",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2025-12-03T14:30:16.000Z",
+      "notified": false,
+      "first_seen": "2026-09-08 18:11:20"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13945,62 +14001,6 @@
       "posted_at": "2026-09-06T14:18:07+00:00",
       "notified": true,
       "first_seen": "2026-09-06 22:34:28"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Director of Engineering",
-      "company": "MonetizeMore",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/director-of-engineering-monetizemore-himalayas.app-companies-monetizemore-jobs-director-of-engineering-3157432103",
-      "description": "About MonetizeMore MonetizeMore is a global pioneer in ad technology, powering ad monetization for over 150,000 websites and apps globally. We combine proprietary technology with sophisticated optimization strategies to secure and maximize publisher revenue. We are a 100% remote,",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T20:31:52+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 22:34:11"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Director of Engineering",
-      "company": "MonetizeMore",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/director-of-engineering-monetizemore-himalayas.app-companies-monetizemore-jobs-director-of-engineering-2079202637",
-      "description": "About MonetizeMore MonetizeMore is a global pioneer in ad technology, powering ad monetization for over 150,000 websites and apps globally. We combine proprietary technology with sophisticated optimization strategies to secure and maximize publisher revenue. We are a 100% remote,",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T20:31:51+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 22:34:11"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Software Engineer — XCore (Europe)",
-      "company": "People.ai",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/software-engineer-xcore-europe-peopleai",
-      "description": "As a Software Engineer on the XCore team you will build and maintain the foundational systems that power every product at Backstory.ai — from identity and authorization to audit logging and BI data exports. You'll work in a focused, technically deep environment where your job is ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T20:31:50+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 22:34:11"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Software Engineer - Java/Microservices",
-      "company": "Tenable",
-      "location": "USA",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-javamicroservices-tenable-152675",
-      "description": "Who is Tenable? Tenable® is the Exposure Management company. Over 40,000 organizations around the globe rely on Tenable to understand and reduce cyber risk. Our global employees support 65 percent of the Fortune 500, 50 percent of the Global 2000, and large government agencies. C",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-06T11:05:32+00:00",
-      "notified": true,
-      "first_seen": "2026-09-06 22:34:11"
     }
   ]
 }
