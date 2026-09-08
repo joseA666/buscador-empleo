@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-08T21:34:27+00:00",
+  "generated_at": "2026-09-08T21:48:30+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_mx",
+      "source_label": "Computrabajo México",
+      "title": "Desarrollador Fullstack .Net",
+      "company": "EON IGNITING BUSINESS",
+      "location": "Benito Juárez, Ciudad de México DF (Remoto)",
+      "url": "https://mx.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-net-angular-yo-react-en-benito-juarez-77B302B51BEBF88461373E686DCF3405",
+      "description": "Desarrollador Fullstack .Net - EON IGNITING BUSINESS - Benito Juárez, Ciudad de México DF - Remoto - Publicado: Hace 13 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 13 minutos",
+      "notified": true,
+      "first_seen": "2026-09-08 21:48:30"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Oficial de importaciones para tgu",
+      "company": "EMPRESA AVICOLA EL CORTIJO",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107647/jefe-o-encargado-de-exportaciones-importaciones.aspx",
+      "description": "Oficial de importaciones para tgu - EMPRESA AVICOLA EL CORTIJO - Francisco Morazán,Honduras - Expira en: 23/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-08 21:48:12"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-07T04:43:39+00:00",
-      "notified": true,
-      "first_seen": "2026-09-07 06:59:32"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Go Lang Developer",
-      "company": "ImagineArt",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/go-lang-developer-imagineart-himala",
-      "description": "About ImagineArt We're redefining how the world creates and designs. ImagineArt is one of the fastest-growing GenAI companies in the world. We've scaled faster than most funded startups — with zero outside funding. - $35M+ ARR crossed this year - 100M+ social impressions - Built ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-07T04:35:14+00:00",
-      "notified": true,
-      "first_seen": "2026-09-07 06:59:32"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Application Support Engineer",
-      "company": "R1 RCM",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/application-support-engineer-r1-rcm",
-      "description": "Essential Responsibilities •Collaborate with senior software engineers and other team members to design, implement, and maintain secure, scalable, and reliable software. •Maintain existing codebase and collaborate with senior engineers to develop new features as business needs ch",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-07T04:35:03+00:00",
       "notified": true,
       "first_seen": "2026-09-07 06:59:32"
     }
