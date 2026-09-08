@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-08T18:31:37+00:00",
+  "generated_at": "2026-09-08T18:49:50+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "themuse",
+      "source_label": "The Muse",
+      "title": "Government Affairs Manager",
+      "company": "SpaceX",
+      "location": "Flexible / Remote",
+      "url": "https://www.themuse.com/jobs/spacex/government-affairs-manager-03e406",
+      "description": "SpaceX was founded under the belief that a future where humanity is out exploring the stars is fundamentally more exciting than one where we are not. Today SpaceX is actively developing the technologies to make this possible, with the ultimate goal of&nbsp;enabling human life on ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-08T18:35:34Z",
+      "notified": true,
+      "first_seen": "2026-09-08 18:49:49"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13981,20 +13995,6 @@
       "company": "neoshare",
       "location": "Frankfurt am Main",
       "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-frankfurt-am-main-332298",
-      "description": "Your mission Own and evolve our AI engineering function — transforming a 15–20 person ML team from research-heavy to a high-throughput, production-grade organization. You’ll partner with the CTO on strategy, build the platform that unifies LLM access, RAG, and backend services, a",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788746948",
-      "notified": true,
-      "first_seen": "2026-09-07 02:29:46"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of AI Engineering (f/m/x)",
-      "company": "neoshare",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/head-of-ai-engineering-berlin-267386",
       "description": "Your mission Own and evolve our AI engineering function — transforming a 15–20 person ML team from research-heavy to a high-throughput, production-grade organization. You’ll partner with the CTO on strategy, build the platform that unifies LLM access, RAG, and backend services, a",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
