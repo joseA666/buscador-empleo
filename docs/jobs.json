@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-08T20:08:12+00:00",
+  "generated_at": "2026-09-08T20:24:25+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Analista de Soporte Técnico",
+      "company": "INDUSTRIA 04",
+      "location": "Santiago De Surco, Lima (S/. 1.350,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-tecnico-desarrollador-junior-python-en-santiago-de-surco-2A1228778CB9A6D961373E686DCF3405",
+      "description": "Analista de Soporte Técnico - INDUSTRIA 04 - Santiago De Surco, Lima - S/. 1.350,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "other",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-09-08 20:24:25"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788748215",
       "notified": false,
       "first_seen": "2026-09-07 03:31:36"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Data Protection & AI Governance Advisor (m/w/d)",
-      "company": "neoshare",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/neoshare/data-protection-ai-governance-advisor-munchen-286091",
-      "description": "Your mission Datenschutz Du unterstützt unsere Business Funktionen bei der Dokumentation ihrer Verarbeitungsprozessen und pflegst die Verzeichnisse nach Art. 30 Abs. 1 + 2 DSGVO. Du erstellst Datenschutz-Folgenabschätzungen, Legitimate Interest Assessments und Transfer Impact Ass",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "other",
-      "posted_at": "1788746948",
-      "notified": true,
-      "first_seen": "2026-09-07 02:30:03"
     }
   ]
 }
