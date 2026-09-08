@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-08T02:50:02+00:00",
+  "generated_at": "2026-09-08T03:10:12+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Analista De Soporte Integral",
+      "company": "INDRA",
+      "location": "San Isidro, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-analista-de-soporte-integral-en-san-isidro-03DD3D7286643CDA61373E686DCF3405",
+      "description": "Analista De Soporte Integral - INDRA - San Isidro, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": false,
+      "first_seen": "2026-09-08 03:10:11"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1784409096",
-      "notified": true,
-      "first_seen": "2026-09-06 08:29:33"
-    },
-    {
-      "source": "himalayas",
-      "source_label": "Himalayas",
-      "title": "Golang Developer",
-      "company": "Talent Insider",
-      "location": "Indonesia",
-      "url": "https://himalayas.app/companies/talent-insider/jobs/golang-developer",
-      "description": "Talent Insider is an upcoming HR Consultancy Service, founded in 2021.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1785186752",
       "notified": true,
       "first_seen": "2026-09-06 08:29:33"
     }
