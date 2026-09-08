@@ -1,7 +1,63 @@
 {
-  "generated_at": "2026-09-08T23:21:46+00:00",
+  "generated_at": "2026-09-08T23:34:08+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account Executive | SMB | French Market (Paris)",
+      "company": "Lexroom",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/account-executive-smb-french-market-paris-88156",
+      "description": "À propos de Lexroom Chez Lexroom, nous développons l’état de l’art de la recherche juridique agentique. Notre plateforme décompose chaque question juridique en sous-questions précises, puis mobilise des agents spécialisés pour explorer en parallèle les codes, jurisprudences, doct",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "1788907208",
+      "notified": true,
+      "first_seen": "2026-09-08 23:34:08"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Customer Success | SMB | French Market (Paris)",
+      "company": "Lexroom",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/customer-success-smb-french-market-paris-115050",
+      "description": "At Lexroom , we set the bar for legal AI—clear, fast, and built for trust. In just a few years, what began as an idea has become a reliable platform adopted by thousands of legal professionals across Europe . Our mission is clear : make the law faster, clearer, and more reliable ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788907208",
+      "notified": true,
+      "first_seen": "2026-09-08 23:34:08"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "BDR | SMB | French Market (Paris)",
+      "company": "Lexroom",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/bdr-smb-french-market-paris-5452",
+      "description": "Lexroom Chez Lexroom, nous développons l'état de l'art de la recherche juridique agentique. Quand un utilisateur pose une question, le système la décompose en sous-questions précises, puis déploie des agents spécialisés qui explorent en parallèle codes, jurisprudence, doctrine et",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788907208",
+      "notified": false,
+      "first_seen": "2026-09-08 23:33:51"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Graduate program | French market (Paris)",
+      "company": "Lexroom",
+      "location": "Paris",
+      "url": "https://www.arbeitnow.fr/jobs/companies/lexroom/graduate-program-french-market-paris-7945",
+      "description": "Chez Lexroom, nous développons l'état de l'art de la recherche juridique agentique. Quand un utilisateur pose une question, le système la décompose en sous-questions précises, puis déploie des agents spécialisés qui explorent en parallèle codes, jurisprudence, doctrine et textes ",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788907208",
+      "notified": false,
+      "first_seen": "2026-09-08 23:33:50"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13945,62 +14001,6 @@
       "posted_at": "1788774917",
       "notified": true,
       "first_seen": "2026-09-07 10:38:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Data Scientist",
-      "company": "Carwow",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/carwow/senior-data-scientist-london-183366",
-      "description": "OUR MISSION To become the car-changing destination of choice. By combining technology, media and deep automotive expertise, we've turned how people buy, sell, advertise and lease cars on its head. What started as a simple reviews site is now one of the largest online car-changing",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788774011",
-      "notified": true,
-      "first_seen": "2026-09-07 10:38:04"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Online Marketing Manager (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/online-marketing-manager-stuttgart-183830",
-      "description": "In der Rolle des Online Marketing Managers (m/w/d) kalkulierst und steuerst du die Werbebudgets unserer Kunden. Ziel ist es die bestmögliche Sichtbarkeit mit einem vorgegebenen Budget zu erreichen. Um die Fortschritte der Arbeit auch dem Kunden zu übermitteln, werden regelmäßig A",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788773433",
-      "notified": false,
-      "first_seen": "2026-09-07 10:37:47"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Junior Google Performance & Analytics Manager (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/junior-google-performance-analytics-manager-stuttgart-478481",
-      "description": "In dieser Position bist du für die operative Umsetzung unseres Google-Marketings zuständig. Während die Strategie und das technische Setup vorgegeben werden, verantwortest du das fehlerfreie Einbuchen, die tägliche Pflege und das exakte Monitoring unserer Google-Ads-Kampagnen. Du",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788773433",
-      "notified": false,
-      "first_seen": "2026-09-07 10:37:47"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Pflichtpraktikum im Bereich Grafikdesign (m/w/d)",
-      "company": "eFLY Marketplace Services GmbH",
-      "location": "Stuttgart",
-      "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/pflichtpraktikum-im-bereich-grafikdesign-stuttgart-95771",
-      "description": "Wir suchen dich für ein spannendes Praktikum im Grafikdesign , um unser Team bei der Entwicklung kreativer und ansprechender Designs für unsere Kunden zu unterstützen. Du wirst visuelle Konzepte für verschiedene Kanäle gestalten und dafür sorgen, dass die Marken unserer Kunden au",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788773432",
-      "notified": false,
-      "first_seen": "2026-09-07 10:37:47"
     }
   ]
 }
