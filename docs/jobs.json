@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-08T22:34:07+00:00",
+  "generated_at": "2026-09-08T22:48:13+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Python Developer - Fully Remote | Upto $50/hr",
+      "company": "mercor",
+      "location": "Canada",
+      "url": "https://himalayas.app/companies/mercor/jobs/python-developer-fully-remote-upto-50-hr-12360377",
+      "description": "About the jobMercor connects elite creative and technical talent with leading AI research labs.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1788208431",
+      "notified": true,
+      "first_seen": "2026-09-08 22:48:13"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Stuttgart",
       "url": "https://www.arbeitnow.com/jobs/companies/efly-marketplace-services-gmbh/senior-google-performance-analytics-manager-stuttgart-23527",
       "description": "In dieser neu geschaffenen Schlüsselposition bist du nicht einfach nur für ein paar Google-Ads-Kampagnen zuständig. Du bist der Architekt unseres Google-Cores. Du verbindest das gesamte Google-Universum, von High-End Performance Marketing und Search über Data &#x26; Analytics bis",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788773432",
-      "notified": false,
-      "first_seen": "2026-09-07 10:37:47"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent:in Text & Content (m/w/d)",
-      "company": "Lucid Labs",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/lucid-labs/werkstudentin-text-content-berlin-404279",
-      "description": "Bei unseren Kunden laufen KI-Agenten im operativen Tagesgeschäft. Sie prüfen Rechnungen, ordnen Anfragen ein, bereiten Entscheidungen vor. Nicht im Pitch-Deck, sondern produktiv, im deutschen Mittelstand. Das ist der gute Teil. Aber, wir sind nicht gut darin, darüber zu reden. Un",
       "reason": "",
       "language": "other",
       "posted_at": "1788773432",
