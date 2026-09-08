@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-08T00:23:48+00:00",
+  "generated_at": "2026-09-08T01:07:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Investment Associate/Manager Private Markets (m/w/d)",
+      "company": "Liqid Lam",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/liqid-lam/investment-associate-manager-private-markets-berlin-344656",
+      "description": "Deine Rolle Als Investment Associate oder Investment Manager (m/w/d) übernimmst du eine zentrale Rolle in unserer mehrfach ausgezeichneten Vermögensverwaltung. Als Teil des Investmentteams gestaltest du aktiv die Steuerung und Weiterentwicklung unserer Anlagelösungen mit besonder",
+      "reason": "",
+      "language": "other",
+      "posted_at": "1788824412",
+      "notified": false,
+      "first_seen": "2026-09-08 01:07:21"
+    },
+    {
+      "source": "arbeitnow",
+      "source_label": "Arbeitnow",
+      "title": "Account executive enterprise, central europe",
+      "company": "Watershed",
+      "location": "Berlin",
+      "url": "https://www.arbeitnow.com/jobs/companies/watershed/account-executive-enterprise-central-europe-berlin-351676",
+      "description": "About Watershed Watershed is the enterprise sustainability platform. Companies like Airbnb, Carlyle Group, FedEx, Visa, and Dr. Martens use Watershed to manage climate and ESG data, produce audit-ready metrics for voluntary and regulatory reporting including CSRD, and drive real ",
+      "reason": "",
+      "language": "en",
+      "posted_at": "1788824411",
+      "notified": false,
+      "first_seen": "2026-09-08 01:07:21"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1787344358",
-      "notified": true,
-      "first_seen": "2026-09-06 08:12:07"
-    },
-    {
-      "source": "himalayas",
-      "source_label": "Himalayas",
-      "title": "Golang Developer",
-      "company": "PradeepIT Consulting Services Pvt Ltd",
-      "location": "United States",
-      "url": "https://himalayas.app/companies/pradeepit-consulting-services-pvt-ltd/jobs/golang-developer",
-      "description": "Accelerate your career with PradeepITPradeepIT is one of the largest, globally recognized IT Consulting firm to connect India's deeply vetted talent team to global customer.",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787949096",
-      "notified": true,
-      "first_seen": "2026-09-06 08:12:07"
-    },
-    {
-      "source": "himalayas",
-      "source_label": "Himalayas",
-      "title": "819 | Senior Golang Developer (Short term)",
-      "company": "Intetics",
-      "location": "Ukraine",
-      "url": "https://himalayas.app/companies/intetics/jobs/819-senior-golang-developer-short-term-3304846208",
-      "description": "DescriptionIntetics, a leading global technology company providing custom software application development, distributed professional teams, software product quality assessment, and “all-things-digital” solutions, is looking for a Senior Golang Developer to enrich its team with a ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1787344467",
       "notified": true,
       "first_seen": "2026-09-06 08:12:07"
     }
