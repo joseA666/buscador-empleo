@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T17:33:57+00:00",
+  "generated_at": "2026-09-09T17:47:59+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-993E1EEE3A27F7B361373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 11 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 11 minutos",
+      "notified": false,
+      "first_seen": "2026-09-09 17:47:59"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-08T01:56:04+00:00",
-      "notified": true,
-      "first_seen": "2026-09-08 06:15:45"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Senior Software Engineer (Node)",
-      "company": "Evry Health",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/senior-software-engineer-node-evry-health",
-      "description": "Role Summary The Senior Node Software Engineer is a technically senior individual contributor leading the Node sub-team's technical direction, architecture decisions, and code quality standards, while remaining deeply hands-on in the design, development, and delivery of Evry Heal",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-08T01:31:41+00:00",
       "notified": true,
       "first_seen": "2026-09-08 06:15:45"
     }
