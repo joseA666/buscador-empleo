@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T19:33:49+00:00",
+  "generated_at": "2026-09-09T19:48:16+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador Fullstack Java Angular 57921",
+      "company": "PeakU",
+      "location": "Medellín, Antioquia ($ 5.999.998,00 (Mensual))",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-fullstack-java-angular-57921-remoto-en-medellin-46470F12CBBA037C61373E686DCF3405",
+      "description": "Desarrollador Fullstack Java Angular 57921 - PeakU - Medellín, Antioquia - $ 5.999.998,00 (Mensual) - Publicado: Hace 6 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 6 minutos",
+      "notified": true,
+      "first_seen": "2026-09-09 19:48:16"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788856252",
-      "notified": false,
-      "first_seen": "2026-09-08 09:41:38"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "E-Trade Manager*",
-      "company": "Wolf Personalmanagement GmbH",
-      "location": "Eschborn",
-      "url": "https://www.arbeitnow.com/jobs/companies/wolf-personalmanagement-gmbh/e-trade-manager-eschborn-25794",
-      "description": "Unser Ziel ist es, bereits in der Bewerbungsphase für Kandidaten und Kunden die Grundlagen für eine positive und gesunde Zusammenarbeit zu schaffen. „Personaldienstleistungsmanufaktur mit Herz“ (Kununu-Bewertung) Unser Mandant ist ein internationaler Anbieter für Haushaltsgeräte ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788856251",
       "notified": false,
       "first_seen": "2026-09-08 09:41:38"
     }
