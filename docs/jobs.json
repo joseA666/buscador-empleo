@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T21:48:09+00:00",
+  "generated_at": "2026-09-09T22:07:27+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Oficial de cumplimiento aduanero (tegucigalpa)",
+      "company": "Confidencial",
+      "location": "Francisco Morazán,Honduras",
+      "url": "https://www.tecoloco.com.hn/1107979/agente-aduanero-tramitador-aduanal.aspx",
+      "description": "Oficial de cumplimiento aduanero (tegucigalpa) - Confidencial - Francisco Morazán,Honduras - Expira en: 23/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 23/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-09 22:07:27"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788872117",
-      "notified": true,
-      "first_seen": "2026-09-08 13:38:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Director, Health & Safety Operations Europe",
-      "company": "hellofresh",
-      "location": "",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/hellofresh/senior-director-health-safety-operations-europe-373775",
-      "description": "&lt;h3&gt;&lt;strong&gt;About the role&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Reporting to the SVP, Global Engineering and Infrastructure, the &lt;strong&gt;Senior Director of Health &amp;amp; Safety Operations Europe&lt;/strong&gt; serves as a strategic leader driving safe",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788872103",
       "notified": true,
       "first_seen": "2026-09-08 13:38:17"
     }
