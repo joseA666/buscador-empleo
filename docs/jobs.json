@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T15:37:01+00:00",
+  "generated_at": "2026-09-09T15:47:46+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Traffic Control Person",
+      "company": "AWP Safety",
+      "location": "Charlottetown, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-traffic-control-person-awp-safety-1137326",
+      "description": "Company Description Safety First Contracting doing business as AWP Safety is presently accepting applications to fill various openings for Traffic Control Persons. Job Description Safety First Contracting dba AWP Safety is presently accepting applications to fill various openings",
+      "reason": "",
+      "language": "en",
+      "posted_at": "2026-09-08T15:46:14+00:00",
+      "notified": false,
+      "first_seen": "2026-09-09 15:47:46"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "other",
       "posted_at": "1788833355",
-      "notified": false,
-      "first_seen": "2026-09-08 02:39:53"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Praktikum SEO Marketing & Communication Management",
-      "company": "Juvigo Gmbh",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/juvigo-gmbh/praktikum-seo-marketing-communication-management-berlin-9068",
-      "description": "What we offer Gesunde Work-Life Balance (voller Überstundenausgleich, Gleitzeit) Internationales Team und ein Büro im Herzen von Berlin Regelmäßiges Feedback und hohe Mitarbeiterzufriedenheit (Kununu Top Company) Vielfältige Lern-, Entwicklungs- und Aufstiegsmöglichkeiten in eine",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788833352",
       "notified": false,
       "first_seen": "2026-09-08 02:39:53"
     }
