@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T02:18:45+00:00",
+  "generated_at": "2026-09-09T02:40:51+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Social Comms",
+      "company": "NOPE",
+      "location": "Remoto",
+      "url": "https://remoteOK.com/remote-jobs/remote-social-comms-nope-1137314",
+      "description": "Important: This is a contract/part-time role: 10-20 hrs/week - rate $40-50/hr NOPE is an AI safety company with a unique goal; we do not concern ourselves with bio or cyber-risks or other Hollywood-ized alignment fantasies. We are concerned instead with the massive proliferation ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-08T02:35:30+00:00",
+      "notified": true,
+      "first_seen": "2026-09-09 02:40:51"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Heidelberg, Germany",
       "url": "https://www.arbeitnow.com/jobs/companies/westernacher/solutions-architect-s-4hana-logistics-heidelberg-germany-452824",
       "description": "Willst Du Deine SAP-Expertise in einem Unternehmen umsetzen, das Exzellenz und Qualität an erster Stelle setzt? Bei Westernacher Consulting hast Du die Möglichkeit an großen, anspruchsvollen Projekten zusammen mit Top-Experten zu arbeiten. Deine Aufgaben als Solutions Architect S",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788779048",
-      "notified": false,
-      "first_seen": "2026-09-07 11:35:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Solution Architect SAP EWM (m/w/d)",
-      "company": "Westernacher",
-      "location": "Heidelberg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/westernacher/solution-architect-sap-ewm-heidelberg-germany-487150",
-      "description": "Willst Du Deine SAP-Expertise in einem Unternehmen umsetzen, das Exzellenz und Qualität an erster Stelle setzt? Bei Westernacher Consulting hast Du die Möglichkeit an großen, anspruchsvollen Projekten zusammen mit Top-Experten zu arbeiten. Deine Aufgaben als Solution Architect SA",
       "reason": "",
       "language": "other",
       "posted_at": "1788779048",
