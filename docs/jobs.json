@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T21:21:25+00:00",
+  "generated_at": "2026-09-09T21:34:06+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remoteok",
+      "source_label": "RemoteOK",
+      "title": "Jumbo San Pedro Supervisor Abarrotes",
+      "company": "Centro Cuesta Nacional",
+      "location": "San Pedro de MacorÃ­s, ",
+      "url": "https://remoteOK.com/remote-jobs/remote-jumbo-san-pedro-supervisor-abarrotes-centro-cuesta-nacional-1137362",
+      "description": "Gracias por tu interÃ©s en pertenecer a la gran familia Centro Cuesta Nacional El rol de Supervisor Abarrotes es garantizar y mantener el surtido completo en la tienda de la mercancÃ­a, verificando la rotaciÃ³n adecuada de los productos. Please mention the word **PROVES** and tag",
+      "reason": "",
+      "language": "es",
+      "posted_at": "2026-08-27T18:11:11+00:00",
+      "notified": false,
+      "first_seen": "2026-09-09 21:34:05"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788872103",
-      "notified": true,
-      "first_seen": "2026-09-08 13:38:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Member of Marketing Staff - Events Marketing Specialist",
-      "company": "Tesslcareers",
-      "location": "New York",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/tesslcareers/member-of-marketing-staff-events-marketing-specialist-new-york-296603",
-      "description": "Tessl is a fast-growing Series A startup based in London, founded by Guy Podjarny, who previously founded Snyk. We’ve raised more than $100 million from world-class investors, including Index Ventures, Accel, GV and Boldstart. In 2025, Tessl ranked #2 in Sifted’s B2B SaaS Rising ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788871211",
       "notified": true,
       "first_seen": "2026-09-08 13:38:17"
     }
