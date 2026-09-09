@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-09T12:13:46+00:00",
+  "generated_at": "2026-09-09T12:38:20+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Programador Senior Backend  PHP Laravel",
+      "company": "PARA EMPRENDEDORES",
+      "location": "Pueblo Libre, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-senior-backend-php-laravel-remoto-en-pueblo-libre-9086102B1B61420361373E686DCF3405",
+      "description": "Programador Senior Backend PHP Laravel - PARA EMPRENDEDORES - Pueblo Libre, Lima - Remoto - Publicado: Hace 8 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 8 minutos",
+      "notified": true,
+      "first_seen": "2026-09-09 12:38:19"
+    },
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "QA Engineer - Automation (Remote, Full-Time) [AS326]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/qa-engineer-automation-remote-full-time-as326-smart-working",
+      "description": "About Smart Working At Smart Working, we believe your job should not only look right on paper but also feel right every day. This isn’t just another remote opportunity - it’s about finding where you truly belong, no matter where you are. From day one, you’re welcomed into a genui",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-09T09:44:14.677+00:00",
+      "notified": true,
+      "first_seen": "2026-09-09 12:38:19"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1788811797",
-      "notified": false,
-      "first_seen": "2026-09-07 20:34:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Werkstudent Sales Development (m/w/d)",
-      "company": "Comdesk Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/comdesk-gmbh/werkstudent-sales-development-munchen-310687",
-      "description": "Wir suchen dich! Wir suchen einen Werkstudenten Sales Development (m/w/d), der uns dabei unterstützt, noch mehr Unternehmen für bessere Kundenkommunikation zu begeistern. Jeden Tag helfen wir Unternehmen dabei, ihre Kundenkommunikation einfacher, effizienter und besser zu gestalt",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788811786",
-      "notified": false,
-      "first_seen": "2026-09-07 20:34:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Account Executive (m/w/d)",
-      "company": "Comdesk Gmbh",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/comdesk-gmbh/account-executive-munchen-371385",
-      "description": "Wir suchen dich! Unternehmen erwarten heute, dass ihre Kunden schnell den richtigen Ansprechpartner erreichen und Anliegen ohne Umwege geklärt werden können. Genau dabei unterstützen wir sie. Für den Ausbau unseres Vertriebs suchen wir einen Account Executive (m/w/d) , der neue K",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788811786",
       "notified": false,
       "first_seen": "2026-09-07 20:34:12"
     }
