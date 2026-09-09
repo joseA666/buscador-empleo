@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T17:47:59+00:00",
+  "generated_at": "2026-09-09T18:11:26+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "Senior Full-Stack Engineer – Product & Experimentation",
+      "company": "Dolead",
+      "location": "FRANCE - PARIS, FULL REMOTE - France",
+      "url": "https://remotejobs.org/remote-jobs/senior-full-stack-engineer-product-experimentation-dolead",
+      "description": "# Senior Full-Stack Engineer – Product & Experimentation **Paris · Permanent contract · Hybrid** **Build the experience after the click** At Dolead, we help companies turn digital acquisition into measurable business results. Today, millions of users interact with the landing pag",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-09T18:02:17.552+00:00",
+      "notified": true,
+      "first_seen": "2026-09-09 18:11:25"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-08T03:18:34+00:00",
-      "notified": true,
-      "first_seen": "2026-09-08 06:15:45"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Android Software Engineer",
-      "company": "Bjak",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/android-software-engineer-bjak-himalayas.app-companies-bjak-jobs-android-software-engineer-420662402",
-      "description": "About BJAK The original mission of BJAK is we believe people deserve smarter ways to plan, save and grow their money. This is the origin of our name. Started in 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in th",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-08T01:56:04+00:00",
       "notified": true,
       "first_seen": "2026-09-08 06:15:45"
     }
