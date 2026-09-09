@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T04:10:10+00:00",
+  "generated_at": "2026-09-09T04:28:41+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-8DFFD7308986EC0061373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 9 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": false,
+      "first_seen": "2026-09-09 04:28:40"
+    },
     {
       "source": "remoteok",
       "source_label": "RemoteOK",
@@ -13982,20 +13996,6 @@
       "location": "Heidelberg, Germany",
       "url": "https://www.arbeitnow.com/jobs/companies/westernacher/technical-sap-enterprise-architect-heidelberg-germany-56273",
       "description": "Als Technical Enterprise Architect bei&nbsp; Westernacher &nbsp;sind Sie strategischer Sparringspartner für unsere Kunden bei der Planung und Umsetzung anspruchsvoller SAP‑S/4HANA‑Transformationen. Sie verbinden architektonische Exzellenz mit methodischem Vorgehen und unterstütze",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788779048",
-      "notified": false,
-      "first_seen": "2026-09-07 11:35:14"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Solutions Architect S/4HANA Logistics (m/w/d)",
-      "company": "Westernacher",
-      "location": "Heidelberg, Germany",
-      "url": "https://www.arbeitnow.com/jobs/companies/westernacher/solutions-architect-s-4hana-logistics-heidelberg-germany-452824",
-      "description": "Willst Du Deine SAP-Expertise in einem Unternehmen umsetzen, das Exzellenz und Qualität an erster Stelle setzt? Bei Westernacher Consulting hast Du die Möglichkeit an großen, anspruchsvollen Projekten zusammen mit Top-Experten zu arbeiten. Deine Aufgaben als Solutions Architect S",
       "reason": "",
       "language": "other",
       "posted_at": "1788779048",
