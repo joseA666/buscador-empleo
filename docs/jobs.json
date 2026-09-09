@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T12:38:20+00:00",
+  "generated_at": "2026-09-09T12:54:29+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Asesor Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.800,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-asesor-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-planilla-completa-beneficios-de-ley-en-lima-4F77A47A5DAE99E561373E686DCF3405",
+      "description": "Asesor Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - S/. 1.800,00 (Mensual) - Publicado: Hace 3 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 3 minutos",
+      "notified": false,
+      "first_seen": "2026-09-09 12:54:28"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "1788812410",
-      "notified": false,
-      "first_seen": "2026-09-07 20:34:12"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Business Operations / Senior Business Operations Manager - all genders welcome!",
-      "company": "Vicegolf",
-      "location": "München",
-      "url": "https://www.arbeitnow.com/jobs/companies/vicegolf/head-of-business-operations-senior-business-operations-manager-all-genders-welcome-munchen-289430",
-      "description": "About the Job Join us in reshaping the future of golf! With a team of over 85 passionate people, we're dedicated to our mission in revolutionizing the golf industry one swing at a time. Our international team, based in Munich, is seeking a motivated Head of Business Operations or",
-      "reason": "",
-      "language": "en",
-      "posted_at": "1788811797",
       "notified": false,
       "first_seen": "2026-09-07 20:34:12"
     }
