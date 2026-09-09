@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-09T22:23:40+00:00",
+  "generated_at": "2026-09-09T22:33:35+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Analista de gestión y datos",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1108000/analista-de-base-de-datos.aspx",
+      "description": "Analista de gestión y datos - Confidencial - Cortés,Honduras - Expira en: 24/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-09 22:33:34"
+    },
+    {
+      "source": "tecoloco",
+      "source_label": "Tecoloco Honduras",
+      "title": "Auditor financiero jr",
+      "company": "Confidencial",
+      "location": "Cortés,Honduras",
+      "url": "https://www.tecoloco.com.hn/1108006/auditor-interno.aspx",
+      "description": "Auditor financiero jr - Confidencial - Cortés,Honduras - Expira en: 24/10/2026",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Expira en: 24/10/2026",
+      "notified": false,
+      "first_seen": "2026-09-09 22:33:34"
+    },
     {
       "source": "remotejobsorg",
       "source_label": "RemoteJobs.org",
@@ -13973,34 +14001,6 @@
       "posted_at": "1788879314",
       "notified": true,
       "first_seen": "2026-09-08 15:39:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Consulting Manager (m/f/d) Data & AI Strategy",
-      "company": "Artefactlinkedin",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/consulting-manager-data-ai-strategy-berlin-berlin-munchen-bavaria-358662",
-      "description": "&lt;h3&gt;&lt;strong&gt;Who/What is Artefact?&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Artefact is a next-generation strategy and data consulting firm dedicated to transforming organizations through data and AI. We combine the rigor of top-tier strategy consulting with deep expertise i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788879314",
-      "notified": true,
-      "first_seen": "2026-09-08 15:39:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Personalreferent (m/w/d) in Teilzeit (20 Stunden/Woche)",
-      "company": "DIHAG Zaigler GmbH",
-      "location": "Kulmbach",
-      "url": "https://www.arbeitnow.com/jobs/companies/dihag-zaigler-gmbh/personalreferent-in-teilzeit-20-stunden-woche-kulmbach-94488",
-      "description": "Als neues Teammitglied stehen Sie bei uns an erster Stelle. Freuen Sie sich auf ein kollegiales Arbeitsumfeld, kurze Entscheidungswege und eine Aufgabe, in der Verlässlichkeit, Eigenverantwortung und Zusammenarbeit großgeschrieben werden. Werden Sie als Personalreferent (m/w/d) i",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788879632",
-      "notified": false,
-      "first_seen": "2026-09-08 15:39:07"
     }
   ]
 }
