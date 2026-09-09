@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-09T22:33:35+00:00",
+  "generated_at": "2026-09-09T22:48:21+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "hn_whoishiring",
+      "source_label": "HN Who's Hiring",
+      "title": "Freeform ( http:&#x2F;&#x2F;freeform.co )",
+      "company": "Ver descripcion",
+      "location": "Ver descripcion",
+      "url": "https://news.ycombinator.com/item?id=49635387",
+      "description": "Freeform ( http:&#x2F;&#x2F;freeform.co ) | Software Engineers | Full-time | Onsite | Hawthorne, CA (Los Angeles County) Freeform builds AI-native manufacturing systems that unify software, hardware, and physics to produce industrial-scale parts at the speed of human ideation. By",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-09T22:23:09.000Z",
+      "notified": true,
+      "first_seen": "2026-09-09 22:48:21"
+    },
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Trabaja desde casa turno A.M / Damos pc + internet + bono de luz/gana s/1800 a más/Asesores de Venta",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 1.220,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luzgana-s1800-a-masasesores-de-venta-en-lima-C6E1C30CB94F4EC761373E686DCF3405",
+      "description": "Trabaja desde casa turno A.M / Damos pc + internet + bono de luz/gana s/1800 a más/Asesores de Venta - Covisian Perú - Lima, Lima - S/. 1.220,00 (Mensual) - Publicado: Hace 7 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 7 minutos",
+      "notified": false,
+      "first_seen": "2026-09-09 22:48:04"
+    },
     {
       "source": "tecoloco",
       "source_label": "Tecoloco Honduras",
@@ -13971,34 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788879316",
-      "notified": true,
-      "first_seen": "2026-09-08 15:39:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Systems Engineer",
-      "company": "spire",
-      "location": "Munich, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/spire/senior-systems-engineer-munich-bavaria-34261",
-      "description": "&lt;p&gt;As a Senior Systems Engineer, you will&amp;nbsp;be responsible for&amp;nbsp;the technical outcome of complex space missions.&amp;nbsp;&amp;nbsp;During mission contracting and requirements development, you may work with the sales engineering org to ensure mission requirem",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788879316",
-      "notified": true,
-      "first_seen": "2026-09-08 15:39:25"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Consultant (m/f/d) Data & AI Strategy",
-      "company": "Artefactlinkedin",
-      "location": "Berlin, Berlin; München, Bavaria",
-      "url": "https://www.arbeitnow.com/jobs/companies/artefactlinkedin/senior-consultant-data-ai-strategy-berlin-berlin-munchen-bavaria-483480",
-      "description": "&lt;h3&gt;&lt;strong&gt;Who/What is Artefact?&lt;/strong&gt;&lt;/h3&gt; &lt;p&gt;Artefact is a next-generation strategy and data consulting firm dedicated to transforming organizations through data and AI. We combine the rigor of top-tier strategy consulting with deep expertise i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788879314",
       "notified": true,
       "first_seen": "2026-09-08 15:39:25"
     }
