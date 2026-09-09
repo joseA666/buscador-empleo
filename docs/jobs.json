@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-09T13:26:01+00:00",
+  "generated_at": "2026-09-09T13:37:28+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "elempleo",
+      "source_label": "elempleo.com",
+      "title": "Desarrollador sharepoint / microsoft 365 - senior",
+      "company": "Complemento 360 SAS",
+      "location": "Bogotá",
+      "url": "https://www.elempleo.com/co/ofertas-trabajo/desarrollador-sharepoint-microsoft-365-senior-1886762103",
+      "description": "Desarrollador sharepoint / microsoft 365 - senior - Complemento 360 SAS - Bogotá - Salario confidencial",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "",
+      "notified": true,
+      "first_seen": "2026-09-09 13:37:28"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "2026-09-07T18:54:30.000Z",
       "notified": true,
       "first_seen": "2026-09-07 21:34:01"
-    },
-    {
-      "source": "tecoloco",
-      "source_label": "Tecoloco Honduras",
-      "title": "Ejecutivo de compras marketing (tegucigalpa)",
-      "company": "FARINTER",
-      "location": "Francisco Morazán,Honduras",
-      "url": "https://www.tecoloco.com.hn/1107230/analista-de-compras.aspx",
-      "description": "Ejecutivo de compras marketing (tegucigalpa) - FARINTER - Francisco Morazán,Honduras - Expira en: 22/10/2026",
-      "reason": "",
-      "language": "es",
-      "posted_at": "Expira en: 22/10/2026",
-      "notified": false,
-      "first_seen": "2026-09-07 21:33:44"
     }
   ]
 }
