@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T03:51:54+00:00",
+  "generated_at": "2026-09-10T04:10:23+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-inicia-ya-trabaja-desde-casa-turno-am-damos-pc-internet-bono-de-luz-gana-s1800-a-mas-te-brindamos-pc-laptop-modem-s1130-planilla-completa-comisiones-bono-de-energia-en-lima-B399D81F6735481B61373E686DCF3405",
+      "description": "Inicia ya! Trabaja desde casa turno A.M / Damos pc + internet + bono de luz /gana s/1800 a mas - Covisian Perú - Lima, Lima - Remoto - Publicado: Hace 17 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 17 minutos",
+      "notified": false,
+      "first_seen": "2026-09-10 04:10:22"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13982,20 +13996,6 @@
       "location": "Paris, France",
       "url": "https://www.arbeitnow.fr/jobs/companies/alan/it-engineer-paris-france-474669",
       "description": "Health can’t wait . Not for symptoms to get worse. Not for a six‑month appointment. Not for a system to catch up. But that’s exactly how healthcare works today. You wait, until you can’t. Alan exists to end the wait. Health is a universal right, and we believe this right can only",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788885617",
-      "notified": true,
-      "first_seen": "2026-09-08 17:34:17"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "AI Benchmark Engineer | Native Language Specialist - French (France) - Remote",
-      "company": "LILT (Production)",
-      "location": "France (Remote)",
-      "url": "https://www.arbeitnow.fr/jobs/companies/lilt-production/ai-benchmark-engineer-native-language-specialist-french-france-remote-paris-387805",
-      "description": "About The Opportunity We are building a rigorous, verifiable evaluation suite of Terminal-Bench tasks designed to test the limits of large language models on multilingual software challenges. Our goal is to measure multilingual robustness across prompt language effects, non-Engli",
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788885617",
