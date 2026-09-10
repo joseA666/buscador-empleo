@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T04:51:08+00:00",
+  "generated_at": "2026-09-10T05:08:42+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad",
+      "company": "Covisian Perú",
+      "location": "Lima, Lima (S/. 2.000,00 (Mensual))",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-r-e-m-o-t-o-trabaja-desde-casa-turno-manana-damos-laptop-internet-fijo-s1220-bono-electricidad-planilla-completa-incentivos-bonos-en-lima-7A8F2C0E02C2DD5061373E686DCF3405",
+      "description": "R E M O T O trabaja desde casa turno mañana /Damos laptop + internet/ Fijo s/1220 +Bono electricidad - Covisian Perú - Lima, Lima - S/. 2.000,00 (Mensual) - Publicado: Hace 17 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 17 minutos",
+      "notified": false,
+      "first_seen": "2026-09-10 05:08:41"
+    },
     {
       "source": "computrabajo_co",
       "source_label": "Computrabajo Colombia",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-08T14:26:23+00:00",
-      "notified": false,
-      "first_seen": "2026-09-08 18:31:02"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Payroll Tax Specialist (Temporary - Remote)",
-      "company": "Fanatics",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152794-payroll-tax-specialist-temporary-remote",
-      "description": "About Us Fanatics is building a leading global digital sports platform. We ignite the passions of global sports fans and maximize the presence and reach for our hundreds of sports partners globally by offering products and services across Fanatics Commerce, Fanatics Collectibles,",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-08T14:25:35+00:00",
       "notified": false,
       "first_seen": "2026-09-08 18:31:02"
     }
