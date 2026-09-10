@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T07:37:17+00:00",
+  "generated_at": "2026-09-10T07:48:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "jobicy",
+      "source_label": "Jobicy",
+      "title": "Senior Customer Marketing Manager",
+      "company": "Teachable",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/150333-senior-customer-marketing-manager-3",
+      "description": "What is Teachable? Teachable is the platform for experts and businesses who take education seriously. In a world where anyone can ask AI for information, we're the home for those who educate with purpose, modernity, and humanity. We help experts and businesses scale their impact ",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-10T04:20:11+00:00",
+      "notified": true,
+      "first_seen": "2026-09-10 07:48:10"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13987,20 +14001,6 @@
       "posted_at": "1788898186",
       "notified": true,
       "first_seen": "2026-09-08 21:34:26"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Business Development Team Lead (m/w/d) | B2B SaaS | Berlin | Hybrid",
-      "company": "pplwise",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/pplwise/business-development-team-lead-b2b-saas-berlin-hybrid-392794",
-      "description": "Business Development Team Lead (m/w/d) B2B SaaS | Berlin | Leadership &amp; Outbound Sales Für ein stark wachsendes, international tätiges B2B-SaaS-Unternehmen suchen wir im Rahmen eines exklusiven Suchmandats einen Business Development Team Lead (m/w/d) für den Standort Berlin. ",
-      "reason": "",
-      "language": "other",
-      "posted_at": "1788900013",
-      "notified": false,
-      "first_seen": "2026-09-08 21:34:09"
     }
   ]
 }
