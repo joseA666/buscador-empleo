@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T11:23:43+00:00",
+  "generated_at": "2026-09-10T11:34:24+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "remotejobsorg",
+      "source_label": "RemoteJobs.org",
+      "title": "SEO Manager (Remote, Full - Time) [HR210]",
+      "company": "Smart Working",
+      "location": "India",
+      "url": "https://remotejobs.org/remote-jobs/seo-manager-remote-full-time-hr210-smart-working",
+      "description": "About Smart Working This role is for a substantial, fast-growing and well-respected UK organisation that has hired several Smart Working professionals before. They are well known for investing in their people and offering a progressive and supportive working environment. Smart Wo",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "2026-09-10T09:43:04.439+00:00",
+      "notified": true,
+      "first_seen": "2026-09-10 11:34:24"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "2026-09-09T05:09:51+00:00",
-      "notified": true,
-      "first_seen": "2026-09-09 06:44:05"
-    },
-    {
-      "source": "remotejobsorg",
-      "source_label": "RemoteJobs.org",
-      "title": "Junior Software Engineer - Chile",
-      "company": "Crossjoin Solutions",
-      "location": "Remote",
-      "url": "https://remotejobs.org/remote-jobs/junior-software-engineer-chile-crossjoin-solutions",
-      "description": "Crossjoin Solutions is experiencing dynamic worldwide growth! We are a global IT consulting company, founded in Portugal, and now delivering impactful, worldwide projects across Europe, LATAM, and North America. We're looking for individuals who are curious, adaptable, and truly ",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "2026-09-09T04:57:56+00:00",
       "notified": true,
       "first_seen": "2026-09-09 06:44:05"
     }
