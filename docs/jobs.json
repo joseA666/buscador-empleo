@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T00:22:35+00:00",
+  "generated_at": "2026-09-10T01:05:11+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Desarrollador SemiSenior BI",
+      "company": "PUNTO EMPLEO S.A.S",
+      "location": "Bogotá, D.C., Bogotá, D.C. ($ 6.000.000,00 (Mensual))",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-desarrollador-semisenior-bi-en-bogota-dc-91CB5E7BF21FEBD461373E686DCF3405",
+      "description": "Desarrollador SemiSenior BI - PUNTO EMPLEO S.A.S - Bogotá, D.C., Bogotá, D.C. - $ 6.000.000,00 (Mensual) - Publicado: Hace 20 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "es",
+      "posted_at": "Hace 20 minutos",
+      "notified": true,
+      "first_seen": "2026-09-10 01:05:10"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788882008",
-      "notified": true,
-      "first_seen": "2026-09-08 16:42:41"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Software Engineer II, AI Enablement Team",
-      "company": "Swap",
-      "location": "London",
-      "url": "https://www.arbeitnow.co.uk/jobs/companies/swap/software-engineer-ii-ai-enablement-team-london-321015",
-      "description": "About Swap Swap is the infrastructure behind modern agentic commerce. The only AI-native platform connecting backend operations with a forward-thinking storefront experience. Built for brands that want to sell anything - anywhere, Swap centralises global operations, powers intell",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788882007",
       "notified": true,
       "first_seen": "2026-09-08 16:42:41"
     }
