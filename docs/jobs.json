@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T05:25:00+00:00",
+  "generated_at": "2026-09-10T05:35:49+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Full remoto ventas portabilidad call center/ingreso directo/ lunes a sabado",
+      "company": "Confidencial",
+      "location": "Lurin, Lima (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-ventas-portabilidad-call-centeringreso-directo-lunes-a-sabado-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-lurin-64E0C5B8245CD6D761373E686DCF3405",
+      "description": "Full remoto ventas portabilidad call center/ingreso directo/ lunes a sabado - Confidencial - Lurin, Lima - Remoto - Publicado: Ahora",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Ahora",
+      "notified": false,
+      "first_seen": "2026-09-10 05:35:49"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788889212",
-      "notified": true,
-      "first_seen": "2026-09-08 18:31:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Head of Data & AI (f/m/d)",
-      "company": "Voize",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/voize/head-of-data-ai-berlin-164725",
-      "description": "🎤 Why voize? Because we’re more than just a job! At voize, we believe the greatest gift to frontline workers is time - time to care, connect, and be present. Today, that time is lost to busywork and complex systems that pull them away from what matters most: people . Our vision i",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788889208",
       "notified": true,
       "first_seen": "2026-09-08 18:31:19"
     }
