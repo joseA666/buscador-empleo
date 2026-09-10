@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T04:29:12+00:00",
+  "generated_at": "2026-09-10T04:43:38+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_co",
+      "source_label": "Computrabajo Colombia",
+      "title": "Programador",
+      "company": "Medicall Talento Humano",
+      "location": "Bogotá, D.C., Bogotá, D.C. ($ 5.556.000,00 (Mensual))",
+      "url": "https://co.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-programador-en-bogota-dc-FC00AACD07BCF0EC61373E686DCF3405",
+      "description": "Programador - Medicall Talento Humano - Bogotá, D.C., Bogotá, D.C. - $ 5.556.000,00 (Mensual) - Publicado: Hace 22 minutos",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "other",
+      "posted_at": "Hace 22 minutos",
+      "notified": true,
+      "first_seen": "2026-09-10 04:43:38"
+    },
     {
       "source": "arbeitnow",
       "source_label": "Arbeitnow",
@@ -13985,20 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-08T14:25:35+00:00",
-      "notified": false,
-      "first_seen": "2026-09-08 18:31:02"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "International Audio/Video Remote Georgian Interpreter",
-      "company": "Language Services Associates",
-      "location": "Anywhere",
-      "url": "https://jobicy.com/jobs/152792-international-audio-video-remote-georgian-interpreter",
-      "description": "Overview: As an audio/video interpreter for Georgian in LSA’s network of Independently Contracted Interpreters, you are responsible for handling audio and video calls on demand and facilitating language communication for the Limited English Proficient (LEP) community in a variety",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-08T14:24:47+00:00",
       "notified": false,
       "first_seen": "2026-09-08 18:31:02"
     }
