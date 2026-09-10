@@ -1,7 +1,35 @@
 {
-  "generated_at": "2026-09-10T08:34:10+00:00",
+  "generated_at": "2026-09-10T08:50:47+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "Senior Backend Developer",
+      "company": "Bright Vision Technologies",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/bright-vision-technologies/jobs/senior-backend-developer",
+      "description": "Senior Backend Developer – Remote Bright Vision Technologies is a technology consulting and software development company delivering cloud, AI, data, and enterprise solutions across the United States.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1789028329",
+      "notified": true,
+      "first_seen": "2026-09-10 08:50:46"
+    },
+    {
+      "source": "himalayas",
+      "source_label": "Himalayas",
+      "title": "AI Platform Engineer",
+      "company": "MedAdvisor Solutions",
+      "location": "United States",
+      "url": "https://himalayas.app/companies/medadvisor-solutions/jobs/ai-platform-engineer",
+      "description": "At Adheris, we are passionate about helping improve patient outcomes through innovative healthcare solutions and meaningful connections.",
+      "reason": "Coincidencia por palabra clave (Groq no disponible)",
+      "language": "en",
+      "posted_at": "1789025088",
+      "notified": true,
+      "first_seen": "2026-09-10 08:50:46"
+    },
     {
       "source": "jobicy",
       "source_label": "Jobicy",
@@ -13971,34 +13999,6 @@
       "reason": "",
       "language": "en",
       "posted_at": "2026-09-08T18:42:48+00:00",
-      "notified": false,
-      "first_seen": "2026-09-08 22:08:10"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Account Executive, Commercial - Mid Atlantic",
-      "company": "Zscaler",
-      "location": "USA",
-      "url": "https://jobicy.com/jobs/152821-account-executive-commercial-mid-atlantic",
-      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applicat",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-08T18:42:29+00:00",
-      "notified": false,
-      "first_seen": "2026-09-08 22:08:10"
-    },
-    {
-      "source": "jobicy",
-      "source_label": "Jobicy",
-      "title": "Account Executive",
-      "company": "Zscaler",
-      "location": "Australia",
-      "url": "https://jobicy.com/jobs/152818-account-executive-17",
-      "description": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange™️ platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applicat",
-      "reason": "",
-      "language": "en",
-      "posted_at": "2026-09-08T18:41:22+00:00",
       "notified": false,
       "first_seen": "2026-09-08 22:08:10"
     }
