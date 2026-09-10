@@ -1,7 +1,21 @@
 {
-  "generated_at": "2026-09-10T05:35:49+00:00",
+  "generated_at": "2026-09-10T05:48:00+00:00",
   "total": 1000,
   "jobs": [
+    {
+      "source": "computrabajo_pe",
+      "source_label": "Computrabajo Perú",
+      "title": "Full remoto/ ventas por call center/ lunes a sabado de 9am a 6pm",
+      "company": "Atento Perú",
+      "location": "Tacna, Tacna (Remoto)",
+      "url": "https://pe.computrabajo.com/ofertas-de-trabajo/oferta-de-trabajo-de-full-remoto-ventas-por-call-center-lunes-a-sabado-de-9am-a-6pm-linea-de-carrera-comisiones-ilimitadascontar-con-pc-e-internet-cableadovalido-a-nivel-nacional-en-tacna-71C71B7021A7ADB861373E686DCF3405",
+      "description": "Full remoto/ ventas por call center/ lunes a sabado de 9am a 6pm - Atento Perú - Tacna, Tacna - Remoto - Publicado: Hace 9 minutos",
+      "reason": "",
+      "language": "es",
+      "posted_at": "Hace 9 minutos",
+      "notified": false,
+      "first_seen": "2026-09-10 05:48:00"
+    },
     {
       "source": "computrabajo_pe",
       "source_label": "Computrabajo Perú",
@@ -13985,20 +13999,6 @@
       "reason": "Coincidencia por palabra clave (Groq no disponible)",
       "language": "en",
       "posted_at": "1788890129",
-      "notified": true,
-      "first_seen": "2026-09-08 18:31:19"
-    },
-    {
-      "source": "arbeitnow",
-      "source_label": "Arbeitnow",
-      "title": "Senior Product Owner - Data & Analytics (m/f/d)",
-      "company": "Yepoda",
-      "location": "Berlin",
-      "url": "https://www.arbeitnow.com/jobs/companies/yepoda/senior-product-owner-data-analytics-berlin-89181",
-      "description": "About Yepoda Our mission is to bring Clean K-Beauty Innovations , from Korea straight to Europe, UK, and the US – without ever compromising on our values, quality, and sustainability. Our clean, mindfully produced skincare products are made with love in Korea, vegan, cruelty-free",
-      "reason": "Coincidencia por palabra clave (Groq no disponible)",
-      "language": "en",
-      "posted_at": "1788889212",
       "notified": true,
       "first_seen": "2026-09-08 18:31:19"
     }
